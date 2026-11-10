@@ -1,21 +1,101 @@
 # Normas do Banco Central e do CMN em Markdown
 
-Todos os normativos da [busca de normas do Banco Central](https://www.bcb.gov.br/estabilidadefinanceira/buscanormas),
-convertidos para Markdown com cabeçalho estruturado e link para a origem de cada texto: resoluções do
-Conselho Monetário Nacional e do BCB, resoluções conjuntas, circulares, cartas circulares, instruções
-normativas, atos do presidente e de diretor, comunicados e as demais séries, de 1965 até hoje.
+Todos os normativos do Banco Central do Brasil e do Conselho Monetário Nacional, convertidos das fontes
+oficiais para Markdown, com cabeçalho estruturado e link para a origem de cada texto: resoluções do CMN e
+do BCB, resoluções conjuntas, circulares, cartas circulares, instruções normativas, atos do presidente e
+de diretor, comunicados e as demais séries, de 1965 até hoje. As contagens do acervo publicado são
+atualizadas a cada coleta, aqui e em **[COBERTURA.md](COBERTURA.md)**.
 
-Inspirado no [ctresb/leis](https://github.com/ctresb/leis), que reúne a legislação brasileira no mesmo
-formato. O Banco Central não edita leis: as leis do Sistema Financeiro Nacional (Lei 4.595/1964,
-Lei 9.069/1995, Lei Complementar 105/2001 e as demais) já estão lá, em `federal/`; aqui ficam só os atos
-do BCB e do CMN. As normas da CVM estão em [normas-cvm](https://github.com/BrunooMoniz/normas-cvm).
+O objetivo é ter **toda a regulação do Sistema Financeiro Nacional** num lugar só, em texto simples, de
+graça, para qualquer pessoa e para qualquer IA ler: cada norma com a situação (vigente, revogada ou
+cancelada), as atualizações que sofreu, as normas vinculadas, as leis em que se baseia e o texto oficial.
 
-As contagens por pasta, com o que ficou de fora, estão em **[COBERTURA.md](COBERTURA.md)**.
+Faz par com [normas-cvm](https://github.com/BrunooMoniz/normas-cvm) (mercado de capitais) e segue o formato
+do [ctresb/leis](https://github.com/ctresb/leis), que reúne a legislação brasileira. O Banco Central não
+edita leis: as do Sistema Financeiro Nacional (Lei 4.595/1964, Lei 9.069/1995, Lei Complementar 105/2001
+e as demais) estão lá, em `federal/`; aqui ficam só os atos do BCB e do CMN.
 
 > [!IMPORTANT]
 > Os textos têm caráter informativo e **não substituem a publicação no Diário Oficial da União** nem o
-> portal do BCB. São conversões automáticas (e OCR, nos documentos escaneados). Confira sempre a fonte
+> portal do BCB. São conversões automáticas, com OCR nos documentos escaneados. Confira sempre a fonte
 > indicada no cabeçalho antes de citar.
+
+---
+
+## Acervo
+
+<!-- acervo:inicio -->
+[![progresso](progresso.svg)](COBERTURA.md)
+
+**1.882 de 60.969 normas do índice oficial (3,1%)**, números de 10/11/2026. Vigentes são as que o portal não marca como revogadas nem canceladas.
+
+### Por pasta
+
+| Pasta | Tipo | No índice oficial | Publicadas | Vigentes | Revogadas | De | Até |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| [`comunicados/`](comunicados/) | Comunicado | 43.918 | 2 | 2 | 0 | 1990 | 1990 |
+| [`resolucoes-cmn/`](resolucoes-cmn/) | Resolução, Resolução CMN | 5.344 | 1.232 | 464 | 768 | 1965 | 2026 |
+| [`cartas-circulares/`](cartas-circulares/) | Carta Circular | 4.076 | 2 | 0 | 2 | 1968 | 1968 |
+| [`circulares/`](circulares/) | Circular | 4.038 | 2 | 0 | 2 | 1965 | 1965 |
+| [`atos-do-presidente/`](atos-do-presidente/) | Ato do Presidente | 1.389 | 2 | 2 | 0 | 1994 | 1994 |
+| [`instrucoes-normativas-bcb/`](instrucoes-normativas-bcb/) | Instrução Normativa BCB | 785 | 2 | 2 | 0 | 2020 | 2020 |
+| [`atos-de-diretor/`](atos-de-diretor/) | Ato de Diretor | 706 | 2 | 2 | 0 | 1996 | 1996 |
+| [`resolucoes-bcb/`](resolucoes-bcb/) | Resolução BCB | 604 | 604 | 526 | 78 | 2020 | 2026 |
+| [`atos-normativos-conjuntos/`](atos-normativos-conjuntos/) | Ato Normativo Conjunto | 31 | 2 | 2 | 0 | 2003 | 2003 |
+| [`resolucoes-conjuntas/`](resolucoes-conjuntas/) | Resolução Conjunta | 21 | 21 | 20 | 1 | 2020 | 2026 |
+| [`decisoes-conjuntas/`](decisoes-conjuntas/) | Decisão Conjunta | 20 | 2 | 2 | 0 | 1994 | 1995 |
+| [`comunicados-conjuntos/`](comunicados-conjuntos/) | Comunicado Conjunto | 20 | 2 | 2 | 0 | 1990 | 1990 |
+| [`portarias-conjuntas/`](portarias-conjuntas/) | Portaria Conjunta | 8 | 2 | 2 | 0 | 2020 | 2021 |
+| [`instrucoes-normativas-conjuntas/`](instrucoes-normativas-conjuntas/) | Instrução Normativa Conjunta | 4 | 2 | 0 | 2 | 2021 | 2021 |
+| [`resolucoes-coseg/`](resolucoes-coseg/) | Resolução Coseg | 4 | 2 | 2 | 0 | 2026 | 2026 |
+| [`resolucoes-coremec/`](resolucoes-coremec/) | Resolução Coremec | 1 | 1 | 1 | 0 | 2020 | 2020 |
+| **Total** |  | **60.969** | **1.882** | **1.029** | **853** |  |  |
+
+### Por década
+
+| Década | Normas | Vigentes | Distribuição |
+| --- | ---: | ---: | --- |
+| 1960s | 133 | 2 | ██ |
+| 1970s | 463 | 3 | ████████ |
+| 1980s | 134 | 0 | ██ |
+| 1990s | 10 | 10 | █ |
+| 2000s | 2 | 2 | █ |
+| 2020s | 1.140 | 1.014 | ████████████████████ |
+
+### Áreas do BCB que mais publicam
+
+| Áreas | Normas |
+| --- | ---: |
+| SECRE | 1.312 |
+| DINOR | 216 |
+| MF | 162 |
+| DIORF | 30 |
+| DIRAD | 26 |
+| PRESI | 17 |
+| DIPOM | 11 |
+| PRESI, DIRAD | 10 |
+| DIFIS, DINOR | 9 |
+| DINOR, DIORF | 8 |
+| DIREX | 5 |
+| DIORF, DINOR | 5 |
+| DIORF, DIFIS | 5 |
+| DINOR, DIPOM | 4 |
+| DEMAB | 3 |
+
+<!-- acervo:fim -->
+
+A coleta completa leva cerca de um dia e segue esta ordem: resoluções, circulares, instruções normativas,
+cartas circulares, atos e, por último, os comunicados (a maioria são avisos e resultados de leilão). O
+que ficou de fora e por quê está em [COBERTURA.md](COBERTURA.md) e, linha por linha, em
+[`_falhas.jsonl`](_falhas.jsonl).
+
+## Fonte
+
+Tudo vem da [busca de normas do Banco Central](https://www.bcb.gov.br/estabilidadefinanceira/buscanormas):
+o índice sai da própria busca e o texto, da página oficial de cada norma. Quando a página não traz o
+texto, ele vem do PDF oficial. Nada é digitado à mão.
+
+---
 
 ## Estrutura
 
@@ -31,6 +111,8 @@ decisoes-conjuntas/  portarias-conjuntas/  atos-normativos-conjuntos/  instrucoe
 resolucoes-coseg/  resolucoes-coremec/
 scripts/bcb.py                                   o código que baixa, converte e mede
 COBERTURA.md                                     números por pasta e lacunas
+progresso.svg                                    a barra de progresso do topo
+scripts/readme.py                                gera os números deste README
 _falhas.jsonl                                    o que não entrou, linha por linha, e por quê
 ```
 
