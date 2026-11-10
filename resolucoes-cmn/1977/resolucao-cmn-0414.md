@@ -1,0 +1,102 @@
+---
+titulo: "Resolução Nº 414"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "414"
+data: 1977-01-26
+ementa: "CRIACAO DO CERTIFICADO DE RECOLHIMENTO RESTITUIVEL (CRR) - DECRETO-LEI 1520, DE 17/01/77 - ARRECADACAO E DEVOLUCAO DO RECOLHIMENTO DEVIDO PELO CONSUMIDOR DE GASOLINA ATRAVES DO BANCO DO BRASIL S/A, BANCOS COMERCIAIS E CAIXAS ECONOMICAS FEDERAL E ESTADUAIS - CARACTERISTICAS: A) EMITENTE - BANCO CENTRAL DO BRASIL; B) VALOR - FIXADO PELO CONSELHO NACIONAL DE PETROLEO; C) PRAZO - 730 DIAS, CONTADOS DA DATA DE SUA EMISSAO; D) ENCARGOS FINANCEIROS - NAO FLUIRAO JUROS NEM CORRECAO MONETARIA - CADA CERTIFICADO DE RECOLHIMENTO RESTITUIVEL SERA ENTREGUE JUNTAMENTE COM SEIS CUPOES PARA UTILIZACAO DE GASOLINA - E VEDADO AS INSTITUICOES QUE INTEGRAM O SISTEMA DE DISTRIBUICAO DE TITULOS E VALORES MOBILIARIOS PARTICIPAR DE NEGOCIACOES COM CRR E A ACEITACAO DOS CRR, COMO GARANTIA DE QUALQUER OPERACAO DE CREDITO."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2927/2002 DOU 21/01/2002 PAG 25 - REVOGACAO TOTAL."]
+normas_vinculadas: ["CIRCULAR 339/77", "CIRCULAR 338/77", "CIRCULAR 337/77", "RESOLUÇÃO 2927/2002", "RESOLUÇÃO 469/78"]
+referencias: ["LEI 4595/64 ART/9.", "DL 1520/77 ART/3."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=414"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 414
+
+```
+                        RESOLUCAO N. 000414
+                        -------------------
+
+         O  BANCO CENTRAL DO BRASIL, nos termos do art. 9º da Lei  nº
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  CONSELHO
+MONETÁRIO  NACIONAL, em sessão realizada em 25 de  janeiro  de  1977,
+tendo  em vista o disposto no art. 3º do Decreto-lei nº 1.520, de  17
+de janeiro de 1977,
+
+R E S O L V E U:
+
+         I  -  Criar o Certificado de Recolhimento Restituível - CRR,
+destinado  a  promover  a arrecadação e a devolução  do  recolhimento
+devido  pelo  consumidor de gasolina, observadas as  normas  baixadas
+pelo Conselho Nacional do Petróleo.
+
+         II  -  O  Certificado  de Recolhimento  Restituível  -  CRR,
+título ao portador, tem as seguintes principais características:
+
+         a) emitente - Banco Central do Brasil;
+
+         b) valor - a ser fixado pelo Conselho Nacional do Petróleo;
+
+         c)  prazo - 730 (setecentos e trinta) dias, contados da data
+de sua emissão;
+
+         d)  encargos  financeiros - não fluirão juros  nem  correção
+monetária sobre o valor do Certificado.
+
+         III   -   A   arrecadação  e  a  devolução  do  recolhimento
+restituível serão realizadas através das agências do Banco do  Brasil
+S.A.,  dos  Bancos  Comerciais  e das  Caixas  Econômicas  Federal  e
+Estaduais,  podendo,  a  critério do Banco  Central,  ser  utilizadas
+outras entidades para esse fim.
+
+         IV  -  Para  efeito de contagem do prazo referido na  alínea
+"c" do item II, será considerada como de emissão do título a data  em
+que  as agências do Banco do Brasil S.A., dos Bancos Comerciais e das
+Caixas  Econômicas Federal e Estaduais receberem dos  interessados  o
+pagamento  do  valor  correspondente  ao  Certificado,  a  qual  será
+impressa  mediante  autenticação  mecânica,  acompanhada  de  carimbo
+identificador  do  estabelecimento,  a  ser  aposto   no   verso   do
+Certificado.
+
+         V  - O resgate do Certificado de Recolhimento Restituível  -
+CRR  será realizado em qualquer agência de que trata o item anterior,
+mediante reembolso ao seu portador, na data de vencimento do  título,
+da importância recolhida.
+
+         VI  - As quantias arrecadadas na forma desta Resolução serão
+transferidas por intermédio do Banco do Brasil S.A. ao Banco Central,
+em prazo a ser por este fixado. Esses recursos ficarão disponíveis no
+Banco Central, para aplicação em programas e projetos, de acordo  com
+as normas que forem estabelecidas pelo Conselho Monetário Nacional.
+
+         VII  -  Cada Certificado de Recolhimento Restituível  -  CRR
+será  entregue  ao adquirente, acompanhado de seis cupões,  os  quais
+serão  utilizados  na  aquisição  de  gasolina,  na  forma  que   for
+estabelecida pelo Conselho Nacional do Petróleo.
+
+         VIII  -  É vedado às instituições que integram o Sistema  de
+Distribuição de Títulos e Valores Mobiliários participar,  direta  ou
+indiretamente,  de  negociações  com  Certificados  de   Recolhimento
+Restituível - CRR, exceto nos casos de distribuição e resgate  desses
+títulos, na forma prevista nesta Resolução.
+
+         IX  -  É  vedado,  igualmente, às  instituições  financeiras
+aceitar  os  Certificados de Recolhimento Restituível - CRR,  de  que
+trata  esta  Resolução,  como garantia principal  ou  subsidiária  de
+qualquer operação de crédito.
+
+         X  -  O  recolhimento será devido a partir  de  data  a  ser
+fixada pelo Conselho Nacional do Petróleo.
+
+         XI  -  O Banco Central promoverá os ajustamentos necessários
+à   execução  do  disposto  nesta  Resolução  e  baixará  as   normas
+complementares.
+
+                             Brasília-DF, 26 de janeiro de 1977
+
+                             Paulo H. Pereira Lira
+                             Presidente
+```

@@ -1,0 +1,53 @@
+---
+titulo: "Resolução Nº 410"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "410"
+data: 1976-12-23
+ementa: "ALTERACAO DA DESTINACAO E DO PERCENTUAL DA QUOTA DE CONTRIBUICAO INCIDENTE SOBRE OS PRECOS DO VALOR EM FOB DE EXPORTACAO DE QUARTZO EM LASCAS - O BRASIL E O MAIOR PRODUTOR MUNDIAL DE CRISTAL DE QUARTZO, EXPORTANDO 4 MIL TONELADAS ANUAIS, A US$0,50 1KG, PARA SETORES DA ELETRONICA, DA OTICA E DAS COMUNICACOES - PROPOE ESTENDER A APLICACAO DOS RECURSOS, GERADOS PELA QUOTA DE CONTRIBUICAO, AO DESENVOLVIMENTO INDUSTRIAL E TECNOLOGICO DOS SETORES ELETRO ELETRONICO E DE PEDRAS SEMIPRECIOSAS E REDUZIR A REFERIDA QUOTA DE CONTRIBUICAO, DE 40% PARA 20%, RELATIVAMENTE AO PRODUTO DE SEGUNDA OU DE TERCEIRA QUALIDADE."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 645/80 DOU 24/10/1980 PAG 21273 - REVOGACAO TOTAL A PARTIR DE 01/11/1980."]
+normas_vinculadas: ["RESOLUÇÃO 645/80", "RESOLUÇÃO 578/79"]
+referencias: ["LEI 4595/64 ART/4 ITEM/V ITEM/XXXI.", "LEI 4595/64 ART/9.", "CITA RESOLUÇÃO CMN 302/74 315/74."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=410"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 410
+
+```
+                        RESOLUCAO N. 000410
+                        -------------------
+
+         O  BANCO  CENTRAL DO BRASIL, na forma do art. 9º da  Lei  nº
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  CONSELHO
+MONETÁRIO  NACIONAL, em sessão realizada em 22 de dezembro  de  1976,
+tendo  em  vista o disposto no art. 4º, incisos V e XXXI, da referida
+Lei,
+
+R E S O L V E U:
+
+         I - Manter  em  40%  (quarenta   por   cento)  a   quota  de
+contribuição  "ad  valorem"  sobre os preços  FOB  de  exportação  de
+quartzo em lascas, objeto das Resoluções nºs 302, de 10 de outubro de
+1974,  e  315, de 31 de dezembro de 1974, quando se tratar do produto
+de primeira qualidade.
+
+         II  -  Reduzir a referida quota de 40% (quarenta por  cento)
+para 20% (vinte por cento), relativamente ao produto de segunda ou de
+terceira qualidade.
+
+         III  -  Estender a aplicação dos recursos gerados pela quota
+de  contribuição  de  que  se trata ao desenvolvimento  industrial  e
+tecnológico dos setores eletro-eletrônico e de pedras semipreciosas.
+
+         IV  -  Determinar  que a presente Resolução  se  aplica  aos
+embarques que vierem a processar-se ao amparo de operações de  câmbio
+celebradas a partir de 1º de janeiro de 1977.
+
+                             Brasília-DF, 23 de dezembro de 1976
+
+                             Paulo H. Pereira Lira
+                             Presidente
+```

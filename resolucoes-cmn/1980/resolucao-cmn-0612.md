@@ -1,0 +1,135 @@
+---
+titulo: "Resolução Nº 612"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "612"
+data: 1980-05-08
+ementa: "ALTERA NORMAS SOBRE OPERACOES DE CAMBIO, RELATIVAS A IMPORTACAO DE BENS E SERVICOS, E ESCLARECE A NAO INCIDENCIA DE IOF NAS OPERACOES DE CAMBIO QUE RELACIONA."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 619/80 DOU 30/05/1980 PAG 10800 - RET: 12/06/1980 PAG 11556 - REVOGACAO TOTAL, A PARTIR DE 16/06/1980."]
+normas_vinculadas: ["CIRCULAR 530/80", "RESOLUÇÃO 619/80"]
+referencias: ["LEI 4595/64 ART/9.    LEI 5143/66.    LEI 5172/66 (CTN).", "DL 1783/80.   ALTERA RS CMN 610/80 ITEM/I AL/C.", "CITA DEC 53337/63.   CITA DL 1455/76 ART/37."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=612"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 612
+
+```
+                        RESOLUCAO N. 000612
+                        -------------------
+
+         O  BANCO  CENTRAL DO BRASIL, na forma do art. 9º da  Lei  nº
+4.595,  de 31.12.64, torna público que o CONSELHO MONETÁRIO NACIONAL,
+em  sessão realizada em 07.05.80, tendo em vista o disposto na Lei nº
+5.143, de 20.10.66, na Lei nº 5.172, de 25.10.66, e no Decreto-lei nº
+1.783, de 18.04.80,
+
+R E S O L V E U:
+
+         I  -  A  alínea  "c"  do  item I da  Resolução  nº  610,  de
+18.04.80, passa a vigorar, com vigência a partir de 22.04.80,  com  a
+seguinte redação:
+
+         "c)  sobre  o  contravalor em moeda nacional  (acrescido  de
+     prêmio eventualmente pactuado) correspondente ao valor em  moeda
+     estrangeira  aplicado  na  liquidação das  operações  de  câmbio
+     relativas a importação de bens ou de serviços:
+
+         1. fechadas  com  base em  guias  de  importação
+     emitidas pela Carteira de Comércio Exterior do Banco
+     do Brasil S.A. - CACEX até 31.08.80 ................        15%
+
+         2. fechadas  com  base em  guias  de  importação
+     emitidas pela Carteira de Comércio Exterior do Banco
+     do Brasil S.A. - CACEX a partir de 1º.09.80 ........        10%
+
+         3. destinadas   ao   pagamento  de   mercadorias
+     isentas de guias:
+
+         3.1 - desembaraçadas até 31.08.80 ..............        15%
+
+         3.2 - desembaraçadas a partir de 1º.09.80 ......        10%
+
+         4. destinadas ao pagamento de serviços:
+
+         4.1 - fechadas até 31.08.80 ....................        15%
+
+         4.2 - fechadas a partir de 1º.09.80 ............        10%"
+
+         II  -  Esclarecer  que não é devido o pagamento  do  imposto
+incidente sobre operações de câmbio relativas:
+
+         a)  à  importação  de  mercadorias  embarcadas  no  exterior
+anteriormente a 22.04.80;
+
+         b)   à  importação  de  bens  realizada  com  utilização  de
+financiamento  externo vinculado a Certificado  de  Autorização  e/ou
+Registro emitido pelo Banco Central anteriormente a 22.04.80;
+
+         c)  ao  pagamento  de  importação de  serviços  amparado  em
+certificado emitido pelo Banco Central anteriormente a 22.04.80;
+
+         d)  às importações sob o regime de "drawback" deferidas pela
+Carteira de Comércio Exterior do Banco do Brasil S.A. - CACEX;
+
+         e)  ao pagamento de mercadorias adquiridas no exterior  para
+simultâneo fornecimento a terceiro país, sempre que a transação tenha
+por  fim  produzir  ingresso final de divisas por valor  superior  ao
+pagamento efetuado ("back-to-back");
+
+         f)  à  importação de petróleo bruto e derivados,  desde  que
+efetuada  pela  Petróleo  Brasileiro S.A. - PETROBRÁS,  na  forma  do
+Decreto nº 53.337, de 23.12.63;
+
+         g)  às  importações efetuadas por conta e ordem  do  Tesouro
+Nacional;
+
+         h)  às  importações  de livros, jornais e periódicos,  assim
+como do papel destinado a sua impressão;
+
+         i)  às  importações  de  mercadorias  realizadas  pela  Zona
+Franca  de  Manaus,  cuja  saída para  outros  pontos  do  território
+nacional é vedada, nos termos do art. 37 do Decreto-lei nº 1.455,  de
+07.04.76;
+
+         j)   à   transferência  de  receitas,  auferidas  no   País,
+provenientes  da venda de passagens internacionais ou do  recebimento
+de  fretes, afretamentos, sobreestadias e aluguel de cofres de  carga
+("containers");
+
+         l)  ao  pagamento,  no  exterior, de  fretes,  afretamentos,
+sobreestadias e aluguel de cofres de carga ("containers");
+
+         m)  à  importação  para  substituição de  bens  sinistrados,
+quando  seu  pagamento  se  realize  com  aplicação  do  produto   de
+indenização recebida em moeda estrangeira;
+
+         n)  à  importação de fertilizantes, defensivos agropecuários
+e matérias-primas destinadas a sua fabricação;
+
+         o)   à  importação  de  sementes,  esporos  e  frutos,  para
+semeadura;
+
+         p)  à  importação cujo valor seja convertido em investimento
+direto de capital estrangeiro.
+
+         III  -  Nas  operações de câmbio destinadas à liquidação  de
+compromissos  oriundos de financiamento à importação,  registrado  no
+Banco  Central  a  partir de 22.04.80, inclusive, ou  não  sujeito  a
+registro, o imposto incidirá apenas sobre as parcelas de principal.
+
+         IV  -  Para  fins  de  determinação da base  de  cálculo  do
+imposto  de  que trata a presente Resolução, não será  considerada  a
+parcela correspondente a comissão devida a agente no País.
+
+         V  -  O Banco Central poderá baixar as normas complementares
+que  se  fizerem  necessárias  à execução  do  disposto  na  presente
+Resolução.
+
+                             Brasília-DF, 08 de maio de 1980
+
+                             Carlos Geraldo Langoni
+                             Presidente
+```

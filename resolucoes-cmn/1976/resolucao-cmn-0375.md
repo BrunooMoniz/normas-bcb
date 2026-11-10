@@ -1,0 +1,93 @@
+---
+titulo: "Resolução Nº 375"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "375"
+data: 1976-04-09
+ementa: "NORMAS PARA O MERCADO DE CAPITAIS E MERCADO ABERTO - DISCIPLINA COMPROMISSOS DE RECOMPRA OU DE COMPRA E DE VENDA DE TITULOS DE RENDA FIXA NEGOCIADOS NO MERCADO DE CAPITAIS (RESOLUCAO 366) - CAPTACAO E APLICACAO DE RECURSOS PELOS BANCOS COMERCIAIS, DE INVESTIMENTO E PELAS SOCIEDADES DE CREDITO, FINANCIAMENTO E INVESTIMENTO (RESOLUCAO 367) - DECRETO-LEI 1290, DE 03/12/73 - LEVANTAMENTO TEMPORARIO DA PROIBICAO DE QUE TRATA O ARTIGO TERCEIRO (RESOLUCAO 370) - RESERVAS TECNICAS DE SOCIEDADES SEGURADORAS (RESOLUCAO 371) - NOVOS LIMITES MINIMOS DE CAPITAL PARA AS SOCIEDADES CORRETORAS E FIRMAS INDIVIDUAIS MEMBROS DAS BOLSAS DE VALORES (RESOLUCAO 372) - LIMITE MINIMO DE CAPITAL REALIZADO DAS SOCIEDADES DISTRIBUIDORAS (RESOLUCAO 373) - ELEVACAO DOS RECOLHIMENTOS COMPULSORIOS SOBRE DEPOSITOS A VISTA (RESOLUCAO 375)."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 382/76 DOU 28/07/1976 PAG 2897 - REVOGACAO: ITEM/I, ITEM/V.   CITACAO: ITEM/II.", "RESOLUÇÃO CMN 446/77 DOU 01/11/1977 PAG 4417 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 169/71", "RESOLUÇÃO 446/77", "RESOLUÇÃO 396/76", "RESOLUÇÃO 89/68", "RESOLUÇÃO 382/76", "RESOLUÇÃO 377/76", "CARTA CIRCULAR 178/76"]
+referencias: ["LEI 4595/64 ART/4 ITEM/XIV.", "LEI 4595/64 ART/9.", "DL 1085/70.", "REVOGA RESOLUÇÃO CMN 89/68.", "REVOGA RESOLUÇÃO CMN 169/71 ITEM/II ITEM/IV ITEM/VIII."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=375"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 375
+
+```
+                        RESOLUCAO N. 000375
+                        -------------------
+
+         O  BANCO  CENTRAL DO BRASIL, na forma do art. 9º da  Lei  nº
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  CONSELHO
+MONETÁRIO NACIONAL, em sessão realizada em 7 de abril de 1976,  tendo
+em  vista as disposições do art. 4º, inciso XIV, da referida Lei, com
+a  redação  que  lhe foi dada pelo Decreto-lei nº  1.085,  de  18  de
+fevereiro de 1970,
+
+R E S O L V E U:
+
+         I - Elevar os recolhimentos compulsórios sobre os  depósitos
+à vista, a que estão sujeitos os estabelecimentos bancários, para 33%
+(trinta e três por cento), com vigência a partir da posição referente
+à segunda quinzena do mês de abril de 1976.
+
+         II - Manter  inalterada a incidência  de  18%  (dezoito  por
+cento), para os depósitos de estabelecimentos bancários sediados  nos
+Territórios Federais e nos Estados do Acre, Amazonas, Pará, Maranhão,
+Piauí,  Ceará,  Rio  Grande  do Norte,  da  Paraíba,  de  Pernambuco,
+Alagoas,  Sergipe,  da  Bahia, do Espírito Santo,  de  Goiás  e  Mato
+Grosso, sendo que:
+
+         a) os bancos que possuam agências em outros Estados  somente
+se  beneficiarão  das  bases fixadas para os  depósitos  captados  na
+região  se mantiverem aplicados nas citadas Unidades, no mínimo,  60%
+(sessenta por cento) desses depósitos;
+
+         b) os  bancos  com sede em outros  Estados  e  agências  nas
+Unidades  da Federação referidas no "caput" poderão beneficiar-se  do
+mencionado  percentual  sobre  os  depósitos  captados  por   aquelas
+agências, desde que as respectivas aplicações não sejam inferiores  a
+70% (setenta por cento) dos depósitos ali existentes.
+
+         III - Permitir que o enquadramento ao nível fixado  no  item
+I  se  faça gradativamente, na proporção de 75% (setenta e cinco  por
+cento)  sobre  os  acréscimos dos depósitos sujeitos  a  recolhimento
+compulsório, devendo os bancos proceder aos ajustamentos  na  quarta-
+feira  entre os dias 17 e 23 do mês posterior, ou, em caso de feriado
+bancário,  no  dia  útil  imediato,  com  base,  exclusivamente,  nas
+posições  das  segundas  quinzenas. Fica,  portanto,  entendido  que,
+enquanto   o  estabelecimento  bancário  não  alcançar  o  percentual
+previsto  no  aludido item I, estarão suspensos, temporariamente,  os
+reajustamentos  quinzenais de posições, bem  como  as  devoluções  em
+decorrência de eventuais quedas de depósitos.
+
+         IV - Após  o  enquadramento,  passarão  a  prevalecer  novas
+datas  para  os  reajustamentos das posições  quinzenais,  que  serão
+realizadas da seguinte forma:
+
+         a) quinzena de 1 a 15 - na quarta-feira entre os dias 2 e  8
+do mês posterior;
+
+         b) quinzena de 16 a 31 - na quarta-feira entre os dias 17  e
+23 do mês posterior; ou
+
+         c)   em  caso  de  feriado  bancário  na  quarta-feira,   os
+reajustamentos serão realizados no dia útil imediato.
+
+         V - Determinar que a pena pecuniária, relativa  a  eventuais
+deficiências  que  se venham a verificar nas posições  devidas,  seja
+cobrada  à  taxa  de  31% a.a. (trinta e um por cento  ao  ano)  pelo
+período em que ocorrer a deficiência.
+
+         VI - Revogar as Resoluções nºs 89, de 26 de março  de  1968,
+e 123, de 21 de agosto de 1969, e os itens II, IV e VIII da Resolução
+nº 169, de 22 de janeiro de 1971.
+
+                             Brasília-DF, 9 de abril de 1976
+
+                             Paulo H. Pereira Lira
+                             Presidente
+```

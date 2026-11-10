@@ -1,0 +1,109 @@
+---
+titulo: "Resolução Nº 601"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "601"
+data: 1980-02-13
+ementa: "SOJA E SEUS DERIVADOS - ALTERACAO DAS ALIQUOTAS DO IMPOSTO DE EXPORTACAO."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 606/80 DOU 08/04/1980 PAG 6000 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 606/80"]
+referencias: ["LEI 4595/64 ART/4 ITEM/V ITEM/XXXI.", "LEI 4595/64 ART/9.", "DL 1578/77."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=601"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 601
+
+```
+                        RESOLUCAO N. 000601
+                        -------------------
+
+         O  BANCO  CENTRAL DO BRASIL, na forma do art. 9º da  Lei  nº
+4.595,  de 31.12.64, torna público que o CONSELHO MONETÁRIO NACIONAL,
+em sessão realizada nesta data, tendo em vista o disposto no art. 4º,
+incisos  V  e XXXI, da mencionada Lei e no Decreto-lei nº  1.578,  de
+11.10.77,
+
+R E S O L V E U:
+
+         I  -  A exportação de soja e seus derivados fica sujeita  ao
+imposto de exportação com base nas seguintes alíquotas:
+
+    NBM                  PRODUTOS                       ALÍQUOTAS (%)
+    ---                  --------                       -------------
+
+12.01.04.00       soja em grão                                13
+
+15.07.01.01       óleo de soja em bruto                       28
+
+15.07.02.01       óleo de soja refinado                       28
+
+23.04.05.01       farelo de soja                               5
+
+23.04.05.02       torta de soja                                5
+
+         II  -  O imposto de exportação referido nesta Resolução será
+calculado mediante a aplicação, sobre o preço FOB constante  da  guia
+de  exportação, da alíquota vigente na data da emissão, pela Carteira
+de  Comércio  Exterior do Banco do Brasil S.A. - CACEX,  do  registro
+prévio da venda ao exterior.
+
+         III  -  Para  fins de determinação do valor em cruzeiros  da
+base de cálculo do imposto, será utilizada a taxa cambial do contrato
+de câmbio a que se vincule a exportação. Sendo a exportação vinculada
+a  dois  ou mais contratos de câmbio, de taxas diferentes, a base  de
+cálculo  será  o  somatório  dos impostos  que  se  vinculem  a  cada
+contrato, considerados às respectivas taxas de câmbio.
+
+         IV  - O pagamento do imposto de exportação de que trata esta
+Resolução deverá ser efetuado:
+
+         a)  até 30 (trinta) dias corridos após a data do embarque do
+produto,   quando   o  pagamento  da  exportação  deva   verificar-se
+posteriormente ao embarque;
+
+         b)  simultaneamente  à  liquidação  do  contrato  de  câmbio
+respectivo, no caso de exportação com pagamento antecipado.
+
+         V  -  O  pagamento do valor do imposto devido será  efetuado
+pelo exportador junto ao banco comprador do câmbio de exportação.
+
+         VI  -  Os  valores  recebidos  pelos  bancos,  consoante   o
+disposto  no item anterior, deverão ser recolhidos ao Banco  Central,
+no  prazo  e  na forma por este indicados. A inobservância  do  prazo
+estabelecido para o recolhimento sujeitará o banco, independentemente
+de  outras sanções cabíveis, ao pagamento de juros calculados,  pelos
+dias  de  atraso,  com base na maior taxa vigente para  operações  de
+assistência financeira do Banco Central na data em que se  efetive  o
+recolhimento.
+
+         VII  -  A  CACEX fará constar nas correspondentes  guias  de
+exportação a alíquota do imposto de exportação incidente.
+
+         VIII  -  Poderá  a empresa exportadora ter  suspenso  o  seu
+registro  de  exportador e, se for o caso, de importador,  perante  a
+CACEX,  quando se verificar o inadimplemento da obrigação  tributária
+no  prazo  previsto  no  item IV, independentemente  de  cobrança  do
+imposto, da multa e de acréscimos legais.
+
+         IX  -  A  suspensão prevista no item anterior perdurará  até
+que ocorra a extinção do crédito tributário relativo ao imposto.
+
+         X  - Ressalvada a competência do Conselho Monetário Nacional
+e observado o disposto no Decreto-lei nº 1.578, de 11.10.77, os casos
+omissos serão resolvidos pelo Banco Central.
+
+         XI   -   O   Banco  Central  poderá  baixar  as   instruções
+complementares  que  se fizerem necessárias à  execução  do  disposto
+nesta Resolução.
+
+         XII  -  Esta  Resolução  entrará em vigor  na  data  de  sua
+publicação.
+
+                             Brasília-DF, 13 de fevereiro de 1980
+
+                             Carlos Geraldo Langoni
+                             Presidente
+```

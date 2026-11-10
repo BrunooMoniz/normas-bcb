@@ -1,0 +1,87 @@
+---
+titulo: "Resolução Nº 728"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "728"
+data: 1982-03-24
+ementa: "INSTITUICOES FINANCEIRAS NACIONAIS - CRITERIOS PARA INSTALACAO NO EXTERIOR, DE DEPENDENCIAS DE BANCOS COMERCIAIS NACIONAIS AUTORIZADOS A OPERAR EM CAMBIO, BEM COMO DE SUA PARTICIPACAO E DA DOS BANCOS DE INVESTIMENTO NO CAPITAL DE ENTIDADES ESTRANGEIRAS. VER VOTO BCB 085/82."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 1822/91 DOU 09/05/1991 PAG 8688 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1822/91", "RESOLUÇÃO 1754/90", "RESOLUÇÃO 1809/91", "CIRCULAR 685/82", "CARTA CIRCULAR 743/82", "CARTA CIRCULAR 1030/84"]
+referencias: ["LEI 4595/64 ART/4 ITEM/VIII ITEM/XIII.", "LEI 4595/64 ART/4 PARAG/1.", "LEI 4595/64 ART/9.", "LEI 4595/64 ART/10 PARAG/1.", "CITA LEI 6205/75.", "CITA LEI 4595/64 ART/44."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=728"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 728
+
+```
+                        RESOLUCAO N. 000728
+                        -------------------
+
+         O  BANCO  CENTRAL DO BRASIL, na forma do art. 9. da  Lei  n.
+4.595,  de 31.12.64, torna público que o CONSELHO MONETÁRIO NACIONAL,
+em  sessão realizada nesta data, com base no art. 4., incisos VIII  e
+XIII e Parágrafo 1., e no art. 10, Parágrafo 1., da citada Lei,
+
+R E S O L V E U:
+
+         I   -  A  abertura  de  dependências  (agência,  filial   ou
+escritório  de  representação),  no exterior,  de  bancos  comerciais
+nacionais autorizados a operar em câmbio, bem como sua participação e
+a  de  bancos  de investimento no capital de entidades  estrangeiras,
+dependerá de prévia aprovação pelo Conselho Monetário Nacional.
+
+         II  - Os requisitos exigidos para o exame das postulações da
+espécie são os seguintes:
+
+         a)  o capital mínimo do banco, integralizado no Brasil,  não
+poderá   ser  inferior,  em  cruzeiros,  ao  equivalente  a   375.000
+(trezentas  e setenta e cinco mil) vezes o maior valor de  referência
+(MVR) a que alude a Lei n. 6.205, de 29.04.75;
+
+         b)  a  quantia  destacada para constituição  do  capital  da
+dependência,  ou para ser aplicada na participação, no exterior,  não
+poderá  exceder a 25% (vinte e cinco por cento) do capital do  banco,
+no  Brasil,  e deverá corresponder a aumento obrigatório  do  capital
+deste,  em espécie, exceto quando a integralização for realizada  com
+recursos gerados no exterior;
+
+         c)  a  participação  de capital nacional em  subsidiária  no
+exterior terá que corresponder, pelo menos, a 51% (cinqüenta e um por
+cento) do capital aprovado para esta;
+
+         d)  sempre que se tratar de conglomerado financeiro  de  que
+participe   banco  comercial,  somente  a  este  será   permitida   a
+participação em subsidiária no exterior;
+
+         e)  a instalação de escritórios no exterior só será admitida
+nos casos em que o banco comercial já possua agência no exterior,  ou
+em que seja precondição para abertura de agência no país escolhido;
+
+         f) as despesas com instalação e manutenção de escritórios  e
+os  adiantamentos  para ocorrer as despesas com instalação  de  novas
+agências  ou filiais, no exterior, somente poderão ser efetuados  com
+recursos  gerados  pela rede de dependências do  banco  comercial  no
+exterior,   exceto  quando  não  possua  ele  dependências   externas
+funcionando há mais de 3 (três) anos.
+
+         III  -  A  não observância do disposto no item I,  bem  como
+qualquer  iniciativa visando à aprovação ali referida, por  parte  de
+instituições  financeiras nacionais junto a autoridades  estrangeiras
+ou  sediadas  fora  do Brasil, sem a prévia autorização  do  Conselho
+Monetário   Nacional,  sujeitará  as  instituições   financeiras   às
+penalidades previstas no art. 44 da mencionada Lei 4.595/64.
+
+         IV  -  O  Banco  Central poderá adotar as  medidas  julgadas
+necessárias à execução desta Resolução.
+
+         V  -  Esta  Resolução  entrará  em  vigor  na  data  de  sua
+publicação.
+
+                             Brasília-DF, 24 de março de 1982
+
+                             Carlos Geraldo Langoni
+                             Presidente
+```

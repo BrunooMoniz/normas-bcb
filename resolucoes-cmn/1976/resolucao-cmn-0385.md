@@ -1,0 +1,117 @@
+---
+titulo: "Resolução Nº 385"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "385"
+data: 1976-07-21
+ementa: "FUNDOS FISCAIS DE INVESTIMENTOS - DECRETO-LEI 157, DE 10/02/67 - PERCENTUAL MINIMO DE APLICACOES EM SOCIEDADES ANONIMAS DE CAPITAL ABERTO CONTROLADAS POR CAPITAIS PRIVADOS NACIONAIS - DIVERSIFICACAO - TAXAS MAXIMAS DE ADMINISTRACAO EM FUNCAO DO PATRIMONIO LIQUIDO DO FUNDO."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 470/78 DOU 28/04/1978 PAG 2103 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 340/75", "RESOLUÇÃO 470/78"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4728/65.", "DL 1214/72 ART/3.", "DL 1338/74 ART/25.", "ALTERA RESOLUÇÃO CMN 340/75 ITEM/VI ITEM/VIII.", "CITA DL 157/67."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=385"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 385
+
+```
+                        RESOLUCAO N. 000385
+                        -------------------
+
+         O  BANCO  CENTRAL DO BRASIL, na forma do art. 9º da  Lei  nº
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  CONSELHO
+MONETÁRIO NACIONAL, em sessão realizada nesta data, tendo em vista  o
+disposto  na Lei nº 4.728, de 14 de julho de 1965, e no  art.  3º  do
+Decreto-lei  nº  1.214, de 26 de abril de 1972, com  as  modificações
+introduzidas pelo art. 25 do Decreto-lei nº 1.338, de 23 de julho  de
+1974,
+
+R E S O L V E U:
+
+         I  - Alterar as disposições dos itens VI e VIII da Resolução
+nº  340, de 13 de agosto de 1975, que passam a vigorar com a seguinte
+redação:
+
+         "VI - Os  recursos dos Fundos de  Investimento  constituídos
+     na  forma prevista no Decreto-lei nº 157, de 10 de fevereiro  de
+     1967,  e  legislação  posterior, deverão  ser  aplicados,  pelas
+     instituições  encarregadas  de sua  administração,  da  seguinte
+     forma:
+
+         a)  do valor global do Fundo, no mínimo 75% (setenta e cinco
+     por  cento)  deverão  estar aplicados  em  ações  ou  debêntures
+     conversíveis  em ações de sociedades anônimas de capital  aberto
+     controladas  por  capitais  privados nacionais,  adquiridas  por
+     subscrição ou em Bolsa de Valores;
+
+         b)  os  recursos  remanescentes deverão estar  representados
+     por ações ou por debêntures conversíveis em ações de emissão  de
+     sociedades  anônimas  de  capital  aberto  em  geral,   ou   por
+     disponibilidades,  incluídas,  nesse  limite,  as  quantias   em
+     dinheiro  e  aquelas disponíveis junto ao Banco do Brasil  S.A.,
+     nos termos do Decreto-lei nº 1.214, de 26 de abril de 1972;
+
+         c)  as disponibilidades de curto prazo de que trata a alínea
+     anterior  poderão, inclusive, estar representadas por Letras  do
+     Tesouro Nacional."
+
+         "VIII - As  carteiras dos  Fundos  Fiscais  de  Investimento
+     estão sujeitas aos seguintes requisitos de diversificação:
+
+         a)  o montante de aplicações em títulos de uma única empresa
+     não  deverá exceder 5% (cinco por cento) do total das aplicações
+     do  Fundo  nem  representar  - no caso  de  ações  e  debêntures
+     conversíveis em ações - mais de 10% (dez por cento)  do  capital
+     votante  ou  mais de 20% (vinte por cento) do capital  da  mesma
+     empresa;
+
+         b)  a  média  das aplicações por empresa não poderá  exceder
+     2,5%  (dois  e meio por cento) do valor total das aplicações  do
+     Fundo;
+
+         c)  não  serão consideradas, na determinação dos limites  de
+     diversificação   ora  estabelecidos,  as  ações   recebidas   em
+     bonificação   ou  resultantes  do  exercício   do   direito   de
+     preferência, desde que o excesso seja eliminado no prazo  de  12
+     (doze)  meses,  prorrogável  por mais  6  (seis)  meses,  quando
+     justificada  a  medida perante o Banco Central. O extravasamento
+     dos  limites em virtude da valorização dos títulos também deverá
+     ser regularizado nos prazos máximos aqui fixados."
+
+         II  -  A  administradora perceberá, pela prestação  de  seus
+serviços de gestão e administração, percentagem anual sobre  o  valor
+do  patrimônio  líquido do Fundo, fixada pelo seu regulamento  e  não
+superior às taxas abaixo indicadas, vedada qualquer participação  nos
+resultados distribuídos ou reinvestidos pelo Fundo:
+
+     TAXA DE ADMINISTRAÇÃO              PATRIMÔNIO LÍQUIDO DO FUNDO
+     ---------------------              ---------------------------
+
+     4,0% a.a. até                             Cr$250 milhões
+     3,5% a.a. sobre o que exceder de          Cr$250 milhões até
+                                            Cr$500 milhões
+     3,0% a.a. sobre o que exceder de          Cr$500 milhões até
+                                            Cr$750 milhões
+     2,5% a.a. sobre o que exceder de          Cr$750 milhões até
+                                            Cr$1000 milhões
+     2,0% a.a. sobre o que exceder de          Cr$1000 milhões
+
+         III  - Para a determinação da remuneração da administradora,
+será  aplicada  a  taxa de 1/360 (um trezentos e  sessenta  avos)  da
+respectiva  taxa de administração sobre o valor diário do  patrimônio
+líquido  do  Fundo.  Essa  remuneração  será  paga  à  administradora
+conforme as disposições do regulamento, por períodos vencidos.
+
+         IV  -  A  adaptação  das  carteiras dos  Fundos  Fiscais  de
+Investimento  às  disposições do item I desta  Resolução  deverá  ser
+feita  progressivamente, em função do ingresso de novos  recursos  no
+Fundo, vedada qualquer nova aplicação que eleve eventuais excessos já
+verificados, enquanto não regularizada a posição.
+
+                             Brasília-DF, 21 de julho de 1976
+
+                             Paulo H. Pereira Lira
+                             Presidente
+```
