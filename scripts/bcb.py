@@ -353,7 +353,7 @@ def relatorio():
     linhas.append("| **Total** | | " + " | ".join(f"**{x:,}**".replace(",", ".") for x in tot) + " |")
     (RAIZ / "COBERTURA.md").write_text("\n".join(linhas) + "\n", encoding="utf-8")
     import readme  # números do README e progresso.svg saem da mesma medição
-    readme.main("Áreas do BCB que mais publicam", "responsavel")
+    readme.main(readme.CONFIG)
     return tot
 
 

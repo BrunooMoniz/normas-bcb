@@ -25,42 +25,35 @@ e as demais) estão lá, em `federal/`; aqui ficam só os atos do BCB e do CMN.
 ## Acervo
 
 <!-- acervo:inicio -->
-[![progresso](progresso.svg)](COBERTURA.md)
+[![Progresso do acervo](progresso.svg)](COBERTURA.md)
 
-**1.882 de 60.969 normas do índice oficial (3,1%)**, números de 10/11/2026. Vigentes são as que o portal não marca como revogadas nem canceladas.
+### Por série
 
-### Por pasta
+| Série | No índice oficial | Publicadas | Vigentes | Revogadas | Período |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| [Comunicados](comunicados/) | 43.918 | 2 | 2 | 0 | 1990 a 1990 |
+| [Resoluções do CMN](resolucoes-cmn/) | 5.344 | 1.232 | 464 | 768 | 1965 a 2026 |
+| [Cartas Circulares](cartas-circulares/) | 4.076 | 2 | 0 | 2 | 1968 a 1968 |
+| [Circulares](circulares/) | 4.038 | 2 | 0 | 2 | 1965 a 1965 |
+| [Atos do Presidente](atos-do-presidente/) | 1.389 | 2 | 2 | 0 | 1994 a 1994 |
+| [Instruções Normativas BCB](instrucoes-normativas-bcb/) | 785 | 2 | 2 | 0 | 2020 a 2020 |
+| [Atos de Diretor](atos-de-diretor/) | 706 | 2 | 2 | 0 | 1996 a 1996 |
+| [Resoluções BCB](resolucoes-bcb/) | 604 | 604 | 526 | 78 | 2020 a 2026 |
+| [Atos Normativos Conjuntos](atos-normativos-conjuntos/) | 31 | 2 | 2 | 0 | 2003 a 2003 |
+| [Resoluções Conjuntas](resolucoes-conjuntas/) | 21 | 21 | 20 | 1 | 2020 a 2026 |
+| [Decisões Conjuntas](decisoes-conjuntas/) | 20 | 2 | 2 | 0 | 1994 a 1995 |
+| [Comunicados Conjuntos](comunicados-conjuntos/) | 20 | 2 | 2 | 0 | 1990 a 1990 |
+| [Portarias Conjuntas](portarias-conjuntas/) | 8 | 2 | 2 | 0 | 2020 a 2021 |
+| [Instruções Normativas Conjuntas](instrucoes-normativas-conjuntas/) | 4 | 2 | 0 | 2 | 2021 a 2021 |
+| [Resoluções Coseg](resolucoes-coseg/) | 4 | 2 | 2 | 0 | 2026 a 2026 |
+| [Resoluções Coremec](resolucoes-coremec/) | 1 | 1 | 1 | 0 | 2020 a 2020 |
+| **Total** | **60.969** | **1.882** | **1.029** | **853** |  |
 
-| Pasta | Tipo | No índice oficial | Publicadas | Vigentes | Revogadas | De | Até |
-| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| [`comunicados/`](comunicados/) | Comunicado | 43.918 | 2 | 2 | 0 | 1990 | 1990 |
-| [`resolucoes-cmn/`](resolucoes-cmn/) | Resolução, Resolução CMN | 5.344 | 1.232 | 464 | 768 | 1965 | 2026 |
-| [`cartas-circulares/`](cartas-circulares/) | Carta Circular | 4.076 | 2 | 0 | 2 | 1968 | 1968 |
-| [`circulares/`](circulares/) | Circular | 4.038 | 2 | 0 | 2 | 1965 | 1965 |
-| [`atos-do-presidente/`](atos-do-presidente/) | Ato do Presidente | 1.389 | 2 | 2 | 0 | 1994 | 1994 |
-| [`instrucoes-normativas-bcb/`](instrucoes-normativas-bcb/) | Instrução Normativa BCB | 785 | 2 | 2 | 0 | 2020 | 2020 |
-| [`atos-de-diretor/`](atos-de-diretor/) | Ato de Diretor | 706 | 2 | 2 | 0 | 1996 | 1996 |
-| [`resolucoes-bcb/`](resolucoes-bcb/) | Resolução BCB | 604 | 604 | 526 | 78 | 2020 | 2026 |
-| [`atos-normativos-conjuntos/`](atos-normativos-conjuntos/) | Ato Normativo Conjunto | 31 | 2 | 2 | 0 | 2003 | 2003 |
-| [`resolucoes-conjuntas/`](resolucoes-conjuntas/) | Resolução Conjunta | 21 | 21 | 20 | 1 | 2020 | 2026 |
-| [`decisoes-conjuntas/`](decisoes-conjuntas/) | Decisão Conjunta | 20 | 2 | 2 | 0 | 1994 | 1995 |
-| [`comunicados-conjuntos/`](comunicados-conjuntos/) | Comunicado Conjunto | 20 | 2 | 2 | 0 | 1990 | 1990 |
-| [`portarias-conjuntas/`](portarias-conjuntas/) | Portaria Conjunta | 8 | 2 | 2 | 0 | 2020 | 2021 |
-| [`instrucoes-normativas-conjuntas/`](instrucoes-normativas-conjuntas/) | Instrução Normativa Conjunta | 4 | 2 | 0 | 2 | 2021 | 2021 |
-| [`resolucoes-coseg/`](resolucoes-coseg/) | Resolução Coseg | 4 | 2 | 2 | 0 | 2026 | 2026 |
-| [`resolucoes-coremec/`](resolucoes-coremec/) | Resolução Coremec | 1 | 1 | 1 | 0 | 2020 | 2020 |
-| **Total** |  | **60.969** | **1.882** | **1.029** | **853** |  |  |
+Vigentes são as que o portal não marca como revogadas nem canceladas.
 
 ### Por década
 
-| Década | Normas | Vigentes | Distribuição |
-| --- | ---: | ---: | --- |
-| 1960s | 133 | 2 | ██ |
-| 1970s | 463 | 3 | ████████ |
-| 1980s | 134 | 0 | ██ |
-| 1990s | 10 | 10 | █ |
-| 2000s | 2 | 2 | █ |
-| 2020s | 1.140 | 1.014 | ████████████████████ |
+![Normas por década](decadas.svg)
 
 ### Áreas do BCB que mais publicam
 
@@ -82,6 +75,7 @@ e as demais) estão lá, em `federal/`; aqui ficam só os atos do BCB e do CMN.
 | DINOR, DIPOM | 4 |
 | DEMAB | 3 |
 
+_Números de 10/11/2026, gerados por `scripts/readme.py`._
 <!-- acervo:fim -->
 
 A coleta completa leva cerca de um dia e segue esta ordem: resoluções, circulares, instruções normativas,
@@ -111,7 +105,7 @@ decisoes-conjuntas/  portarias-conjuntas/  atos-normativos-conjuntos/  instrucoe
 resolucoes-coseg/  resolucoes-coremec/
 scripts/bcb.py                                   o código que baixa, converte e mede
 COBERTURA.md                                     números por pasta e lacunas
-progresso.svg                                    a barra de progresso do topo
+progresso.svg  decadas.svg                      o painel de progresso e o gráfico por década
 scripts/readme.py                                gera os números deste README
 _falhas.jsonl                                    o que não entrou, linha por linha, e por quê
 ```
