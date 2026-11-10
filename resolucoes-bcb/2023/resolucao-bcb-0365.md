@@ -1,0 +1,281 @@
+---
+titulo: "Resolução BCB N° 365"
+orgao: "Banco Central do Brasil"
+tipo: "Resolução BCB"
+numero: "365"
+data: 2023-12-21
+ementa: "Altera a Resolução BCB nº 96, de 19 de maio de 2021, que dispõe sobre a abertura, a manutenção e o encerramento de contas de pagamento."
+revogada: false
+responsavel: "DINOR"
+versao_texto: "texto do portal do BCB"
+versao_normativo: "1"
+publicacao: "Publicada no DOU de 26/12/2023, Seção 1, p. 199/200."
+normas_vinculadas: ["RESOLUÇÃO BCB 96/2021", "RESOLUÇÃO 4282/2013"]
+referencias: ["Lei nº 12.865/2013, arts. 6º, § 1º, 9º, inciso II, e 15.", "Resolução CMN nº 4.282/2013, art. 13.", "Altera, a partir de 1º/7/2024, Resolução BCB nº 96/2021 - Dá nova redação: art. 6º, incisos VIII e IX; art. 9º, caput e incisos I, II e III; art. 10, caput e § 4º; e denominação do Capítulo V. Inclui: art. 6º, inciso X; art. 6º-A; art. 9º, §§ 3º a 9º; art. 10, incisos I a IV e §§ 5º e 6º; e arts. 11-A, 11-B e 11-C. Revoga: art. 9º, caput, incisos IV a XIII e § 2º."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=365"
+baixado_em: 2026-11-10
+---
+# Resolução BCB N° 365
+
+RESOLUÇÃO
+BCB Nº 365, DE 21 DE DEZEMBRO DE 2023
+
+Altera a Resolução BCB nº 96, de
+19 de maio de 2021, que dispõe sobre a abertura, a manutenção e o encerramento
+de contas de pagamento.
+
+A Diretoria Colegiada do Banco Central do Brasil, em
+sessão realizada em 14 de dezembro de 2023, com base nos arts. 6º, § 1º, 9º,
+inciso II, e 15 da Lei nº 12.865, de 9 de outubro de 2013, e tendo em vista o
+disposto no art. 13 da Resolução nº 4.282, de 4 de novembro de 2013,
+
+R E S O L V E :
+
+Art. 1º  A Resolução BCB nº 96, de 19 de maio de 2021,
+passa a vigorar com as seguintes alterações:
+
+“Art. 6º
+............................................................................................................
+
+.........................................................................................................................
+
+VIII - as formas e os canais para envio ou disponibilização dos
+demonstrativos e das faturas, quando houver;
+
+IX - os encargos incidentes sobre operações de crédito e em decorrência
+de inadimplemento de obrigações, bem como os critérios e os procedimentos para
+a sua cobrança, no caso de prestação de serviços relativos a contas de
+pagamento pós-pagas; e
+
+X - as
+formas e as opções de liquidação e de financiamento do saldo devedor da fatura
+de instrumentos de pagamento pós-pagos, devendo ser destacada no contrato a
+forma padrão para o financiamento do saldo devedor do crédito rotativo
+disponibilizada pela instituição.
+
+................................................................................................................”
+(NR)
+
+“Art. 6º-A  Na contratação de
+instrumentos de pagamento pós-pagos, a instituição deve facultar ao titular da
+conta a opção de pelo menos três datas de vencimento da fatura, com uma
+diferença mínima de sete dias
+entre elas.
+
+Parágrafo único.
+O disposto no **caput** não se aplica às contas de pagamento
+pós-pagas cujos contratos prevejam pagamento da fatura mediante consignação em
+folha de pagamento.” (NR)
+
+“Art. 9º  A fatura de conta de pagamento pós-paga
+disponibilizada ao titular da conta por meio físico ou eletrônico deve
+apresentar as informações de forma ordenada conforme os seguintes grupos de
+informações:
+
+I - área de
+destaque;
+
+II -
+alternativas de pagamento; e
+
+III -
+informações complementares.
+
+.........................................................................................................................
+
+§ 3º  O grupo de informações referente à área de
+destaque deve conter exclusivamente as seguintes informações:
+
+I - valor total da fatura;
+
+II - data de vencimento da fatura
+do período vigente; e
+
+III - limite de crédito total.
+
+§ 4º  O grupo de informações referente a
+alternativas de pagamento deve conter exclusivamente as seguintes informações:
+
+I - valor do pagamento obrigatório
+de que trata o art. 11, informando em moeda corrente os valores total e
+individuais de cada composição conforme disposto nos incisos I a III do art.
+11;
+
+II - valor dos encargos a ser
+cobrado no período seguinte, no caso de realização somente do pagamento
+obrigatório de que trata o art. 11;
+
+III - opções de financiamento do
+saldo devedor da fatura; e
+
+IV - taxas efetivas de juros
+mensal e anual e o Custo Efetivo Total (CET) relativos às operações de crédito
+passíveis de contratação de que trata o inciso III.
+
+§ 5º  O grupo referente às informações
+complementares deve conter, no mínimo, as seguintes informações:
+
+I - lançamentos realizados na
+conta de pagamento, por evento, inclusive quando parcelados;
+
+II - identificação das operações
+de crédito contratadas e respectivos valores;
+
+III - valor de cada parcela das
+operações de crédito contratadas, incluindo o número da parcela em relação ao
+total, em caso de cobrança parcelada;
+
+IV - valores relativos aos juros e
+encargos financeiros cobrados no período vigente, segregados de acordo com os
+tipos de operações de crédito contratadas;
+
+V - valor total de juros e
+encargos financeiros cobrados referentes às operações de crédito contratadas;
+
+VI - identificação das tarifas
+cobradas, de acordo com as regras previstas na regulamentação vigente,
+incluindo o número da parcela em relação ao total, em caso de cobrança
+parcelada;
+
+VII - data de encerramento dos
+lançamentos na fatura do período seguinte;
+
+VIII - identificação dos usuários
+finais beneficiários de pagamento ou transferência, inclusive nas situações em
+que o serviço de pagamento envolver instituições participantes de diferentes
+arranjos de pagamento;
+
+IX - limites individuais para cada
+tipo de operação, incluindo os limites de crédito utilizados e disponíveis; e
+
+X - saldo total consolidado das
+obrigações futuras, inclusive das relativas a parcelamentos de compras, de
+operações de crédito e de tarifas.
+
+§ 6º  O grupo de informações referente a
+alternativas de pagamento de que trata o § 4º deve ser apresentado de forma a
+permitir ao titular da conta comparar as opções disponibilizadas para a
+liquidação das obrigações da fatura.
+
+§ 7º  As opções de financiamento de que trata o
+inciso III do § 4º devem informar os custos totais arcados pelo titular da
+conta e ser apresentadas na ordem do menor para o maior valor total a pagar
+pelo titular.
+
+§ 8º  Para fins da identificação de que trata o
+inciso VIII do § 5º, deve ser disponibilizado nas faturas da conta de pagamento
+pós-paga o nome fantasia de usuários finais pessoas jurídicas e empresários
+individuais, quando houver.
+
+§ 9º  As transações de pagamento e as demais
+obrigações realizadas na conta de pagamento pós-paga de forma parcelada devem
+ser apresentadas nas faturas disponibilizadas em qualquer meio ao titular da
+conta em até dois dias úteis a partir da data de abertura da fatura do período
+vigente.” (NR)
+
+“Art.
+10.  A concessão de limites de crédito
+associado a conta de pagamento pós-paga deve, em relação aos titulares das
+contas, ser compatível com, no mínimo:
+
+I
+- o perfil de risco;
+
+II
+- a qualificação, incluindo a sua capacidade financeira, nos termos da
+regulamentação vigente que disciplina os procedimentos destinados a conhecer os
+clientes;
+
+III
+- a existência de vulnerabilidades associadas; e
+
+IV
+- demais produtos e serviços e operações de crédito contratados pelo titular,
+inclusive em outras instituições, no que couber.
+
+.........................................................................................................................
+
+§
+4º  A aquiescência do titular para
+majoração de limites de crédito deve ser obtida a cada evento, observada ainda
+a necessidade de comunicação do reajuste do limite ao titular até o momento de
+sua realização.
+
+§
+5º  A instituição deve atender em até
+dois dias úteis à solicitação, realizada a qualquer tempo, do titular da conta
+para a redução do limite de crédito.
+
+§
+6º  A compatibilidade na concessão de
+limites de crédito de que trata o **caput** deve ser periodicamente
+reavaliada, inclusive em caso de efetivação da portabilidade de crédito das
+operações associadas a conta de pagamento pós-paga do titular.” (NR)
+
+“CAPÍTULO
+V
+
+DO
+PAGAMENTO DA FATURA DA CONTA DE PAGAMENTO PÓS-PAGA” (NR)
+
+“Art. 11-A.Para fins de pagamento da fatura
+da conta de pagamento pós-paga, o valor total da fatura deve aparecer
+inicialmente como opção de pagamento padrão nas opções de liquidação, inclusive em eventual campo a ser
+preenchido no documento de cobrança ou na forma de pagamento.” (NR)
+
+“Art. 11-B.  A
+instituição emissora de instrumento de pagamento pós-pago deve, por meio de
+canais de atendimento ágeis e de fácil acesso, disponibilizar ao titular da
+conta:
+
+I - a opção de solicitar o pagamento da fatura por
+meio de débito em conta ou de pagamento recorrente, respeitada a regulamentação
+vigente, no caso de instituição emissora do instrumento de pagamento pós-pago
+que mantém contas de depósitos à vista ou contas de pagamento pré-pagas;
+
+II - as informações sobre as formas e opções
+disponíveis para a liquidação, inclusive antecipadamente, e o financiamento do
+saldo devedor da fatura; e
+
+III - as informações sobre a possibilidade de
+portabilidade de crédito, nos termos da regulamentação vigente, incluindo
+orientações para a obtenção de informações sobre os procedimentos necessários
+para a sua solicitação.
+
+Parágrafo único.  O disposto no inciso I do **caput**se
+aplica inclusive às instituições pertencentes ao mesmo conglomerado prudencial
+abrangendo instituições que mantenham contas de depósito à vista ou contas de
+pagamento pré-paga.” (NR)
+
+“Art. 11-C.  A
+instituição emissora de instrumento de pagamento pós-pago deve enviar ao
+titular da conta, por meio de canais eletrônicos, de forma gratuita,
+notificações com informações sobre:
+
+I - o vencimento da fatura, com pelo menos dois dias
+de antecedência da data de vencimento, incluindo esclarecimentos de que o não
+pagamento do valor total da fatura resulta na cobrança de juros e encargos;
+
+II - as consequências do eventual não pagamento do
+valor obrigatório da fatura e do atraso no pagamento, bem como orientações para
+acesso às informações referidas no inciso II do art. 11-B, a partir do dia útil
+imediatamente posterior à data de vencimento da fatura;
+
+III - o início de eventual parcelamento do saldo do
+crédito rotativo e da fatura correspondente; e
+
+IV - o início da cobrança da tarifa de anuidade,
+após eventual período de isenção da cobrança, se houver, com pelo menos um mês
+de antecedência contado da data de início da cobrança.” (NR)
+
+Art.
+2º   Ficam
+revogados os incisos IV a XIII do **caput** e o § 2º do art. 9º da Resolução
+BCB nº 96, de 2021.
+
+Art. 3º  Esta Resolução
+entra em vigor em 1º de julho de 2024.
+
+OTÁVIO
+RIBEIRO DAMASO
+Diretor de Regulação
