@@ -357,6 +357,71 @@ def relatorio():
     return tot
 
 
+def gravar(linha, d, hoje):
+    saida, md, _ = montar(linha, d, hoje)
+    saida.parent.mkdir(parents=True, exist_ok=True)
+    saida.write_text(md, encoding="utf-8")
+    return saida
+
+
+def atualizar_novos(dias, hoje):
+    """Modo leve (job agendado): normas publicadas nos últimos `dias` que ainda não têm .md,
+    mais as normas vinculadas a elas (revogadas ou alteradas), que são baixadas de novo."""
+    idx = ler_indice()
+    por_id = {l["id"]: l for l in idx}
+    por_chave = {(l["tipo"], l["numero"]): l for l in idx}
+    tipos = {slugify(l["tipo"]): l["tipo"] for l in idx}
+    corte = (dt.date.today() - dt.timedelta(days=dias)).isoformat()
+    q = urllib.parse.urlencode({"querytext": "ContentType:normativo AND contentSource:normativos", "rowlimit": 100,
+                                "sortlist": "Data1OWSDATE:descending", "refinementfilters": ""},
+                               quote_via=urllib.parse.quote)
+    recentes, inicio = [], 0
+    while True:
+        rows = json.loads(pedir(f"{BUSCA}?{q}&startrow={inicio}"))["Rows"]
+        novos = [linha_indice(r) for r in rows if (r.get("data") or "")[:10] >= corte]
+        recentes += novos
+        if len(novos) < len(rows) or not rows:
+            break
+        inicio += len(rows)
+    for li in recentes:
+        if li["id"] not in por_id:
+            idx.append(li)
+            por_id[li["id"]] = li
+            por_chave[(li["tipo"], li["numero"])] = li
+            tipos.setdefault(slugify(li["tipo"]), li["tipo"])
+    INDICE.parent.mkdir(exist_ok=True)
+    INDICE.write_text("".join(json.dumps(l, ensure_ascii=False) + "\n" for l in idx), encoding="utf-8")
+
+    def existe(li):
+        return any((RAIZ / pasta_do_tipo(li["tipo"])).rglob(nome_arquivo(li["tipo"], li["numero"])))
+
+    falhas = {(f["tipo"], f["numero"]): f for f in
+              (json.loads(l) for l in (FALHAS.read_text(encoding="utf-8").splitlines() if FALHAS.exists() else []))}
+    n_novas = n_atual = 0
+    for li in [l for l in recentes if not existe(l)]:
+        try:
+            d = baixar_norma(li["tipo"], li["numero"], forcar=True)
+            print(f"nova: {gravar(li, d, hoje).relative_to(RAIZ)}", flush=True)
+            falhas.pop((li["tipo"], li["numero"]), None)
+            n_novas += 1
+        except Exception as e:
+            falhas[(li["tipo"], li["numero"])] = {"tipo": li["tipo"], "numero": li["numero"], "titulo": li["titulo"],
+                                                  "erro": f"{type(e).__name__}: {e}"}
+            continue
+        for item in lista(d["conteudo"][0].get("NormasVinculadas")):
+            partes = [x.strip() for x in item.split(";@")]
+            ref = por_chave.get((tipos.get(slugify(partes[0]), ""), partes[1] if len(partes) > 1 else ""))
+            if ref and existe(ref):  # só regrava o que já está no acervo; o resto a coleta completa traz
+                try:
+                    print(f"atualizada: {gravar(ref, baixar_norma(ref['tipo'], ref['numero'], forcar=True), hoje).relative_to(RAIZ)}", flush=True)
+                    n_atual += 1
+                except Exception as e:
+                    print(f"  falha ao atualizar {ref['titulo']}: {e}", flush=True)
+    FALHAS.write_text("".join(json.dumps(f, ensure_ascii=False) + "\n" for f in sorted(
+        falhas.values(), key=lambda f: (f["tipo"], f["numero"]))), encoding="utf-8")
+    print(f"{n_novas} novas, {n_atual} atualizadas; total [índice, md, só metadados, falhas]:", relatorio())
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--indice", action="store_true", help="só remonta o índice")
@@ -365,7 +430,11 @@ def main():
     ap.add_argument("--limite", type=int, help="só as N primeiras de cada tipo")
     ap.add_argument("--forcar", action="store_true", help="baixa de novo o que está em cache")
     ap.add_argument("--relatorio", action="store_true", help="só regrava COBERTURA.md")
+    ap.add_argument("--novos", type=int, metavar="DIAS",
+                    help="modo leve: só normas dos últimos DIAS sem .md, mais as vinculadas a elas (job agendado)")
     a = ap.parse_args()
+    if a.novos:
+        return atualizar_novos(a.novos, dt.date.today().isoformat())
     if a.relatorio:
         print(relatorio())
         return
