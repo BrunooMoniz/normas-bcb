@@ -1,0 +1,93 @@
+---
+titulo: "Resolução Nº 306"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "306"
+data: 1974-10-24
+ementa: "OPERACOES DE CREDITO AO CONSUMIDOR (PESSOA FISICA) - INSTITUICAO DE LINHA ESPECIAL DE REFINANCIAMENTO ATE O LIMITE DE CR$2 BILHOES UTILIZAVEL NO PRAZO DE 90 (NOVENTA) DIAS, PARA AMPARAR OPERACOES DE CREDITO AO CONSUMIDOR PARA AQUISICAO DE BENS NAO OBJETO DE ALIENACAO FIDUCIARIA."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 815/83 DOU 07/04/1983 PAG 5543 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 815/83", "RESOLUÇÃO 423/80", "CIRCULAR 234/74", "CARTA CIRCULAR 423/80", "CIRCULAR 234/1974"]
+referencias: ["LEI 4595/64 ART/3 ITEM/IV ITEM/V.", "LEI 4595/64 ART/4 ITEM/VI ITEM/IX.", "LEI 4728/65 ART/14.", "CITA RESOLUÇÃO CMN 234/72 286/74 304/74."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=306"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 306
+
+```
+                        RESOLUCAO N. 000306
+                        -------------------
+
+         O  BANCO  CENTRAL DO BRASIL, na forma do art. 9º da  Lei  nº
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  CONSELHO
+MONETÁRIO  NACIONAL, em sessão desta data, tendo em vista o  disposto
+nos arts. 3º, incisos IV e V, e 4º, incisos VI e IX, da referida Lei,
+bem como no art. 14 da Lei nº 4.728, de 14 de julho de 1965,
+
+R E S O L V E U:
+
+         I  -  Instituir, no Banco Central do Brasil, linha  especial
+de  refinanciamento até o limite de Cr$2.000.000.000,00 (dois bilhões
+de  cruzeiros),  utilizável no prazo de 90 (noventa) dias,  a  contar
+desta  data,  destinada a amparar operações de crédito ao  consumidor
+(pessoa  física) para aquisição de bens (eletrodomésticos, mobiliário
+e  quaisquer  outros não objeto de alienação fiduciária),  realizadas
+por Sociedades de Crédito, Financiamento e Investimento.
+
+         II   -   Serão  refinanciáveis,  nos  prazos  em  que  forem
+realizadas, as operações sob a forma de "refinanciamento de vendas  a
+prestação" ou de "financiamento de compra contratado diretamente  com
+o consumidor ou usuário final".
+
+         III  -  O  limite individual para utilização desses recursos
+pelas Sociedades de Crédito, Financiamento e Investimento será de 50%
+(cinqüenta  por cento) do respectivo capital e reservas  livres,  não
+computado  o  valor assim utilizado na limitação global  estabelecida
+pela  Resolução  nº  234, de 1º de setembro de 1972.  O  limite  aqui
+fixado poderá ser alterado, a critério do Banco Central do Brasil, em
+função  da disponibilidade de recursos do programa, na forma do  item
+IX desta Resolução.
+
+         IV  -  As  operações  de  que  trata  esta  Resolução  serão
+formalizadas  mediante  a  celebração de  contratos  de  abertura  de
+crédito,  firmados pelo Banco Central do Brasil com as Sociedades  de
+Crédito, Financiamento e Investimento, ficando as parcelas utilizadas
+sujeitas  a  juros de 12% (doze por cento) ao ano, mais  comissão  de
+correção monetária de 12% (doze por cento) ao ano.
+
+         V  - Com base nas operações representativas de financiamento
+(s)  ao consumidor ou usuário final, destinados a refinanciamento  na
+forma desta Resolução, não poderão ser geradas Letras de Câmbio  para
+captação de recursos junto ao público.
+
+         VI  - Nas operações realizadas sob as formas consignadas  no
+item II desta Resolução, será obrigatoriamente utilizada a mais baixa
+das tabelas de custos máximos da instituição financeira, encaminhadas
+ao Banco Central do Brasil em obediência às normas em vigor.
+
+         VII  -  Se o prazo da operação de financiamento for superior
+a  24 (vinte e quatro) meses, observar-se-á o disposto nas Resoluções
+nºs 286, de 3 de maio de 1974, e 304, desta data, ou seja, a operação
+estará  sujeita,  parcial  ou totalmente, a  correção  monetária  aos
+mesmos índices das Obrigações Reajustáveis do Tesouro Nacional.
+
+         VIII  - Para inclusão no sistema especial de refinanciamento
+ora   instituído,   as   Sociedades  de  Crédito,   Financiamento   e
+Investimento  deverão  solicitar  autorização  específica  ao   Banco
+Central do Brasil.
+
+         IX  -  Os  recursos disponíveis pela não utilização ou  pelo
+não  enquadramento de qualquer instituição poderão ser realocados  às
+demais instituições, a critério do Banco Central do Brasil.
+
+         X  -  O  Banco  Central  do  Brasil  baixará  as  instruções
+complementares que se fizerem necessárias à execução do  disposto  na
+presente Resolução.
+
+                             Brasília-DF, 24 de outubro de 1974
+
+                             Paulo H. Pereira Lira
+                             Presidente
+```

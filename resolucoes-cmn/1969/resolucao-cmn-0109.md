@@ -1,0 +1,213 @@
+---
+titulo: "Resolução Nº 109"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "109"
+data: 1969-02-04
+ementa: "NORMAS REGULAMENTARES SOBRE EMISSAO E COLOCACAO NO MERCADO DE CAPITAIS E DE DEBENTURES CONVERSIVEIS EM ACOES."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Resolução CMN nº 378/1976 DOU 3/6/1976 p. 2273 - Revogação: item XVI.", "Resolução CMN nº 815/1983 DOU 7/4/1983 p. 5543 - Revogação total."]
+normas_vinculadas: ["RESOLUÇÃO 88/1968", "RESOLUÇÃO 378/1976", "RESOLUÇÃO 815/1983", "CIRCULAR 128/1969"]
+referencias: ["Lei nº 4.595/1964, art. 9º.", "Lei nº 4.728/1965, arts. 5º, 26  e 44.", "Cita Decreto-Lei nº 2.627/1940, arts. 94 e 104.", "Cita Decreto-Lei nº 257/1967.", "Cita Resolução CMN nº 88/1968.", "Cita Resolução CMN nº 378/1976, item III."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=109"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 109
+
+```
+                        RESOLUCAO N. 000109
+                        -------------------
+
+         O  BANCO  CENTRAL  DO  BRASIL, na forma  da  deliberação  do
+Conselho Monetário Nacional, em sessão de 4 de fevereiro de  1969,  e
+de  acordo  com  o  disposto no art. 9º da Lei nº  4.595,  de  31  de
+dezembro de 1964, e nos arts. 26 e 44 da Lei nº 4.728, de 14 de julho
+de 1965,
+
+R E S O L V E:
+
+         baixar  as  seguintes normas, que regulamentam e disciplinam
+a  emissão  e  colocação  no mercado de capitais  de  debêntures  que
+assegurem  aos  respectivos titulares o direito  de  convertê-las  em
+ações de capital da sociedade anônima emissora:
+
+         - Das características das debêntures
+
+         I  -  As  debêntures  conversíveis em ações,  bem  assim  os
+certificados,  cautelas e outros títulos que as representem,  deverão
+conter,  obrigatoriamente consignados, além da denominação "Debênture
+Conversível em Ação" e dos requisitos formais previstos  em  lei,  as
+condições  contratuais  que  serão expressamente  estabelecidas  pela
+Sociedade  Anônima na Assembléia Geral de Acionistas que autorizar  a
+emissão, observado o "quorum" previsto nos arts. 94 e 104 do Decreto-
+lei nº 2.627, de 26 de setembro de 1940, quanto a:
+
+         a)  prazo  de  vencimento, que não poderá ser inferior  a  3
+(três) anos, contado da data de emissão;
+
+         b)  valor unitário nominal, observado o mínimo de NCr$100,00
+(cem cruzeiros novos) na data da emissão;
+
+         c)  taxa  de  juros,  datas  ou  épocas  de  seu  pagamento,
+critérios de amortização ou de resgate antecipado, prazos ou épocas e
+condições para o exercício do direito de conversão;
+
+         d)  bases  da conversão, com relação ao número  de  ações  a
+serem  emitidas  por  debênture conversível,  ou  entre  o  valor  do
+principal da debênture e o das ações;
+
+         e)  classe e valor nominal das ações atribuíveis ao  titular
+da  debênture  conversível, especialmente,  se  serão  ordinárias  ou
+preferenciais, com ou sem direito a voto;
+
+         f)  datas  ou  épocas - em períodos não  inferiores  a  três
+meses  -  de aplicação dos coeficientes de correção monetária,  estes
+idênticos aos aprovados para a correção dos débitos fiscais;
+
+         g)  outras cláusulas, desde que não importem em restrição ao
+exercício do direito de conversão pelo titular, além das previstas na
+presente Resolução.
+
+         -  Da  Emissão, Registro, Subscrição e Colocação no  Mercado
+de Capitais
+
+         II  - O valor total do principal das debêntures conversíveis
+em  ações,  somado  ao valor de outras debêntures em  circulação,  se
+houver,  não poderá, na data da emissão, exceder o patrimônio líquido
+da  sociedade anônima emissora, valores esses devidamente  corrigidos
+na forma da legislação em vigor.
+
+         III  - As emissões de que trata a presente Resolução deverão
+ser  previamente registradas no Banco Central do Brasil,  observadas,
+no  que  couber, as normas da Resolução nº 88, de 30  de  janeiro  de
+1968,    e   o   projeto   de   emissão   deverá   ser   apresentado,
+obrigatoriamente, sob a responsabilidade de entidade ou  profissional
+habilitado, devidamente registrado no Banco Central do Brasil para  a
+realização  de serviços de auditoria e análise. Quando o  projeto  de
+emissão  for  acompanhado  de projeto de  lançamento  ao  público,  a
+apresentação  deverá  ser  feita por uma das seguintes  instituições,
+considerada  responsável pelo lançamento: Bancos de  Desenvolvimento,
+federais,  estaduais ou interestaduais, e Bancos de Investimento.  Em
+caso  de  consórcio, a apresentação incumbirá à instituição líder  do
+lançamento.
+
+         IV  - A instituição apresentadora do projeto de emissão e/ou
+lançamento deverá fornecer, no ato, ao Banco Central do Brasil:
+
+         a)  cópia do estudo de viabilidade econômica e financeira da
+operação; e, se for o caso,
+
+         b)  informações pormenorizadas sobre o esquema previsto para
+o  lançamento  da  emissão  junto ao  público,  com  a  indicação  da
+instituição ou instituições encarregadas de efetivá-lo;
+
+         c)   exemplar   autenticado  dos  prospectos   ou   folhetos
+destinados à divulgação do lançamento.
+
+         V  -  Na  elaboração  do esquema de lançamento  ao  público,
+referido  no  item  anterior,  deverão ser  observadas  as  seguintes
+condições:
+
+         a)  a coobrigação nos títulos é faculdade privativa de Banco
+de  Desenvolvimento, federal, estadual ou interestadual, ou de  Banco
+de  Investimento,  observados os critérios estabelecidos  pelo  Banco
+Central do Brasil;
+
+         b)  a  distribuição  e  colocação no  mercado,  inclusive  a
+subscrição  para  esse fim, poderá ser feita apenas  pelas  entidades
+componentes do sistema de distribuição capituladas no art. 5º da  Lei
+nº  4.728,  de  14  de  julho  de 1965, e respectiva  regulamentação,
+exigindo-se,   no   caso   de  Instituição  Financeira,   autorização
+específica;
+
+         c)  na  hipótese de colocação dos títulos por preço inferior
+ao  valor nominal, deverá ser expressamente indicado, para apreciação
+do Banco Central, o tipo previsto para a sua colocação;
+
+         d)  é  obrigatória  a  entrega  ao  subscritor,  no  ato  da
+subscrição, de um exemplar do prospecto ou folheto referido na alínea
+"c" do item anterior; e
+
+         e)  as  sociedades  emissoras  são  obrigadas  a  manter  ou
+efetuar o seu registro pelo menos na Bolsa de Valores em cuja zona de
+ação esteja localizada sua sede.
+
+         - Do Resgate e da Conversão
+
+         VI  -  A debênture conversível em ações representa obrigação
+de  pagamento, em dinheiro, pela empresa emissora, em seu vencimento,
+sendo privativa do debenturista a opção pela sua conversibilidade.
+
+         VII  -  É assegurado ao titular da debênture conversível  em
+ações  o  exercício  do  direito  de  conversão,  a  qualquer  tempo,
+admitindo-se  a fixação de prazo de inconversibilidade máximo  de  90
+(noventa) dias a partir da data de emissão do título.
+
+         VIII  - A data da conversão em ações será a da apresentação,
+pessoal  ou  por  mandatário, da debênture à empresa emissora,  ou  a
+mandatário  seu,  especial, constituído na conformidade  do  contrato
+inicial.  É admitida fixação de prazo, máximo de 60 (sessenta)  dias,
+para  entrega  dos títulos definitivos resultantes  da  conversão  em
+ações.
+
+         IX  - A conversão de debêntures em ações independerá de nova
+Assembléia  Geral  de  Acionistas  e  será  efetivada  pela   empresa
+emissora, a pedido do titular respectivo.
+
+         X  -  Dentro de 30 (trinta) dias de cada aumento de  capital
+efetuado nos termos do parágrafo anterior, a Diretoria da sociedade o
+registrará mediante requerimento ao Registro de Comércio.
+
+         XI  -  Não são admitidas cláusulas, além das previstas nesta
+Resolução,  que  importem  em restrição ao exercício  do  direito  de
+conversão em ações pelo titular da debênture.
+
+         XII  -  É facultado à sociedade anônima emissora marcar,  no
+contrato  inicial, datas certas, coincidentes com as de pagamento  de
+juros,  insuscetíveis de modificação, nas quais ela poderá chamar  os
+títulos  a  resgate,  antes do vencimento, com  aviso  prévio  de  90
+(noventa) dias, assegurada ao titular, na oportunidade, a opção  pela
+conversão e observadas as seguintes normas:
+
+         a)  os  critérios de antecipação de resgate serão os fixados
+pela  Assembléia  Geral  de Acionistas que  autorizou  a  emissão  de
+debêntures;
+
+         b)  a seleção dos títulos a serem resgatados antecipadamente
+far-se-á por sorteio.
+
+         XIII  -  Os  juros e a correção monetária cessarão  na  data
+marcada para o resgate antecipado, ou da conversão, ou do vencimento,
+prevalecendo a que primeiro ocorrer.
+
+         - Disposições Gerais
+
+         XIV  -  Na proporção do número de ações que possuírem, terão
+os  acionistas  da empresa preferência para aquisição  de  debêntures
+conversíveis em ações.
+
+         XV  -  As  normas  desta Resolução são  aplicáveis,  no  que
+couber,  às debêntures, em geral, inclusive as referidas no  Decreto-
+lei nº 157, de 10 de fevereiro de 1967.
+
+         XVI  - Todas as operações de mercado relativas às debêntures
+conversíveis  em  ações,  após serem as  mesmas  colocadas  junto  ao
+público,  serão  obrigatoriamente  realizadas  através  de  Bolsa  de
+Valores, nas praças onde existirem.
+
+         XVII   -   O   Banco   Central  do  Brasil  baixará   normas
+complementares, que julgar necessárias, inclusive quanto à  exigência
+de  documentos  e  informações  para  consulta  dos  interessados   e
+conseqüente avaliação do risco do investimento. Outrossim,  fornecerá
+modelos  padronizados com vista à uniformização do processamento  dos
+pedidos de registro.
+
+                           Rio de Janeiro-GB, 4 de fevereiro de 1969
+
+                           BANCO CENTRAL DO BRASIL
+
+                           Ernane Galvêas
+                           Presidente
+```

@@ -1,0 +1,110 @@
+---
+titulo: "Resolução Nº 212"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "212"
+data: 1972-02-02
+ementa: "BAIXA NORMAS REDUZINDO OS NIVEIS DE REMUNERACAO OFERECIDOS PELOS BANCOS DE INVESTIMENTO E SOCIEDADES DE CREDITO FINANCIAMENTO E INVESTIMENTO, AO INVESTIDOR, PARA CAPTACAO DE RECURSOS ATRAVES DA COLOCACAO DE LETRAS DE CAMBIO NO MERCADO."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 367/76 DOU 22/04/1976 PAG 1653 - REVOGACAO TOTAL."]
+normas_vinculadas: ["CIRCULAR 174/72", "CIRCULAR 59/1966", "RESOLUÇÃO 367/1976", "RESOLUÇÃO 245/73", "RESOLUÇÃO 136/1970", "RESOLUÇÃO 115/1969"]
+referencias: ["LEI 4595/64 ART/4 ITEM/VI ITEM/IX.", "LEI 4595/64 ART/9.", "LEI 4728/65 ART/2 ITEM/III ITEM/V.", "LEI 4728/65 ART/10 ITEM/VI.", "CITA RESOLUÇÃO CMN 115/69 ITEM/III ITEM/IV ITEM/V.", "CITA RESOLUÇÃO CMN 136/70.", "CITA DL 448/69.", "REVOGA CIRCULAR BCB 59/66."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=212"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 212
+
+```
+                        RESOLUCAO N. 000212
+                        -------------------
+
+         O  BANCO  CENTRAL DO BRASIL, na forma do art. 9º da  Lei  nº
+4.595,  de 31.12.64, torna público que o CONSELHO MONETÁRIO NACIONAL,
+em sessão realizada nesta data, tendo em conta o disposto no art. 4º,
+incisos  VI e IX, da Lei nº 4.595, de 31.12.64, nos arts. 2º, incisos
+III e V, e 10, inciso VI, da Lei nº 4.728, de 14.7.65,
+
+R E S O L V E U:
+
+         I  -  Determinar aos Bancos de Investimento e Sociedades  de
+Crédito, Financiamento e Investimento, para vigência a partir  de  16
+de  fevereiro de 1972, a redução dos níveis de remuneração oferecidos
+ao  investidor,  para captação de recursos através  da  colocação  de
+Letras  de  Câmbio  no mercado, tendo como base  a  remuneração  mais
+freqüente  abonada durante o mês de dezembro de 1971,  nos  seguintes
+termos:
+
+         a) quando  a  correção  prefixada  tiver   sido
+inferior ou igual a 27,69% capitalizados ao ano (tipo 13
+semestral), aplicar-se-á o redutor de ..................        12%;
+
+         b) quando a   correção  prefixada  tiver   sido
+superior a 27,69% capitalizados ao ano  (tipo  semestral
+13), aplicar-se-á o redutor de .........................        13%.
+
+         A  nova  taxa efetiva de remuneração não poderá ser superior
+ao  teto de 26,56% capitalizados ao ano (12,5 semestral), respeitada,
+sempre,  quando  inferior  a este, a taxa obtida  pela  aplicação  do
+redutor de 13%.
+
+         II  - Para os fins da apuração dos rendimentos oferecidos na
+captação   de   recursos,  considerar-se-á  como  taxa   efetiva   de
+remuneração  a  que resultar do valor total realmente  atribuído  (ou
+rendimento  bruto, onde, inclusive, se considerará o  imposto  a  ser
+retido  na  fonte  por conta do investidor), em  razão  do  tempo  de
+aplicação  e  de quaisquer outras concessões acessórias eventualmente
+conferidas na Letra de Câmbio.
+
+         III  - As tabelas de custos para financiamento, em vigor nas
+instituições referidas no item I, deverão sofrer uma redução de valor
+absoluto,  pelo  menos,  equivalente ao  resultado  da  aplicação  do
+redutor nas taxas de captação, a partir de 16 de fevereiro de 1972.
+
+         IV  -  Para os efeitos do item anterior, levar-se-á em conta
+o  "custo  efetivo" da operação, assim entendido: a soma da  correção
+monetária,  juros,  comissões, IOF e outras  despesas  contabilizadas
+pela  instituição  financeira,  apurando-se  a  taxa  pelo  que   ela
+representa  em razão do cotejo entre o produto líquido liberado  e  o
+respectivo reembolso, consideradas eventuais amortizações parciais.
+
+         V  -  Continuam em vigor as ressalvas constantes  do  inciso
+III, da Resolução nº 115, de 21.5.69 (operações com recursos externos
+ou  na  condição de agente financeiro), bem como as vedações  de  que
+tratam os itens IV e V do mesmo documento.
+
+         VI  -  Os Bancos de Investimento e as Sociedades de Crédito,
+Financiamento e Investimento enviarão ao Banco Central  do  Brasil  -
+Inspetoria  de Mercado de Capitais - no prazo máximo de  15  dias  da
+data desta Resolução, os seguintes elementos:
+
+         a)   exemplares  das  instruções  expedidas  com  vistas  ao
+atendimento das normas relativas à captação de recursos;
+
+         b)  exemplares  das  novas  tabelas  de  financiamento  para
+vigência  a  partir de 16 de fevereiro de 1972 e da publicidade  que,
+pelo  menos uma vez em 2 (dois) jornais de grande circulação no País,
+deverá  ser feita sobre as taxas máximas que passarão a ser  cobradas
+em cada modalidade de financiamento;
+
+         c)   mapa  demonstrativo  das  tabelas  vigentes  antes  das
+reduções  determinadas pelas Resoluções 115, de 21.5.69,  e  136,  de
+18.2.70,  comparadas  com  as  resultantes  do  cumprimento  daqueles
+dispositivos, e mais as resultantes da presente Resolução.
+
+         VII  -  Fica revogada a decisão consubstanciada na  Circular
+nº 59, de 8.12.66, liberando-se, em conseqüência, por solicitação dos
+interessados,  os depósitos até aqui mantidos no Banco  Central,  por
+força daquele Regulamento.
+
+         VIII  -  O Banco Central do Brasil considerará falta  grave,
+para  os  efeitos do Decreto-lei nº 448, de 3.2.69, independentemente
+de  outras sanções cabíveis, quaisquer atos que representem fraude às
+normas fixadas nesta Resolução.
+
+                             Brasília-DF, 2 de fevereiro de 1972
+
+                             Ernane Galvêas
+                             Presidente
+```

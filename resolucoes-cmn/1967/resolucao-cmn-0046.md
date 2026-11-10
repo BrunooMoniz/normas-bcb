@@ -1,0 +1,207 @@
+---
+titulo: "Resolução Nº 46"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "46"
+data: 1967-01-17
+ementa: "FUNDO DE GARANTIA DO TEMPO DE SERVICO (FGTS) - NORMAS PARA A EXECUCAO, PELO SISTEMA FINANCEIRO NACIONAL, DOS ENCARGOS DECORRENTES DA INSTITUICAO E DA GESTAO DO FUNDO."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Resolução CMN nº 160/1970 DOU 21/9/1970 p. 2477 - Alteração: item IV, \"b\".", "Resolução CMN nº 257/1973 DOU 23/5/1973 p. 1545 - Revogação: item III, \"f\".", "Resolução CMN nº 269/1973 DOU 5/11/1973 p. 3710 - Alteração: item IV, \"b\".", "Resolução CMN nº 337/1975 DOU 22/8/1975 p. 3124 - Revogação: item IV, \"b\".", "Resolução CMN nº 1.980/1993 DOU 30/4/1993 p. 5783/6 (Edição Extra) - Revogação total."]
+normas_vinculadas: ["RESOLUÇÃO 160/1970", "RESOLUÇÃO 257/1973", "RESOLUÇÃO 269/1973", "RESOLUÇÃO 337/1975", "RESOLUÇÃO 1980/1993", "CIRCULAR 71/1967", "CARTA CIRCULAR 1430/1986"]
+referencias: ["Lei nº 4.595/1964, art. 9º.", "Lei nº 5107/1966.", "Decreto-Lei nº 20/1966.", "Decreto nº 59.820/1966."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=46"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 46
+
+```
+                        RESOLUCAO N. 000046
+                        -------------------
+
+         O  BANCO  CENTRAL  DA  REPÚBLICA  DO  BRASIL,  na  forma  da
+deliberação  do  Conselho Monetário Nacional,  em  sessão  de  12  de
+janeiro de 1967, tendo em vista o disposto na Lei nº 5.107, de 13  de
+setembro  de 1966, com as alterações do Decreto-lei nº 20, de  14  de
+setembro de 1966, e seu Regulamento, aprovado pelo Decreto nº 59.820,
+de 20 de dezembro de 1966, e de acordo com o art. 9º da Lei nº 4.595,
+de 31 de dezembro de 1964,
+
+R E S O L V E:
+
+         estabelecer  as  seguintes  normas  para  a  execução,  pelo
+Sistema  Financeiro Nacional, dos encargos decorrentes da instituição
+e da gestão do Fundo de Garantia do Tempo de Serviço - (FGTS):
+
+         I - DA CONSTITUIÇÃO DO FGTS
+
+         a)  O Fundo de Garantia do Tempo de Serviço será de natureza
+contábil,  constituído  junto ao Banco Nacional  da  Habitação  pelos
+depósitos que as empresas sujeitas ao regime da Consolidação das Leis
+do  Trabalho  realizem  para garantia do tempo  de  serviço  de  seus
+empregados, nos termos da Lei;
+
+         b)  incorporam-se  ao  FGTS os rendimentos  provenientes  de
+aplicações  realizadas e as importâncias que, em virtude  das  normas
+regulamentares, a ele devam ser adicionados;
+
+         c)  as  cifras correspondentes aos valores constitutivos  do
+FGTS  constarão nos livros e papéis do Banco Nacional da Habitação  e
+em  contas vinculadas, junto a estabelecimentos bancários, que  forem
+abertas  em  nome de empregados, em nome das empresas  e  do  próprio
+Banco Nacional da Habitação, conforme o Regulamento;
+
+         d)  as  normas e critérios de aplicação do FGTS  caberão  ao
+Banco  Nacional da Habitação, observadas as normas gerais de política
+monetária traçadas pelo Conselho Monetário Nacional;
+
+         e)   o   Banco   Nacional   da   Habitação   receberá   pela
+administração  do  FGTS,  no  exercício  de  1967  e  nos  termos  do
+Regulamento,   uma  taxa  mensal  correspondente  a   0,15%   (quinze
+centésimos) do valor do FGTS.
+
+         II - DOS BANCOS DEPOSITÁRIOS e DOS AGENTES FINANCEIROS.
+
+         a)  poderão  ser  Bancos  Depositários  do  FGTS  os  bancos
+oficiais e os bancos privados de depósitos e descontos;
+
+         b)  poderão  ser  Agentes  Financeiros  do  FGTS,  além  das
+entidades  integrantes do Sistema Financeiro da  Habitação,  o  Banco
+Nacional do Desenvolvimento Econômico e o Banco do Brasil S.A.,  como
+Agentes  especiais  e,  ainda, os bancos  regionais  e  estaduais  de
+desenvolvimento,  as  companhias  estaduais  de  desenvolvimento,  os
+bancos de investimento, as sociedades de crédito, de financiamento  e
+de investimento, e os bancos comerciais;
+
+         c)   os   Bancos  Depositários  e  os  Agentes   Financeiros
+firmarão,   com   o  Banco  Nacional  da  Habitação,  convênios   que
+estabeleçam as bases para a prestação do serviço;
+
+         d)  o  Banco Nacional da Habitação poderá credenciar,  entre
+os  estabelecimentos  bancários previamente  autorizados  pelo  Banco
+Central, os Agentes Financeiros do FGTS.
+
+         III - DOS DEPÓSITOS
+
+         a)  os  recolhimentos  devidos pelas  empresas  sujeitas  ao
+regime   da   Consolidação  das  Leis  Trabalhistas,  de  importância
+correspondente  a  8%  da remuneração paga aos seus  empregados,  nos
+termos  do  Regulamento aprovado pelo Decreto nº  59.820,  de  20  de
+dezembro  de  1966, serão efetuados, até o último  dia  útil  do  mês
+subseqüente,  em  banco,  ou  bancos  de  sua  escolha,   dentre   os
+credenciados pelo Banco Central e que venham a firmar convênio com  o
+Banco Nacional da Habitação;
+
+         b)  as importâncias devidas serão recolhidas mediante guias,
+conforme  modelo  que  o  Banco Nacional da  Habitação  estabelecerá,
+acompanhadas  de  relações  separadas de empregados  optantes  e  não
+optantes, como caracterizados no Regulamento;
+
+         c)   os   citados   recolhimentos   constituirão   depósitos
+vinculados  ao  FGTS  em  contas que, a pedido  das  empresas,  serão
+abertas e mantidas nos estabelecimentos arrecadadores, com a seguinte
+identificação:
+
+         -  em  nome  do empregado que houver optado pelo  regime  do
+FGTS,   devendo  constar  o  número  e  a  série  de   sua   carteira
+profissional;
+
+         -  em nome da própria empresa pelo valor global das parcelas
+correspondentes    aos   empregados   não   optantes,    que    serão
+individualizados;
+
+         d)  até  nova  deliberação, a individualização das  parcelas
+relativas aos empregados não optantes poderá ser feita por  meio  das
+relações  de  recolhimento que, arquivadas nos bancos  arrecadadores,
+constituirão registro permanente;
+
+         e)  extraordinariamente, as empresas poderão  depositar,  em
+conta  de  empregado  optante,  o valor  que  corresponder  ao  tempo
+anterior à opção, para desobrigar-se da responsabilidade relativa  ao
+tempo de serviço;
+
+         f)  é vedado o depósito em banco do mesmo grupo econômico de
+que participem a empresa ou seus dirigentes;
+
+         g)  os depósitos provenientes dos recolhimentos efetuados de
+acordo  com  a  regulamentação  específica  do  FGTS  vencerão  juros
+capitalizados trimestralmente, às taxas indicadas a seguir, e estarão
+sujeitos  a correção monetária, também trimestral, na forma  e  pelos
+critérios aplicados ao Sistema Financeiro da Habitação;
+
+         h)  para efeito de atribuição de juros, as contas abertas em
+nome  dos  empregados  optantes  terão  o  seguinte  grupamento,   em
+correspondência  às  classes indicadas  no  art.  18  do  Regulamento
+aprovado pelo Decreto nº 59.820, de 20 de dezembro de 1966:
+
+         - Grupo A - 3% ao ano
+
+         - Grupo B - 4% ao ano
+
+         - Grupo C - 5% ao ano
+
+         - Grupo D - 6% ao ano
+
+         i)  serão aplicadas às contas abertas em nome da empresa  as
+mesmas  taxas  de  juro dos grupos mencionados  no  item  precedente,
+tomando-se  por  base  as  relações  classificadas  que  as  empresas
+fornecerem por ocasião dos recolhimentos;
+
+         j)  para efeito de computação de juros e correção monetária,
+os  depósitos  serão considerados como efetuados no primeiro  dia  do
+trimestre civil subseqüente e os saques como realizados no último dia
+do trimestre civil anterior;
+
+         l)  a  correção monetária e os juros correrão por  conta  do
+FGTS;
+
+         m)  os  depósitos  do  FGTS  serão garantidos  pelo  Governo
+Federal  e o Banco Central instituirá, oportunamente, seguro especial
+para suportar a garantia oferecida;
+
+         n)  a  movimentação das contas e a utilização do saldo,  nos
+casos   previstos  no  Regulamento,  observarão,  ainda,   instruções
+complementares do Banco Nacional da Habitação.
+
+         IV - DA TRANSFERÊNCIA DOS VALORES ARRECADADOS
+
+         a)   o   valor  dos  fundos  arrecadados,  constituídos   em
+depósitos  vinculados,  será transferido ao  Banco  do  Brasil  S.A.,
+dentro  dos prazos estipulados na letra "b", abaixo, para crédito  do
+FGTS e à disposição do Banco Nacional da Habitação;
+
+         b)  a  título  de compensação pelos serviços  prestados,  os
+bancos  depositários  manterão  em  seu  poder,  livre  de  ônus,  os
+depósitos arrecadados, observado o seguinte esquema:
+
+         -  até o dia 15 de cada mês, os depósitos recebidos entre os
+dias 1 a 15 do mês anterior;
+
+         -  até  o  dia  15  do segundo mês após o  do  depósito,  os
+recebidos a partir do dia 16.
+
+         V - DA APLICAÇÃO DOS RECURSOS
+
+         a)  os  recursos do FGTS serão aplicados de  acordo  com  as
+normas gerais aprovadas pelo Conselho Monetário Nacional;
+
+         b)  as operações realizadas através dos Agentes Financeiros,
+observarão,  além das instruções do Banco Nacional da  Habitação,  as
+condições de segurança bancária;
+
+         c)   os   Agentes  Financeiros  serão  financeiramente   co-
+responsáveis  pela  recuperação  dos  créditos  deferidos   por   seu
+intermédio;
+
+         d)  o Banco Nacional da Habitação proporá, oportunamente, ao
+Conselho  Monetário  Nacional a retribuição a ser  paga  aos  Agentes
+Financeiros pela aplicação de recursos do FGTS.
+
+                            Rio de Janeiro-GB, 17 de janeiro de 1967
+
+                            BANCO CENTRAL DA REPÚBLICA DO BRASIL
+
+                            Dênio Nogueira
+                            Presidente
+```
