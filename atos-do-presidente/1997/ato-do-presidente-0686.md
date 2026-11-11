@@ -1,0 +1,41 @@
+---
+titulo: "ATO-PRESI N. 000686"
+orgao: "Banco Central do Brasil"
+tipo: "Ato do Presidente"
+numero: "686"
+data: 1997-05-30
+ementa: "I - DISPENSAR OS SRS. FRANCISCO JOSE BIZER- RA DE CARVALHO E LEONARDO LIMA E SA DA COMISSAO NOMEADA PARA PROCEDER A INQUERITO NA EMPRESA QUINAN ADMINISTRADORA DE CONSORCIOS LTDA. (CGC N. 33.637.547/0001-51), EM LIQUIDACAO EXTRAJUDICIAL, COM SEDE EM GOIANIA (GO);"
+revogada: false
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Ato%20do%20Presidente&numero=686"
+baixado_em: 2026-11-10
+---
+# ATO-PRESI N. 000686
+
+```
+                        ATO-PRESI N. 000686
+                        -------------------
+
+                          O PRESIDENTE DO BANCO CENTRAL DO BRASIL, NO
+USO  DE  SUAS ATRIBUICOES, COM BASE NO ART. 41 DA DA LEI N. 6.024, DE
+13 DE MARCO 1974,
+
+R E S O L V E:
+
+                          I - DISPENSAR OS SRS. FRANCISCO JOSE BIZER-
+RA DE CARVALHO E LEONARDO LIMA E SA DA COMISSAO NOMEADA PARA PROCEDER
+A INQUERITO NA EMPRESA QUINAN ADMINISTRADORA DE CONSORCIOS LTDA. (CGC
+N.  33.637.547/0001-51),  EM  LIQUIDACAO  EXTRAJUDICIAL,  COM SEDE EM
+GOIANIA (GO);
+
+                          II  - NOMEAR, EM SUBSTITUICAO, OS SRS. SIL-
+VERIO  RODRIGUES  CAMPOS (MATRICULA N. 9.157.945-7) E RAIMUNDO NONATO
+ALMEIDA  FILHO (MATRICULA N. 8.393.928-8), FUNCIONARIOS DO BANCO CEN-
+TRAL DO BRASIL, PARA COMPOR A REFERIDA COMISSAO.
+
+                            BRASILIA (DF), 30 DE MAIO DE 1997.
+
+                            GUSTAVO JORGE LABOISSIERE LOYOLA
+                                      PRESIDENTE
+```
