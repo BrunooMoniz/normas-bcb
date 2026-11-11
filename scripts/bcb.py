@@ -8,7 +8,7 @@ Uso:
   uv run scripts/bcb.py --indice            # só (re)monta _indice/busca.jsonl
   uv run scripts/bcb.py                     # índice (se faltar) + todas as normas
   uv run scripts/bcb.py --tipos "Resolução CMN" Circular --limite 20
-  uv run scripts/bcb.py --relatorio         # só regrava COBERTURA.md
+  uv run scripts/bcb.py --relatorio         # só regrava COBERTURA.md e o grafo de relações (grafo/)
 
 Idempotente e retomável: o JSON de cada norma fica em _fonte/ e não é baixado de novo.
 O WAF do BCB bloqueia o IP por um tempo quando as requisições vêm rápido; ao detectar o bloqueio,
@@ -368,6 +368,8 @@ def relatorio():
         tot = [a + b for a, b in zip(tot, v[1:])]
         linhas.append(f"| `{pasta}/` | {', '.join(sorted(v[0]))} | " + " | ".join(f"{x:,}".replace(",", ".") for x in v[1:]) + " |")
     linhas.append("| **Total** | | " + " | ".join(f"**{x:,}**".replace(",", ".") for x in tot) + " |")
+    import grafo  # relações entre normas: grava grafo/*.jsonl e devolve a tabela de arestas
+    linhas += grafo.gerar(RAIZ, "bcb")
     (RAIZ / "COBERTURA.md").write_text("\n".join(linhas) + "\n", encoding="utf-8")
     import readme  # números do README e progresso.svg saem da mesma medição
     readme.main(readme.CONFIG)
@@ -446,7 +448,7 @@ def main():
     ap.add_argument("--tipos", nargs="*", help="só estes tipos (como aparecem no título, ex.: 'Resolução CMN')")
     ap.add_argument("--limite", type=int, help="só as N primeiras de cada tipo")
     ap.add_argument("--forcar", action="store_true", help="baixa de novo o que está em cache")
-    ap.add_argument("--relatorio", action="store_true", help="só regrava COBERTURA.md")
+    ap.add_argument("--relatorio", action="store_true", help="só regrava COBERTURA.md e o grafo de relações")
     ap.add_argument("--fatia", metavar="K/N", help="só a fatia K de N (coleta em paralelo, uma por máquina)")
     ap.add_argument("--pular-existentes", action="store_true", help="pula normas que já têm .md no repositório")
     ap.add_argument("--novos", type=int, metavar="DIAS",
