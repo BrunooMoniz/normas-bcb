@@ -1,0 +1,60 @@
+---
+titulo: "COMUNICADO N. 002059"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2059"
+data: 1990-03-21
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2059"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002059
+
+```
+                        COMUNICADO N. 002059
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              COMUNICA  A CESSACAO DA LIQUIDACAO  EX-
+                              TRAJUDICIAL  DA EMPRESA QUE ESPECIFICA,
+                              A DISPENSA DO RESPECTIVO LIQUIDANTE E A
+                              PERMANENCIA  DA  INDISPONIBILIDADE  DOS
+                              BENS DOS EX-ADMINISTRADORES
+
+                    COMUNICAMOS,  RELATIVAMENTE  A EMPRESA SUDESTE  -
+DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA., COM SEDE EM SAO
+PAULO (SP):
+
+                    I  - O  BANCO CENTRAL DO BRASIL, COM BASE NO DIS-
+POSTO NO ART. 19, LETRA "A", DA LEI N. 6.024, DE 13.03.74, E CONFORME
+ATO DE 13.03.90 (D.O.U. DE 14.03.90), RESOLVEU DECLARAR CESSADA A LI-
+QUIDACAO  EXTRAJUDICIAL  A  QUE SE ENCONTRAVA SUBMETIDA, POR  ATO  DE
+23.03.87  (D.O.U. DE 25.03.87), E DISPENSAR O SR. NICOLINO  RODRIGUES
+DOS SANTOS FILHO DAS FUNCOES DE LIQUIDANTE;
+
+                   II  - EM FACE DO ANTERIOR ENCAMINHAMENTO, AO PODER
+JUDICIARIO,  DOS AUTOS DO INQUERITO NELA PROCEDIDO, PERMANECEM INDIS-
+PONIVEIS, NA FORMA DOS ARTS. 36 E 46 DA MESMA LEI, OS BENS DOS EX-AD-
+MINISTRADORES  A SEGUIR RELACIONADOS, QUE EXERCERAM SUAS FUNCOES  NOS
+DOZE MESES ANTERIORES AO ATO DE LIQUIDACAO EXTRAJUDICIAL:
+
+     ERNESTO LOZARDO ......................... CPF N. 232.398.838-72
+     JOSE EDUARDO SANTOS DA COSTA CRUZ........ CPF N. 046.656.437-68
+     LUIZ MIGUEL COSTA ROCHA ................. CPF N. 017.206.678-61
+     PAULO BARBOSA TAVOLARO .................. CPF N. 332.733.408-00
+
+                              BRASILIA (DF), 20 DE MARCO DE 1990
+
+                              DEPARTAMENTO  DE CONTROLE DE  PROCESSOS
+                              ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                              ROBERTO CARLOS VIEIRA MACEDO
+                              CHEFE
+
+DEPAD-90/019
+```

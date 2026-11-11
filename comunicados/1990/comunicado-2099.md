@@ -1,0 +1,56 @@
+---
+titulo: "COMUNICADO N. 002099"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2099"
+data: 1990-05-10
+ementa: "DISPENSA DO DEPOSITO SOB AS DISPOSICOES DA RESOLUCAO N. 1.564, DE 16.01.89, AS OPERACOES QUE INDICA."
+revogada: false
+responsavel: "DECAM"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2099"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002099
+
+```
+                        COMUNICADO N. 002099
+                        --------------------
+
+                              DISPENSA DO DEPOSITO SOB AS DISPOSICOES
+                              DA  RESOLUCAO N. 1.564, DE 16.01.89, AS
+                              OPERACOES QUE INDICA.
+
+                    I  - LEVAMOS AO CONHECIMENTO DOS INTERESSADOS QUE
+FICAM  DISPENSADAS DO DEPOSITO DE QUE TRATA A RESOLUCAO N. 1.564,  DE
+16.01.89, AS OPERACOES DE CAMBIO CELEBRADAS A PARTIR DESTA DATA RELA-
+TIVAS AS SEGUINTES TRANSFERENCIAS AO EXTERIOR:
+     A - DIVIDENDOS E BONIFICACOES DE ACOES DE COMPANHIAS BRASILEIRAS
+         (NAO SUBSIDIARIAS);
+     B - DIVIDENDOS  DE ACOES DE COMPANHIAS ESTRANGEIRAS (NAO  SUBSI-
+         DIARIAS);
+     C - LUCROS DE INVESTIMENTOS NO MERCADO DE CAPITAIS:
+        1 - DIVIDENDOS;
+        2 - BONIFICACOES EM DINHEIRO;
+     D - LUCROS DE INSTITUICOES FINANCEIRAS ESTRANGEIRAS;
+     E - LUCROS DE SUBSIDIARIAS E FILIAIS;
+     F - INVESTIMENTOS DIRETOS NO BRASIL:
+        1 - EM IMOVEIS;
+        2 - EM  SOCIEDADES DE INVESTIMENTO PARA APLICACAO NO  MERCADO
+            DE CAPITAIS;
+        3 - EM SUBSIDIARIAS OU FILIAIS;
+        4 - EM PARTICIPACOES EM EMPRESAS NO PAIS;
+     G - RESGATE  DE TITULOS MOBILIARIOS BRASILEIROS, SOB A FORMA  DE
+         ACOES OU DEBENTURES.
+
+                   II - EM CONSEQUENCIA, FICAM CANCELADAS AS ALINEAS
+"A" A "F" DO ITEM I E A ALINEA "D" DO ITEM II DO COMUNICADO N. 2.086,
+DE 25.4.90.
+
+                              BRASILIA (DF), 10 DE MAIO DE 1990
+
+                              DEPARTAMENTO DE CAMBIO
+
+                              ALCINDO FERREIRA
+                              CHEFE INTERINO
+```

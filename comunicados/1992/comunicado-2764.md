@@ -1,0 +1,52 @@
+---
+titulo: "COMUNICADO N. 002764"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2764"
+data: 1992-03-24
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2764"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002764
+
+```
+                        COMUNICADO N. 002764
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              COMUNICA,  EM ADITAMENTO, O ALCANCE  DA
+                              INDISPONIBILIDADE  SOBRE OS BENS DE EX-
+                              ADMINISTRADOR   DE  EMPRESA EM LIQUIDA-
+                              CAO EXTRAJUDICIAL QUE ESPECIFICA.
+
+                COMUNICAMOS, EM ADITAMENTO AO COMUNICADO N. 2.725, DE
+27.02.92,  RELATIVAMENTE A EMPRESA LIDER ADMINISTRADORA DE CONSORCIOS
+S/C  LTDA. - EM LIQUIDACAO EXTRAJUDICIAL, QUE, EM FACE DO DISPOSTO NO
+ARTIGO  36,   1., DA LEI N. 6.024, DE 13.03.74, ESTAO TAMBEM ALCANCA-
+DOS  PELA INDISPONIBILIDADE, OS BENS DO SR. ANTONIO CARLOS AMORIM  DA
+SILVA,  (CPF N. 856.034.228-15), BRASILEIRO, CASADO, EMPRESARIO, POR-
+TADOR  DA  CARTEIRA  DE IDENTIDADE RG N.  10.440.202,  EXPEDIDA  PELA
+SSP/SP,  RESIDENTE  E DOMICILIADO A RUA MEM DE SA N. 213, JARDIM  SAO
+CAETANO, NA CIDADE DE SAO CAETANO DO SUL (SP).
+
+2.              AS  INFORMACOES A RESPEITO DA EVENTUAL EXISTENCIA  DE
+BENS AI INSCRITOS, EM NOME DA REFERIDA PESSOA, DEVEM SER DIRIGIDAS AO
+LIQUIDANTE,  SR. JOSE PAULO DE SOUSA, A RUA FRADIQUE COUTINHO N. 137,
+PINHEIROS, NA CIDADE DE SAO PAULO (SP).
+
+                           BRASILIA (DF), 24 DE  MARCO   DE  1992
+
+                           DEPARTAMENTO DE CONTROLE DE  PROCESSOS
+                           ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                           NADIR BARUZZI
+                           CHEFE ADJUNTO
+
+                              RDP-1857835-TCI/LID92011.DOC
+```

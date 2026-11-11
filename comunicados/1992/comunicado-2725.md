@@ -1,0 +1,69 @@
+---
+titulo: "COMUNICADO N. 002725"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2725"
+data: 1992-02-27
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2725"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002725
+
+```
+                        COMUNICADO N. 002725
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              COMUNICA A DECRETACAO DA LIQUIDACAO EX-
+                              TRAJUDICIAL  DA EMPRESA QUE ESPECIFICA,
+                              A NOMEACAO DO RESPECTIVO LIQUIDANTE E O
+                              ALCANCE  DA INDISPONIBILIDADE SOBRE  OS
+                              BENS DOS EX-ADMINISTRADORES.
+
+                    COMUNICAMOS QUE:
+
+                    I - O  BANCO CENTRAL DO BRASIL, COM BASE NO ARTI-
+GO  15, INCISO I, ALINEAS "A" E "C", DA LEI N. 6.024, DE 13.03.74,  E
+CONFORME ATO DE 27.02.92, DECRETOU A LIQUIDACAO EXTRAJUDICIAL DA  LI-
+DER    ADMINISTRADORA    DE    CONSORCIOS   S/C   LTDA.,    CGC    N.
+51.445.674/0001-30,  COM SEDE EM SAO PAULO (SP), NOMEANDO O SR.  JOSE
+PAULO DE SOUSA, PARA AS FUNCOES DE LIQUIDANTE;
+
+                   II  - EM FACE DO DISPOSTO NO ART. 36 DA MESMA LEI,
+FORAM ALCANCADOS PELA INDISPONIBILIDADE, OS BENS DOS EX-ADMINISTRADO-
+RES ABAIXO QUALIFICADOS:
+
+          - JOSE CARLOS THEOPHILO, (CPF N. 841.953.638-53), BRASILEI-
+            RO, CASADO, EMPRESARIO, PORTADOR DA CARTEIRA DE IDENTIDA-
+            DE  N. 7.187.508, EXPEDIDA PELA SSP/SP, RESIDENTE E DOMI-
+            CILIADO A RUA SANTO EGIDIO, N. 709, APT. 11, BAIRRO SANTA
+            TEREZINHA, NA CIDADE DE SAO PAULO (SP);
+
+          - WALTER    DE    OLIVEIRA   LIMA   TEIXEIRA,    (CPF    N.
+            902.158.188-49), BRASILEIRO, SOLTEIRO, ADVOGADO, PORTADOR
+            DA  CARTEIRA  DE  IDENTIDADE  N.  87.936,  EXPEDIDA  PELA
+            OAB/SP,  RESIDENTE E DOMICILIADO A RUA HEITOR PEIXOTO, N.
+            725, 9. ANDAR, APT. 903-B, VILA DEODORO, NA CIDADE DE SAO
+            PAULO (SP);
+
+                  III  -  AS INFORMACOES A RESPEITO DA EVENTUAL EXIS-
+TENCIA DE BENS AI INSCRITOS, EM NOME DAS PESSOAS NOMEADAS NO ITEM AN-
+TERIOR,  DEVEM SER DIRIGIDAS AO SR. LIQUIDANTE, A RUA FRADIQUE COUTI-
+NHO, 137, PINHEIROS, NA CIDADE DE SAO PAULO (SP).
+
+                           BRASILIA (DF), 27 DE FEVEREIRO DE 1992
+
+                           DEPARTAMENTO DE CONTROLE  DE PROCESSOS AD-
+                           MINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                           NADIR BARUZZI
+                           CHEFE ADJUNTO
+
+                                        RPC-185783-5-TCD/LID92009.DOC
+```

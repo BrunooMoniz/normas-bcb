@@ -1,0 +1,39 @@
+---
+titulo: "COMUNICADO N. 002559"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2559"
+data: 1991-10-18
+ementa: "ESCLARECE SOBRE O PRAZO DE TRANSFEREN- CIA, PARA CREDITOS EM LIQUIDACAO, DAS DIVIDAS DE EMPRESAS CONCORDATARIAS - RESOLUCAO N. 1.748, DE 30.08.90."
+revogada: false
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2559"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002559
+
+```
+                        COMUNICADO N. 002559
+                        --------------------
+                              ESCLARECE  SOBRE O PRAZO DE TRANSFEREN-
+                              CIA,  PARA CREDITOS EM LIQUIDACAO,  DAS
+                              DIVIDAS  DE  EMPRESAS CONCORDATARIAS  -
+                              RESOLUCAO N. 1.748, DE 30.08.90.
+
+                    COMUNICAMOS QUE, PARA OS EFEITOS DA  RESOLUCAO N.
+1.748,  DE 30.08.90, OS CREDITOS  TITULADOS POR EMPRESAS  CONCORDATA-
+RIAS  DEVEM  SER CLASSIFICADOS LEVANDO-SE EM CONTA OS NOVOS PRAZOS  E
+CONDICOES  ESTABELECIDOS  NAS SENTENCAS JUDICIAIS HOMOLOGATORIAS  DAS
+RESPECTIVAS CONCORDATAS.
+
+                              BRASILIA (DF), 17 DE OUTUBRO DE 1991
+
+DEPARTAMENTO DE NORMAS DO SISTEMA       DEPARTAMENTO DE FISCALIZACAO
+FINANCEIRO
+
+LIGIA MARIA ROCHA E BENEVIDES           ADILSON RODRIGUES FERREIRA
+CHEFE, EM EXERCICIO                     CHEFE
+
+OBS.: RETRANSMITIDO EM DECORRENCIA DE ALTERACAO DO TEXTO ORIGINAL.
+```

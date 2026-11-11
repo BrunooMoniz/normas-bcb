@@ -1,0 +1,55 @@
+---
+titulo: "COMUNICADO N. 003126"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "3126"
+data: 1992-12-16
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=3126"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 003126
+
+```
+                        COMUNICADO N. 003126
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              COMUNICA O LEVANTAMENTO DA INDISPONIBI-
+                              LIDADE DE BENS DE EX-ADMINISTRADORES DE
+                              EMPRESA EM LIQUIDACAO EXTRAJUDICIAL QUE
+                              ESPECIFICA.
+
+                    COMUNICAMOS,  RELATIVAMENTE A EMPRESA DILETA CRE-
+DIFATOR LTDA. - EM LIQUIDACAO EXTRAJUDICIAL (COMUNICADO N. 002575, DE
+01.11.91),  QUE  O JUIZ DE DIREITO DA 3. VARA DE REGISTROS  PUBLICOS,
+FALENCIAS E CONCORDATAS DA COMARCA DE BELO HORIZONTE (MG), POR INTER-
+MEDIO  DO OFICIO N. 882.992-8/92, DE 15.12.92, INFORMOU-NOS QUE,  POR
+SENTENCA DE 23.11.92, TRANSITADA EM JULGADO, DETERMINOU O ARQUIVAMEN-
+TO  DO INQUERITO ADMINISTRATIVO INSTAURADO PELO BANCO CENTRAL DO BRA-
+SIL  NA CITADA EMPRESA E, EM CONSEQUENCIA, LEVANTOU O GRAVAME DA  IN-
+DISPONIBILIDADE QUE RECAI SOBRE OS BENS DOS EX-ADMINISTRADORES SRS.:
+
+     - BERNARDO CAMPOS DIAS (CPF N. 540.602.066-87);
+
+     - JOAO BOSCO DE CARVALHO MOL (CPF N. 014.642.486-72);
+
+     - JUVENTINO DIAS NETO (CPF N. 010.937.706-00);
+
+     - LUIZ FERNANDO DE OLIVEIRA (CPF N. 133.190.006-91).
+
+                      BRASILIA (DF), 16 DE DEZEMBRO DE 1992
+
+                      DEPARTAMENTO DE  CONTROLE DE PROCESSOS
+                      ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                      NADIR BARUZZI
+                      CHEFE ADJUNTO
+
+                                            RPC-1857835-TCI/DIL92.DOC
+```

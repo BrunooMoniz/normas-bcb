@@ -1,0 +1,66 @@
+---
+titulo: "COMUNICADO N. 002645"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2645"
+data: 1991-12-17
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2645"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002645
+
+```
+                        COMUNICADO N. 002645
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              COMUNICA A DECRETACAO DA LIQUIDACAO EX-
+                              TRAJUDICIAL  DA EMPRESA QUE ESPECIFICA,
+                              A NOMEACAO DO RESPECTIVO LIQUIDANTE E O
+                              ALCANCE  DA INDISPONIBILIDADE SOBRE  OS
+                              BENS DOS EX-ADMINISTRADORES.
+
+                    COMUNICAMOS QUE:
+
+                    I - O  BANCO CENTRAL DO BRASIL, COM BASE NO ARTI-
+GO  15, INCISO I, ALINEAS "A" E "B", DA LEI N. 6.024, DE 13.03.74,  E
+CONFORME ATO DE 17.12.91, DECRETOU A LIQUIDACAO EXTRAJUDICIAL DA  TU-
+PA  EMPREENDIMENTOS S/C LTDA., CGC N. 50.837.673/0001-79, COM SEDE NA
+CIDADE  DE TUPA (SP), NOMEANDO O SR. ANTONIO PINTO MARINHO NETO, PARA
+AS FUNCOES DE LIQUIDANTE;
+
+                   II  - EM FACE DO DISPOSTO NO ART. 36 DA MESMA LEI,
+FORAM ALCANCADOS PELA INDISPONIBILIDADE, OS BENS DOS EX-ADMINISTRADO-
+RES ABAIXO QUALIFICADOS:
+
+          - AURELIO SALVI LEMOS, (CPF N. 834.738.318-91), BRASILEIRO,
+            CASADO,  COMERCIANTE, PORTADOR DA CARTEIRA DE  IDENTIDADE
+            N.  RG  8.731.703, SSP/SP, RESIDENTE E DOMICILIADO A  RUA
+            DIOGO FARIA N. 671, APT. 102, SAO PAULO (SP);
+
+          - HAMILTON DE ALMEIDA, (CPF N. 229.896.761-04), BRASILEIRO,
+            CASADO,   PORTADOR  DA  CARTEIRA  DE  IDENTIDADE  N.  RG.
+            12.514.451, SSP/SP, RESIDENTE E DOMICILIADO A RUA LAVINIO
+            SALLES ARCURI, N. 613, APT. 52, SAO PAULO (SP);
+
+                  III  -  AS INFORMACOES A RESPEITO DA EVENTUAL EXIS-
+TENCIA DE BENS AI INSCRITOS, EM NOME DAS PESSOAS NOMEADAS NO ITEM AN-
+TERIOR, DEVEM SER DIRIGIDAS AO SR. LIQUIDANTE, A RUA SILVIO SACRAMEN-
+TO, 111, SAO PAULO (SP).
+
+                           BRASILIA (DF), 17 DE DEZEMBRO DE  1991
+
+                           DEPARTAMENTO DE CONTROLE  DE PROCESSOS
+                           ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                           FRANCISCO MUNIA MACHADO
+                           CHEFE
+
+                                        RPC-185783-5-TCD/TUP91052.DOC
+```

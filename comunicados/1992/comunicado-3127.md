@@ -1,0 +1,46 @@
+---
+titulo: "COMUNICADO N. 003127"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "3127"
+data: 1992-12-21
+ementa: ""
+revogada: false
+responsavel: "DEBAN"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=3127"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 003127
+
+```
+                        COMUNICADO N. 003127
+                        --------------------
+AOS
+BANCOS  COMERCIAIS, CAIXAS ECONOMICAS  E  INSTITUICOES  MULTIPLAS DE-
+TENTORAS DE CARTEIRA COMERCIAL
+
+                              ESCLARECE  SOBRE A INFORMACAO DOS DADOS
+                              RELATIVOS  AS EXIGIBILIDADES  COMPULSO-
+                              RIAS SOBRE RECURSOS A VISTA.
+
+                    COMUNICAMOS  QUE, EXCEPCIONALMENTE, OS DADOS  DAS
+EXIGIBILIDADES COMPULSORIAS SOBRE RECURSOS A VISTA RELATIVOS AOS DIAS
+23.12.92  E 30.12.92, PARA AS INSTITUICOES FINANCEIRAS INTEGRANTES DO
+GRUPO "A", PODERAO SER ALTERADOS, SEM IMPUTACAO  DE  QUALQUER PENALI-
+DADE,  ATE OS DIAS 30.12.92 E  06.01.93,  RESPECTIVAMENTE,   MEDIANTE
+SOLICITACAO A DELEGACIA REGIONAL A QUE ESTIVEREM  JURISDICIONADAS.
+
+                    OS  DADOS PROVISORIOS, ENVOLVENDO OS VALORES  SU-
+JEITOS A RECOLHIMENTO REFERENTES AOS DIAS 23.12.92 E 30.12.92, DEVEM,
+NO  ENTANTO, SER INFORMADOS ATE 28.12.92 E 04.01.93, RESPECTIVAMENTE,
+CONSOANTE  PRAZO FIXADO NO PARAGRAFO PRIMEIRO  DO  ART. 6.  DA CIRCU-
+LAR N. 2.043, DE 23.09.91.
+
+                              BRASILIA (DF), 21 DE DEZEMBRO DE 1992.
+
+                              DEPARTAMENTO DE OPERACOES BANCARIAS
+
+                              MARCELO MARTINS CURVELO
+                              CHEFE
+```

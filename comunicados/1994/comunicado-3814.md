@@ -1,0 +1,34 @@
+---
+titulo: "COMUNICADO N. 003814"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "3814"
+data: 1994-04-05
+ementa: "Divulga a paridade entre o Cruzeiro Real e a Unidade Real de Valor (URV) relativa ao dia 06 de abril de 1994."
+revogada: false
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=3814"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 003814
+
+```
+                        COMUNICADO N. 003814
+                        --------------------
+
+                              Divulga  a  paridade entre  o  Cruzeiro
+                              Real  e  a Unidade Real de Valor  (URV)
+                              relativa ao dia 06 de abril de 1994.
+
+               Com  base no que determinam o art. 4. da Medida Provi-
+soria  n. 457, de 29.03.94, e os paragrafos 2. e 4. do art. 1. do De-
+creto  n.  1.066, de 27.02.94, comunico que a Unidade Real  de  Valor
+(URV), no dia 06 de abril de 1994, corresponde a CR! 967,16 (novecen-
+tos e sessenta e sete cruzeiros reais e dezesseis centavos).
+
+                              Brasilia, 05 de abril de 1994
+
+                              GUSTAVO H. B. FRANCO
+                              Diretor de Assuntos Internacionais
+```

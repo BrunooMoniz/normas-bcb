@@ -1,0 +1,60 @@
+---
+titulo: "COMUNICADO N. 002018"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2018"
+data: 1990-02-09
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2018"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002018
+
+```
+                        COMUNICADO N. 002018
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              COMUNICA  A CESSACAO DA LIQUIDACAO  EX-
+                              TRAJUDICIAL  DA EMPRESA QUE ESPECIFICA,
+                              A DISPENSA DO RESPECTIVO LIQUIDANTE E A
+                              PERMANENCIA  DA  INDISPONIBILIDADE  DOS
+                              BENS DOS EX-ADMINISTRADORES
+
+                    COMUNICAMOS,  RELATIVAMENTE  A  EMPRESA  TABAJARA
+S.A. CREDITO IMOBILIARIO, COM SEDE EM RECIFE (PE):
+
+                    I  - O  BANCO CENTRAL DO BRASIL, COM BASE NO DIS-
+POSTO NO ART. 19, LETRA "A", DA LEI N. 6.024, DE 13.03.74, E CONFORME
+ATO DE 17.01.90 (D.O.U. DE 20.01.90), RESOLVEU DECLARAR CESSADA A LI-
+QUIDACAO  EXTRAJUDICIAL  A  QUE SE ENCONTRAVA SUBMETIDA, POR  ATO  DE
+20.06.75  (D.O.U. DE 27.06.75), E DISPENSAR O SR. FERNANDO  MAGALHAES
+FRANCA DE MELO DAS FUNCOES DE LIQUIDANTE;
+
+                   II  - EM FACE DO ANTERIOR ENCAMINHAMENTO, AO PODER
+JUDICIARIO,  DOS AUTOS DO INQUERITO NELA PROCEDIDO, PERMANECEM INDIS-
+PONIVEIS, NA FORMA DOS ARTS. 36 E 46 DA MESMA LEI, OS BENS DOS EX-AD-
+MINISTRADORES  A SEGUIR RELACIONADOS, QUE EXERCERAM SUAS FUNCOES  NOS
+DOZE MESES ANTERIORES AO ATO DE LIQUIDACAO EXTRAJUDICIAL:
+
+     ALAIN AUGUSTE DESIREE QUERETTE .......... CPF N. 000.631.264-00
+     ARY DRUMMOND HAACK ...................... CPF N. 000.343.124-04
+     FERNANDO ANTONIO TORRES RODRIGUES ....... CPF N. 000.517.804-53
+     MAURICIO DE BARROS MESQUITA .... ........ CPF N. 012.259.237-
+     PAULO ANTONIO MARCIEL QUERETTE .......... CPF N. 000.343.044-87
+
+                              BRASILIA (DF), 07 DE FEVEREIRO DE 1990
+
+                              DEPARTAMENTO  DE CONTROLE DE  PROCESSOS
+                              ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                              ROBERTO CARLOS VIEIRA MACEDO
+                              CHEFE
+
+R-185783-5-TCE/TAB90004.DOC
+```

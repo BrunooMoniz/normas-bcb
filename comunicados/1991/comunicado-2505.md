@@ -1,0 +1,59 @@
+---
+titulo: "COMUNICADO N. 002505"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2505"
+data: 1991-08-12
+ementa: "DIVULGA COMUNICACAO DO NARODNA BANKA JUGOSLAVIJE SOBRE A RETIRADA DE CIRCU- LACAO DE PAPEL MOEDA."
+revogada: false
+responsavel: "DECAM"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2505"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002505
+
+```
+                        COMUNICADO N. 002505
+                        --------------------
+
+                              DIVULGA  COMUNICACAO DO  NARODNA  BANKA
+                              JUGOSLAVIJE  SOBRE A RETIRADA DE CIRCU-
+                              LACAO DE PAPEL MOEDA.
+
+                    PARA  CONHECIMENTO   E   PROVIDENCIAS   CABIVEIS,
+TRANSCREVEMOS  O TEOR DA COMUNICACAO VI-181/MS/RM,  DE  09.07.91,  DO
+NARODNA BANKA JUGOSLAVIJE:
+
+"TREASURY DEPARTMENT                    BEOGRAD, JULY 9, 1991
+ VI-181/MS/RM
+
+TO ALL OUR FOREIGN CORRESPONDENTS
+
+     THIS  IS TO INFORM YOU THAT FROM JULY 15, 1991 THE NATIONAL BANK
+OF  YOGOSLAVIA WILL BE WITHDRAWING FROM CIRCULATION THE FOLLOWING NO-
+TES:
+
+- 1000000 (OLD) DINAR NOTES, WITH THE DATE OF ISSUE "1. XI 1989".
+
+     THE  NATIONAL  BANK OF YOGOSLAVIA WILL BE EXCHANGING SUCH  NOTES
+FOR THE CURRENT ONES FROM JULY 16 TO DECEMBER 31, 1991.
+
+     THE  NOTES IN THE DENOMINATION OF 1000000 DINARS TO BE EXCHANGED
+SHOULD BE SENT TO THE FOLLOWING ADDRESS:
+
+     NARODNA BANKA JUGOSLAVIJE
+     DIREKCIJA ZA POSLOVE TREZORA
+     11000 BEOGRAD
+     BULEVAR REVOLUCIJE 15
+     JUGOSLAVIJA
+
+                                   NATIONAL BANK OF YOGOSLAVIA"
+
+                              BRASILIA (DF), 09 DE AGOSTO DE 1991
+
+                              DEPARTAMENTO DE CAMBIO
+
+                              ALCINDO FERREIRA
+                              CHEFE, EM EXERCICIO
+```

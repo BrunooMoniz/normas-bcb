@@ -1,0 +1,52 @@
+---
+titulo: "COMUNICADO N. 002767"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2767"
+data: 1992-03-26
+ementa: "COMUNICA O IMPEDIMENTO PARA PRESTAR SERVICOS PARA O PROGRAMA DE GARANTIA DA ATIVIDADE AGROPECUARIA-PROAGRO, NA FOR- MA DO MCR 1-6-2."
+revogada: false
+responsavel: "DECAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2767"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002767
+
+```
+                        COMUNICADO N. 002767
+                        --------------------
+
+                              COMUNICA  O  IMPEDIMENTO  PARA  PRESTAR
+                              SERVICOS PARA O PROGRAMA DE GARANTIA DA
+                              ATIVIDADE AGROPECUARIA-PROAGRO, NA FOR-
+                              MA DO MCR 1-6-2.
+
+                    NA  FORMA DO MCR 1-6-2, COMUNICAMOS QUE ESTAO IM-
+PEDIDOS  DE PRESTAR SERVICOS PARA O PROGRAMA DE GARANTIA DA ATIVIDADE
+AGROPECUARIA-PROAGRO OS TECNICOS E AS EMPRESAS RELACIONADOS A SEGUIR:
+
+NOME                              CGC/CPF        MUNICIPIO UF
+ALVANI MANOEL LAURINDO            027.860.019-00 STA TEREZ.ITAIPU PR
+COTEPLAN CONS.TECS.PLAN.S/C LTDA  76.972.454     STA TEREZ.ITAIPU PR
+GILBERTO LAURINDO                 398.113.609-87 STA TEREZ.ITAIPU PR
+GISLENO ARTUR DRUMOND PIRES       130.430.646-15 JANAUBA MG
+JOSE CLAUDIO VIANA DE AZEVEDO     144.091.276-91 JANAUBA MG
+LEVY SILVA                        202.394.676-04 JANAUBA MG
+PEDRO FRANCISCO DA SILVA NETO     020.595.509-63 CAPINZAL SC
+SANDRO AUGUSTO CONSONI            608.322.319-91 STA TEREZ.ITAIPU PR
+TOBIAS LAURINDO                   426.216.409-82 STA TEREZ.ITAIPU PR
+VILMAR LAURINDO                   300.311.419-00 STA TEREZ.ITAIPU PR
+
+                    I  - ESTE  COMUNICADO ENTRARA EM VIGOR NA DATA DE
+SUA PUBLICACAO.
+
+                              BRASILIA (DF), 26 DE MARCO DE 1992.
+
+                              DEPARTAMENTO DE CADASTRO E INFORMACOES
+
+                              WILSON CARVALHO MOREIRA
+                              CHEFE
+
+C:PROAGRO2.DOC
+```

@@ -1,0 +1,53 @@
+---
+titulo: "COMUNICADO N. 004606"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "4606"
+data: 1995-05-29
+ementa: "LANCAMENTO EM CIRCULACAO DE MOEDAS COMEMO RATIVAS DOS 50 ANOS DA F.A.O."
+revogada: false
+responsavel: "MECIR"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=4606"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 004606
+
+```
+                        COMUNICADO N. 004606
+                        --------------------
+
+                            LANCAMENTO EM CIRCULACAO DE MOEDAS COMEMO
+                            RATIVAS DOS 50 ANOS DA F.A.O.
+
+               O  BANCO  CENTRAL DO BRASIL COMUNICA QUE, A PARTIR  DE
+31.5.95, PASSAM A CIRCULAR MOEDAS COM MOTIVOS ALUSIVOS  A  CELEBRACAO
+DOS 50 ANOS DA FOOD AND AGRICULTURE ORGANIZATION - FAO E TIRAGEM LIMI
+TADA A 1.000.000 DE PECAS DE CADA DENOMINACAO.
+
+2.             AS  MOEDAS, DE DENOMINACOES R! 0,10 E R! 0,25,  CUNHA-
+DAS EM ACO INOXIDAVEL, APRESENTAM DIAMETROS DE 22 E 23,5MM, PESOS  DE
+3,59 E 4,78G E ESPESSURAS DE 1,2 E 1,4MM, RESPECTIVAMENTE.
+
+3.             AS DEMAIS CARACTERISTICAS ASSIM SE RESUMEM:
+
+ANVERSOS:  R! 0,10 - FIGURA DE MAOS QUE OFERECEM BROTO DE VEGETAL  EM
+                     RAMIFICACOES FOLHOSAS E  AS  LEGENDAS  "BRASIL',
+                     "FAO-1945/1995" E "ALIMENTOS PARA TODOS".
+
+           R! 0,25 - CENA DE CULTIVO DE VEGETAIS E AS LEGENDAS  "BRA-
+                     SIL", "FAO-1945/1995" E "ALIMENTOS PARA TODOS".
+
+REVERSOS:  IDENTICOS AOS DAS MOEDAS DE R! 0,10 E  R! 0,25  ATUALMENTE
+           EM CIRCULACAO.
+
+4.             AS REFERIDAS MOEDAS PASSAM A CIRCULAR  JUNTAMENTE  COM
+AS DE MESMOS VALORES ORA EM CIRCULACAO.
+
+                  BRASILIA (DF), 29 DE MAIO DE 1995
+
+                  DEPARTAMENTO DO MEIO CIRCULANTE
+
+                  ANTONIO CARLOS MEDA
+                  CHEFE
+```

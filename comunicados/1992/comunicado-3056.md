@@ -1,0 +1,47 @@
+---
+titulo: "COMUNICADO N. 003056"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "3056"
+data: 1992-10-16
+ementa: "PRORROGACAO DO PRAZO DE PAGAMENTO DAS OPERACOES DE EMPRESTIMO DO GOVERNO FE- DERAL (EGF) DE ARROZ, FEIJAO E MILHO RELATIVAS A SAFRA 1991/92."
+revogada: false
+responsavel: "DENOR"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=3056"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 003056
+
+```
+                        COMUNICADO N. 003056
+                        --------------------
+                              PRORROGACAO  DO PRAZO DE PAGAMENTO  DAS
+                              OPERACOES  DE EMPRESTIMO DO GOVERNO FE-
+                              DERAL  (EGF)  DE ARROZ, FEIJAO E  MILHO
+                              RELATIVAS A SAFRA 1991/92.
+
+                    NA  FORMA DO SOLICITADO, COMUNICAMOS QUE A SECRE-
+TARIA  NACIONAL  DE POLITICA AGRICOLA DO MINISTERIO DA AGRICULTURA  E
+REFORMA  AGRARIA E A SECRETARIA NACIONAL DE ECONOMIA DO MINISTERIO DA
+ECONOMIA,  FAZENDA E PLANEJAMENTO, COM BASE EM DELEGACAO DE COMPETEN-
+CIA DO CONSELHO MONETARIO NACIONAL, DE QUE TRATA O ART. 1. DA RESOLU-
+CAO N. 1.958, DE 13.08.92, DECIDIRAM:
+
+                    I  - OS  PRAZOS DE PAGAMENTO DAS OPERACOES DE EM-
+PRESTIMO  DO GOVERNO FEDERAL (EGF) DE ARROZ, FEIJAO E MILHO RELATIVAS
+A SAFRA DE 1991/92, VENCIDOS ATE 30.09.92, DEVEM SER PRORROGADOS PARA
+31.10.92;
+
+                   II  - A  PRORROGACAO FICA RESTRITA AS REGIOES PRO-
+DUTORAS  NAS QUAIS OS PRECOS DE MERCADO NAO ESTEJAM COBRINDO O  PRECO
+DE REMICAO DOS RESPECTIVOS EGF'S.
+
+                              BRASILIA (DF), 16 DE OUTUBRO DE 1992
+
+                              DEPARTAMENTO  DE  NORMAS  DO SISTEMA
+                             FINANCEIRO
+
+                              SERGIO DARCY DA SILVA ALVES
+                              CHEFE
+```

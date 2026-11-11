@@ -1,0 +1,53 @@
+---
+titulo: "COMUNICADO N. 003319"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "3319"
+data: 1993-05-19
+ementa: ""
+revogada: false
+responsavel: "DEASF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=3319"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 003319
+
+```
+                        COMUNICADO N. 003319
+                        --------------------
+
+AOS
+BANCOS  MULTIPLOS, BANCOS COMERCIAIS, BANCOS DE INVESTIMENTO,  BANCOS
+DE DESENVOLVIMENTO E CAIXAS ECONOMICAS.
+
+                               ESCLARECE  A RESPEITO DAS  INFORMACOES
+                               REQUERIDAS  PELA CIRCULAR N. 2.132, EM
+                               FUNCAO  DO  DISPOSTO  NA  CIRCULAR  N.
+                               2.216, DE 19.08.92.
+
+                     A   PROPOSITO  DA  CARTA-CIRCULAR  N.  2.356  DE
+30.03.93  -  QUE ORIENTA PARA O REGISTRO DE OPERACOES DE  DEPOSITO  A
+PRAZO  CONTRATADAS  A TAXAS DE JUROS FLUTUANTES - ESCLARECEMOS QUE  A
+TRANSACAO  PESP500 , OPCAO 8, DO SISTEMA DE INFORMACOES BANCO CENTRAL
+- SISBACEN, DEVE SER ALIMENTADA DIARIAMENTE, MESMO NA HIPOTESE DE NAO
+TER HAVIDO OPERACOES DA ESPECIE, CASO EM QUE SERAO INFORMADOS VALORES
+NULOS.
+
+                     PARA  FINS DE INCLUSAO DE DADOS EM ATRASO OU AL-
+TERACAO  DE DADOS LANCADOS INCORRETAMENTE, INFORMAMOS QUE,  EXCEPCIO-
+NALMENTE,  A TRANSACAO ACIMA REFERIDA ACEITARA ESTAS CORRECOES NO PE-
+RIODO DE 20.05.93 A 31.05.93.
+
+                     ALERTAMOS,  POR OPORTUNO, QUE A NAO  OBSERVANCIA
+DAS  REGRAS ESTABELECIDAS SUJEITA O INFRATOR AS PENALIDADES PREVISTAS
+NO ARTIGO 2. DA CIRCULAR N. 2.286, DE 10.03.93.
+
+                                   BRASILIA (DF), 19 DE MAIO DE 1993
+
+                                DEPARTAMENTO DE  ESTUDOS ESPECIAIS E
+                                ACOMPANHAMENTO DO SISTEMA FINANCEIRO
+
+                                RONALDO FONSECA DE PAIVA
+                                CHEFE
+```

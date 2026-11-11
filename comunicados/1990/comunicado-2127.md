@@ -1,0 +1,59 @@
+---
+titulo: "COMUNICADO N. 002127"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2127"
+data: 1990-06-27
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2127"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002127
+
+```
+                        COMUNICADO N. 002127
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              COMUNICA  A CESSACAO DA LIQUIDACAO  EX-
+                              TRAJUDICIAL  DA EMPRESA QUE ESPECIFICA,
+                              A DISPENSA DO RESPECTIVO LIQUIDANTE E A
+                              PERMANENCIA  DA  INDISPONIBILIDADE  DOS
+                              BENS DOS EX-ADMINISTRADORES
+
+                    COMUNICAMOS,  RELATIVAMENTE A EMPRESA SOFINAL SO-
+CIEDADE FINANCEIRA NACIONAL S.A. CREDITO, FINANCIAMENTO E INVESTIMEN-
+TOS, COM SEDE EM SAO PAULO (SP):
+
+                    I  - O  BANCO CENTRAL DO BRASIL, COM BASE NO DIS-
+POSTO NO ART. 19, LETRA "B", DA LEI N. 6.024, DE 13.03.74, E CONFORME
+ATO DE 12.06.90 (D.O.U. DE 15.06.90), RESOLVEU DECLARAR CESSADA A LI-
+QUIDACAO  EXTRAJUDICIAL  A  QUE SE ENCONTRAVA SUBMETIDA, POR  ATO  DE
+19.04.77  (D.O.U. DE 28.04.77), E DISPENSAR O SR. JOSE PAULO DE SOUSA
+DAS FUNCOES DE LIQUIDANTE;
+
+                   II  - EM FACE DO ANTERIOR ENCAMINHAMENTO, AO PODER
+JUDICIARIO,  DOS AUTOS DO INQUERITO NELA PROCEDIDO, PERMANECEM INDIS-
+PONIVEIS, NA FORMA DOS ARTS. 36 E 46 DA MESMA LEI, OS BENS DOS EX-AD-
+MINISTRADORES  A SEGUIR RELACIONADOS, QUE NELA EXERCERAM SUAS FUNCOES
+NOS DOZE MESES ANTERIORES AO ATO DE LIQUIDACAO EXTRAJUDICIAL:
+
+     ALDO TRAVAGLIA (ESPOLIO)       .......... CPF N. 039.430.628-72
+     ALEXANDRE CHARILAOS VLAVIANOS  .......... CPF N. 039.429.618-49
+     ANTONIO ALVES DE LIMA          .. ....... CPF N. 005.158.418-20
+     EUCLIDES ALONSO FATORE         .......... CPF N. 025.214.408-25
+     REYNALDO ANTONIO FONTES        .......... CPF N. 039.432.758-68
+
+                              BRASILIA (DF), 27 DE JUNHO DE 1990
+
+                              DEPARTAMENTO  DE CONTROLE DE PROCESSOS
+                              ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                              ANTONIO RUY TEIXEIRA DE PINHO
+                              CHEFE
+```

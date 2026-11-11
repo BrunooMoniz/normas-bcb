@@ -1,0 +1,65 @@
+---
+titulo: "COMUNICADO N. 003006"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "3006"
+data: 1992-09-10
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=3006"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 003006
+
+```
+                        COMUNICADO N. 003006
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              COMUNICA A DECRETACAO DA LIQUIDACAO EX-
+                              TRAJUDICIAL  DA EMPRESA QUE ESPECIFICA,
+                              A NOMEACAO DO RESPECTIVO LIQUIDANTE E O
+                              ALCANCE  DA INDISPONIBILIDADE SOBRE  OS
+                              BENS DOS EX-ADMINISTRADORES.
+
+                    COMUNICAMOS QUE:
+
+                    I - O  BANCO CENTRAL  DO  BRASIL, COM BASE NO AR-
+TIGO 15, INCISO I, ALINEAS "A" E "B", DA LEI N. 6.024, DE 13.03.74, E
+CONFORME ATO DE 08.09.92, DECRETOU A LIQUIDACAO EXTRAJUDICIAL DA CON-
+DECAR S/C ADMINISTRACAO DE NEGOCIOS LTDA, CGC N. 47.902.135, COM SEDE
+A AVENIDA BRIGADEIRO FARIA LIMA, N. 1541, 4. ANDAR, CJ 4-A, SAO PAULO
+(SP),  NOMEANDO O SR. JOSE PAULO DE SOUSA, PARA AS FUNCOES DE  LIQUI-
+DANTE;
+
+                   II  - EM FACE DO DISPOSTO NO ART. 36 DA MESMA LEI,
+FORAM ALCANCADOS PELA INDISPONIBILIDADE, OS BENS DOS EX-ADMINISTRADO-
+RES ABAIXO QUALIFICADOS:
+
+          - VALDEMIR DA FONSECA, (CPF N. 267.487.977-72), BRASILEIRO,
+            CASADO, EMPRESARIO, PORTADOR DO RG N. 2.858.626, RESIDEN-
+            TE  E DOMICILIADO A RUA DO RUSSEL , N. 404, AP. 804, GLO-
+            RIA, RIO DE JANEIRO (RJ);
+
+          - PAULO HAGER, (CPF N. 041.985.228-04), BRASILEIRO, CASADO,
+            ADVOGADO,  PORTADOR DO RG N. 2.634.766, RESIDENTE E DOMI-
+            CILIADO  NA  ALAMEDA CASA BRANCA, N. 343, 15. ANDAR,  AP.
+            1508, JARDIM PAULISTA - SAO PAULO (SP).
+
+                  III  -  AS INFORMACOES A RESPEITO DA EVENTUAL EXIS-
+TENCIA DE BENS AI INSCRITOS, EM NOME DAS PESSOAS NOMEADAS NO ITEM AN-
+TERIOR, DEVEM SER DIRIGIDAS DIRETAMENTE AO LIQUIDANTE, NO ENDERECO DE
+INICIO CITADO.
+
+                           BRASILIA (DF), 09 DE SETEMBRO DE  1992
+
+                           DEPARTAMENTO DE CONTROLE  DE PROCESSOS AD-
+                           MINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                           FRANCISCO MUNIA MACHADO
+                           CHEFE
+```

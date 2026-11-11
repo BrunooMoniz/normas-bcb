@@ -1,0 +1,62 @@
+---
+titulo: "COMUNICADO N. 003195"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "3195"
+data: 1993-02-09
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=3195"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 003195
+
+```
+                        COMUNICADO N. 003195
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              COMUNICA A DECRETACAO DA LIQUIDACAO EX-
+                              TRAJUDICIAL  DA EMPRESA QUE ESPECIFICA,
+                              A NOMEACAO DO RESPECTIVO LIQUIDANTE E O
+                              ALCANCE  DA INDISPONIBILIDADE SOBRE  OS
+                              BENS DO EX-ADMINISTRADOR.
+
+                    COMUNICAMOS QUE:
+
+                    I - O  BANCO CENTRAL  DO  BRASIL, COM BASE NO AR-
+TIGO  15, INCISO I, ALINEA "A" E "B", DA LEI N. 6.024, DE 13.03.74, E
+CONFORME ATO DE 09.02.93, DECRETOU A LIQUIDACAO EXTRAJUDICIAL DA SBC-
+
+SOCIEDADE  BRASILEIRA DE CONSORCIOS ADMINISTRADORA DE BENS LTDA., CGC
+N.  03.657.491/0001-36, COM SEDE A SCLRN 708 BLOCO "E" LOJA 15 - BRA-
+SILIA  (DF),  NOMEANDO O SR. ANTONIO CARLOS DOS SANTOS MELLO PARA  AS
+FUNCOES DE LIQUIDANTE;
+
+                   II  - EM FACE DO DISPOSTO NO ART. 36 DA MESMA LEI,
+FORAM  ALCANCADOS PELA INDISPONIBILIDADE OS BENS DO  EX-ADMINISTRADOR
+
+ABAIXO QUALIFICADO:
+
+          - CLINTON CAMPOS VALADARES, (CPF N. 001.483.776-53), BRASI-
+            LEIRO,  CASADO, ENGENHEIRO, PORTADOR DA CARTEIRA DE IDEN-
+            TIDADE  RG N. 1.243.950 - SSP/SP, RESIDENTE E DOMICILIADO
+            EM BRASILIA (DF).
+
+                  III  - AS INFORMACOES A RESPEITO DA EVENTUAL  EXIS-
+TENCIA  DE BENS AI INSCRITOS, EM NOME DA PESSOA NOMEADA NO ITEM ANTE-
+RIOR  DEVEM  SER DIRIGIDAS DIRETAMENTE AO LIQUIDANTE, NO ENDERECO  DE
+INICIO CITADO.
+
+                          BRASILIA (DF), 09 DE  FEVEREIRO DE 1993
+
+                          DEPARTAMENTO  DE CONTROLE  DE PROCESSOS
+                          ADMINISTRATIVOS  E DE REGIMES ESPECIAIS
+
+                          FRANCISCO MUNIA MACHADO
+                          CHEFE
+```

@@ -1,0 +1,56 @@
+---
+titulo: "COMUNICADO N. 002504"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2504"
+data: 1991-08-09
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2504"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002504
+
+```
+                        COMUNICADO N. 002504
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              COMUNICA,  RELATIVAMENTE A EMPRESA  QUE
+                              ESPECIFICA,  CESSACAO DA LIQUIDACAO EX-
+                              TRAJUDICIAL, DISPENSA DO RESPECTIVO LI-
+                              QUIDANTE, PREVALENCIA DA INDISPONIBILI-
+                              DADE DOS BENS DO EX-ADMINISTRADOR.
+
+                    COMUNICAMOS,  RELATIVAMENTE A EMPRESA TIARA  DIS-
+TRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA., COM SEDE NA CIDADE
+DO RIO DE JANEIRO (RJ):
+
+                    I  - O  BANCO CENTRAL DO BRASIL, COM BASE NO DIS-
+POSTO NO ART. 19, LETRA "A", DA LEI N. 6.024, DE 13.03.74, E CONFORME
+ATO DE 29.07.91 (D.O.U. DE 31.07.91), RESOLVEU DECLARAR CESSADA A LI-
+QUIDACAO  EXTRAJUDICIAL  A  QUE SE ENCONTRAVA SUBMETIDA, POR  ATO  DE
+12.09.90  (D.O.U. DE 13.09.90), E DISPENSAR O SR. LAURO TINOCO  FILHO
+DAS FUNCOES DE LIQUIDANTE;
+
+                   II  - EM FACE DO ANTERIOR ENCAMINHAMENTO, AO PODER
+JUDICIARIO,  DOS AUTOS DE INQUERITO NELA PROCEDIDO, PERMANECEM INDIS-
+PONIVEIS, NA FORMA DO ART. 36 DA LEI N. 6.024/74, OS BENS DO EX-ADMI-
+NISTRADOR QUE EXERCEU SUAS FUNCOES NOS DOZE MESES ANTECEDENTES AO ATO
+DE  LIQUIDACAO  EXTRAJUDICIAL,  RELACIONADO NO  COMUNICADO  DEPAD  N.
+002186, DE 18.09.90.
+
+                           BRASILIA (DF), 09 DE  AGOSTO  DE  1991
+
+                           DEPARTAMENTO  DE CONTROLE DE PROCESSOS
+                           ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                           JOSE CARLOS MONTEIRO MEDEIROS
+                           CHEFE
+
+                                          R-185783-5-TCE/TIA91036.DOC
+```

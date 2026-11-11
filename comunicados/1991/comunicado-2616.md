@@ -1,0 +1,52 @@
+---
+titulo: "COMUNICADO N. 002616"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2616"
+data: 1991-12-05
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2616"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002616
+
+```
+                        COMUNICADO N. 002616
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                    REPORTANDO-NOS  AO COMUNICADO DEOPE N. 79/21,  DE
+10.08.79,  QUE VERSOU SOBRE A DECRETACAO DA INTERVENCAO NA TERRA COM-
+PANHIA  DE CREDITO IMOBILIARIO E NA LIGADA TERRA CORRETORA DE CAMBIO,
+TITULOS  E VALORES MOBILIARIOS LTDA., E AS DISPOSICOES DO ARTIGO  36,
+DA  LEI N. 6.024/74, QUE ESTABELECEU A INDISPONIBILIDADE DE BENS  DOS
+SRS. ARNALDO DE AZEVEDO LEMOS (CPF N. 002.206.983-68) E IGNACIO GOMES
+PARENTE  FILHO (CPF N. 000.076.093-53), TRANSCREVEMOS, A SEGUIR, DES-
+PACHO DO MM. JUIZ DE DIREITO DA 3. VARA CIVEL DE FORTALEZA, PUBLICADO
+NO DIARIO DA JUSTICA DAQUELE ESTADO, EM 14.05.90:
+
+          "26055/80 - ORDINARIA DE RESPONSABILIDADE
+
+           A: MINISTERIO PUBLICO
+
+           R: IGNACIO GOMES PARENTE FILHO E OUTROS
+
+           O MM. JUIZ, EM DESPACHO DE FLS. 311, DISSE QUE EM FACE DO
+           QUE  SE  CONTEM  NOS  AUTOS, LEVANTO, DE LOGO A INDISPONI-
+           BILIDADE DOS BENS DOS QUE FORAM ATINGIDOS PELA MEDIDA".
+
+                            BRASILIA(DF), 05 DE DEZEMBRO  DE  1991
+
+                            DEPARTAMENTO DE CONTROLE DE  PROCESSOS
+                            ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                            FRANCISCO MUNIA MACHADO
+                            CHEFE
+
+                                         RPC-1857835-TCI/TER91051.DOC
+```

@@ -1,0 +1,46 @@
+---
+titulo: "COMUNICADO N. 002655"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2655"
+data: 1991-12-30
+ementa: ""
+revogada: false
+responsavel: "DEBAN"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2655"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002655
+
+```
+                        COMUNICADO N. 002655
+                        --------------------
+
+AOS
+BANCOS COMERCIAIS, CAIXAS ECONOMICAS E
+INSTITUICOES MULTIPLAS DETENTORAS DE CARTEIRA COMERCIAL
+
+                              ESCLARECE  SOBRE A INFORMACAO DOS DADOS
+                              RELATIVOS  AS EXIGIBILIDADES  COMPULSO-
+                              RIAS SOBRE RECURSOS A VISTA.
+
+                    COMUNICAMOS  QUE, EXCEPCIONALMENTE, OS DADOS  DAS
+EXIGIBILIDADES  COMPULSORIAS SOBRE RECURSOS A VISTA RELATIVOS AO  DIA
+27.12.91,  PARA AS INSTITUICOES INTEGRANTES DO GRUPO "B", PODERAO SER
+ALTERADOS  ATE O DIA 03.01.92, SEM IMPUTACAO DE QUALQUER  PENALIDADE,
+MEDIANTE SOLICITACAO A DELEGACIA REGIONAL A QUE ESTIVEREM JURISDICIO-
+NADAS.
+
+                    OS  DADOS PROVISORIOS, ENVOLVENDO OS VALORES  SU-
+JEITOS  A RECOLHIMENTO REFERENTES AO DIA 27.12.91, DEVEM, NO ENTANTO,
+SER INFORMADOS ATE 31.12.91, CONSOANTE PRAZO FIXADO NO PARAGRAFO PRI-
+MEIRO DO ART. 6. DA CIRCULAR N. 2.043, DE 23.09.91.
+
+                         BRASILIA (DF), 27 DE DEZEMBRO DE 1991
+
+                         DEPARTAMENTO DE OPERACOES BANCARIAS
+
+                         MARCELO MARTINS CURVELO
+                         CHEFE
+```

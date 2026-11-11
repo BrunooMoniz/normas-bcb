@@ -1,0 +1,62 @@
+---
+titulo: "COMUNICADO N. 002687"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2687"
+data: 1992-01-16
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2687"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002687
+
+```
+                        COMUNICADO N. 002687
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              COMUNICA A DECRETACAO DA LIQUIDACAO EX-
+                              TRAJUDICIAL  DA EMPRESA QUE ESPECIFICA,
+                              A NOMEACAO DO RESPECTIVO LIQUIDANTE E O
+                              ALCANCE  DA INDISPONIBILIDADE SOBRE  OS
+                              BENS DO EX-ADMINISTRADOR.
+
+                    COMUNICAMOS QUE:
+
+                    I - O  BANCO CENTRAL DO BRASIL, COM BASE NO ARTI-
+GO  15, INCISO I, ALINEAS "A" E "B", DA LEI N. 6.024, DE 13.03.74,  E
+CONFORME ATO DE 16.01.92, DECRETOU A LIQUIDACAO EXTRAJUDICIAL DA PLA-
+NAUTO  ADMINISTRADORA DE CONSORCIOS LTDA., CGC N. 87.853.636/0001-64,
+COM  SEDE EM GRAMADO (RS), NOMEANDO O SR. LUIZ FERNANDO GUIMARAES  DE
+MIRANDA, PARA AS FUNCOES DE LIQUIDANTE;
+
+                   II  - EM FACE DO DISPOSTO NO ART. 36 DA MESMA LEI,
+FORAM  ALCANCADOS PELA INDISPONIBILIDADE, OS BENS DO EX-ADMINISTRADOR
+ABAIXO QUALIFICADO:
+
+     - PEDRO  LINDOLFO RUSCHEL, (CPF N. 007.536.020-91),  BRASILEIRO,
+       CASADO,  TECNICO  EM  CONTABILIDADE, PORTADOR DA  CARTEIRA  DE
+       IDENTIDADE  N.  6001485553, EXPEDIDA PELA SSP/RS, RESIDENTE  E
+       DOMICILIADO  A  RUA  JOAO PETRY N. 261, NA CIDADE  DE  GRAMADO
+       (RS).
+
+                  III  -  AS INFORMACOES A RESPEITO DA EVENTUAL EXIS-
+TENCIA  DE BENS AI INSCRITOS, EM NOME DA PESSOA NOMEADA NO ITEM ANTE-
+RIOR,  DEVEM SER DIRIGIDAS AO SR. LIQUIDANTE, A RUA ERNESTO VOLK,  N.
+117, CEP 95670 - GRAMADO (RS).
+
+                           BRASILIA (DF), 16 DE  JANEIRO DE  1992
+
+                           DEPARTAMENTO DE CONTROLE  DE PROCESSOS
+                           ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                           NADIR BARUZZI
+                           CHEFE, EM EXERCICIO
+
+                                        RPC-185783-5-TCD/PLA92006.DOC
+```

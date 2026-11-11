@@ -1,0 +1,42 @@
+---
+titulo: "COMUNICADO N. 002236"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2236"
+data: 1990-11-29
+ementa: ""
+revogada: false
+responsavel: "DEBAN"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2236"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002236
+
+```
+                        COMUNICADO N. 002236
+                        --------------------
+
+AS INSTITUICOES FINANCEIRAS PARTICIPANTES DO SERVICO DE
+COMPENSACAO DE CHEQUES E OUTROS PAPEIS
+
+                     TENDO EM VISTA ESTAR OCORRENDO A APRESENTACAO DE
+CHEQUES SACADOS CONTRA COOPERATIVAS DE CREDITO RURAL,  DE  ECONOMIA E
+DE CREDITO MUTUO E POPULAR, COM NUMERO-CODIGO DE COMPENSACAO PROPRIO,
+PARA A TROCA NO SERVICO DE COMPENSACAO DE CHEQUES  E  OUTROS  PAPEIS,
+ESCLARECEMOS QUE:
+                     I - O BANCO CENTRAL DO BRASIL, DESDE 1.985,  NAO
+MAIS CONCEDE NUMERO-CODIGO DE COMPENSACAO AS COOPERATIVAS;
+
+                    II - DESDE ENTAO FORAM CANCELADOS TODOS OS  NUME-
+ROS-CODIGO DE COMPENSACAO CONCEDIDOS  ANTERIORMENTE  AS COOPERATIVAS,
+QUE FICARAM, EM CONSEQUENCIA, IMPEDIDAS DE  PARTICIPAR  DO   REFERIDO
+SERVICO.
+
+                              BRASILIA (DF), 29 DE NOVEMBRO DE 1990
+
+                              DEPARTAMENTO DE OPERACOES BANCARIAS
+
+                              NILTON JUNQUEIRA
+                              CHEFE
+```

@@ -1,0 +1,60 @@
+---
+titulo: "COMUNICADO N. 007150"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "7150"
+data: 1999-12-16
+ementa: "DIVULGA ALTERACAO NA RELACAO DE AGENCIAS DE TURISMO E MEIOS DE HOSPEDAGEM DE TURISMO CREDENCIADOS A OPERAR NO MERCADO DE CAMBIO DE TAXAS FLUTUANTES."
+revogada: false
+responsavel: "DECAM"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=7150"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 007150
+
+```
+                        COMUNICADO N. 007150
+                        --------------------
+                               DIVULGA   ALTERACAO   NA   RELACAO  DE
+                               AGENCIAS   DE  TURISMO   E   MEIOS  DE
+                               HOSPEDAGEM  DE TURISMO  CREDENCIADOS A
+                               OPERAR NO  MERCADO DE  CAMBIO DE TAXAS
+                               FLUTUANTES.
+
+         COMUNICAMOS AOS  INTERESSADOS AS ALTERACOES OCORRIDAS NO MES
+DE NOVEMBRO DE 1999  NA  RELACAO DE AGENCIAS  DE TURISMO  E  MEIOS DE
+HOSPEDAGEM DE TURISMO CREDENCIADOS  A OPERAR NO MERCADO  DE CAMBIO DE
+TAXAS FLUTUANTES,  INSTITUIDO  PELA  RESOLUCAO  N.  1.552,  DE  22 DE
+DEZEMBRO DE 1988:
+
+       I - CREDENCIAMENTO DE AGENCIA DE TURISMO
+
+PRACA/EMPRESA                             CGC             DATA
+
+TRAMANDAI (RS)
+TOPPINGTUR AGENCIA DE VIAGENS
+E TURISMO LTDA                     03.264.262/0001-51  23.11.1999
+
+JAGUARAO (RS)
+RCF TURISMO E CAMBIO LTDA          03.381.375/0001-37  22.11.1999
+
+       II - RECREDENCIAMENTO DE AGENCIA DE TURISMO
+
+PRACA/EMPRESA                             CGC             DATA
+
+SANTOS (SP)
+J. P. CASANOVA TURISMO LTDA        96.320.981/0001-23  08.11.1999
+
+2.     ENCONTRA-SE DISPONIVEL NO SISBACEN, TRANSACAO PCAM830, A RELA-
+CAO DAS  AGENCIAS DE  TURISMO E  MEIOS  DE HOSPEDAGEM  DE TURISMO CRE
+DENCIADOS A  OPERAR  NO  MERCADO DE  CAMBIO  DE  TAXAS FLUTUANTES, IN
+CLUINDO OS EVENTOS INDICADOS NO PARAGRAFO ANTERIOR.
+
+                           BRASILIA, 16 DE DEZEMBRO DE 1999
+
+                           DEPARTAMENTO DE CAMBIO
+
+                           JOSE MARIA FERREIRA DE CARVALHO
+                           CHEFE
+```

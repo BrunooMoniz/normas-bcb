@@ -1,0 +1,46 @@
+---
+titulo: "COMUNICADO N. 004968"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "4968"
+data: 1996-01-16
+ementa: "INFORMA, AS INSTITUICOES ADMINISTRADO- RAS DE FUNDOS DE INVESTIMENTO, SOBRE A TRANSFERENCIA PARA O DEASF DAS ATIVI- DADES DE CAPTACAO, TRATAMENTO E DIVULGACAO DE INFORMACOES MENSAIS PERTINENTES A FUNDOS DE INVESTIMENTO."
+revogada: false
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=4968"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 004968
+
+```
+                        COMUNICADO N. 004968
+                        --------------------
+
+                               INFORMA, AS INSTITUICOES ADMINISTRADO-
+                               RAS DE FUNDOS DE INVESTIMENTO, SOBRE A
+                               TRANSFERENCIA  PARA O DEASF DAS ATIVI-
+                               DADES   DE    CAPTACAO,  TRATAMENTO  E
+                               DIVULGACAO   DE  INFORMACOES   MENSAIS
+                               PERTINENTES A FUNDOS DE INVESTIMENTO.
+
+             COMUNICAMOS A  TRANSFERENCIA, DO  DECAD PARA O DEASF, EM
+02.01.96,  DAS ATIVIDADES DE CAPTACAO, TRATAMENTO E DIVULGACAO DE IN-
+FORMACOES  MENSAIS  PERTINENTES A FUNDOS DE INVESTIMENTO, PRESTADAS A
+ESTE  ORGAO  POR  MEIO DA TRANSACAO PESP500 DO SISTEMA DE INFORMACOES
+BANCO  CENTRAL  - SISBACEN, NA FORMA DO ART. 1. DA CIRCULAR N. 2.287,
+DE 10.03.93.
+
+             EM  DECORRENCIA,  OS  PEDIDOS  DE  ALTERACOES  DE DADOS,
+PREVISTOS  NO  PARAGRAFO 3. DO ART. 1. DO REFERIDO NORMATIVO, DEVERAO
+SER DIRIGIDOS EXCLUSIVAMENTE AO DEASF.
+
+                            BRASILIA, 15 DE JANEIRO DE 1996.
+
+DEPARTAMENTO DE ESTUDOS                      DEPARTAMENTO DE CADASTRO
+ESPECIAIS E ACOMPANHAMENTO                   E INFORMACOES
+DO SISTEMA FINANCEIRO
+
+JORGE DE FRIAS BARBOSA                       JOSE JOVINIANO MELO
+Chefe, em exercicio                          Chefe
+```

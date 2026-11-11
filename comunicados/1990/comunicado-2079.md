@@ -1,0 +1,45 @@
+---
+titulo: "COMUNICADO N. 002079"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2079"
+data: 1990-04-20
+ementa: "ESCLARECE SOBRE A REMESSA, AO BANCO CEN- TRAL DO BRASIL, DA DECLARACAO A QUE SE REFEREM O ARTIGO 1., 2., DA PORTARIA N. 072, DE 29.03.90, DA MINISTRA DE ES- TADO DA ECONOMIA, FAZENDA E PLANEJAMEN- TO, E O ARTIGO 3. DA CIRCULAR N. 1.648, DE 03.04.90."
+revogada: false
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2079"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002079
+
+```
+                        COMUNICADO N. 002079
+                        --------------------
+
+                             ESCLARECE SOBRE A REMESSA, AO BANCO CEN-
+                             TRAL  DO BRASIL, DA DECLARACAO A QUE  SE
+                             REFEREM  O ARTIGO 1.,   2., DA  PORTARIA
+                             N.  072, DE 29.03.90, DA MINISTRA DE ES-
+                             TADO  DA ECONOMIA, FAZENDA E PLANEJAMEN-
+                             TO,  E O ARTIGO 3. DA CIRCULAR N. 1.648,
+                             DE 03.04.90.
+
+                   TENDO  EM VISTA O DISPOSTO NO ARTIGO 1.,   2.,  DA
+PORTARIA  N. 072, DE 29.03.90, DA MINISTRA DE ESTADO DA ECONOMIA, FA-
+ZENDA  E  PLANEJAMENTO,  E  NO ARTIGO 3. DA  CIRCULAR  N.  1.648,  DE
+03.04.90,  COMUNICAMOS QUE A DECLARACAO DE NAO DISPONIBILIDADE DE RE-
+CURSOS EM CRUZEIROS PARA CUSTEIO DAS DESPESAS RELATIVAS AOS CASOS RE-
+LACIONADOS  NOS INCISOS V E VI DO MENCIONADO ARTIGO 1. DAQUELA PORTA-
+RIA SERA REMETIDA AO BANCO CENTRAL, PELA INSTITUICAO FINANCEIRA DEPO-
+SITARIA,  AO DEPARTAMENTO DE FISCALIZACAO (DEFIS) OU A DELEGACIA  RE-
+GIONAL A QUAL ESTIVER JURISDICIONADA.
+
+                              BRASILIA (DF), 19 DE ABRIL DE 1990
+
+DEPARTAMENTO DE NORMAS DO          DEPARTAMENTO DE FISCALIZACAO
+MERCADO DE CAPITAIS
+
+ANTONIO CAETANO FILHO              ANTONIO RUY TEIXEIRA DE PINHO
+CHEFE                              CHEFE
+```

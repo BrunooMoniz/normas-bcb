@@ -1,0 +1,56 @@
+---
+titulo: "COMUNICADO N. 002690"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2690"
+data: 1992-01-20
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2690"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002690
+
+```
+                        COMUNICADO N. 002690
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                            COMUNICA  A DECRETACAO DE FALENCIA DA EM-
+                            PRESA  QUE ESPECIFICA E A PERMANENCIA  DO
+                            GRAVAME  DA  INDISPONIBILIDADE  SOBRE  OS
+                            BENS DO EX-ADMINISTRADOR.
+
+                    REFERIMO-NOS    AO    COMUNICADO   N.  2180,   DE
+12.09.90,  PARA INFORMAR QUE O MM. JUIZ DE DIREITO DA 19A. VARA CIVEL
+DE  SAO PAULO (SP), POR SENTENCA PROFERIDA EM 06.12.91, NOS AUTOS  DO
+PROCESSO  N. 1.754/91, PUBLICADA NO D.O.E DE 08.01.92, DECRETOU A FA-
+LENCIA  DA CAMARGO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LT-
+DA.,  COM SEDE EM SAO PAULO (SP), ATE ENTAO SUBMETIDA A REGIME DE LI-
+QUIDACAO EXTRAJUDICIAL, CONFORME ATO DE 12.09.90, PUBLICADO NO DIARIO
+OFICIAL DA UNIAO DE 13.09.90.
+
+2.                  TENDO   EM  VISTA O DISPOSTO NO ARTIGO 19,  LETRA
+"D",  DA LEI N. 6.024, DE 13.03.74, O BANCO CENTRAL DO BRASIL DISPEN-
+SOU O SR. JOSE ALBERTO VEIGA DE ALENCAR DAS FUNCOES DE LIQUIDANTE.
+
+3.                  O  EX-ADMINISTRADOR QUE EXERCEU SUAS FUNCOES  NOS
+DOZE MESES ANTERIORES AO ATO DE LIQUIDACAO EXTRAJUDICIAL, SR. ARMANDO
+DE  ARRUDA CAMARGO FILHO (CPF N. 375.952.968-20),  PERMANECE COM SEUS
+BENS  ONERADOS  NA  FORMA PREVISTA NO ARTIGO 36 DA  REFERIDA  LEI  N.
+6.024/74.
+
+                           BRASILIA (DF), 20 DE JANEIRO DE  1992
+
+                           DEPARTAMENTO DE CONTROLE DE  PROCESSOS
+                           ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                           MARCOS MARTINS DE SOUZA
+                           CHEFE, EM EXERCICIO
+
+                                         RPC-1857835-TCD/CAM92007.DOC
+```

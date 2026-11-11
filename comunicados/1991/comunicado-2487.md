@@ -1,0 +1,41 @@
+---
+titulo: "COMUNICADO N. 002487"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2487"
+data: 1991-08-02
+ementa: "PRESTA ESCLARECIMENTOS SOBRE COMUNICA- CAO RELATIVA A CONCESSAO DE VANTAGENS NA CAPTACAO DE RECURSOS JUNTO AO PUBLI- CO - RESOLUCAO N. 1.854, DE 31.07.91."
+revogada: false
+responsavel: "DENOR"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2487"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002487
+
+```
+                        COMUNICADO N. 002487
+                        --------------------
+                              PRESTA  ESCLARECIMENTOS SOBRE COMUNICA-
+                              CAO  RELATIVA A CONCESSAO DE  VANTAGENS
+                              NA CAPTACAO DE RECURSOS JUNTO AO PUBLI-
+                              CO - RESOLUCAO N. 1.854, DE 31.07.91.
+
+                    ESCLARECEMOS QUE A COMUNICACAO A ESTE ORGAO,RELA-
+TIVA A CONCESSAO DE VANTAGENS NA CAPTACAO DE RECURSOS JUNTO AO PUBLI-
+CO, DE QUE TRATA O ART. 1. DA RESOLUCAO N. 1.854, DE 31.07.91, DEVERA
+SER  ENCAMINHADA AO DEPARTAMENTO DE ORGANIZACAO DO SISTEMA FINANCEIRO
+- DEORF, NESTA CAPITAL.
+
+2.                  A  REFERIDA COMUNICACAO DEVERA CONTER INFORMACOES
+DETALHADAS  ACERCA DAS VANTAGENS OFERECIDAS, DE MODO A POSSIBILITAR O
+ADEQUADO EXAME DA MATERIA POR PARTE DESTE BANCO CENTRAL.
+
+                              BRASILIA (DF), 02 DE AGOSTO DE 1991
+
+DEPARTAMENTO DE NORMAS DO SISTEMA    DEPARTAMENTO DE ORGANIZACAO
+FINANCEIRO                           DO SISTEMA FINANCEIRO
+
+SERGIO DARCY DA SILVA ALVES          CARLOS CORREA ASSI
+CHEFE                                CHEFE
+```

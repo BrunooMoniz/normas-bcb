@@ -1,0 +1,46 @@
+---
+titulo: "COMUNICADO N. 002207"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2207"
+data: 1990-10-11
+ementa: "COMUNICA O EXTRAVIO DE CERTIFICADOS"
+revogada: false
+responsavel: "FIRCE"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2207"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002207
+
+```
+                        COMUNICADO N. 002207
+                        --------------------
+
+                             COMUNICA O EXTRAVIO DE CERTIFICADOS
+
+                   COMUNICAMOS QUE, SEGUNDO INFORMACOES DOS INTERES-
+SADOS,  ACHAM-SE EXTRAVIADOS OS CERTIFICADOS DESCRITOS A SEGUIR, SO-
+LICITANDO  QUE SEJAM OS REFERIDOS DOCUMENTOS RECOLHIDOS E ENCAMINHA-
+DOS A ESTE BANCO CENTRAL, NA HIPOTESE DE VIREM A SER APRESENTADOS:
+    A - CERTIFICADO  DE REGISTRO N. 260/05218-26057, EM NOME DE SUN-
+        TORY  DO  BRASIL  INDUSTRIA  E COMERCIO  LTDA.,  EMITIDO  EM
+        23.12.82;
+    B - CERTIFICADO DE REGISTRO N. 260/09865-36189, EM NOME DE CRODA
+        DO BRASIL LTDA., EMITIDO EM 06.05.87;
+    C - CERTIFICADO  DE  REGISTRO N. 282/936, EM NOME DE TONOLLI  DO
+        BRASIL  S.A.  INDUSTRIA  E COMERCIO DE  METAIS,  EMITIDO  EM
+        13.04.89;
+    D - CERTIFICADO DE REGISTRO N. 360/10178/11035-0, EM NOME DE PO-
+        LO INDUSTRIA E COMERCIO LTDA., EMITIDO EM 07.03.83;
+    E - CERTIFICADO  DE AUTORIZACAO N. 551/0030, EM NOME DE BARDUSCH
+        ARRENDAMENTOS TEXTEIS LTDA., NO VALOR DE DM 108.900,00, EMI-
+        TIDO EM 04.08.88.
+
+                              BRASILIA (DF), 11 DE OUTUBRO DE 1990
+
+                              DEPARTAMENTO DE CAPITAIS ESTRANGEIROS
+
+                              ANTONIO CARLOS MONTEIRO
+                              CHEFE
+```

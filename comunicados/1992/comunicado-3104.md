@@ -1,0 +1,67 @@
+---
+titulo: "COMUNICADO N. 003104"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "3104"
+data: 1992-12-03
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=3104"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 003104
+
+```
+                        COMUNICADO N. 003104
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              COMUNICA A DECRETACAO DA LIQUIDACAO EX-
+                              TRAJUDICIAL  DA EMPRESA QUE ESPECIFICA,
+                              A NOMEACAO DO RESPECTIVO LIQUIDANTE E O
+                              ALCANCE  DA INDISPONIBILIDADE SOBRE  OS
+                              BENS DOS EX-ADMINISTRADORES.
+
+                    COMUNICAMOS QUE:
+
+                    I - O  BANCO CENTRAL  DO  BRASIL, COM BASE NO AR-
+TIGO  15, INCISO I, ALINEA "A" E "B", DA LEI N. 6.024, DE 13.03.74, E
+CONFORME ATO DE 02.12.92, DECRETOU A LIQUIDACAO EXTRAJUDICIAL DA CRE-
+DICON-ADMINISTRADORA    DE     CONSORCIOS   S/C   LTDA.,    CGC    N.
+53.130.241/0001-11,  COM  SEDE A RUA BOM PASTOR, 975,  IPIRANGA,  SAO
+PAULO  (SP),  NOMEANDO O SR. EDSON LUIZ DOMINGUES PARA AS FUNCOES  DE
+LIQUIDANTE;
+
+                   II  - EM FACE DO DISPOSTO NO ART. 36 DA MESMA LEI,
+FORAM ALCANCADOS PELA INDISPONIBILIDADE, OS BENS DOS EX-ADMINISTRADO-
+RES ABAIXO QUALIFICADOS       :
+
+          - MICHEL EFEICHE (CPF N. 005.335.998-49), BRASILEIRO, CASA-
+            DO,  EMPRESARIO, PORTADOR DA CARTEIRA DE IDENTIDADE RG N.
+            1.633.917  - SSP/SP, RESIDENTE E DOMICILIADO EM SAO PAULO
+            (SP).
+
+          - MANOLI EFEICHE (CPF N. 005.336.028-15), BRASILEIRO, CASA-
+            DO,  EMPRESARIO, PORTADOR DA CARTEIRA DE IDENTIDADE RG N.
+            1.659.523  - SSP/SP, RESIDENTE E DOMICILIADO EM SAO PAULO
+            (SP).
+
+                  III  - AS INFORMACOES A RESPEITO DA EVENTUAL  EXIS-
+TENCIA DE BENS AI INSCRITOS, EM NOME DAS PESSOAS NOMEADAS NO ITEM AN-
+TERIOR, DEVEM SER DIRIGIDAS DIRETAMENTE AO LIQUIDANTE, NO ENDERECO DE
+INICIO CITADO.
+
+                           BRASILIA (DF), 03 DE DEZEMBRO DE  1992
+
+                           DEPARTAMENTO DE CONTROLE  DE PROCESSOS
+                           ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                           FRANCISCO MUNIA MACHADO
+                           CHEFE
+
+                                        RPC-185783-5-TCD/CRE92018.DOC
+```

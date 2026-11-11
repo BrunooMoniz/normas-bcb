@@ -1,0 +1,39 @@
+---
+titulo: "COMUNICADO N. 002456"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2456"
+data: 1991-07-04
+ementa: ""
+revogada: false
+responsavel: "DEBAN"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2456"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002456
+
+```
+                        COMUNICADO N. 002456
+                        --------------------
+
+AS
+INSTITUICOES  FINANCEIRAS  PARTICIPANTES DO SERVICO DE COMPENSACAO DE
+CHEQUES E OUTROS PAPEIS.
+
+                    COM VISTAS A DIRIMIR DUVIDAS, ESCLARECEMOS QUE OS
+RECIBOS INTERBANCARIOS, DE QUE TRATA O ARTIGO 4. DA CARTA-CIRCULAR N.
+2.176,  DE  06.06.91, NAO PODEM SER UTILIZADOS PARA A  REALIZACAO  DE
+OPERACOES DE CAMBIO, SENDO DESTINADOS, EXCLUSIVAMENTE, PARA O RESSAR-
+CIMENTO,  ENTRE INSTITUICOES FINANCEIRAS, DE DESPESAS DECORRENTES  DE
+SERVICOS PRESTADOS NA INTERMEDIACAO DE OPERACOES DA ESPECIE (COMISSAO
+SOBRE  LIBERACAO DE RESTRICOES, TELEX, TELEFONE  E OUTRAS DESPESAS DE
+MESMA NATUREZA REALIZADAS PELO INTERMEDIARIO).
+
+                              BRASILIA (DF), 04 DE JULHO DE 1.991.
+
+                              DEPARTAMENTO DE OPERACOES BANCARIAS
+
+                              NILTON JUNQUEIRA
+                              CHEFE
+```

@@ -1,0 +1,46 @@
+---
+titulo: "COMUNICADO N. 002116"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2116"
+data: 1990-06-06
+ementa: "COMUNICA O EXTRAVIO DE CERTIFICADOS"
+revogada: false
+responsavel: "FIRCE"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2116"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002116
+
+```
+                        COMUNICADO N. 002116
+                        --------------------
+
+                             COMUNICA O EXTRAVIO DE CERTIFICADOS
+
+                   COMUNICAMOS QUE, SEGUNDO INFORMACOES DOS INTERES-
+SADOS,  ACHAM-SE EXTRAVIADOS OS CERTIFICADOS DESCRITOS A SEGUIR, SO-
+LICITANDO  QUE SEJAM OS REFERIDOS DOCUMENTOS RECOLHIDOS E ENCAMINHA-
+DOS A ESTE BANCO CENTRAL, NA HIPOTESE DE VIREM A SER APRESENTADOS:
+    A - CERTIFICADO  DE REGISTRO N. 141/24184, EM NOME DE  BANCO NA-
+        CIONAL DE DESENVOLVIMENTO ECONOMICO E SOCIAL - BNDES, NO VA-
+        LOR DE US! 15.000.000,00, EMITIDO EM 07.12.79;
+    B - CERTIFICADO  DE REGISTRO N. 141/24825, EM NOME DE BANCO  NA-
+        CIONAL DE DESENVOLVIMENTO ECONOMICO E SOCIAL - BNDES, NO VA-
+        LOR DE US! 15.000.000,00, EMITIDO EM 18.01.84;
+    C - CERTIFICADO  DE REGISTRO N. 141/24917, EM NOME DE BANCO  NA-
+        CIONAL DE DESENVOLVIMENTO ECONOMICO E SOCIAL - BNDES, EMITI-
+        DO EM 22.03.85;
+    D - CERTIFICADO  DE AUTORIZACAO N. 211/4222, EM NOME DE NAGEL DO
+        BRASIL   MAQUINAS  E  FERRAMENTAS  LTDA.,  NO  VALOR  DE  DM
+        1.335.815,00, EMITIDO EM 20.07.89.
+
+                             BRASILIA (DF), 06 DE JUNHO DE 1990
+
+                             DEPARTAMENTO DE FISCALIZACAO E REGISTRO
+                             DE CAPITAIS ESTRANGEIROS
+
+                             ANTONIO CARLOS MONTEIRO
+                             CHEFE
+```

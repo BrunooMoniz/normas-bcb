@@ -1,0 +1,43 @@
+---
+titulo: "COMUNICADO N. 002314"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2314"
+data: 1991-02-13
+ementa: "PROGRAMA FEDERAL DE DESREGULAMENTACAO. DESCENTRALIZA A EMISSAO DE AUTORIZACOES PREVIAS PARA AS CONVERSOES DE DIVIDA EM INVESTIMENTO QUE ESPECIFICA."
+revogada: false
+responsavel: "FIRCE"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2314"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002314
+
+```
+                        COMUNICADO N. 002314
+                        --------------------
+
+                              PROGRAMA FEDERAL DE DESREGULAMENTACAO.
+                              DESCENTRALIZA A EMISSAO DE AUTORIZACOES
+                              PREVIAS PARA AS CONVERSOES DE DIVIDA EM
+                              INVESTIMENTO QUE ESPECIFICA.
+
+                    I - COMUNICAMOS  QUE, A PARTIR DESTA DATA, OS PE-
+DIDOS  DE AUTORIZACAO PREVIA PARA CONVERSAO EM INVESTIMENTO DE DIVIDA
+VINCENDA E NAO SUJEITA A LEILAO, EM AREAS INCENTIVADAS, NOS TERMOS DA
+RESOLUCAO  N.  1460, DE 01.02.88 E REGULAMENTACAO ANEXA, DEVERAO  SER
+APRESENTADOS EXCLUSIVAMENTE AA DEPENDENCIA DESTE BANCO A QUE  ESTIVER
+SUBORDINADA  A SEDE DA REQUERENTE, DE ACORDO COM OS CRITERIOS DE  ZO-
+NEAMENTO  GEOGRAFICO  ESTABELECIDOS PELO COMUNICADO FIRCE N. 244,  DE
+10.07.89.
+
+                   II - ESTE COMUNICADO ENTRA EM VIGOR NA DATA DE SUA
+PUBLICACAO.
+
+                              BRASILIA (DF), 13 DE FEVEREIRO DE 1991
+
+                              DEPARTAMENTO DE CAPITAIS ESTRANGEIROS
+
+                              ANTONIO CARLOS MONTEIRO
+                              CHEFE
+```

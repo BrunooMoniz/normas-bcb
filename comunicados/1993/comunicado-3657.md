@@ -1,0 +1,88 @@
+---
+titulo: "COMUNICADO N. 003657"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "3657"
+data: 1993-12-30
+ementa: "Comunica o impedimento para a pratica de operacoes de credito rural e agroin- dustrial, na forma do MCR 1-6-7-A e MCA 1-4-10-A."
+revogada: false
+responsavel: "DECAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=3657"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 003657
+
+```
+                        COMUNICADO N. 003657
+                        --------------------
+
+                              Comunica  o impedimento para a  pratica
+                              de operacoes de credito rural e agroin-
+                              dustrial, na forma do MCR 1-6-7-A e MCA
+                              1-4-10-A.
+
+               Na  forma  do MCR 1-6-7-A e MCA 1-4-10-A,  comunicamos
+que  estao  impedidas de participar de operacoes de credito  rural  e
+agroindustrial, como tomadores, as pessoas relacionadas a seguir:
+
+NOME                            CGC/CPF        MUNICIPIO UF
+ADEMAR JOSE PEGORETTI           178.830.599-04 CAMPO GRANDE MS
+ANGELO FERNANDES CANELLES       055.863.050-20 CAMPO GRANDE MS
+ANTONIO MARQUES DA SILVA        615.362.538-04 GURUPI TO
+ARMINDO BELTRAME                026.955.450-53 ANTONIO PRADO RS
+ATAGIDES ALVES DA ROCHA         073.703.771-72 CAMPO GRANDE MS
+AZARIAS VIEIRA DA SILVA         163.295.971-20 MIRACEMA TOCANT. TO
+CANDIDO FERREIRA DA SILVA       973.973.858-34 SALES SP
+CARLOS SCARDINI NETO            917.130.308-10 CAMPO GRANDE MS
+CECILIO DA FONSECA MELO         045.040.625-34 RIACHAO DO DANTAS SE
+CLARI LUIZ MATTE                180.391.700-87 VACARIA RS
+DANIEL ROSA DO LAGO             481.979.399-34 DOM AQUINO MT
+DARCY SOARES DA COSTA           146.563.021-04 PORTO NACIONAL TO
+DIRCEU DE OLIVEIRA              835.810.578-91 PILAR DO SUL SP
+EDIVALDO XAVIER DE MAGALHAES    053.313.311-49 DIAMANTINO MT
+FERNANDO SCARDINI               005.925.101-82 CAMPO GRANDE MS
+GENALDO ARLINDO DE SOUZA        700.637.535-53 JUSSARA BA
+GEORGES HABIB NAOUM             002.972.161-04 STA HELENA GOIAS GO
+GUIDO SEBASTIANY                104.580.560-22 ROQUE GONZALEZ RS
+ITACIR BELTRAME                 008.026.110-87 ANTONIO PRADO RS
+IZANIRA MARIA MARCHEZI FERREIRA 322.089.951-04 PEDRO GOMES MS
+JAYME FELTRIN                   284.664.380-68 CAMPO GRANDE MS
+JOAO APARECIDO BEZERRA DE PAULA 338.541.901-82 SIDROLANDIA MS
+JOAO JOSE DE CAMPOS             071.378.426-15 RIO PARANAIBA MG
+JOCLI SILVA DO CANTO            616.232.290-49 ROQUE GONZALES RS
+JOSE DELONG                     033.339.499-20 ARAUCARIA PR
+JOSE ESMERALDO DOS SANTOS       395.607.759-87 PITANGA PR
+JOSEMAR LOPES DE BRITO          172.415.611-04 ALTO TAQUARI MT
+JUAREZ DE OLIVEIRA LOBO         011.149.991-72 GOIANIA GO
+LAURA EDITE PEGORETTI           219.123.869-68 CAMPO GRANDE MS
+LUIZ APARECIDO MARCHEZI         387.218.809-72 PEDRO GOMES MS
+LUIZ RENATO CALIXTO             481.085.291-15 PEDRO GOMES MS
+MARCILIO DANZIGER               117.319.409-63 DOUTOR CAMARGO PR
+MARCO ANTONIO CALDASSO PEREIRA  284.343.070-49 CAMAQUA RS
+MARIA JOSE FARIAS               704.124.139-49 PITANGA PR
+MARIO SERGIO DE AZEVEDO JUNIOR  103.968.371-15 CAMPO GRANDE MS
+MAURICIO CARNEIRO               369.800.131-49 IPAMERI GO
+MOUNIR NAOUM                    002.972.321-34 STA HELENA GOIAS GO
+NABI EULER ILDEU DA SILVA       701.068.436-72 IACIARA GO
+NILSON MULLER                   194.925.960-91 ALTO ARAGUAIA MT
+ORLANDO ALVES CAIXETA           481.175.106-00 PATOS DE MINAS MG
+OSEMAR LOPES DE BRITO           079.504.031-87 ALTO ARAGUAIA MT
+PEDRO JOSE DOS SANTOS           847.393.638-87 MARABA PAULISTA SP
+RAIMUNDO NONATO DE MORAIS FILHO 012.666.753-53 BALSAS MA
+REGINALDO GOMES DOS SANTOS      364.690.500-00 ROQUE GONZALES RS
+SABINO ROTILLI                  142.583.661-53 CAMPO GRANDE MS
+VALDECIR CAVAGNOLLI             422.563.720-49 CASCAVEL PR
+VENICIO DE NAPOLI               015.815.468-15 RIO VERDE GO
+WILLIAM HABIB NAOUM             002.972.241-15 STA HELENA GOIAS GO
+
+               I  -  Este Comunicado entrara em vigor na data de  sua
+publicacao.
+
+                              Brasilia (DF), 30 de dezembro de 1993
+
+                              DEPARTAMENTO DE CADASTRO E INFORMACOES
+
+                              WILSON CARVALHO MOREIRA
+                              CHEFE
+```

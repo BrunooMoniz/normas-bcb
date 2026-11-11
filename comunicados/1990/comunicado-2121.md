@@ -1,0 +1,38 @@
+---
+titulo: "COMUNICADO N. 002121"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2121"
+data: 1990-06-19
+ementa: "INDICADORES MACROECONOMICOS - IN- FORMACOES AO MERCADO."
+revogada: false
+responsavel: "DIPOM"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2121"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002121
+
+```
+                        COMUNICADO N. 002121
+                        --------------------
+                                    INDICADORES MACROECONOMICOS - IN-
+                                    FORMACOES AO MERCADO.
+
+      COMUNICAMOS QUE ESTE BANCO CENTRAL, ATRAVES DE SUA DIRETORIA DE
+POLITICA MONETARIA, PASSARAH A DIVULGAR SEMANALMENTE, TODA SEGUNDA-
+FEIRA, AAS 17 HORAS, VIA SISBACEN, POR TRANSACAO A SER DIVULGADA
+OPORTUNAMENTE, INFORMACOES MACROECONOMICAS QUE POSSAM DAR RESPALDO
+AAS DECISOES OPERACIONAIS POR PARTE DAS INSTITUICOES DE MERCADO.
+
+      EXCEPCIONALMENTE, AS PRIMEIRAS INFORMACOES ESTARAO SENDO DIVUL-
+GADAS, NESTA TERCA-FEIRA, AAS 12:30 HORAS, ATRAVES DO PRIMEIRO INFOR-
+MATIVO DA SERIE "INDICADORES MACROECONOMICOS", POR CORREIO ELETRONICO
+
+                   BRASILIA (DF), 19 DE JUNHO DE 1990.
+
+                   DIRETORIA DE POLITICA MONETARIA
+
+                   LUIS EDUARDO ALVES DE ASSIS
+                   DIRETOR
+```

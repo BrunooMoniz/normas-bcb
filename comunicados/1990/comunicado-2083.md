@@ -1,0 +1,52 @@
+---
+titulo: "COMUNICADO N. 002083"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2083"
+data: 1990-04-23
+ementa: "DEFINE REGISTROS CONTABEIS PARA DEPO- SITOS EM MOEDAS ESTRANGEIRAS, NO BANCO CENTRAL, NO EXTERIOR, NOS TERMOS DAS CIRCULARES N. 1.612, DE 21.3.90, E N. 1.684, DE 20.4.90."
+revogada: false
+responsavel: "DECAM"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2083"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002083
+
+```
+                        COMUNICADO N. 002083
+                        --------------------
+
+                              DEFINE REGISTROS CONTABEIS  PARA DEPO-
+                              SITOS EM MOEDAS ESTRANGEIRAS, NO BANCO
+                              CENTRAL, NO EXTERIOR,  NOS  TERMOS DAS
+                              CIRCULARES N. 1.612, DE 21.3.90, E  N.
+                              1.684, DE 20.4.90.
+
+                    COMUNICAMOS QUE, RELATIVAMENTE AOS DEPOSITOS EFE-
+TUADOS  NO  BANCO  CENTRAL, NOS MOLDES DAS CIRCULARES  N.  1.612,  DE
+21.3.90,  E  N. 1.684, DE 20.4.90, DEVEM SER OBSERVADOS OS  SEGUINTES
+PROCEDIMENTOS:
+
+                    I - OS DEPOSITOS DE QUE SE TRATA DEVEM SER REGIS-
+TRADOS  A DEBITO DE CORRESPONDENTES NO EXTERIOR EM MOEDAS  ESTRANGEI-
+RAS,  SUBTITULO AVISO PREVIO OU PRAZO FIXO, DESDOBRAMENTO DE USO  IN-
+TERNO  "BANCO CENTRAL - DEPOSITOS SOB A CIRCULAR N. 1.612" OU  "BANCO
+CENTRAL  -  DEPOSITOS SOB A CIRCULAR N. 1.684", CONFORME O CASO, E  A
+CREDITO DE:
+     A - NO CASO DE UTILIZACAO DE DISPONIBILIDADES NO EXTERIOR:
+         CORRESPONDENTES NO EXTERIOR EM MOEDAS ESTRANGEIRAS
+         - SUBTITULO CONTA MOVIMENTO
+           (TITULAR O BANQUEIRO SACADO)
+     B - NO  CASO DE UTILIZACAO DE LINHAS DE CREDITO JUNTO A BANQUEI-
+         ROS NO EXTERIOR:
+         OBRIGACOES EM MOEDAS ESTRANGEIRAS
+         - SUBTITULO OUTRAS LINHAS DE CREDITO UTILIZADAS
+
+                              BRASILIA (DF), 23 DE ABRIL DE 1990
+
+                              DEPARTAMENTO DE CAMBIO
+
+                              ALCINDO FERREIRA
+                              CHEFE INTERINO
+```

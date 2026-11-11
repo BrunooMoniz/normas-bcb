@@ -1,0 +1,46 @@
+---
+titulo: "COMUNICADO N. 002747"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2747"
+data: 1992-03-12
+ementa: "PROGRAMA FEDERAL DE DESREGULAMENTACAO - COMUNICA O PRAZO MEDIO DE AMORTIZACAO DAS OPERACOES DE CREDITOS EXTERNOS ME- DIANTE LANCAMENTOS DE TITULOS NO MERCA- DO INTERNACIONAL, REGULAMENTADAS PELA CIRCULAR N. 2134, PARA FINS DE REDUCAO DO IMPOSTO DE RENDA."
+revogada: false
+responsavel: "FIRCE"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2747"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002747
+
+```
+                        COMUNICADO N. 002747
+                        --------------------
+
+                              PROGRAMA FEDERAL DE DESREGULAMENTACAO -
+                              COMUNICA  O PRAZO MEDIO DE  AMORTIZACAO
+                              DAS  OPERACOES DE CREDITOS EXTERNOS ME-
+                              DIANTE LANCAMENTOS DE TITULOS NO MERCA-
+                              DO  INTERNACIONAL, REGULAMENTADAS  PELA
+                              CIRCULAR  N. 2134, PARA FINS DE REDUCAO
+                              DO IMPOSTO DE RENDA.
+
+                    I  - COM BASE NO ITEM II DA RESOLUCAO N. 644,  DE
+22.10.80 E ART. 3. DA RESOLUCAO N. 1.853, DE 31.07.91, LEVAMOS AO CO-
+NHECIMENTO DOS INTERESSADOS QUE AS OPERACOES DE CREDITOS EXTERNOS ME-
+DIANTE O LANCAMENTO DE TITULOS NO MERCADO INTERNACIONAL, REGULAMENTA-
+DAS PELA CIRCULAR N. 2.134, DE 12.02.92, GOZARAO DA REDUCAO DO IMPOS-
+TO  DE RENDA INCIDENTE SOBRE AS REMESSAS DE JUROS, COMISSOES E DESPE-
+SAS, DE QUE TRATA AS REFERIDAS RESOLUCOES, DESDE QUE O PRAZO MEDIO DE
+AMORTIZACAO CORRESPONDA, NO MINIMO, A 30 (TRINTA) MESES.
+
+                   II  - ESTE COMUNICADO ENTRARA EM VIGOR NA DATA  DE
+SUA PUBLICACAO.
+
+                              BRASILIA (DF), 12 DE MARCO DE 1992
+
+                              DEPARTAMENTO DE CAPITAIS ESTRANGEIROS
+
+                              MARCIO CARTIER MARQUES
+                              CHEFE
+```

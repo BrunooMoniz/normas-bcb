@@ -1,0 +1,31 @@
+---
+titulo: "COMUNICADO N. 002632"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2632"
+data: 1991-12-10
+ementa: "FIXA A TRD PARA O DIA 11 DE DEZEMBRO DE 1991."
+revogada: false
+responsavel: "DENOR"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2632"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002632
+
+```
+                        COMUNICADO N. 002632
+                        --------------------
+                              FIXA A TRD PARA O DIA 11 DE DEZEMBRO DE
+                              1991.
+
+                    COM  BASE NO QUE DISPOE O ART. 1., PARAGRAFO  1.,
+DA LEI N. 8.177, DE 01.03.91, COMUNICAMOS QUE A TAXA REFERENCIAL DIA-
+RIA  - TRD PARA O DIA 11 DE DEZEMBRO DE 1991 E 1,200109 % (UM VIRGULA
+DOIS ZERO ZERO UM ZERO NOVE POR CENTO) AO DIA.
+
+                              BRASILIA (DF), 10 DE DEZEMBRO DE 1991
+
+GUSTAVO JORGE LABOISSIERE LOYOLA        PEDRO LUIZ BODIN DE MORAES
+DIRETOR                                 DIRETOR
+```

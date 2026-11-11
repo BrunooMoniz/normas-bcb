@@ -1,0 +1,61 @@
+---
+titulo: "COMUNICADO N. 002228"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2228"
+data: 1990-11-14
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2228"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002228
+
+```
+                        COMUNICADO N. 002228
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              COMUNICA  A CESSACAO DA LIQUIDACAO  EX-
+                              TRAJUDICIAL  DA EMPRESA QUE ESPECIFICA,
+                              A DISPENSA DO RESPECTIVO LIQUIDANTE E A
+                              PERMANENCIA  DA  INDISPONIBILIDADE  DOS
+                              BENS DOS EX-ADMINISTRADORES
+
+                    COMUNICAMOS QUE:
+
+                    I  - O BANCO CENTRAL DO BRASIL, COM BASE NO  DIS-
+POSTO NO ART. 19, LETRA "D", DA LEI N. 6.024, DE 13.03.74, E CONFORME
+ATO DE 05.11.90 (D.O.U. DE 07.11.90),  TENDO EM VISTA A DECRETACAO DE
+FALENCIA DA EMPRESA EMBRACOR S.A. - CORRETORA DE CAMBIO E VALORES MO-
+BILIARIOS,  COM SEDE NO RIO DE JANEIRO (RJ), PELO MERITISSIMO JUIZ DE
+DIREITO,  EM EXERCICIO, DA VARA DE FALENCIAS E CONCORDATAS DO RIO  DE
+JANEIRO,  POR  SETENCA  PUBLICADA  NO DIARIO  OFICIAL  DO  ESTADO  DE
+31.08.90,  QUE  SE  ENCONTRAVA EM LIQUIDACAO  EXTRAJUDICIAL  (ATO  DE
+13.02.87  - D.O.U. DE 17.02.87), RESOLVEU DISPENSAR O SR.ANTONIO LUIZ
+MATIAS DA CUNHA DAS FUNCOES DE LIQUIDANTE;
+
+                   II - NA FORMA DOS ARTS. 36 E 46 DA MESMA LEI, PER-
+MANECEM  INDISPONIVEIS OS BENS DOS EX-ADMINISTRADORES A SEGUIR  RELA-
+CIONADOS, QUE EXERCERAM SUAS FUNCOES NOS DOZE MESES ANTERIORES A DATA
+DO ATO DE LIQUIDACAO EXTRAJUDICIAL:
+
+     BENTO JOSE LIMA ROCHA F. DE MELLO ....... CPF N. 235.500.157-04
+     LUIZ PAULO KOSSMANN ..................... CPF N. 383.678.317-72
+     MARIO SERGIO NUNES DA COSTA ............. CPF N. 574.719.168-34
+     SERGIO MIYAMOTO ......................... CPF N. 153.210.298-49
+
+                              BRASILIA (DF), 14 DE  NOVEMBRO DE 1990
+
+                              DEPARTAMENTO DE CONTROLE DE  PROCESSOS
+                              ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                              JOSE CARLOS MONTEIRO MEDEIROS
+                              CHEFE
+
+                                          R-185783-5-TCD/EMB90038.DOC
+```

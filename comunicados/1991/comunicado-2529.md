@@ -1,0 +1,45 @@
+---
+titulo: "COMUNICADO N. 002529"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2529"
+data: 1991-09-09
+ementa: ""
+revogada: false
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2529"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002529
+
+```
+                        COMUNICADO N. 002529
+                        --------------------
+AS
+INSTITUICOES ADMINISTRADORAS DE
+FUNDOS MUTUOS DE RENDA FIXA
+
+                              ESCLARECE ACERCA DA UTILIZACAO DE VALO-
+                              RES  CONSTITUTIVOS  DAS  CARTEIRAS  DOS
+                              FUNDOS MUTUOS DE RENDA FIXA COMO MARGEM
+                              DE GARANTIA EM OPERACOES REALIZADAS NOS
+                              MERCADOS FUTUROS DE TAXAS DE JUROS.
+
+                    TENDO  EM VISTA DUVIDAS SUSCITADAS POR  INSTITUI-
+COES  DO MERCADO FINANCEIRO RELATIVAMENTE A APLICACAO DE RECURSOS DOS
+FUNDOS  MUTUOS DE RENDA FIXA EM OPERACOES NOS MERCADOS DE  LIQUIDACAO
+FUTURA DE TAXAS DE JUROS ADMINISTRADOS POR BOLSAS DE MERCADORIAS E DE
+FUTUROS,  FACULTADA PELA CIRCULAR N. 2.008, DE 08.08.91, ESCLARECEMOS
+QUE, PARA EFEITO DA PRESTACAO DE MARGEM DE GARANTIA NESSAS OPERACOES,
+NAO  SE APLICA A VEDACAO DE UTILIZACAO DOS VALORES CONSTITUTIVOS  DAS
+RESPECTIVAS  CARTEIRAS, DE QUE TRATA O ART. 46 DO REGULAMENTO ANEXO A
+RESOLUCAO N. 1.286, DE 20.03.87.
+
+                       BRASILIA (DF), 9 DE SETEMBRO DE 1991
+
+                       DEPARTAMENTO DE NORMAS DO SISTEMA FINANCEIRO
+
+                       SERGIO DARCY DA SILVA ALVES
+                       CHEFE
+```

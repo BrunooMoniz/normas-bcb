@@ -1,0 +1,43 @@
+---
+titulo: "COMUNICADO N. 002641"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2641"
+data: 1991-12-13
+ementa: "PRESTA ESCLARECIMENTOS ACERCA DOS PEDIDOS DE CONVERSOES DE CRUZADOS NOVOS PARA CRUZEIROS, POR DETERMINACAO JUDICIAL, DE QUE TRATAM A CIRCULAR N. 1.868, DE 19.12.90 E O COMUNICA- DO N. 2.508, DE 14.08.91."
+revogada: false
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2641"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002641
+
+```
+                        COMUNICADO N. 002641
+                        --------------------
+
+                         PRESTA ESCLARECIMENTOS ACERCA DOS PEDIDOS DE
+                         CONVERSOES DE CRUZADOS NOVOS PARA CRUZEIROS,
+                         POR  DETERMINACAO JUDICIAL, DE QUE TRATAM  A
+                         CIRCULAR N. 1.868, DE 19.12.90 E O COMUNICA-
+                         DO N. 2.508, DE 14.08.91.
+
+            ESCLARECEMOS,  RELATIVAMENTE AOS PEDIDOS DE CONVERSAO  DE
+CRUZADOS  NOVOS  PARA CRUZEIROS, POR DETERMINACAO JUDICIAL, FACE  AOS
+PROCEDIMENTOS DEFINIDOS PELOS NORMATIVOS EM REFERENCIA, O SEGUINTE:
+
+            I  - O ART. 5. DA CIRCULAR N. 1.868, DE 19.12.90, APLICA-
+SE, TAO SOMENTE, AOS CASOS EXISTENTES NA DATA EM QUE AQUELE NORMATIVO
+ENTROU EM VIGOR;
+
+           II   -  OS ESTORNOS A QUE SE REFERE O COMUNICADO N. 2.508,
+DE  14.08.91,  DEVERAO SER PROCESSADOS NO MESMO DIA EM QUE OCORRER  O
+CREDITO RESPECTIVO NA CONTA DE "RESERVAS BANCARIAS".
+
+                           BRASILIA (DF), 12 DE DEZEMBRO DE 1991.
+
+                           DIRETORIA DE FISCALIZACAO
+                           ANTONIO RUY TEIXEIRA DE PINHO
+                           CHEFE DE GABINETE
+```

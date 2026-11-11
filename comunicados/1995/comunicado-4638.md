@@ -1,0 +1,64 @@
+---
+titulo: "COMUNICADO N. 004638"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "4638"
+data: 1995-06-21
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=4638"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 004638
+
+```
+                        COMUNICADO N. 004638
+                        --------------------
+
+ÆS INSTITUI¦{ES FINANCEIRAS E BOLSAS DE VALORES
+
+                                COMUNICA A DECRETA¦`O  DA  LIQUIDA¦`O
+                                EXTRAJUDICIAL DA EMPRESA QUE  ESPECI-
+                                CA; NOMEACAO DO RESPECTIVO LIQUIDANTE
+                                E INCID»NCIA DE INDISPONIBILIDADE SO-
+                                BRE OS BENS DOS EX-ADMINISTRADORES.
+
+                        COMUNICAMOS, RELATIVAMENTE ï EMPRESA CONSORTE
+ADMINISTRADORA DE CONS¹RCIOS LTDA.(CGC N 30.493.688/0001-50), COM SE-
+DE NO RIO DE JANEIRO (RJ), QUE:
+
+                        I   - O BANCO CENTRAL  DO  BRASIL,  COM  BASE
+NO ART. 10, DA  LEI N  5.768,  DE  20.12.71, COMBINADO COM O ART. 15,
+INCISO I,  ALªNEA "A"  DA LEI N 6.024, DE 13.03.74,  E  CONFORME  ATO
+DESTA DATA, DECRETOU A  LIQUIDA¦`O EXTRAJUDICIAL E NOMEOU  O SR. JOS¢
+COSTA DO MONTE PARA AS FUN¦{ES DE LIQUIDANTE;
+
+                        II  - EM FACE DO  DISPOSTO NO ART. 36 DA LEI
+N 6.024/74, ACHAM-SE EM INDISPONIBILIDADE OS BENS DOS  EX-ADMINISTRA-
+DORES QUE ATUARAM NOS DOZE MESES ANTERIORES ï DATA DO ATO DE LIQUIDA-
+¦`O EXTRAJUDICIAL:
+
+              - MIGUEL ABR@O ELIAS, CPF N 205.372.559-15, BRASILEIRO,
+                SOLTEIRO, COMERCIANTE, PORTADOR  DA CARTEIRA DE IDEN-
+                TIDADE N 7.769.684-7/RJ, RESIDENTE  E  DOMICILIADO NO
+                RIO DE JANEIRO (RJ);
+
+              - EDILSON ABR@O, CPF N 548.328.889-00, BRASILEIRO, SOL-
+                TEIRO, COMERCI±RIO, PORTADOR DA CARTEIRA DE IDENTIDA-
+                DE N 2.004.012/PR, RESIDENTE  E  DOMICILIADO EM CURI-
+                TIBA (PR);
+                        III - AS INFORMA¦{ES  A RESPEITO  DA EVENTUAL
+EXIST»NCIA  DE  BENS  Aª  INSCRITOS, EM NOME DAS PESSOAS APONTADAS NO
+ITEM ANTERIOR, DEVEM SER  TRANSMITIDAS  DIRETAMENTE  AO LIQUIDANTE, ï
+AV. RIO BRANCO, 50 - 13 ANDAR - CENTRO - RIO DE JANEIRO (RJ).
+
+                  BRASªLIA (DF),  21  DE  JUNHO  DE 1995.
+
+                  DEPARTAMENTO DE CONTROLE  DE PROCESSOS
+                  ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                  FRANCISCO MUNIA MACHADO
+                  CHEFE
+```

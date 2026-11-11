@@ -1,0 +1,67 @@
+---
+titulo: "COMUNICADO N. 002944"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2944"
+data: 1992-07-31
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2944"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002944
+
+```
+                        COMUNICADO N. 002944
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              TRANSMITE  COMUNICACAO DE PEDIDO FORMU-
+                              LADO  POR LIQUIDANTE DA EMPRESA QUE ES-
+                              PECIFICA,  A EXCLUSAO DE NOME CONSTANTE
+                              DO  ROL DE PESSOAS COM BENS  INDISPONI-
+                              VEIS.
+
+               PARA  CONHECIMENTO E ADOCAO DE PROVIDENCIAS  CABIVEIS,
+TRANSMITIMOS  TEOR  DE SOLICITACAO OF. LIQ. N. 035/92,  DE  08.01.92,
+FEITA  PELO SR. ELIEZER FERNANDES TUNALA, LIQUIDANTE DA COMPANHIA IN-
+TERNACIONAL DE SEGUROS - EM LIQUIDACAO EXTRAJUDICIAL:
+
+     "EM  ADITAMENTO AO NOSSO OF. LIQ. N. 006/91, DE 27.03.1991 E  EM
+      CUMPRIMENTO  AO DESPACHO DO SR. SUPERINTENDENTE DA  SUPERINTEN-
+      DENCIA  DE  SEGUROS PRIVADOS NO PROCESSO SUSEP  N.  OO1-1689/91
+      FLS.  104/105, (COPIA ANEXA), SOLICITAMOS A V.S., O OBSEQUIO DE
+      DETERMINAR COM URGENCIA QUE O CASO REQUER, A EXCLUSAO CONSTANTE
+      DO  CORPO DAQUELE OFICIO, O NOME DO EX-CONSELHEIRO DA COMPANHIA
+      INTERNACIONAL  DE SEGUROS ABAIXO QUALIFICADO, QUE EM CONSEQUEN-
+      CIA NAO ESTARA SUJEITO AS COMINACOES PRESTAS NA LEI N. 5627, DE
+      01.12.1970.
+
+      - CARLO  ENRICO GIGLIOLI - EX-CONSELHEIRO, ITALIANO, CASADO DI-
+        PLOMATA,  RESIDENTE EM BRASILIA - DISTRITO FEDERAL, NA QL 8 -
+        CONJUNTO  5  -  CASA 17 - LAGO SUL, PORTADOR DA  CARTEIRA  DE
+        IDENTIDADE   N.   820.125-SP/MAF/SR/DF   E   DO   C.P.F.   N.
+        151.417.051-53.-
+
+      ATENCIOSAMENTE,
+
+      COMPANHIA INTERNACIONAL DE SEGUROS
+      EM LIQUIDACAO EXTRAJUDICIAL
+
+      ELIEZER FERNANDES TUNALA
+      LIQUIDANTE"
+
+                            BRASILIA (DF), 31  DE  JULHO  DE  1992
+
+                            DEPARTAMENTO DE CONTROLE DE  PROCESSOS
+                            ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                            NADIR BARUZZI
+                            CHEFE ADJUNTO
+
+                                          R-185783-5-TCI/INT92021.DOC
+```

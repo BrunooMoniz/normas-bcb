@@ -1,0 +1,39 @@
+---
+titulo: "COMUNICADO N. 003142"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "3142"
+data: 1993-01-07
+ementa: "DIVULGA OS INDICES DE ATUALIZACAO DOS SALDOS DOS DEPOSITOS DE POUPANCA."
+revogada: false
+responsavel: "DENOR"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=3142"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 003142
+
+```
+                        COMUNICADO N. 003142
+                        --------------------
+                              DIVULGA  OS INDICES DE ATUALIZACAO  DOS
+                              SALDOS DOS DEPOSITOS DE POUPANCA.
+
+                    COM BASE NO QUE DISPOE O ART. 12 DA LEI N. 8.177,
+DE  01.03.91,   COMUNICAMOS OS INDICES DE ATUALIZACAO DOS SALDOS  DOS
+DEPOSITOS DE POUPANCA A SEREM APLICADOS CONFORME ABAIXO INDICADO:
+
+                          PESSOAS FISICAS E
+  DATA DE ANIVERSARIO     ENTIDADES SEM FINS     PESSOAS JURIDICAS
+                             LUCRATIVOS
+
+       09.01.93               1,239575               1,897081
+       10.01.93               1,227572               1,876928
+       11.01.93               1,215686               1,876928
+       12.01.93               1,217923               1,898931
+
+                              BRASILIA (DF), 07 DE JANEIRO DE 1993
+
+                              GUSTAVO JORGE LABOISSIERE LOYOLA
+                              PRESIDENTE
+```

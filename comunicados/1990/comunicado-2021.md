@@ -1,0 +1,60 @@
+---
+titulo: "COMUNICADO N. 002021"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2021"
+data: 1990-02-13
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2021"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002021
+
+```
+                        COMUNICADO N. 002021
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              COMUNICA  A CESSACAO DA LIQUIDACAO  EX-
+                              TRAJUDICIAL  DA EMPRESA QUE ESPECIFICA,
+                              A DISPENSA DO RESPECTIVO LIQUIDANTE E A
+                              PERMANENCIA  DA  INDISPONIBILIDADE  DOS
+                              BENS DOS EX-ADMINISTRADORES
+
+                    COMUNICAMOS, RELATIVAMENTE A EMPRESA SERCO SERVI-
+COS DE CREDITO, CADASTRO E COBRANCA LTDA., COM SEDE NO RIO DE JANEIRO
+(RJ):
+
+                    I  - O  BANCO CENTRAL DO BRASIL, COM BASE NO DIS-
+POSTO NO ART. 19, LETRA "C", DA LEI N. 6.024, DE 13.03.74, E CONFORME
+ATO DE 07.02.90 (D.O.U. DE 09.02.90), RESOLVEU DECLARAR CESSADA A LI-
+QUIDACAO  EXTRAJUDICIAL  A  QUE SE ENCONTRAVA SUBMETIDA, POR  ATO  DE
+12.08.83  (D.O.U. DE 16.08.83), E DISPENSAR O SR. WALTER VIEIRA LOPES
+DAS FUNCOES DE LIQUIDANTE;
+
+                   II  - EM FACE DO ANTERIOR ENCAMINHAMENTO, AO PODER
+JUDICIARIO,  DOS AUTOS DO INQUERITO NELA PROCEDIDO, PERMANECEM INDIS-
+PONIVEIS, NA FORMA DOS ARTS. 36 E 46 DA MESMA LEI, OS BENS DOS EX-AD-
+MINISTRADORES  A SEGUIR RELACIONADOS, QUE EXERCERAM SUAS FUNCOES  NOS
+DOZE MESES ANTERIORES A DATA DO ATO DE LIQUIDACAO EXTRAJUDICIAL:
+
+     ABRAM ZYLBERSZTAJN ...................... CPF N. 008.285.487-49
+     ASSIS PAIM CUNHA ........................ CPF N. 008.507.217-68
+     FERNANDO GEBARA ......................... CPF N. 220.301.587-04
+     WALDEMAR SEBASTIAO RAPOSO ...... ........ CPF N. 022.922.897-68
+
+                              BRASILIA (DF), 13 DE FEVEREIRO DE 1990
+
+                              DEPARTAMENTO  DE CONTROLE DE  PROCESSOS
+                              ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                              ROBERTO CARLOS VIEIRA MACEDO
+                              CHEFE
+
+R-185783-5-TCE/SER90007.DOC
+```

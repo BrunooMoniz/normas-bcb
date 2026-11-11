@@ -1,0 +1,96 @@
+---
+titulo: "COMUNICADO N. 005876"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "5876"
+data: 1997-10-31
+ementa: "Divulga condicoes para acolhimento de propostas para compra de Notas do Tesouro Nacional-Serie D (NTN-D)."
+revogada: false
+responsavel: "DEMAB"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=5876"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 005876
+
+```
+                        COMUNICADO N. 005876
+                        --------------------
+
+                                 Divulga  condicoes  para acolhimento
+                                 de propostas  para  compra  de Notas
+                                 do Tesouro Nacional-Serie D (NTN-D).
+
+               O  Banco  Central do Brasil, tendo em vista o disposto
+no artigo 10, inciso XII, da Lei n. 4.595, de 31.12.64, torna publico
+que  acolhera, de 17:00 as 17:30 horas do dia 31.10.97, propostas das
+instituicoes participantes do Sistema Oferta Publica Formal Eletroni-
+ca  (OFPUB),  cadastradas  de  acordo  com o  Comunicado n. 5.377, de
+18.11.96,para compra de Notas do Tesouro Nacional-Serie D (NTN-D), de
+sua carteira, a precos competitivos, conforme caracteristicas abaixo:
+
+                CODIGO       VENCIMENTO       QUANTIDADE
+                782406        01.02.98         300 mil
+
+2.             E  facultado as pessoas fisicas e as  demais   pessoas
+juridicas participarem da oferta de NTN-D de que trata este Comunica-
+do. Essa participacao far-se-a por intermedio das  Instituicoes   re-
+feridas no paragrafo anterior.
+
+3.             A presente Oferta Publica sera realizada exclusivamen-
+te  atraves  do Sistema Oferta Publica Formal Eletronica (OFPUB), nos
+termos do Regulamento do Sistema Especial de Liquidacao e de Custodia
+(SELIC) aprovado pela Circular n. 2.727, de 14.11.96.
+
+4.             Na formulacao de propostas devera ser utilizada a  co-
+tacao com quatro casas decimais.
+
+5.             Na selecao das propostas apresentadas serao obedecidos
+os mesmos criterios ja comumente observados para a apuracao das ofer-
+tas primarias de titulos publicos federais.
+
+6.             Consoante  os  criterios    para a apuracao de ofertas
+primarias  de titulos publicos federais, referidos no paragrafo ante-
+rior, o  numero de propostas por instituicao e limitado a cinco, sen-
+do consideradas, exclusivamente, aquelas  mais  favoraveis  ao  Banco
+Central do Brasil, dentre as confirmadas pela instituicao e recebidas
+pelo Sistema.
+
+7.             A  liquidacao das propostas aceitas sera efetivada por
+intermedio  do  Sistema Especial de Liquidacao e de Custodia (SELIC),
+previsto no MNI-6-3, devendo as instituicoes que tiverem suas propos-
+tas  aceitas,  total  ou parcialmente, promover a atualizacao de suas
+contas  de custodia, no dia 03.11.97, impreterivelmente, implicando a
+perda  do  direito  a  aquisicao  o nao cumprimento do disposto neste
+item.
+
+8.             O preco unitario (PU) a ser  utilizado  na  liquidacao
+financeira sera:
+
+                           cot
+   preco unitario (PU) =  -----  x  valor par
+                           100
+
+   onde:  cot  = cotacao com quatro casas decimais; e
+
+                        tct
+          valor par =  -----  x  valor nominal na emissao
+                        tcto
+
+   sendo: tct  = cotacao de venda do dolar dos Estados Unidos do dia
+                 util imediatamente anterior ao de liquidacao.
+
+          tcto = cotacao de venda do dolar dos Estados Unidos do dia
+                 util imediatamente anterior a data da emissao.
+
+9.             O preco unitario (PU) sera considerado com seis casas
+decimais, arredondando-se a ultima matematicamente.
+
+                       Rio de Janeiro, 31 de outubro de 1997.
+
+                       DEPARTAMENTO DE OPERACOES
+                       DE MERCADO ABERTO - DEMAB
+
+                       Eduardo Hitiro Nakao
+                       Chefe
+```

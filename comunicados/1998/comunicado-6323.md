@@ -1,0 +1,41 @@
+---
+titulo: "COMUNICADO N. 006323"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "6323"
+data: 1998-08-21
+ementa: "ATOS SOCIETARIOS QUE CONTENHAM DELIBERA- COES QUE INDEPENDEM DE AUTORIZACAO DO BANCO CENTRAL DO BRASIL - DISPENSA DE ENCAMINHAMENTO."
+revogada: false
+responsavel: "DEORF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=6323"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 006323
+
+```
+                        COMUNICADO N. 006323
+                        --------------------
+
+                             ATOS SOCIETARIOS QUE CONTENHAM DELIBERA-
+                             COES QUE INDEPENDEM DE  AUTORIZACAO  DO
+                             BANCO CENTRAL DO BRASIL - DISPENSA   DE
+                             ENCAMINHAMENTO.
+
+        COMUNICAMOS QUE ESTAO DISPENSADOS DE ENCAMINHAMENTO AO DEPAR-
+TAMENTO DE ORGANIZACAO DO SISTEMA  FINANCEIRO  (DEORF)  OU  REPRESEN-
+TACOES   REGIONAIS,  OS  ATOS  SOCIETARIOS  DAS  INSTITUICOES  FINAN-
+CEIRAS E DEMAIS INSTITUICOES  AUTORIZADAS A FUNCIONAR PELO BANCO CEN-
+TRAL DO BRASIL, QUE CONTENHAM EXCLUSIVAMENTE  DELIBERACOES  SOBRE  A-
+PROVACAO DE CONTAS, DESTINACAO DO RESULTADO DO EXERCICIO, ENCERRAMEN-
+TO DE DEPENDENCIA E OUTRAS QUE INDEPENDAM DA APROVACAO  PREVIA DESTE
+ORGAO.
+
+                        BRASILIA(DF), 21  DE AGOSTO  DE 1998
+
+                        DEPARTAMENTO DE ORGANIZACAO DO SISTEMA
+                        FINANCEIRO - DEORF
+
+                        CARLOS EDUARDO SAMPAIO LOFRANO
+                        CHEFE
+```

@@ -1,0 +1,72 @@
+---
+titulo: "COMUNICADO N. 002617"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2617"
+data: 1991-12-05
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2617"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002617
+
+```
+                        COMUNICADO N. 002617
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              COMUNICA A DECRETACAO DA LIQUIDACAO EX-
+                              TRAJUDICIAL  DA EMPRESA QUE ESPECIFICA,
+                              A NOMEACAO DO RESPECTIVO LIQUIDANTE E O
+                              ALCANCE  DA INDISPONIBILIDADE SOBRE  OS
+                              BENS DOS EX-ADMINISTRADORES.
+
+                    COMUNICAMOS QUE:
+
+                    I - O  BANCO CENTRAL DO BRASIL, COM BASE NO ARTI-
+GO  15, INCISO I, ALINEAS "A" E "B", DA LEI N. 6.024, DE 13.03.74,  E
+CONFORME  ATO  DE  03.12.91, DECRETOU A LIQUIDACAO  EXTRAJUDICIAL  DA
+ CONSORLUNA    ADMINISTRADORA    DE   CONSORCIOS   S/C.,    CGC    N.
+24.383.671/0001-47, COM SEDE EM RECIFE (PE), NOMEANDO O SR. LUIZ APA-
+RECIDO BORTOLETTI, PARA AS FUNCOES DE LIQUIDANTE;
+
+                   II  - EM FACE DO DISPOSTO NO ART. 36 DA MESMA LEI,
+FORAM ALCANCADOS PELA INDISPONIBILIDADE, OS BENS DOS EX-ADMINISTRADO-
+RES ABAIXO QUALIFICADOS:
+
+          - ARIEL VALMAGGIA, (CPF N. 509.149.877-04), URUGUAIO, CASA-
+            DO,  EMPRESARIO,  PORTADOR DA CARTEIRA DE  IDENTIDADE  N.
+            W.173.813-9,  RESIDENTE E DOMICILIADO A RUA DO FAROL,  N.
+            1.563 - CARMO - OLINDA (PE);
+
+          - JOSUE  MONTEIRO DE LUNA, (CPF N. 104.942.604-59),  BRASI-
+            LEIRO,SOLTEIRO, EMPRESARIO, PORTADOR DA CARTEIRA DE IDEN-
+            TIDADE  N.  1.309.577, SSP/PE, RESIDENTE E DOMICILIADO  A
+            RUA CEL. ANISIO RODRIGUES COELHO, 558, BOA VIAGEM, RECIFE
+            (PE);
+
+          - LUIZ  VIEIRA DA SILVA, (CPF N. 066.399.174-91), BRASILEI-
+            RO, CASADO, EMPRESARIO, PORTADOR DA CARTEIRA DE IDENTIDA-
+            DE N. 753.440, SSP/PE, RESIDENTE E DOMICILIADO A RUA BELO
+            HORIZONTE, N. 439, RIO DOCE, OLINDA (PE).
+
+                  III  -  AS INFORMACOES A RESPEITO DA EVENTUAL EXIS-
+TENCIA DE BENS AI INSCRITOS, EM NOME DAS PESSOAS NOMEADAS NO ITEM AN-
+TERIOR,  DEVEM SER DIRIGIDAS AO SR. LIQUIDANTE, A AV. CARLOS DE  LIMA
+CAVALCANTI, 95, DERBY - RECIFE (PE).
+
+                               BRASILIA (DF), 05 DE DEZEMBRO DE  1991
+
+                               DEPARTAMENTO DE CONTROLE  DE PROCESSOS
+                               ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                               FRANCISCO MUNIA MACHADO
+                               CHEFE
+
+                                        RPC-185783-5-TCD/LUN91050.DOC
+```

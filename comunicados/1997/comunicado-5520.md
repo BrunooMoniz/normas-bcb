@@ -1,0 +1,67 @@
+---
+titulo: "COMUNICADO N. 005520"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "5520"
+data: 1997-02-21
+ementa: "Comunica as Instituicoes Financeiras e Bolsas de Valores a decretacao da liquidacao extrajudicial da MERCADO DTVM LTDA., a nomeacao do respectivo liquidante e a incidencia de indis- ponibilidade sobre os bens do con- trolador e ex-administrador."
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=5520"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 005520
+
+```
+                        COMUNICADO N. 005520
+                        --------------------
+
+                                 Comunica as Instituicoes Financeiras
+                                 e  Bolsas de Valores a decretacao da
+                                 liquidacao  extrajudicial da MERCADO
+                                 DTVM LTDA., a nomeacao do respectivo
+                                 liquidante  e a incidencia de indis-
+                                 ponibilidade  sobre  os bens do con-
+                                 trolador e ex-administrador.
+
+                        Comunicamos,  relativamente a empresa MERCADO
+DISTRIBUIDORA   DE  TITULOS  E  VALORES  MOBILIARIOS  LTDA.  (CGC  no
+43.836.170/0001-13), com sede no Rio deJaneiro (RJ), que:
+
+                        I  -  o Banco Central do Brasil, com base nos
+artigos  1o, 15, 16 e 52 da Lei no 6.024, de 13.03.74, e conforme Ato
+PRESI  No 634, de 21.02.97, decretou a liquidacao extrajudicial e no-
+meou o Sr. CARLOS ALBERTO BASTOS LEITE para as funcoes de liquidante;
+
+                        II - em face do disposto no artigo 36 da mes-
+ma Lei, combinado com o artigo 2o da Medida Provisoria no 1470-16, de
+14.02.97,    ficam   indisponiveis   os   bens   do   controlador   e
+ex-administrador  que  atuou nos doze meses anteriores a data do res-
+pectivo Ato de liquidacao extrajudicial, a seguir identificado:
+
+           1) Controlador:
+
+              - JADIR CLOVIS MALHEIROS PINTO (CPF No 004.994.557-20),
+                brasileiro,  separado judicialmente, economista, por-
+                tador  da  carteira  de identidade no 11.536, CRE-RJ,
+                residente e domiciliado no Rio de Janeiro - RJ.
+
+           2) Ex-administrador:
+
+              - JADIR CLOVIS MALHEIROS PINTO - Ja qualificado.
+
+                       III  -  as  informacoes a respeito da eventual
+existencia  de  bens  inscritos  nessas  entidades, em nome da pessoa
+apontada  no item anterior, devem ser transmitidas diretamente ao li-
+quidante, na Av. Almirante Barroso, 139 - Sala 702 - Parte - Centro -
+CEP 20031-005 - Rio Janeiro (RJ).
+
+                            Brasilia (DF), 21 de fevereiro de 1997.
+
+                            DEPARTAMENTO DE CONTROLE DE  PROCESSOS
+                            ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                            Francisco Munia Machado
+                            Chefe
+```

@@ -1,0 +1,53 @@
+---
+titulo: "COMUNICADO N. 002941"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2941"
+data: 1992-07-29
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2941"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002941
+
+```
+                        COMUNICADO N. 002941
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              COMUNICA,  A PEDIDO DE AUTORIDADE JUDI-
+                              CIARIA,  DECRETACAO DE ARRESTO DE BENS,
+                              DE  EX-ADMINISTRADOR DA EMPRESA QUE ES-
+                              PECIFICA.
+
+                    COMUNICAMOS  QUE ESTA AUTARQUIA RECEBEU O  OFICIO
+N.  475/92-H, DE 09.06.92, DO MM. JUIZ DE DIREITO DA SEGUNDA VARA  DE
+FALENCIAS  E CONCORDATAS DO ESTADO DO RIO DE JANEIRO,  INFORMANDO-NOS
+QUE,  POR DECISAO DE 02.06.92, DECRETOU O ARRESTO DE TODOS OS BENS DO
+SR. SILVIO SOARES DA CUNHA, (CPF N. 042.465.007-04), EX-ADMINISTRADOR
+DA DIVALORES DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA., EM
+LIQUIDACAO  EXTRAJUDICIAL, JA QUALIFICADO NO COMUNICADO N. 002435, DE
+26.06.91.
+
+2.                  AS  INFORMACOES  A RESPEITO DE  EVENTUAIS  SALDOS
+EXISTENTES  EM  CONTAS-CORRENTES, EM NOME DA PESSOA INDICADA NO  ITEM
+ANTERIOR,  BEM COMO CUSTODIAS E VALORES MOBILIARIOS, DEVEM SER ENVIA-
+DAS  DIRETAMENTE  AO JUIZO DE DIREITO DA SEGUNDA VARA DE FALENCIAS  E
+CONCORDATAS DO ESTADO DO RIO DE JANEIRO (RUA DOM MANUEL, 29 - 4. ANA-
+DAR - RIO DE JANREIRO/RJ).
+
+                           BRASILIA (DF), 29 DE  JULHO   DE  1992
+
+                           DEPARTAMENTO DE CONTROLE  DE PROCESSOS
+                           ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                           NADIR BARUZZI
+                           CHEFE ADJUNTO
+
+                                        RPC-185783-5-TCI/DIV92020.DOC
+```

@@ -1,0 +1,46 @@
+---
+titulo: "COMUNICADO N. 003130"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "3130"
+data: 1992-12-22
+ementa: ""
+revogada: false
+responsavel: "DEASF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=3130"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 003130
+
+```
+                        COMUNICADO N. 003130
+                        --------------------
+AS
+INSTITUICOES ADMINISTRADORAS DE FUNDOS DE
+INVESTIMENTO EM "COMMODITIES".
+
+                            INFORMA SOBRE DISPONIBILIDADE DA TRANSA-
+                            CAO DO SISBACEN DE  QUE TRATA  O ART. 2.
+                            DA CIRCULAR N. 2.252, DE 18.11.92.
+
+               COMUNICAMOS   QUE   ESTARA  DISPONIVEL  A  PARTIR   DE
+23.12.92,  A OPCAO 07 DA TRANSACAO PESP500 DO SISBACEN QUE DEVERA SER
+UTILIZADA  PARA REMESSA DAS INFORMACOES DIARIAS REQUERIDAS PELO  ART.
+2.  DA CIRCULAR N. 2.252, DE 18.11.92. ESSAS MESMAS INFORMACOES PODE-
+RAO SER CONSULTADAS ATRAVES DA OPCAO 06 DA TRANSACAO PESP600.
+
+2.             REFERIDAS INFORMACOES DEVERAO SER ENVIADAS A PARTIR DA
+POSICAO  REFERENTE A 21.12.92, FICANDO DISPENSADA A REMESSA DOS DADOS
+MENSAIS  NA  FORMA PREVISTA NO PARAGRAFO 2. DO ART.2.  DA  MENCIONADA
+CIRCULAR, DESDE A POSICAO DO CORRENTE MES.
+
+                              BRASILIA (DF), 22 DE DEZEMBRO  DE 1992
+
+DEPARTAMENTO DE INFORMATICA            DEPARTAMENTO DE ESTUDOS ESPE-
+                                      CIAIS E  ACOMPANHAMENTO    DO
+                                     SISTEMA FINANCEIRO
+
+ARIEL STENIUS DE ABREU MOURA           RONALDO FONSECA DE PAIVA
+CHEFE,EM EXERCICIO                     CHEFE
+```

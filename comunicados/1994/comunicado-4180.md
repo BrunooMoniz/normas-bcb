@@ -1,0 +1,36 @@
+---
+titulo: "COMUNICADO N. 004180"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "4180"
+data: 1994-09-20
+ementa: ""
+revogada: false
+responsavel: "DEPIN"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=4180"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 004180
+
+```
+                        COMUNICADO N. 004180
+                        --------------------
+
+AS INSTITUICOES FINANCEIRAS AUTORIZADAS
+A OPERAR NO MERCADO DE OURO
+
+INFORMAMOS O CANCELAMENTO DO COMUNICADO DEPIN-01/91, DE 28 DE OUTUBRO
+DE  1991,  QUE SUSPENDEU, TEMPORARIAMENTE, A PARTICIPACAO DA MESA  DE
+OPERACOES COM OURO DO DEPARTAMENTO DE OPERACOES DAS RESERVAS INTERNA-
+CIONAIS - DEPIN, EM OPERACOES NO MERCADO DOMESTICO.
+
+PERMANECEM  EM  VIGOR  AS  OPERACOES  A  QUE SE REFERE A CIRCULAR  N.
+1.569, DE 10.01.90.
+
+BRASILIA (DF), 20 DE SETEMBRO DE 1994.
+
+DEPARTAMENTO DE OPERACOES DAS RESERVAS INTERNACIONAIS
+JOUBERT FURTADO
+CHEFE
+```

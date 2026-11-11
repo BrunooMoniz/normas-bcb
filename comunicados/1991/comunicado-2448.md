@@ -1,0 +1,51 @@
+---
+titulo: "COMUNICADO N. 002448"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2448"
+data: 1991-07-03
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2448"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002448
+
+```
+                        COMUNICADO N. 002448
+                        --------------------
+
+AS INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              COMUNICA  ARQUIVAMENTO DE INQUERITO  DA
+                              EMPRESA  QUE ESPECIFICA, PERMANENCIA DE
+                              INDISPONIBILIDADE  DE BENS DE  EX-ADMI-
+                              NISTRADORES
+
+                    I  -  REFERIMO-NOS AO COMUNICADO N.  90/2196,  DE
+20.09.90,  PARA  INFORMAR QUE O BANCO CENTRAL DO BRASIL, POR  ATO  DE
+29.05.91,  PUBLICADO NO DIARIO OFICIAL DA UNIAO DE 05.06.91, COM FUN-
+DAMENTO  NO ARTIGO 44 DA LEI N. 6.024, DE 13.03.74, E TENDO EM  VISTA
+AS CONCLUSOES DOS PARECERES QUE O APRECIARAM, RESOLVEU ARQUIVAR O IN-
+QUERITO A QUE PROCEDEU NA BANDERN - CREDITO, FINANCIAMENTO E INVESTI-
+MENTO S.A. - EM LIQUIDACAO EXTRAJUDICIAL.
+
+                   II  -  OS  EX-ADMINISTRADORES QUE  EXERCERAM  SUAS
+FUNCOES  NOS DOZE MESES ANTERIORES AO ATO DE LIQUIDACAO EXTRAJUDICIAL
+NA  MENCIONADA INSTITUICAO PERMANECEM COM SEUS BENS ONERADOS NA FORMA
+DO  ARTIGO 36, DA CITADA LEI N. 6.024/74, PELA VINCULACAO COM O BANCO
+DO  ESTADO DO RIO GRANDE DO NORTE S.A. E/OU BANDERN CREDITO IMOBILIA-
+RIO S.A., AMBOS EM LIQUIDACAO EXTRAJUDICIAL.
+
+                           BRASILIA (DF),  03 DE  JULHO  DE  1991
+
+                           DEPARTAMENTO DE CONTROLE  DE PROCESSOS
+                           ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                           JOSE CARLOS MONTEIRO MEDEIROS
+                           CHEFE
+
+                                         RPC-1857835-TCC/BRN91028.DOC
+```

@@ -1,0 +1,64 @@
+---
+titulo: "COMUNICADO N. 002899"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2899"
+data: 1992-07-01
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2899"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002899
+
+```
+                        COMUNICADO N. 002899
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              COMUNICA A DECRETACAO DA LIQUIDACAO EX-
+                              TRAJUDICIAL  DA EMPRESA QUE ESPECIFICA,
+                              A NOMEACAO DO RESPECTIVO LIQUIDANTE E A
+                              COLOCACAO EM INDISPONIBILIDADE DOS BENS
+                              DA EX-ADMINISTRADORA.
+
+                    COMUNICAMOS,  RELATIVAMENTE A EMPRESA UNICON CON-
+SORCIOS LTDA., COM SEDE A RODOVIA AMARAL PEIXOTO N. 95.921, NA CIDADE
+DE IGUABA PEQUENA (RJ):
+
+                    I - O  BANCO CENTRAL  DO  BRASIL, COM BASE NO AR-
+TIGO  15, INCISO I, ALINEAS "A", DA LEI N. 6.024, DE 13.03.74, E CON-
+FORME  ATO DE 01.07.92, DECRETOU A SUA LIQUIDACAO EXTRAJUDICIAL E NO-
+MEOU O SR. ELSO BRITO DE MELO TAVARES, PARA AS FUNCOES DE LIQUIDANTE;
+
+                   II  - EM FACE DO DISPOSTO NO ART. 36 DA MESMA LEI,
+ACHAM-SE  EM INDISPONIBILIDADE OS BENS DA EX-ADMINISTRADORA QUE EXER-
+CEU  SUAS FUNCOES NOS DOZE MESES ANTERIORES A DATA DO ATO DE LIQUIDA-
+CAO EXTRAJUDICIAL:
+
+               - MIRIAM  KURBHI, (CPF N. 090.967.138-93), BRASILEIRA,
+                 SEPARADA  CONSENSUALMENTE, PORTADORA DA CARTEIRA  DE
+                 IDENTIDADE  N.  09089833-9, EXPEDIDA PELO  INSTITUTO
+                 FELIX  PACHECO-RJ,  RESIDENTE  E DOMICILIADA  A  RUA
+                 ITUA,  1727,  APT. 303, NA CIDADE DO RIO DE  JANEIRO
+                 (RJ).
+
+                  III  -  AS INFORMACOES A RESPEITO DA EVENTUAL EXIS-
+TENCIA DE BENS AI INSCRITOS, EM NOME DAS PESSOAS NOMEADAS NO ITEM AN-
+TERIOR, DEVEM SER DIRIGIDAS DIRETAMENTE AO LIQUIDANTE, NO ENDERECO DE
+INICIO CITADO.
+
+                           BRASILIA (DF), 01 DE  JULHO   DE  1992
+
+                           DEPARTAMENTO DE CONTROLE  DE PROCESSOS
+                           ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                           NADIR BARUZZI
+                           CHEFE ADJUNTO
+
+                                        RPC-185783-5-TCD/UNC92MIN.DOC
+```

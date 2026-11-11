@@ -1,0 +1,723 @@
+---
+titulo: "COMUNICADO N. 003946"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "3946"
+data: 1994-06-06
+ementa: "Divulga o gabarito oficial da prova objetiva, o padrao de res- postas e as notas discursivas do Concurso Publico para a Carreira de Procurador."
+revogada: false
+responsavel: "DEPES"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=3946"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 003946
+
+```
+                        COMUNICADO N. 003946
+                        --------------------
+                                    Divulga  o  gabarito  oficial  da
+                                    prova  objetiva, o padrao de res-
+                                    postas  e as notas discursivas do
+                                    Concurso  Publico para a Carreira
+                                    de Procurador.
+
+          Tendo em vista o disposto no Item 9.4 do Edital do Concurso
+PROC-94/01,  publicado no D.O.U. de 25.02.94, divulgamos, em anexo, o
+padrao de respostas e as notas discursivas do Concurso Publico para a
+Carreira  de  Procurador, realizado em 15.05.94, bem como o  gabarito
+oficial da prova objetiva.
+
+2.        Informamos, ainda, que a Banca Examinadora constituida pela
+Fundacao  CESGRANRIO, entidade responsavel pela realizacao do concur-
+so,  examinou os recursos interpostos pelos candidatos com relacao  a
+prova objetiva e decidiu o seguinte:
+    a)  considerar correta a alternativa "C" da questao de n. 23,  ao
+inves da "A", como anteriormente divulgado;
+    b) anular a questao de n. 93;
+    c)  divulgar,  em consequencia, o gabarito  retificado,  conforme
+ANEXO I deste Comunicado.
+
+                Brasilia, 06 de junho de 1994.
+
+                DEPARTAMENTO DE ADMINISTRACAO DE RECURSOS HUMANOS
+                WARLY SILVA LEITE
+                Chefe, em Exercicio
+
+     CONCURSO PUBLICO PARA A CARREIRA DE PROCURADOR - PROC-94/01
+
+ANEXO I
+                     GABARITO DA PROVA OBJETIVA
+
+01-A, 02-C, 03-D, 04-E, 05-B, 06-E, 07-C, 08-C, 09-A, 10-D, 11-B, 12-
+B, 13-C, 14-D, 15-C, 16-B, 17-E, 18-C, 19-C, 20-D, 21-E, 22-D, 23-C,
+24-E, 25-D, 26-D, 27-C, 28-B, 29-E, 30-B, 31-B, 32-D, 33-C, 34-E, 35-
+D, 36-E, 37-A, 38-D, 39-B, 40-A, 41-E, 42-A, 43-A, 44-E, 45-C, 46-A,
+47-B, 48-C, 49-C, 50-A, 51-B, 52-E, 53-E, 54-B, 55-D, 56-E, 57-E, 58-
+B, 59-D,  60 - ANUL, 61-B, 62-E, 63-E, 64-B, 65-C, 66-B, 67-E, 68-A,
+69-E, 70-B, 71-A, 72-A, 73-C, 74-E, 75-D, 76-D, 77-E, 78-B, 79-A, 80-
+E, 81-E, 82-A, 83-D, 84-E, 85-D, 86-B, 87-C, 88-D, 89-D, 90-B, 91-D,
+92-A, 93 - ANUL,  94-C, 95-D, 96-E, 97-A, 98-E, 99-C, 100-A.
+
+ANEXO II
+                         PROVA DISSERTATIVA
+                         PADRAO DE RESPOSTAS
+
+1  - Considere a hipotese segundo a qual o Banco Central esteja sendo
+demandado  em uma Vara Federal e que ja tenha apresentado a sua  con-
+testacao. Considere, ainda, que, em caso semelhante, o Dr. Juiz dessa
+Vara  ja  tenha decidido favoravelmente ao Reu e que, em outra  Vara,
+outro Juiz tenha decidido desfavoravelmente a esse mesmo Reu. No cur-
+so do Processo, o Advogado do Autor substabelece, SEM RESERVAS, a ou-
+tro Advogado, que e IRMAO do Juiz que preside o processo. Nesse caso,
+o que deve fazer e alegar o Advogado do Reu? - Elabore a peca proces-
+sual correspondente.
+
+- Na peca processual a ser elaborada, o advogado do Banco Central de-
+  vera,  basicamente, arguir o impedimento do novo advogado. Assim, a
+  hipotese cuida de questao incidente, relativa ao impedimento do no-
+  vo advogado de atuar nos autos, pois que o CPC proibe esse novo ad-
+  vogado  de  pleitear no processo, a fim de criar um impedimento  do
+  juiz.  (CPC, paragrafo unico do Art. 134 combinado com o  paragrafo
+  1. do Art. 138 e 304 e seguintes).
+
+2  - A Companhia Kid-Rio, sociedade de economia mista controlada pelo
+Estado do Rio de Janeiro, encontra-se impontual no pagamento de cinco
+duplicatas,  aceitas e protestadas, junto a um prestador de servicos,
+que deseja requerer-lhe a falencia.
+Pergunta-se: e possivel tal intento? Justifique.
+
+- Por  se  tratar de uma sociedade de economia mista, nao e  possivel
+  requerer  a falencia dessa mesma sociedade - apesar de a  duplicata
+  de prestacao de servicos ser titulo habil ao requerimento, conforme
+  jurisprudencia  consolidada sobre a especie - porquanto tais compa-
+  nhias sao imunes ao instituto das quebras por forca de lei especial
+  (Art.  242 da Lei 6.404/76), podendo, entretanto, seus bens respon-
+  derem a execucao singular, alem de a pessoa juridica que a controla
+  responder, subsidiariamente, pelas suas obrigacoes.
+  A  despeito  de algumas posicoes doutrinarias em sentido  contrario
+  que firmaram entendimento que esta regra acima citada estaria revo-
+  gada  pela  Constituicao Federal, a melhor orientacao e a  que  vem
+  predominando no sentido de que a sujeicao dessas empresas ao regime
+  juridico  proprio das empresas privadas (C.F. paragrafo 1. do  Art.
+  173)  nao  pode ter a amplitude de decretar a possibilidade de  uma
+  companhia  mista  ir a falencia. Nao se pode perder de vista que  a
+  materia deve ser tratada pela lei ordinaria, ate porque algumas em-
+  presas privadas foram por lei excluidas da falencia, como e o caso,
+  por exemplo, das Companhias de Seguro e das Usinas de Acucar.
+
+3  - X emitiu um cheque em favor de Y, que foi devolvido por  insufi-
+ciencia de fundos. O devedor, cobrado executivamente, deduziu em seus
+embargos  que Y nao poderia promover a cobranca executiva do  titulo,
+porquanto  o  mesmo fora apresentado ao sacado fora do prazo legal  e
+nao havia sido protestado. Assiste razao ao devedor? Justifique.
+
+- Nao.  Em relacao ao emitente, obrigado principal, nao ha a necessi-
+  dade  de apresentacao tempestiva (Art. 33 da Lei 7.357/85) ao saca-
+  do,  nem  a necessidade de protestar o titulo, para que o  portador
+  desfrute  de acao executiva (inteligencia do Artigo 47, incisos I e
+  II da Lei 7.357/85, referendada pela sumula 600 do STF). O portador
+  so perde o direito a execucao contra o sacador, caso este prove que
+  tinha  fundos disponiveis durante o prazo de apresentacao e os dei-
+  xou  de ter em razao de fato que nao lhe seja imputavel  (paragrafo
+  3. do Artigo 47 da Lei 7.357/85).
+
+ANEXO III
+
+                     NOTAS DA PROVA DISSERTATIVA
+BRASILIA
+-----------------------------------------------------------------
+N O M E                            IDENT.    INSCRICAO       NOTA
+-----------------------------------------------------------------
+ADELPHO UBALDO LONGO               41507     53300106         57
+ADEMIR MARCOS AFONSO               000146204653300130         80
+ADRIANA SETTE ROCHA DE MENEZES     M2108306  53300270         78
+ADVERCI RATES MENDES DE ABREU      5874      53300360         40
+ALEXANDRE SALES DE PAULA E SOUZA   862483    53300645         40
+ALEXANDRE SILVA GUIMARAES          1078089   53300653         53
+ANA BEATRIZ DO AMARAL CID          786528    53300823         30
+ANA CAROLINA MONTE PROCOPIO ARAUJO 848793    53300831         40
+ANA CLAUDIA RODRIGUES BANDEIRA     1405200   53300874         40
+ANA VALERIA DE ANDRADE RABELO      864632    53301145         50
+ANILDO FABIO DE ARAUJO             M4882966  53301420         65
+ANTONIO BALSALOBRE LEIVA           27784     53301544         93
+ANTONIO CARLOS ALENCAR CARVALHO    1229849   53301552         47
+ARIVALDO FERNANDES DE ARAUJO       10267     53301900         45
+CANDICE MARTINELLI DUARTE          1408857   53302230         70
+CARLOS ALBERTO DE CARVALHO BARBOSA 1116427   53302320         63
+CARLOS HENRIQUE MACEDO             1172754   53302400         30
+CARMELLIO MANTUANO DE PAIVA        M62532    53302478         92
+CASSIOMAR GARCIA SILVA             767883    53302567         93
+CELIA MARIA CAVALCANTI RIBEIRO(*)  1016      53022920         48
+CESAR CARDOSO                      488430    53302672         91
+CHARLES RENAUD FRAZAO DE MORAES    1805918   53302710         58
+CHRISTINE PHILIPP                  8003340   53302737         83
+CLAUDIONOR ROCHA                   1543919   53302974         69
+CLEONICE MARIA RESENDE             1519001   53303016         35
+CYNTHIA DE ARAUJO LIMA LOPES       1639277   53314239         48
+DENISE DOMINGUES SANTIAGO          065047011 53303539         93
+DENISE LADEIRA COSTA FERREIRA      9506      53303547         87
+DEUSIVONE CAMPELO SOARES           3324477   53303571         45
+DJACYR CAVALCANTI DE ARRUDA FILHO  975384    53303709         35
+DOMECIANO DE SOUSA MEDEIROS        4506      53303733         50
+EDYLLA MARIA PIRES DE O ATTIE      479004    53304110         60
+ELIANE GREYCE DOMINGOS DE OLIVEIRA 968885    53304276         35
+ELTON CALIXTO                      893998    53304454        100
+FABIANO OLIVEIRA MASCARENHAS       M3256741  53304764         55
+FABIO RAMOS DE ARAUJO SILVA        9776      53304799         63
+FERNANDO LUIZ DE LACERDA MESSERE   288828    53304950         43
+FLAVIA MARIA BADARO ABRANTES       10266     53304977         32
+FRANCISCO DAS CHAGAS MOREIRA       1602246   53305078         58
+GABRIEL DEZEN JUNIOR               1R823091  53305205         40
+GETULIO ALVES DE LIMA              744982    53305370         35
+GETULIO VAZ                        482670    53305396         48
+GILDA M C SIGMARINGA SEIXAS        281175    53305442         55
+HAMILTON FLEURY CURADO DIAS        1075736   53305620         30
+HELENA PEREIRA GUIMARAES           7237      53305671         68
+HELIO PINTO R DE CARVALHO JUNIOR   1076506   53305744         38
+HELIO RICARDO SOUTINHO PEIXOTO     51598     53305752         35
+HELOISA MONZILLO DE ALMEIDA        899436    53305760         86
+HELOISA PEREIRA SIMONI DA SILVA    1110211   53305779         53
+HUMAITAN SILVA DE OLIVEIRA         1062654   53305906         58
+IRAMAR GOMES DE SOUSA              525836    53306147         55
+JAIL BENITES DE AZAMBUJA           570341    53306384         55
+JANETE LIMA MIGUEL                 210127    53306465         75
+JOAO BATISTA SILVA PLACIDO         503668    53306546         55
+JOAO CARLOS RAMOS DOS PASSOS       662010    53306570         55
+JOAO DA MATTA E SILVA              281821    53306597         55
+JOSE EDUARDO BARBOSA               8950      53307216         83
+JOSE REMIGIO DE FREITAS            7222      53307410         48
+JOSE TADEU BRAGA LOPES             OAB 8816  53307461         48
+KATLEEM MARLA PIRES                056329993253307747         80
+LANA LIGIA GALLATE                 1311463   53307828         69
+LEOMAR BARBOSA DE CARVALHO         407565    53307941         40
+LEONARDO FLEURY CURADO DIAS        1306646   53307968         50
+LUIS CARLOS FAGUNDES VIANNA        402143309153308476         38
+LUIS EDUARDO YATSUDA ARIMA         000071137753308492         42
+LUIZ FERNANDO BEZERRA VIANA        7272      53308573         53
+MAGDA MONTENEGRO                   8055      53308662         50
+MARCELO GUIMARAES CARUSO           1045754   53308891         32
+MARCIA DIEGUEZ LEUZINGER           854023    53308956         45
+MARCIO LUCIO MARQUES               4700      53309081         35
+MARCO ANDRE DORNA MAGALHAES        979595    53309111         32
+MARCO ANTONIO DO AMARAL            654042    53309138         42
+MARCONI COSTA ALBUQUERQUE          742948    53309162         78
+MARCOS ANTONIO DA SILVA COSTA      000085576653309170         85
+MARCUS DA PENHA SOUZA LIMA(*)      994915    53091299         55
+MARCUS VINICIUS SARAIVA MATOS      890664    53309278         46
+MARIA ALZIRA FERREIRA              8921      53309316         50
+MARIA DAS GRACAS MEDEIROS          7003      53309480         30
+MARIA LUCIA A ASSUMPCAO M COSTA    49448     53309766         50
+MILTON ZANINA SCHELB               9842      53310357         87
+MORVANI BATISTA AZEVEDO            M2212717  53310497         88
+NAIME XAVIER FERES                 10702     53310535         32
+NEURIMAR PATRICIA RIBEIRO DE ALMEID1276876   53310608         50
+OSMANE ANTONIO DOS SANTOS          1425177   53310802         78
+OSWALDO PAIVA DA COSTA GOMIDE      1057116   53310837         40
+PAULA DA RIN SOUZA                 1215737   53310942         78
+PAULA NELLY DIONIGI                5906036   53310950         40
+PAULO BELISARIO CARVALHO NETO      2857016   53310977         59
+PAULO FERNANDO RAMOS SEREJO        1065591   53311043         30
+PAULO GOMES DE SOUSA JUNIOR        775569    53311060         92
+PAULO HENRIQUE NUNES DIAS          9614      53311078         43
+PAULO JOSE LEITE FARIAS            480360    53311094         75
+PAULO ROBERTO DE FREITAS SILVA     023685712453311140         40
+PAULO SERGIO PONTES DA SILVA MAFRA 11392     53311191         60
+PEDRO BORGES DE LEMOS FILHO        11058     53311272         68
+RAIMUNDO VANDERLY ALVES DE MELO    765061    53311442         40
+RAQUEL RESENDE DE ANDRADE          1154460   53311477         25
+RENATA DE SALLES MOREIRA BORGES    968753    53311698         63
+RENATA DE SOUZA FURTADO            1301137   53311701         48
+RICARDO FAUSTO BECKER              8899      53119541         70
+RICARDO NORIO DAITOKU              716645    53311868         43
+RICARDO VIEIRA ORSI                302520342753311884         46
+ROBERTSON ALVES DE MESQUITA        764376    53312015         52
+ROBSON BARBOSA DE AZEVEDO          1055876   53312023         58
+ROGERIO EMILIO DE ANDRADE          08938300  53312112         86
+RUBEM DARIO FRANCA BRISOLLA        518602    53312422         45
+SERGIO PAULO LOPES FERNANDES       7588      53312775         30
+TEOFILO JOSE TAVEIRA NETO          7582      53313224         47
+URSULA GONCALVES THEODORO DE FARIA 394563    53313380         68
+VALDEIR DE QUEIROZ LIMA            10524     53313399         57
+VICENTE MARTINS DA COSTA JUNIOR    1041364   53313747         61
+WANDA CARLA MARCHIORO MENDES       300910921153313933         30
+WILSON RODRIGUES DE OLIVEIRA       402959    53314077         61
+WILTON QUEIROZ DE LIMA             720894    53314107         62
+WLADIMIR ANTONIO RIBEIRO           169427134 53314115         40
+
+BELEM
+-----------------------------------------------------------------
+N O M E                            IDENT.    INSCRICAO       NOTA
+-----------------------------------------------------------------
+ALEXANDRE AUGUSTO LOBATO BELLO     1368896   15300056         32
+ARIEL FROES DE COUTO               1893305   15300161         30
+CELSO SANTOS DE OLIVEIRA GOES      1867269   15300269         63
+EDIVALDO SALDANHA SOUSA            6448      15300366         32
+EUSTORGIO LUIZ ALVES GUIMARAES     955442    15300412         40
+FRANCISCO DE ASSIS SANTOS LAUZID   1473194   15300455         80
+FREDERICO AUGUSTO DE MORAIS FREIRE 6329      15300480         45
+GISELE SANTOS FERNANDES            2115069   15300536         66
+JORGE ARISTEU GONCALVES PAMPLONA   4871      15300668         91
+LEA CRISTINA MOUZINHO DA ROCHA     6508      15300781         45
+LUCIANA COSTA DA FONSECA           2207748   15300838         55
+LUIS MARCELO M BERNARDES DA SILVA  043681419 15300846         53
+MADALENA MARIA DE CASTRO RIBEIRO   1982915   15300900         45
+MANOEL VICTOR SERENI M TAVARES     1474157   15300927         80
+MARCIA BEATRIZ REIS                6722      15300951         48
+MARIA ANTONIETA DA SILVA LIMA      1540855   15301052         60
+MARIO LEITE SOARES                 4593      15301192         70
+MIGUEL LIMA DOS REIS JUNIOR        1399803   15301222         84
+RITA MOITTA PINTO DA COSTA         5878      15301370         90
+ROBERTO SOUSA DA COSTA             133344    15301397         43
+ROSELAINE DAS NEVES FIGUEIREDO     1658311   15301451         32
+SAVIA MARIA LEITE RODRIGUES        89418485  15301486         74
+SUMAYA SAADY MORHY                 1349003   15301540         43
+UBIRATAN CAZETTA                   117261    15301605         60
+
+BELO HORIZONTE
+-----------------------------------------------------------------
+N O M E                            IDENT.    INSCRICAO       NOTA
+-----------------------------------------------------------------
+AFRANIO OTAVIO DE FREITAS LOBATO   M400928   31300103         50
+ANGELA FABERO                      M3295304  31300405         30
+ANTONIO ROBERTO PEREIRA            49832     31300502         45
+CLEBER RODRIGUES BALBIO            1538991   31300871         53
+DANIELA TORRES DE MOURA COSTA      59381     31300928         63
+ELITO BATISTA DE ALMEIDA           M2485396  31301126         35
+ELZI MARIA DE ALMEIDA              M757439   31301134         78
+FABIANA DA CUNHA PASQUA            215722991 31301207         40
+FARLEY TARCISIO LADEIA BARBOSA     M2093589  31301215         53
+HERCULES GUERRA                    M749247   31301533         65
+HERMES GOMES FILHO                 59253     31301541         60
+ILEANA QUEZADO                     910022658431301584         57
+IRACY FERREIRA CARNEIRO NETO       M2998398  31301606         62
+IVONALDO PEREIRA DAVID             M1215435  31301690         45
+JOSE RODRIGUES PINHEIRO            948       31302025         61
+JULIANA SOUZA MACEDO               M5507879  31302092         96
+JULIO SERGIO BARBOSA FIGUEIREDO    M3486738  31302122         75
+JUNIA PAULINO FRANCO               M5738182  31302149         55
+MARCIA GOMES NUNES                 M1652009  31302491         51
+MARIA CAROLINA MOREIRA ROCHA       M5006131  31302629         38
+NELSON XISTO DAMASCENO FILHO       M447006   31303048         81
+QUINTINO ALMEIDA MOREIRA           M4387     31303234         77
+ROGERIO RONCALLI PRADO ALVES       57013     31303420         46
+RUBENS DE QUEIROZ TORRES           M6394837  31303498         47
+SERGIO CAETANO DE RESENDE          63944     31303560         83
+SERGIO MURILO PACELLI              M3153871  31303595         41
+SILMAR DA SILVA BRUGGER            M4297213  31303617         65
+SIMONE DOS SANTOS LEMOS            M1075089  31303650         65
+TULIO PORTO SILVEIRA               M-2975020 31303781         58
+WILLIAM JOSE DEVOTI                M351950   31304010         95
+
+CURITIBA
+-----------------------------------------------------------------
+N O M E                            IDENT.    INSCRICAO       NOTA
+-----------------------------------------------------------------
+ADEMAR YOSHIAKI HUZIOKA            966768    41300050         61
+ADRIANA MICRUTE                    47451965  41300084         75
+ALMIRO BUENO GARCIA                1478710   41300270         55
+AMAURY JOSE SOARES                 34765324  41300319         58
+ANDYARA MARIA MUNIZ REBACK         14436278  41300548         46
+ANTONINO AUGUSTO CAMELIER DA SILVA 4780354   41300599         40
+ANTONIO CARLOS FLORIANO LESSA      20129206  41300602         58
+CELIA ALEJANDRA PAIS               086066974 41300939         50
+CELSO JERONIMO DE SOUZA            1968186   41300971         53
+CLAUDIA MARCIA SASSO               44413663  41301161         46
+CLAUDIO DE PAULA DOS SANTOS        40540121  41301226         53
+CRISTIANE AP VENTURA C OLIVEIRA    16157584  41301323         50
+DANILO PEREIRA JUNIOR              33689152  41301412         60
+ELIZA ANA ZENEDIN KONDO            30257286  41301773         80
+EUDES DA SILVA CARNEIRO            47575249  41301960         43
+EVERTON LUIZ PENTER CORREA         35120939  41301994         55
+FABIO ANDRE SANTOS MUNIZ           46811356  41302010         53
+FERNANDO JOSE ARAUJO FERREIRA      56263608  41302087         80
+FLORISBAL DE SOUZA DEL OLMO        400537792641302141         63
+GABRIEL GUY LEGER                  19823903  41302192         60
+HERMINIO BACK                      30415647  41302451         45
+IRIA REGINA MARCHIORI              12239     41302516         35
+JAIME OLIVEIRA PENTEADO            43580310  41302648         80
+JEFFERSON ALBERTO JOHNSSON         31236150  41302680         60
+JOAO PAULO BOMFIM                  56571205  41302788         44
+JOSE EDUARDO MELLO LEITAO SALMON   1100966   41302915         45
+LAERZIO CHIESORIN JUNIOR           13152535  41303199         70
+LEDA DE SOUZA BARCELLOS            14618023  41303229         43
+MARCIA REGINA FERREIRA             44209250  41303865         80
+MARCO POLO JARDIM                  58488488  41303970         47
+MARIA NOELI FAE                    8583820   41304225         43
+MONICA SAKAMORI                    53140637  41304624         63
+MONICA TEREZA GOES TURCHENSKI      2317214   41304632         47
+PAULO CESAR BISSANI                1705877   41304870         60
+RENATO LUIZ HARMI HINO             16142     41305060         55
+SANDRA MARA DE OLIVEIRA            62259663  41305388         51
+SANDRO AUGUSTO DE SOUZA            050204090 41305434         48
+SIMAO BARAN NETO                   9776761   41305663         46
+SUELY TEREZINHA MENON ESPERIDIAO   17044     41305779         55
+VALTER TULIO AMADO RIBEIRO         68347653  41305892         52
+VIVIANE DOCKHORN                   33535481  41305981         58
+WALTER CLAUDIUS ROTHENBURG         59520733  41306058         75
+
+FORTALEZA
+-----------------------------------------------------------------
+N O M E                            IDENT.    INSCRICAO       NOTA
+-----------------------------------------------------------------
+ANTONIO DOS SANTOS VENTURA         910151197123300124         77
+ANTONIO GILVAN DE ABREU MELO       204006    23300132         47
+EDNA LOPES COSTAS                  482858    23300302         48
+ELISABETH MARIA DE F CARVALHO ROCHA900020522023300337         54
+ERLON MOREIRA PINTO                900021419023300353         60
+FRANCISCO XAVIER COSTA LIMA        1303363   23300515         32
+GERARDO MARCIO MAIA MALVEIRA       74211784  23300558         60
+JOAO REGIS NOGUEIRA MATIAS         890800202823300728         60
+JOSE ARTEIRO SOARES GOIANO         8561      23300779         50
+JOSE OSTERNO CAMPOS DE ARAUJO      1171954   23300914         45
+MARCIO BRAGA MAGALHAES             8163      23301147         90
+NELSON TELES JUNIOR                43340782  23301376         60
+
+PORTO ALEGRE
+-----------------------------------------------------------------
+N O M E                            IDENT.    INSCRICAO       NOTA
+-----------------------------------------------------------------
+ADEL AMERICO DIAS DE OLIVEIRA      103810668643300049         35
+ADRIANA ROSA MOROZINI              27293     43300103         65
+ALEXANDRE SCHUH LUNARDI            27853     43300324         50
+ANDRE GUIDI COLOSSI                403027215943300618         78
+ANDREA FALCAO DE MORAES            902932894643300634         75
+ANDREA LUZ KAZMIERCZAK             102094309643300650         78
+ARNOL SCHMITZ GUERRA               5703      43300928         91
+BRUNO BRUM RIBAS                   405095714343301029         43
+CARLOS FRANCISCO GROSS             34440     43301185         71
+CLAUDIO GONSALES VALERIO           604028019743301576         78
+CYNTHIA F JAPPUR MALLMANN          703654510643301800         55
+DAGOBERTO PINHEIRO                 204257880343301835         45
+EVANDRO SILVA DA SILVA             047765193943302599         43
+FABIANA ZILLES                     100644726143302637         45
+FABIO DUTRA LUCARELLI              201204212943302661         70
+FABIO NESI VENZON                  602038156943302670         45
+HELENA BEATRIZ VALDEZ SALDANHA     701137316943303145         33
+JOSE ASTROGILDO MALLET PINHEIRO    600006447443303870         60
+LIANE MARIA LEIPNITZ BERTUOL       23797     43304320         46
+LIDIO ALBERTO VARGAS               400284960443304338         37
+MARCELO GOULART                    401583181343304877         42
+MARCELO VEIGA BECKHAUSEN           803317005443304915         70
+MARCIANE BONZANINI                 204118851343304990         52
+MARCUS VINICIUS AGUIAR MACEDO      402591128243305121         60
+MARIANGELA RENNER(*)               102227800443042864         60
+MARISTELA NASCIMENTO               1849664   43305520         90
+MARTHA WEISS                       103043050643305580         60
+MAXIMILIANO KUCERA NETO            900920272343305709         73
+PAULO GILBERTO COGO LEIVAS         32949     43306322         63
+PAULO RENATO NICOLA CAPA           704413329143306411         63
+PAULO RICARDO VIJANDE PEDROZO      503703008643306438         70
+RENATO CASTELLO BRANCO             801659873543306705         43
+ROBERTO FERNANDES JUNIOR           803429917543306861         68
+ROGERIO SCOTTI DO CANTO            502371934643307043         62
+SERGIO GRACILIANO DA SILVA         500997527643307418         45
+SERGIO VOLKER                      27347     43307442         85
+SILVIO LUIS BRAGA                  100401278543307531         86
+SOLON RAMOS CARDOSO FILHO          104452805543307582         61
+TELMO CANDIOTA DA ROSA FILHO       900490419143307744         51
+VANDERLEI JOSE DEON                903510506443307841         62
+YURI RESTANO MACHADO               603017950843308031         91
+
+RECIFE
+-----------------------------------------------------------------
+N O M E                            IDENT.    INSCRICAO       NOTA
+-----------------------------------------------------------------
+ADRIANA FREITAS DE SOUZA LEAO      2864716   26300044         45
+ALBERTO DA CAMARA LIMA FALCAO      2877421   26300117         55
+ALDO JOSE ALVES DE QUEIROZ         1234285   26300176         68
+ALEXANDRE ARTHUR GUSMAO DE L PONTES1785102   26300214         33
+ALEXANDRE BEZERRA MEDEIROS         1116571   26300230         48
+ANA PAULA ROCHA DE MORAES          1385600   26300478         53
+ANDRE DE SOUZA MELO TEIXEIRA       3719607   26300508         38
+ANTONIO CARLOS BEZERRA DE ARAUJO   371477    26300699         53
+ARNALDO SPERA FERREIRA JUNIOR      3461362   26300850         37
+BECLAUTE OLIVEIRA SILVA            1090907   26300940         33
+BETTINA ESTANISLAU GUEDES          1521304   26300974         70
+CARINE ALEXANDRE DELGADO           3696182   26300990         38
+CARLOS ALBERTO LEITE DE ARAUJO     1422531   26301032         45
+DANIEL ALVES DOS SANTOS            669479    26301407         45
+DOMENICO DANDREA NETO              1249601   26301539         83
+EDILSON RODRIGUES MOURA            702566    26301598         53
+EDNALDO BARBOSA DE LIMA            1788484   26301644         76
+ELIAS MAXIMIANO LINS               114995    26301792         50
+FABIO MENEZES DE SA                1154      26302039         61
+FLAVIA XIMENES AGUIAR DE SOUSA     8841      26302128         46
+FLAVIO GERMANO DE SENA TEIXEIRA    72491     26302144         38
+FREDERICO JOSE PINTO DE AZEVEDO    3053144   26302284         45
+GENARO OLIVEIRA PINHEIRO DE MENEZES00976     26302322         85
+GENISON CIRILO CABRAL              1959536   26302330         53
+GEOVANNA BARROS LEAL DA SILVEIRA   140490187 26302365         45
+GILMAR SEVERINO DE LIMA            1399898   26302497         87
+GIOVANNI MAGALHAES PORTO           3477822   26302527         45
+HELENITA RAMOS SILVA               554403    26302624         38
+IBERLUCIO SEVERINO DA SILVA        2279991   26302691         60
+IZABEL CRISTINA MOREIRA DOS SANTOS 3654482   26302845         62
+JAYME JEMIL ASFORA FILHO           13455     26302969         45
+JAYME MONTEIRO CAVALCANTI DE ARRUDA3111812   26302977         45
+JOAO ISMAEL DO NASCIMENTO FILHO(*) 2410253   26026724         60
+JOSE GILMAR DA SILVA               2373068   26303396         65
+JOSE GLAYSTON ARAUJO DOS SANTOS    8728      26303400         38
+JOSE ROBERTO DA SILVA              3577896   26303515         58
+JOSE VLADIMIR DA SILVA ACIOLI      900067    26303582         80
+JULIANA CRISTINA DE ARAUJO GOMES   741927    26303663         33
+KLEBIO CORDEIRO COELHO             2592113   26303736         80
+LIA SAMMIA SOUZA MOREIRA           150959288 26303817         63
+LIGIA SARTO MULLER                 070992367 26303841         72
+LUCIA DE FATIMA A F COCENTINO      785519    26303906         45
+LUCIA TEIXEIRA DA COSTA OLIVEIRA   2991603   26303914         35
+LUCIANA ROFFE DE VASCONCELOS       3678077   26304015         70
+LUIZ CARLOS CAVALCANTE M FERREIRA  2396545   26304147         48
+MAGNO ALEXANDRE FERREIRA MOURA     788721    26304252         60
+MARCO ANTONIO MAZZONI              8685      26304376         42
+MARIA AUXILIADORA DE SOUZA E SA    704       26304511         40
+MARIA DA GLORIA GONCALVES SANTOS   1259457   26304600         60
+MARIA DO ROCIO D DE MOURA ROCHA    1403363   26304864         70
+MARIA DO ROSARIO C CORDEIRO        765702    26304872         35
+MARIA LAURA D DE O ALCOFORADO      1827603   26305011         47
+MARIA NILDA DA SILVA               1209796   26305070         47
+NILSON ROCHA LINS                  249464    26305410         40
+OTAVIO TEIXEIRA DE CARVALHO JUNIOR 6968      26305500         60
+PAULA MARIA SOUZA DE OLIVEIRA      1648200   26305569         46
+RENATA LIMA RODRIGUES              19842061  26305780         33
+ROBERTA LEOCADIE MENDES DE F CALDAS1138675   26305950         38
+RUI VELOSO BESSA                   3687316   26306174         53
+SAMUEL CRUZ DA CUNHA               1410305   26306212         48
+SOHAD MARIA DUTRA CAHU             3605910   26306506         33
+VALERIO COSTA BRONZEADO            2750      26306743         45
+WALTER XAVIER MENDES               1312630   26306913         33
+
+RIO DE JANEIRO
+-----------------------------------------------------------------
+N O M E                            IDENT.    INSCRICAO       NOTA
+-----------------------------------------------------------------
+ADAIL BLANCO                       2409480   33300062         33
+ALBERTO PONTES GARCIA JUNIOR       75905208  33300267         63
+ALOISIO FIRMO GUIMARAES DA SILVA   064674948 33300569         60
+ANA MARIA CORREA VEIGA             25737     33300771         56
+ANA PAULA DELDUQUE MIGUEIS         080242308 33300828         61
+ANA PAULA MONTE FIGUEIREDO         4442427   33300852         60
+ANA PAULA PONTES CARDOSO           076489558 33300860         58
+ANA TEREZA DE O GAMA PALMIERI      72494     33300895         40
+ANDRE LUIZ RIEDLINGER TEIXEIRA     430553    33300950         60
+ANDREA PERNAMBUCO TOLEDO           74469     33301050         60
+ANDREA VELOSO CORREIA              084797760 33301107         90
+ANNA MARIA DE ARAUJO KELLY(*)      018424242 33011486         58
+ANTONIO AUGUSTO DE TOLEDO GASPAR   77924     33301247         55
+BARBARA SALOMAO                    085444495 33301557         60
+BEATRIZ VARANDA                    070443577 33301581         64
+CARLA RODRIGUES DE ARAUJO          047123245 33301760         45
+CARLOS ALEXANDRE BENJAMIN          070448931 33301824         93
+CARLOS EDUARDO MEIRELLES           3435439   33301875         90
+CARLOS JOSE DE SOUZA GUIMARAES     75359     33301964         60
+CELENIR RODRIGUES ESTERMINIO SAGULO022961197 33302090         98
+CELSO DE ALBUQUERQUE SILVA         279054    33302146         83
+CHRISTIANE CARDOSO                 083983106 33302200         55
+CLAUDIA FIALHO DE LIMA GUERRA      005623454533302340         53
+CLAUDIO ROBERTO B B C DA SILVA     29141     33302570         83
+CRISTIANA LOPES PADILHA            0802647   33302677         73
+DANIELLE ALMEIDA CABRAL T DE SOARES74220     33302936         80
+DILSON J MASCARENHAS DOS SANTOS    3137324   33303177         62
+EDGARD RIBEIRO DE SOUSA            18062     33303290         93
+EDUARDO ALVES FONTE                074044058 33303428         97
+FABIANA ANDRADA DO AMARAL RUDGE    088991609 33303908         48
+FERNANDO LINO VIEIRA               044229433 33304106         79
+FLAVIO OLIVEIRA LUCAS              079938270 33304246         61
+FLORENTINA TEIXEIRA FERREIRA       074353392 33304270         48
+FRANK LARRUBIA SHIH                078197704 33304360         45
+JOAO CARLOS MIRANDA GARCIA DE SOUSA75342     33305323         43
+JOAO CARLOS ROCHA DUTRA            074017062 33305331         53
+JORGE RUBEM FOLENA DE OLIVEIRA     76277     33305544         40
+JOSE BATISTA DA SILVA              07078613 233305714         35
+JOSE DE ARAUJO BARBOSA JUNIOR      69873     33305820         71
+JOSE FRANCISCO LEITE MARQUES       045382967 33305854         61
+JULIO CESAR MACEDONIO BUYS II      073904161 33306087         56
+LIA ADIBE DE GOUVEA GOMES          1031B     33306435         58
+LUIS ALBERTO M GARCIA DE SOUSA     073801367 33306842         47
+LUIZ CLAUDIO CARVALHO DE ALMEIDA   087373643 33307083         85
+LUIZ CLAUDIO ROSENBERG             046540126 33307113         83
+LUIZ SERGIO ZENHA DE FIGUEIREDO    72233     33307245         46
+MARCELO DA COSTA BRETAS            69882     33307482         50
+MARCELO DA FONSECA GUERREIRO       087277547 33307490         60
+MARCELO DUARTE MARTINS             072886781 33307520         85
+MARCELO SILVA MOREIRA MARQUES      466237    33307610         81
+MARCELO TELLES MACIEL SAMPAIO      19618929  33307628         45
+MARCOS ANDRE BIZZO MOLIARI         077660983 33307849         73
+MARIA DA GLORIA GUARINO DE OLIVEIRA5369593   33308217         83
+MARIA PAULA GOUVEA GALHARDO        76740     33308624         50
+MARIA VICTORIA SANTOS COSTA        042420539 33308705         33
+PATRICIA FELIX TASSARA             070690805 33309655         42
+PATRICIA FERREIRA BAPTISTA         084449479 33309663         60
+PATRICIA GOMES TEIXEIRA            76302     33309671         62
+PAULA DE MARTINO TERRA             077254027 33309728         51
+PEDRO ANTONIO OLIVEIRA JUNIOR      4677109   33309990         87
+POLIANA CYRIACO                    72602     33310050         65
+RACHEL ESPIRITO SANTO DE OLIVEIRA  018407363333310106         45
+REYNALDO ANDRADE DE SA E BENEVIDES 11239     33310467         61
+ROBSON CARLOS DOS SANTOS BRAGA     75259     33310769         51
+ROGERIO ALAYLTOM D ANGELO(*)       58050     33101310         50
+ROGERIO PACHECO ALVES              68788E    33310866         46
+RONALDO CORTESE                    E 47703   33310912         45
+SANDRA GERBER GOLDENSTEIN          07480064 033311161         60
+SANDRA LUCIA GUERREIRO SILVA ARAUJO326912    33311170         45
+SERGIO BAHIENSE COLAO              058841388 33311307         53
+TAIZA ALVES BARRETO                054305057 33311935         45
+VAGNER LEAO DA COSTA               3841354   33312052         47
+VERONICA PINHEIRO VIDAL            77473     33312311         60
+VIVIANE BEZERRA LEVY               083215947 33312362         60
+ZAQUEU DA SILVA TEIXEIRA           068490507 33312508         35
+
+SALVADOR
+-----------------------------------------------------------------
+N O M E                            IDENT.    INSCRICAO       NOTA
+-----------------------------------------------------------------
+ADRIANA ALVES DOS SANTOS CRUZ      078956711 29300053         73
+ALICE MARIA DA SILVA PINHEIRO      2010015   29300240         53
+ANA CRISTINA P COSTA N MEIRELES    240943821 29300401         85
+ANA REGINA DE ANDRADE FREITAS      2743579   29300509         56
+ANA RITA PINHEIRO RODRIGUES        1866638   29300525         47
+ANALIA DA SILVA                    38208237  29300550         75
+ANTONIO CLAUDIO MACEDO DA SILVA    081655110 29300703         57
+AURISTELA OLIVEIRA REIS            4227344   29300878         52
+AVIO MOZAR JOSE FERRAZ DE NOVAES   014301296729300886         60
+CARLOS ALBERTO OLIVEIRA VASCONCELOS8041      29300991         60
+CARMEN LAIS OLIVEIRA PRATT         2635342   29301068         45
+CONCEICAO MARIA VASCONCELLOS GOMES 9715      29301211         51
+DAGOBERTO DA SILVA LEMOS           2428097   29301254         60
+GUSTAVO EMANUEL DE O L E S MUNIZ   401894576 29301831         36
+IRIS NEIDE DA HORA MURRAY          077227530029301920         71
+ISABELA KRUSCHEWSKY PEDREIRA SILVA 053745990129301955         58
+JACKSON LEAL LISBOA JUNIOR         11728     29302021         80
+JOAO BATISTA BARBOSA ARRUDA        2081133   29302110         78
+JOEL ALVES BARRETO FILHO           1713927   29302242         45
+JOSANA MARQUES DE MATTOS           865010    29302323         48
+JOSE BARROSO FILHO                 3044665   29302374         45
+JOSE JORGE MEIRELES FREITAS        3191319   29302447         60
+JOSE LEAO JUNIOR                   000001212729302455         55
+LUCIANA ANDRE DE MEIRELLES         4855216   29302820         45
+MARCELO DE OLIVEIRA BRANDAO        2971064   29302994         85
+MARCOS VINICIUS AMERICANO DA COSTA 857263    29303117         56
+MARCUS MENEZES BARBERINO MENDES    3909985   29303125         45
+MARIA INES GOES CARVALHO VILELA    2845593   29303370         61
+MAURICIO FOLTZ CAVALCANTI          1845973   29303699         45
+PATRICIA LISBOA COSTA              3214735   29303966         45
+PETER JOHN ARROWSMITH COOK JR      1081004   29304075         45
+RICARDO CLAUDIO CARILLO SA         3378523   29304172         63
+ROSALIZ ROCHA CAVALCANTE JATOBA    4340322   29304350         57
+ROSANE DOS SANTOS TEIXEIRA         2516882   29304407         42
+SOLANGE MARIA DE ALMEIDA NEVES     3115640   29304679         60
+VLADIMIR MIRANDA MORGADO           2515833   29304873         33
+
+SAO PAULO
+-----------------------------------------------------------------
+N O M E                            IDENT.    INSCRICAO       NOTA
+-----------------------------------------------------------------
+ADELA DUARTE ALVAREZ               15186348  35300086         37
+AGATHA MOREIRA DE P JUNQUEIRA      084959212 35300353         90
+ALAN LOPES RODRIGUES               15615020  35300400         60
+ALDO CESAR MARTINS BRAIDO          18023404  35300442         48
+ALESSANDRA ANDREZ CABRERA JOAO     193878422 35300469         33
+ALESSANDRA DE M NOGUEIRA REIS      182981526 35300485         44
+ALESSANDRA TRABALLI SECCACCI       194239469 35300507         32
+ANA LUCIA ABREU ZAOROB BADIA       13014418  35300906         45
+ANDRE BRAWERMAN                    19979543  35301201         60
+ANDREA CASTILLO GARCIA             20614565  35301236         55
+ANDREA SILVA RASGA                 213102614 35301333         51
+ANTONIA BRASILINA DE PAULA         17596473  35301457         35
+ANTONIO ARTUR DE LIMA              015108333235301490         43
+ANTONIO BALTHAZAR LOPES NORONHA    6730205   35301503         43
+ANTONIO CARLOS SANTORO FILHO       16777195  35301554         62
+AUGUSTO SERGIO COSTA VIANNA        17704850  35301830         91
+CANDY HIROKI CRUZ                  192334372 35302011         45
+CELSO FROES BROCCHETTO             4458795   35302496         70
+CESAR DE MORAES SABBAG             29809809X 35302526         60
+CICERO RUFINO PEREIRA              142203610 35302615         48
+CLAUDIA H DESTEFANI DE LACERDA     18153902  35302712         76
+CLEIDE SODRE LOURENCO MADEIRA      16350981  35302950         60
+CRISTIANE GUIDORIZZI SANCHEZ       10632814  35303026         51
+CRISTIANE SAYURI OSHIMA            189401060 35303069         85
+CRISTINA DE ARRUDA FACCA           12270700  35303077         63
+DANIELLE HEIFFIG ZUCCATO           131466975 35303239         86
+DANTE SHIN ITI KIMURA(*)           20541976  35039973         40
+DIANA BRUNSTEIN                    184292773 35303549         65
+EDSON SILVA TRINDADE               16551350  35303832         86
+EDUARDO PESSOA DE MELLO BELLI      11250731  35303972         48
+ELAINE GUADANUCCI LLAGUNO          105029105 35304090         60
+ELIZABETH LEAO                     71002     35304405         60
+ELIZABETH LOURENCO ROCHA           000366197935304413         38
+ELIZABETH MARIA DE MOURA           12647280  35304421         55
+FABIO HENRIQUE PRADO DE TOLEDO     20022697  35304693         88
+FABIO VAISMAN                      11876266  35304758         51
+FERNANDO ALVAREZ BELAZ             21158244X 35304928         50
+GISELE DA ROCHA PARENTE VENANCIO   320633342 35305428         30
+HERIVELTO DE ALMEIDA(*)            19473144  35071397         75
+JOAO ERNESTO MOTA TEIXEIRA         74707     35306335         13
+JORGE EDUARDO ASSAD                182037538 35306459         63
+JOSE PIRES DA CUNHA                3822818   35306912         60
+LETICIA LUCIA FERNANDES DA SILVA   15412251  35307382         42
+LINA MARIA CONTINELLI              131427337 35307447         33
+LUCIA HELENA BOCCHI                20301456  35307528         85
+LUCIA NUNES BROMERCHENKEL CUNHA    17180132  35307579         56
+LUCIANA KUSHIDA                    15206731  35307633         91
+LUCIANA SILVEIRA MARTINS           20725413  35307692         80
+LUIS CLAUDIO DE SOUSA FONTES       11974487  35307765         57
+LUTERO XAVIER ASSUNCAO             3182710   35308060         46
+LYGIA HELENA CARRAMENHA BRUCE      104793491 35308095         73
+MARCELO ROBERTO BOROWSKI           16782708  35308290         40
+MARCIA PESSOA FRANKEL              9435386   35308443         92
+MARCIA WILLIAM ESPER               17127754  35308494         89
+MARCO AURELIO DE MELLO CASTRIANI   13512284  35308664         60
+MARGARETE JEFFERSON DAVIS RITTER   143840757 35308826         58
+MARIA C CHRISTININI TRENTINI       9751123   35308990         81
+MARIA CECILIA LODOVICI             4993188   35309032         58
+MARIA ELOISA VIEIRA BELEM          139846633 35309296         43
+MARIA LUIZA MOTOMO MATUSAKI        16324631  35309598         56
+MARICELMA RITA MELEIRO REMOR       129720525 35309768         90
+MARTA ILACI FRANCISCO              128427541 35310073         41
+MARTA REGINA SATTO VILELA          106318    35310081         45
+MAURICIO MADEU                     15652760  35310189         48
+MIRANDIR MONTEIRO DE SOUSA         11628205  35310324         47
+MONICA HERNANDES DE SAO PEDRO      19842050X 35310421         72
+MONICA MARIA PETRI                 13597851  35310430         65
+NELSON CESAR SANTOS PEIXOTO        75173797  35310685         88
+NELSON ESTEVES SAMPAIO             2161907   35310693         48
+NILTON RAFAEL LATORRE              49834     35310944         90
+OSWALDO LUIS CAETANO SENGER        17131973  35311142         89
+PAULO SERGIO MONTEZ                16662912  35311622         46
+PAULO SOARES HUNGRIA NETO          7388738   35311649         55
+PLINIO BACK SILVA                  184921910 35311738         60
+RAQUEL BOLTES CECATTO              174763037 35311797         53
+REGINA ENDO                        19409333  35311908         45
+REGINA MIYUKI SATORI               146858025 35311983         46
+REINALDO LOPES VIEITES             7372983   35312050         45
+RENATO ROSSI                       16173228  35312181         32
+ROBERTO ARTHUR DAVID               19197919  35312521         45
+ROGER VINICIUS PIRES DE C OLIVEIRA 196692842 35312750         38
+ROQUE ZERBINI                      2294897   35312920         41
+SANDRA AKEMI SHIMADA               17117150  35313307         33
+SANDRA ALEXANDRE V GUIMARAES       6293630   35313315         86
+SANDRA MORENO LOMBARDO             141199295 35313447         32
+SERGIO DE CASTRO ABREU             10713876  35313560         30
+SERGIO EDUARDO FERRINHO PASSARO    14600455  35313579         40
+SERGIO LUIS DA COSTA PAIVA         11188762  35313587         48
+SERGIO NOJIRI                      16777733  35313617         45
+SILVANA ZAPAROLI BARBOSA           183797358 35313757         45
+SILVIA DE PAULA LIMA               36859291  35313790         51
+SIMONE ANDREA BARCELOS COUTINHO    14052559  35313900         45
+SIMONE BARBUIO HERVAS VICENTINI    6953257   35313927         45
+SIMONE SCHRODER                    18086872  35313960         88
+STELA TINONE                       125741625 35314125         48
+TERESA CRISTINA CABRAL SANTANA     198205752 35314427         47
+TERESA CRISTINA DA CRUZ CAMELO     8537556   35314435         73
+VALDENIR TURATTI                   114178616 35314591         65
+VANDERLI APARECIDA FERREIRA        13706947  35314818         44
+VANIA NOGUEIRA CORREA              14523076  35314869         43
+VANUZA GONZAGA BATEMARQUE          18600903  35314893         58
+VERA LUCIA COSTA                   16540291  35314974         53
+VINICIUS NOGUEIRA COLLACO          118979383 35315075         56
+ZINA PIETROSKI                     37961671  35315466         45
+
+(*) Candidatos  que participaram condicionalmente do processo seleti-
+    vo,  tendo sido eliminados com base no item 4.3 do Edital do Con-
+    curso.
+```

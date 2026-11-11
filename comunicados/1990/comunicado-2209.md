@@ -1,0 +1,109 @@
+---
+titulo: "COMUNICADO N. 002209"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2209"
+data: 1990-10-22
+ementa: ""
+revogada: false
+responsavel: "DEBAN"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2209"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002209
+
+```
+                        COMUNICADO N. 002209
+                        --------------------
+AS
+INSTITUICOES FINANCEIRAS PARTICIPANTES DO SERVICO DE
+COMPENSACAO DE CHEQUES E OUTROS PAPEIS.
+
+                              DIVULGA  RELACAO DE INSTITUICOES FINAN-
+                              CEIRAS  E RESPECTIVAS DATAS DE INGRESSO
+                              NA COMPENSACAO ELETRONICA.
+
+                    TENDO  EM VISTA O DISPOSTO NO ART. 2. DO  REGULA-
+MENTO  ANEXO A CIRCULAR N. 1.826, DE 18.10.90, QUE ESTABELECE  CRONO-
+GRAMA  PARA IMPLANTACAO DA COMPENSACAO ELETRONICA NOS SISTEMAS  INTE-
+GRADOS REGIONAIS DE SAO PAULO (SP) E DO RIO DE JANEIRO (RJ), DIVULGA-
+MOS,  ABAIXO, RELACAO DAS INSTITUICOES FINANCEIRAS E AS DATAS PARA  O
+INGRESSO  NO  SISTEMA ESTABELECIDAS COM BASE NO VOLUME DE  DOCUMENTOS
+REMETIDOS A COMPENSACAO NO MES DE AGOSTO/90:
+
+                  I  -  NO  SISTEMA INTEGRADO REGIONAL DE  SAO  PAULO
+(SP):
+
+     A) ATE 02.01.91:
+
+        - BANCO AMERICA DO SUL S.A.
+        - BANCO BAMERINDUS DO BRASIL S.A.
+        - BANCO BRADESCO S.A.
+        - BANCO DE CREDITO NACIONAL S.A.
+        - BANCO DO BRASIL S.A.
+        - BANCO DO ESTADO DE SAO PAULO S.A.
+        - BANCO ITAU S.A.
+        - BANCO MERCANTIL DE SAO PAULO S.A.
+        - BANCO NACIONAL S.A.
+        - BANCO NOROESTE S.A.
+        - BANCO REAL S.A.
+        - CAIXA ECONOMICA FEDERAL
+        - UNIBANCO - UNIAO DE BANCOS BRASILEIROS S.A.
+
+     B) ATE 01.04.91:
+
+        - BANCO BANDEIRANTES S.A.
+        - BANCO ECONOMICO S.A.
+        - BANCO MERCANTIL DE DESCONTOS S.A.
+        - BANCO SUDAMERIS S.A.
+        - NOSSA CAIXA - NOSSO BANCO S.A.
+
+     C) ATE 01.07.91:
+
+        - BANCO DO ESTADO DO RIO DE JANEIRO S.A.
+        - BANCO GERAL DO COMERCIO S.A.
+        - BANORTE - BANCO NACIONAL DO NORTE S.A.
+        - BANCO SAFRA S.A.
+
+     D) ATE 01.10.91, OS DEMAIS BANCOS.
+
+                   II  - NO SISTEMA INTEGRADO REGIONAL DO RIO DE  JA-
+NEIRO (RJ):
+
+     A) ATE 01.04.91:
+
+        - BANCO BAMERINDUS DO BRASIL S.A.
+        - BANCO BRADESCO S.A.
+        - BANCO DO BRASIL S.A.
+        - BANCO DO ESTADO DO RIO DE JANEIRO S.A.
+        - BANCO ITAU S.A.
+        - BANCO NACIONAL S.A.
+        - BANCO REAL S.A.
+        - UNIBANCO - UNIAO DE BANCOS BRASILEIROS S.A.
+
+     B) ATE 01.06.91:
+
+        - BANCO BOAVISTA S.A.
+        - BANCO ECONOMICO S.A.
+        - BANCO MERCANTIL DO BRASIL S.A.
+        - CAIXA ECONOMICA FEDERAL
+
+     C) ATE 01.08.91:
+
+        - BANCO BANDEIRANTES S.A.
+        - BANCO DE CREDITO NACIONAL S.A.
+        - BANCO DE CREDITO REAL DE MINAS GERAIS S.A.
+        - BANCO DO ESTADO DE MINAS GERAIS S.A.
+        - BANCO GERAL DO COMERCIO S.A.
+        - BANCO MERCANTIL DE SAO PAULO S.A.
+
+     D) ATE 01.10.91, OS DEMAIS BANCOS.
+
+                             BRASILIA (DF), 22 DE OUTUBRO DE 1990.
+
+                             DEPARTAMENTO DE OPERACOES BANCARIAS
+
+                             NILTON JUNQUEIRA
+                             CHEFE
+```

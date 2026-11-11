@@ -1,0 +1,49 @@
+---
+titulo: "COMUNICADO N. 002287"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2287"
+data: 1991-01-29
+ementa: "COMUNICA O EXTRAVIO DE CERTIFICADOS"
+revogada: false
+responsavel: "FIRCE"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2287"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002287
+
+```
+                        COMUNICADO N. 002287
+                        --------------------
+
+                             COMUNICA O EXTRAVIO DE CERTIFICADOS
+
+                   COMUNICAMOS QUE, SEGUNDO INFORMACOES DOS INTERES-
+SADOS,  ACHAM-SE EXTRAVIADOS OS CERTIFICADOS DESCRITOS A SEGUIR, SO-
+LICITANDO  QUE SEJAM OS REFERIDOS DOCUMENTOS RECOLHIDOS E ENCAMINHA-
+DOS A ESTE BANCO CENTRAL, NA HIPOTESE DE VIREM A SER APRESENTADOS:
+
+    A - CERTIFICADO DE REGISTRO N. 341/8473, EM NOME DE LIGHT - SER-
+        VICOS  DE ELETRICIDADE S.A., NO VALOR DE US!  50.000.000,00,
+        EMITIDO EM 30.01.85;
+
+    B - CERTIFICADO DE REGISTRO N. 383/0919, EM NOME DE MAT-INCENDIO
+        S.A.  - ENGENHARIA DE INCENDIO, NO VALOR DE US!  240.000,00,
+        EMITIDO EM 15.12.89;
+
+    C - CERTIFICADO  DE  REGISTRO N. 624/032, EM NOME DE  INDUSTRIAS
+        ALIMENTICIAS  CARLOS DE BRITTO S.A. - FABRICAS PEIXE, NO VA-
+        LOR DE US! 69.500,00, EMITIDO EM 16.04.90;
+
+    D - CERTIFICADO  DE AUTORIZACAO N. P11/0154, EM NOME DE COMPONAM
+        -  COMPONENTES DA AMAZONIA LTDA., NO VALOR DE DM 829.086,20,
+        EMITIDO EM 27.12.89.
+
+                              BRASILIA (DF), 29 DE JANEIRO DE 1991
+
+                              DEPARTAMENTO DE CAPITAIS ESTRANGEIROS
+
+                              ANTONIO CARLOS MONTEIRO
+                              CHEFE
+```

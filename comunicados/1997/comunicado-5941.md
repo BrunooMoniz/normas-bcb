@@ -1,0 +1,54 @@
+---
+titulo: "COMUNICADO N. 005941"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "5941"
+data: 1997-12-09
+ementa: "DIVULGA AS TAXAS REFERENCIAIS-TR E AS TAXAS BASICAS FINANCEIRAS-TBF REFERENTES AOS DIAS 06, 07 E 08 DE DEZEMBRO DE 1997."
+revogada: false
+responsavel: "DEASF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=5941"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 005941
+
+```
+                        COMUNICADO N. 005941
+                        --------------------
+
+                             DIVULGA  AS TAXAS  REFERENCIAIS-TR  E AS
+                             TAXAS BASICAS FINANCEIRAS-TBF REFERENTES
+                             AOS DIAS  06, 07 E 08 DE   DEZEMBRO   DE
+                             1997.
+
+           DE ACORDO COM  O QUE DETERMINA  A  RESOLUCAO  N. 2.437, DE
+30.10.97, DIVULGAMOS  AS  TAXAS REFERENCIAIS-TR  E  AS  TAXAS BASICAS
+FINANCEIRAS-TBF RELATIVAS AOS PERIODOS ABAIXO ESPECIFICADOS:
+
+           I - TAXAS REFERENCIAIS-TR:
+           A) DE 06.12.97 A 06.01.98: 0,8861% (OITO MIL, OITOCENTOS,
+E SESSENTA E UM DECIMOS DE MILESIMO POR CENTO);
+
+           B) DE 07.12.97 A 07.01.98: 1,0104% (UM INTEIRO E CENTO E
+QUATRO DECIMOS DE MILESIMO POR CENTO);
+
+           C) DE 08.12.97 A 08.01.98: 1,1016% (UM INTEIRO E UM MIL,
+E DEZESSEIS DECIMOS DE MILESIMO POR CENTO);
+
+           II - TAXAS BASICAS FINANCEIRAS-TBF:
+           A) DE 06.12.97 A 06.01.98: 2,3691% (DOIS INTEIROS E TRES
+MIL, SEISCENTOS E NOVENTA E UM DECIMOS DE MILESIMO POR CENTO);
+           B) DE 07.12.97 A 07.01.98: 2,4953% (DOIS INTEIROS E QUATRO
+MIL, NOVECENTOS E CINQUENTA E TRES DECIMOS DE MILESIMO POR CENTO);
+           C) DE 08.12.97 A 08.01.98: 2,5878% (DOIS INTEIROS E CINCO
+MIL, OITOCENTOS E SETENTA E OITO DECIMOS DE MILESIMO POR CENTO);
+
+                       BRASILIA, 9 DE DEZEMBRO DE 1997.
+
+                       DEPARTAMENTO DE ESTUDOS ESPECIAIS E
+                       ACOMPANHAMENTO DO SISTEMA FINANCEIRO
+
+                       RONALDO FONSECA DE PAIVA
+                       CHEFE
+```

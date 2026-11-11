@@ -1,0 +1,54 @@
+---
+titulo: "COMUNICADO N. 002154"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2154"
+data: 1990-07-31
+ementa: "DIVULGA OS FATORES DE ATUALIZACAO DOS SALDOS DAS CONTAS DE POUPANCA E O VALOR REFERENCIAL DE FINANCIAMENTO (VRF)"
+revogada: false
+responsavel: "DENOR"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2154"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002154
+
+```
+                        COMUNICADO N. 002154
+                        --------------------
+
+                             DIVULGA OS FATORES DE ATUALIZACAO    DOS
+                             SALDOS  DAS CONTAS DE POUPANCA E O VALOR
+                             REFERENCIAL DE FINANCIAMENTO (VRF)
+
+                   TENDO  EM VISTA O DISPOSTO NO ITEM IV DA RESOLUCAO
+N. 1.235, DE 30.12.86, E NA CIRCULAR N. 1.450, DE 27.02.89, COMUNICA-
+MOS QUE:
+
+                   I  - OS FATORES DE ATUALIZACAO DOS SALDOS DAS CON-
+TAS  DE  POUPANCA COM DATA DE ANIVERSARIO NO MES DE AGOSTO  DE  1990,
+CALCULADOS  COM BASE NA VARIACAO DO BONUS DO TESOURO NACIONAL NOS ME-
+SES DE MAIO, JUNHO E JULHO DE 1990, SERAO OS SEGUINTES:
+
+    A - TRIMESTRAL, PARA PESSOAS JURIDICAS, 0,279702  (ZERO  VIRGULA
+        DOIS SETE NOVE SETE ZERO DOIS);
+    B - MENSAL,  PARA PESSOAS  FISICAS E ENTIDADES SEM FINS  LUCRATI-
+        VOS,  0,107900 (ZERO VIRGULA UM ZERO SETE NOVE ZERO ZERO);
+
+                  II - O VALOR REFERENCIAL  DE  FINANCIAMENTO   (VRF)
+UTILIZADO  PARA CONVERSAO DOS LIMITES OPERACIONAIS E DE GARANTIA   DE
+QUE TRATA A MENCIONADA CIRCULAR, A VIGORAR NO MES DE AGOSTO  DE 1990,
+SERA DE CR! 701,79 (SETECENTOS E UM CRUZEIROS E SETENTA E NOVE CENTA-
+VOS);
+
+                 III  -  ESTE COMUNICADO ENTRARA EM VIGOR NA DATA  DE
+SUA PUBLICACAO.
+
+                             BRASILIA (DF), 31 DE JULHO DE 1990
+
+                             DEPARTAMENTO DE NORMAS DO MERCADO
+                             DE CAPITAIS
+
+                             ANTONIO CAETANO FILHO
+                             CHEFE
+```

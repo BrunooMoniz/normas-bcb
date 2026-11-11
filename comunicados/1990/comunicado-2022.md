@@ -1,0 +1,45 @@
+---
+titulo: "COMUNICADO N. 002022"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2022"
+data: 1990-02-14
+ementa: "COMUNICA O EXTRAVIO DE CERTIFICADOS"
+revogada: false
+responsavel: "FIRCE"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2022"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002022
+
+```
+                        COMUNICADO N. 002022
+                        --------------------
+
+                             COMUNICA O EXTRAVIO DE CERTIFICADOS
+
+                   COMUNICAMOS QUE, SEGUNDO INFORMACOES DOS INTERES-
+SADOS,  ACHAM-SE EXTRAVIADOS OS CERTIFICADOS DESCRITOS A SEGUIR, SO-
+LICITANDO  QUE SEJAM OS REFERIDOS DOCUMENTOS RECOLHIDOS E ENCAMINHA-
+DOS A ESTE BANCO CENTRAL, NA HIPOTESE DE VIREM A SER APRESENTADOS:
+    A - CERTIFICADO DE REGISTRO N. 360/13280/15299-0, EM NOME DE LA-
+        BORATORIOS FARMACEUTICOS ESPASIL LTDA., EMITIDO EM 17.08.88;
+    B - CERTIFICADO  DE REGISTRO N. 860/11214/00248, EM NOME DE NOR-
+        TENE  DO BRASIL COMERCIAL E PARTICIPACOES LTDA., EMITIDO  EM
+        30.05.84;
+    C - CERTIFICADO  DE REGISTRO N. 860/11215/00249, EM NOME DE NOR-
+        TENE  DO BRASIL COMERCIAL E PARTICIPACOES LTDA., EMITIDO  EM
+        30.05.84;
+    D - CERTIFICADO  DE REGISTRO N. 860/11216/00250, EM NOME DE NOR-
+        TENE  DO BRASIL COMERCIAL E PARTICIPACOES LTDA., EMITIDO  EM
+        30.05.84.
+
+                             BRASILIA (DF), 09 DE FEVEREIRO DE 1990
+
+                             DEPARTAMENTO DE FISCALIZACAO E REGISTRO
+                             DE CAPITAIS ESTRANGEIROS
+
+                             OLIMPIO LOPES FERREIRA DE ALMEIDA
+                             CHEFE
+```

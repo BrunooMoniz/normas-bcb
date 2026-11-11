@@ -1,0 +1,48 @@
+---
+titulo: "COMUNICADO N. 002975"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2975"
+data: 1992-08-13
+ementa: "ESCLARECE SOBRE A NECESSIDADE DE MANU- TENCAO DE INFORMACOES ENQUANTO NAO INS- TITUIDA A TRANSACAO PREVISTA NO ART. 1., PARAGRAFO 3., DA CIRCULAR N. 2.207, DE 30.07.92, BEM COMO SOBRE A DATA DO INICIO DA CORRECAO DE QUE TRATA O ART. 7. DA RESOLUCAO N. 1.946, DE 29.07.92"
+revogada: false
+responsavel: "DENOR"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2975"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002975
+
+```
+                        COMUNICADO N. 002975
+                        --------------------
+                              ESCLARECE  SOBRE A NECESSIDADE DE MANU-
+                              TENCAO DE INFORMACOES ENQUANTO NAO INS-
+                              TITUIDA  A  TRANSACAO PREVISTA NO  ART.
+                              1., PARAGRAFO 3., DA CIRCULAR N. 2.207,
+                              DE  30.07.92, BEM COMO SOBRE A DATA  DO
+                              INICIO  DA CORRECAO DE QUE TRATA O ART.
+                              7. DA RESOLUCAO N. 1.946, DE 29.07.92
+
+                    TENDO  EM  VISTA AS DISPOSICOES DA  RESOLUCAO  N.
+1.946, DE 29.07.92, E DA CIRCULAR N. 2.207, DE 30.07.92, ESCLARECEMOS
+QUE:
+
+                    ART.  1.. ENQUANTO NAO  DEFINIDA A TRANSACAO PRE-
+VISTA  NO  ART. 1., PARAGRAFO 3., DA REFERIDA CIRCULAR N.  2.207,  AS
+INSTITUICOES  FINANCEIRAS DEVERAO MANTER AS INFORMACOES CORRESPONDEN-
+TES  AS  OPERACOES PERTINENTES OCORRIDAS DESDE A ENTRADA EM VIGOR  DA
+RESOLUCAO  N. 1.946, DE 29.07.92, EM CONDICOES DE SEREM INCLUIDAS  NO
+SISTEMA  DE INFORMACOES BANCO CENTRAL (SISBACEN) TAO LOGO SEJA CRIADA
+REFERIDA TRANSACAO.
+
+                    ART.  2.. A CORRECAO  DE  QUE  TRATA O ART. 7. DA
+MENCIONADA RESOLUCAO N. 1.946 OCORRERA A PARTIR DE 01.09.92, CONSIDE-
+RANDO-SE A VARIACAO DO INDICE DE ATUALIZACAO DA UNIDADE FISCAL DE RE-
+FERENCIA (UFIR) MENSAL.
+
+                              BRASILIA (DF), 13 DE AGOSTO DE 1992
+
+                              GUSTAVO JORGE LABOISSIERE LOYOLA
+                              DIRETOR
+```

@@ -1,0 +1,60 @@
+---
+titulo: "COMUNICADO N. 002388"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2388"
+data: 1991-05-07
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2388"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002388
+
+```
+                        COMUNICADO N. 002388
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              COMUNICA,  A PEDIDO DE AUTORIDADE JUDI-
+                              CIARIA,  O LEVANTAMENTO DA INDISPONIBI-
+                              LIDADE DE BENS DE EX-ADMINISTRADORES DE
+                              EMPRESA EM LIQUIDACAO EXTRAJUDICIAL QUE
+                              ESPECIFICA.
+
+               COMUNICAMOS,  RELATIVAMENTE AO BANCO DE CREDITO COMER-
+CIAL  S.A.  -  EM  LIQUIDACAO EXTRAJUDICIAL  (COMUNICADOS  DEOPE NRS.
+83/027,  DE 28.06.83 E 83/047, DE 16.08.83),  QUE O JUIZO DE  DIREITO
+DA SEXTA VARA DE FALENCIAS E CONCORDATAS DA COMARCA DA CAPITAL DO ES-
+TADO  DO RIO DE JANEIRO (RJ),POR INTERMEDIO DOS OFICIOS NRS. 360/91-L
+E 364/91-L, RESPECTIVAMENTE DE 02.05.91 E 03.05.91, INFORMOU-NOS "QUE
+FOI JULGADA EXTINTA,EM DECORRENCIA DE V. ACORDAO DA EGREGIA 8A. CAMA-
+RA  CIVEL DO TRIBUNAL DE JUSTICA, A ACAO ORDINARIA MOVIDA PELO MINIS-
+TERIO  PUBLICO EM FACE DE ASSIS PAIM CUNHA E OUTROS E, EM  CONSEQUEN-
+CIA,  LEVANTADA A INDISPONIBILIDADE E O ARRESTO QUE RECAIAM SOBRE  OS
+BENS DE:"
+
+     - FLAVIO CHAVES (CPF NR. 045.361.268-72);
+
+     - ANTONIO CLAUDIO BALDUCCI (CPF NR. 074.909.178-91);
+
+     - JOAO BATISTA FILHO (CPF NR. 002.634.511-00);
+
+     - PEDRO TRABBOLD JUNIOR (CPF NR. 008.439.468-49;E
+
+     - LUIZ SERGIO LEITE PINTO (CPF NR. 020.516.667-49); E
+
+     - JOEL TEPPET (CPF NR. 018.457.567-20).
+
+                              BRASILIA (DF), 07 DE  MAIO  DE  1991
+
+                              DEPARTAMENTO  DE CONTROLE DE  PROCESSOS
+                              ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                              JOSE CARLOS MONTEIRO MEDEIROS
+                              CHEFE
+```

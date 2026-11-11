@@ -1,0 +1,55 @@
+---
+titulo: "COMUNICADO N. 002391"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2391"
+data: 1991-05-14
+ementa: "COMUNICA O EXTRAVIO DE CERTIFICADOS"
+revogada: false
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2391"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002391
+
+```
+                        COMUNICADO N. 002391
+                        --------------------
+                              COMUNICA O EXTRAVIO DE CERTIFICADOS
+
+                    COMUNICAMOS  QUE, SEGUNDO INFORMACOES DOS  INTE-
+RESSADOS,  ACHAM-SE EXTRAVIADOS OS CERTIFICADOS DESCRITOS A  SEGUIR,
+SOLICITANDO  QUE SEJAM OS REFERIDOS DOCUMENTOS RECOLHIDOS E  ENCAMI-
+NHADOS  A ESTE BANCO CENTRAL, NA HIPOTESE DE VIREM A SER  APRESENTA-
+DOS:
+
+     A - CERTIFICADO  DE REGISTRO N. 121/0171, EM NOME DA  REPUBLICA
+         FEDERATIVA  DO BRASIL, NO VALOR DE US$ 130.000.000,00, EMI-
+         TIDO EM 24.05.84;
+
+     B - CERTIFICADO  DE REGISTRO N. 160/15559-08177, EM NOME DE CO-
+         TIA FINANCE LTD., NO VALOR DE US$ 18.375.526,94, EMITIDO EM
+         01.03.90;
+
+     C - CERTIFICADO  DE REGISTRO N. 241/28846, EM NOME DE SU-INDUS-
+         TRIA DE FERRAMENTAS LTDA., NO VALOR DE US$ 116.000,00, EMI-
+         TIDO EM 03.12.82.
+
+     D - CERTIFICADO   DE  REGISTRO N. 260/13509-38791, EM  NOME  DE
+         ICARO EMPREENDIMENTOS S/C LTDA., EMITIDO EM 23.11.88;
+
+     E - CERTIFICADO  DE  REGISTRO  N. 360/10165-10837-0, EM NOME DE
+         SINELBRAS  SINALIZACAO E ELETRONCA BRASILEIRA LTDA, EMITIDO
+         EM 05.01.83.
+
+     F - CERTIFICADO  DE  REGISTRO  N. 360/10140-11269-0, EM NOME DE
+         SINELBRAS  SINALIZACAO E ELETRONCA BRASILEIRA LTDA, EMITIDO
+         EM 16.05.83.
+
+                              BRASILIA (DF), 09 DE MAIO DE 1991
+
+                              DEPARTAMENTO DE CAPITAIS ESTRANGEIROS
+                              ANTONIO CARLOS MONTEIRO
+                              CHEFE
+```

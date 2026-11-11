@@ -1,0 +1,67 @@
+---
+titulo: "COMUNICADO N. 003287"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "3287"
+data: 1993-04-14
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=3287"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 003287
+
+```
+                        COMUNICADO N. 003287
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                              COMUNICA A DECRETACAO DA LIQUIDACAO EX-
+                              TRAJUDICIAL  DA EMPRESA QUE ESPECIFICA,
+                              A NOMEACAO DO RESPECTIVO LIQUIDANTE E O
+                              ALCANCE  DA INDISPONIBILIDADE SOBRE  OS
+                              BENS DOS EX-ADMINISTRADORES.
+
+                    COMUNICAMOS QUE:
+
+                    I - O  BANCO CENTRAL  DO  BRASIL, COM BASE NO AR-
+TIGO  15, INCISO II, DA LEI N. 6.024, DE 13.03.74, E CONFORME ATO  DE
+14.04.93,  DECRETOU A LIQUIDACAO EXTRAJUDICIAL DA ESCOTAL  ESCRITORIO
+DE  CORRETAGEM DE VALORES E CAMBIO LTDA., CGC N.  92.875.673/0001-03,
+COM  SEDE A RUA URUGUAI, 303 - CENTRO - PORTO ALEGRE (RS), NOMEANDO O
+SR. SADI ZANOTTO PARA AS FUNCOES DE LIQUIDANTE;
+
+                   II  - EM FACE DO DISPOSTO NO ART. 36 DA MESMA LEI,
+FORAM  ALCANCADOS PELA INDISPONIBILIDADE OS BENS DOS EX-ADMINISTRADO-
+RES ABAIXO QUALIFICADOS:
+
+          - RUBENS  BORGES FORTES, (CPF N. 001.684.320-72), BRASILEI-
+            RO,  CASADO, COMERCIANTE, PORTADOR DA CARTEIRA DE IDENTI-
+            DADE  RG  N. 801.8008766 - SSP/RS, EXPEDIDA EM  21.12.79,
+            RESIDENTE E DOMICILIADO EM PORTO ALEGRE (RS);
+
+          - WERNER  ERICH GROS, (CPF N. 001.684.590-00),  BRASILEIRO,
+            CASADO,  COMERCIANTE, PORTADOR DA CARTEIRA DE  IDENTIDADE
+
+            RG  N. 100.0507358 - SSP/RS, EXPEDIDA EM 19.09.74,  RESI-
+            DENTE E DOMICILIADO EM PORTO ALEGRE (RS);
+
+                  III  - AS INFORMACOES A RESPEITO DA EVENTUAL  EXIS-
+TENCIA DE BENS AI INSCRITOS, EM NOME DAS PESSOAS NOMEADAS NO ITEM AN-
+TERIOR, DEVEM SER DIRIGIDAS DIRETAMENTE AO LIQUIDANTE, NO ENDERECO DE
+INICIO CITADO.
+
+                           BRASILIA (DF), 14  DE  ABRIL  DE  1993
+
+                           DEPARTAMENTO DE CONTROLE  DE PROCESSOS
+                           ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                           FRANCISCO MUNIA MACHADO
+                           CHEFE
+
+                                         RPC-185783-5-TCD/ESCOTAL.DOC
+```

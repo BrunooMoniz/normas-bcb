@@ -1,0 +1,43 @@
+---
+titulo: "COMUNICADO N. 004666"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "4666"
+data: 1995-07-05
+ementa: "ESCLARECE ACERCA DA REMESSA AO BANCO CENTRAL DE INFORMACOES SOBRE DEPOSITOS A PRAZO DE REAPLICACAO AUTOMATICA."
+revogada: false
+responsavel: "DEASF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=4666"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 004666
+
+```
+                        COMUNICADO N. 004666
+                        --------------------
+                         ESCLARECE ACERCA DA REMESSA AO BANCO CENTRAL
+                         DE INFORMACOES SOBRE DEPOSITOS A PRAZO DE
+                         REAPLICACAO AUTOMATICA.
+
+                  TENDO EM VISTA DUVIDAS SUSCITADAS PELO MERCADO, CO-
+MUNICAMOS QUE AS INFORMACOES RELATIVAS AOS DEPOSITOS A PRAZO DE REA-
+PLICACAO AUTOMATICA, INSTITUIDOS PELA RESOLUCAO N. 2.172, DE 30.06.95
+NAO DEVEM , EM HIPOTESE ALGUMA, SER PRESTADAS ATRAVES DA OPCAO 6 DA
+TRANSACAO PESP500 DO SISBACEN, QUE FOI CRIADA EXCLUSIVAMENTE PARA RE-
+GISTRO DAS INFORMACOES REGULAMENTADAS PELO ARTIGO 2. DA CIRCULAR N.
+2.132, DE 28.02.92.
+
+2.                CONTUDO,  REFERIDAS  INFORMACOES  DEVEM PERMANECER
+DISPONIVEIS NAS INSTITUICOES FINANCEIRAS CAPTADORAS DESSES DEPOSITOS,
+ATE QUE NORMA ESPECIFICA ESTABELECA FORMA E CONDICOES PARA SUA REMES-
+SA A ESTE ORGAO.
+
+                  BRASILIA, 05 DE JULHO DE 1995.
+
+                          DEPARTAMENTO DE ESTUDOS ESPECIAIS E
+                          Acompanhamento do Sistema Financeiro
+
+                          Jorge de Frias Barbosa
+                          Chefe, em exercicio
+```

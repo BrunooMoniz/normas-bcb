@@ -1,0 +1,58 @@
+---
+titulo: "COMUNICADO N. 007001"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "7001"
+data: 1999-10-18
+ementa: "DIVULGA ALTERACAO NA RELACAO DE AGENCIAS DE TURISMO E MEIOS DE HOSPEDAGEM DE TURISMO CREDENCIADOS A OPERAR NO MERCADO DE CAMBIO DE TAXAS FLUTUANTES."
+revogada: false
+responsavel: "DECAM"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=7001"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 007001
+
+```
+                        COMUNICADO N. 007001
+                        --------------------
+                               DIVULGA   ALTERACAO   NA   RELACAO  DE
+                               AGENCIAS   DE  TURISMO   E   MEIOS  DE
+                               HOSPEDAGEM  DE TURISMO  CREDENCIADOS A
+                               OPERAR NO  MERCADO DE  CAMBIO DE TAXAS
+                               FLUTUANTES.
+
+         COMUNICAMOS AOS  INTERESSADOS AS ALTERACOES OCORRIDAS NO MES
+DE SETEMBRO DE 1999  NA  RELACAO DE AGENCIAS  DE TURISMO  E  MEIOS DE
+HOSPEDAGEM DE TURISMO CREDENCIADOS  A OPERAR NO MERCADO  DE CAMBIO DE
+TAXAS FLUTUANTES,  INSTITUIDO  PELA  RESOLUCAO  N.  1.552,  DE  22 DE
+DEZEMBRO DE 1988:
+
+       I - DESCREDENCIAMENTO DE AGENCIA DE TURISMO
+
+PRACA/EMPRESA                             CGC             DATA
+
+SAO PAULO (SP)
+CASA BRANCO CAMBIO
+E TURISMO LTDA.                   58.142.811/0002-98  30.09.1999
+
+       II - RECREDENCIAMENTO DE AGENCIA DE TURISMO
+
+PRACA/EMPRESA                             CGC             DATA
+
+BELO HORIZONTE (MG)
+NASCENTE AGENCIA DE VIAGENS E
+TURISMO LTDA.                     22.011.951/0001-07  15.09.1999
+
+2.     ENCONTRA-SE DISPONIVEL NO SISBACEN, TRANSACAO PCAM830, A RELA-
+CAO DAS  AGENCIAS DE  TURISMO E  MEIOS  DE HOSPEDAGEM  DE TURISMO CRE
+DENCIADOS A  OPERAR  NO  MERCADO DE  CAMBIO  DE  TAXAS FLUTUANTES, IN
+CLUINDO OS EVENTOS INDICADOS NO PARAGRAFO ANTERIOR.
+
+                           BRASILIA,  18  DE OUTUBRO DE 1999
+
+                           DEPARTAMENTO DE CAMBIO
+
+                           JOSE MARIA FERREIRA DE CARVALHO
+                           CHEFE
+```

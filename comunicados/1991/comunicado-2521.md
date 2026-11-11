@@ -1,0 +1,45 @@
+---
+titulo: "COMUNICADO N. 002521"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2521"
+data: 1991-08-30
+ementa: "PRESTA ESCLARECIMENTOS QUANTO AO RELA- CIONAMENTO ENTRE O BANCO CENTRAL DO BRASIL E OS ESTABELECIMENTOS BANCARIOS CREDENCIADOS A OPERAR NO MERCADO DE CAMBIO DE TAXAS FLUTUANTES."
+revogada: false
+responsavel: "DECAM"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2521"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002521
+
+```
+                        COMUNICADO N. 002521
+                        --------------------
+                              PRESTA  ESCLARECIMENTOS QUANTO AO RELA-
+                              CIONAMENTO   ENTRE  O BANCO CENTRAL  DO
+                              BRASIL  E OS ESTABELECIMENTOS BANCARIOS
+                              CREDENCIADOS  A  OPERAR NO  MERCADO  DE
+                              CAMBIO DE TAXAS FLUTUANTES.
+
+                    LEVAMOS AO CONHECIMENTO DOS INTERESSADOS QUE:
+
+                    I  -  O RELACIONAMENTO ENTRE O BANCO  CENTRAL  DO
+BRASIL  E OS BANCOS CREDENCIADOS A OPERAR NO MERCADO DE CAMBIO DE TA-
+XAS  FLUTUANTES E TAMBEM AUTORIZADOS A OPERAR NO MERCADO DE CAMBIO DE
+TAXAS  LIVRES  CONTINUARA SENDO FEITO JUNTO A PRACA JA INDICADA  PARA
+ESSE FIM (RIO DE JANEIRO OU SAO PAULO).
+
+                   II  - EM SE TRATANDO DE ESTABELECIMENTOS BANCARIOS
+QUE  SO  OPEREM NO MERCADO DE CAMBIO DE TAXAS FLUTUANTES, DEVERAO  OS
+MESMOS  ELEGER  ATE  03.09.91, UMA DAQUELAS PRACAS  PARA  O  REFERIDO
+RELACIONAMENTO   CENTRALIZADO,   MEDIANTE   CORREIO   ELETRONICO   AO
+DECAM/SUMOP/DIACO - BRASILIA (DF).
+
+                              BRASILIA (DF), 30 DE AGOSTO DE 1991
+
+                              DEPARTAMENTO DE CAMBIO
+
+                              ALCINDO FERREIRA
+                              CHEFE, EM EXERCICIO
+```

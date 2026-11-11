@@ -1,0 +1,79 @@
+---
+titulo: "COMUNICADO N. 003160"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "3160"
+data: 1993-01-20
+ementa: "COMUNICA A SUSPENSAO DO IMPEDIMENTO PA- RA A PRATICA DE OPERACOES DE CREDITO RURAL E AGROINDUSTRIAL, NA FORMA DO MCR 1-7-10 E MCA 1-4-12."
+revogada: false
+responsavel: "DECAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=3160"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 003160
+
+```
+                        COMUNICADO N. 003160
+                        --------------------
+
+                              COMUNICA A SUSPENSAO DO IMPEDIMENTO PA-
+                              RA  A  PRATICA DE OPERACOES DE  CREDITO
+                              RURAL E AGROINDUSTRIAL, NA FORMA DO MCR
+                              1-7-10 E MCA 1-4-12.
+
+                    NA  FORMA DO MCR 1-7-10 E MCA 1-4-12, COMUNICAMOS
+QUE FICA SUSPENSO O IMPEDIMENTO DAS PESSOAS RELACIONADAS A SEGUIR:
+
+NOME                             CGC/CPF        MUNICIPIO UF
+
+ALBERI DE ABREU                  272.478.300-00 SIDROLANDIA MS
+
+ARNO BRUNO WEIS                  103.904.560-04 GOIANIA GO
+
+EDISON ARAUJO MARQUES            181.395.400-30 SAO BORJA RS
+
+EDVAN QUIRINO DE SA              065.659.804-20 FLORESTA PE
+
+EGON SCHERER                     035.323.050-20 GIRUA RS
+
+ENILSON MENEZES VIANA            165.957.505-20 IRECE BA
+
+FABIO BRANDAO DA SILVEIRA        002.823.835-49 RIACHAO DAS NEVES BA
+
+FRANCISCO ZILLI                  495.887.539-53 PATO BRANCO PR
+
+HUMBERTO ANTONIO SIMOES DA CUNHA 224.801.881-91 PARACATU MG
+
+IRON  CAMPOS E SILVA              095.262.341-20 STA HELENA DE  GOIAS
+GO
+JOAO LUIZ DANI                   423.332.459-72 TANGARA SC
+
+JOSE DA CONCEICAO FLORENCA       167.293.909-72 PAPANDUVA SC
+
+MARIA HELENA ROCHA               046.132.791-00 PATU RN
+
+OSMUNDO ALVARES TOSCA            001.476.305-25 SALVADOR BA
+
+PERCILIO GUIDOTTI                092.954.610-53 CACAPAVA DO SUL RS
+
+REINALDO DOMINGOS FREIRE         223.140.405-20 IRECE BA
+
+SIDELCINO ALVES DE ALMEIDA       244.476.175-87 JUSSARA BA
+
+VALNIR ANTONIO BERVIAN           135.206.600-91 PEDRA PRETA MT
+
+VITAL GOIANA LEAL                101.791.274-20 FLORESTA PE
+
+WALWIN DE AGUIAR CORREA          142.090.201-68 UBERABA MG
+
+                 I  - ESTE COMUNICADO ENTRARA EM VIGOR NA DATA DE SUA
+PUBLICACAO.
+
+                              BRASILIA (DF), 20 DE JANEIRO DE 1993.
+
+                              DEPARTAMENTO DE CADASTRO E INFORMACOES
+
+                              JOSE JOVINIANO MELO
+                              CHEFE EM EXERCICIO
+```

@@ -1,0 +1,69 @@
+---
+titulo: "COMUNICADO N. 002527"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "2527"
+data: 1991-09-05
+ementa: ""
+revogada: false
+responsavel: "DEPAD"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=2527"
+baixado_em: 2026-11-10
+---
+# COMUNICADO N. 002527
+
+```
+                        COMUNICADO N. 002527
+                        --------------------
+
+AS
+INSTITUICOES FINANCEIRAS E BOLSAS DE VALORES
+
+                           COMUNICA A DECRETACAO DA LIQUIDACAO EXTRA-
+                           JUDICIAL  DA EMPRESA QUE ESPECIFICA, A NO-
+                           MEACAO DO RESPECTIVO LIQUIDANTE E O ALCAN-
+                           CE  DA INDISPONIBILIDADE SOBRE OS BENS DOS
+                           EX-ADMINISTRADORES.
+
+                           COMUNICAMOS QUE:
+
+                           I  -  O BANCO CENTRAL DO BRASIL, COM  BASE
+NOS  ARTIGOS  15,  INCISO  I,  ALINEAS "A" E "B"  DA  LEI  6.024,  DE
+13.03.74,  E CONFORME ATO DE 30.08.91, DECRETOU A LIQUIDACAO EXTRAJU-
+DICIAL  DA SAVIVE ADMINISTRADORA DE CONSORCIOS S/C LTDA., COM SEDE EM
+SAO  VICENTE (SP), NOMEANDO O SR. SERGIO DOS SANTOS SILVEIRA PARA  AS
+FUNCOES DE LIQUIDANTE:
+
+                          II - EM FACE DO DISPOSTO NO ART. 36 DA MES-
+MA  LEI, FORAM ALCANCADOS PELA INDISPONIBILIDADE OS BENS DOS EX-ADMI-
+NISTRADORES QUE ESTIVERAM NO EXERCICIO DAS FUNCOES NOS DOZE MESES AN-
+TERIORES A DATA DO ATO DE LIQUIDACAO EXTRAJUDICIAL, CUJAS IDENTIFICA-
+COES SE SEGUEM, A PEDIDO DO CITADO LIQUIDANTE:
+
+                  - MAURICIO  ALMEIDA  SILVA  ALBUQUERQUE  CAVALCANTI
+                    (CPF  N.  278.717.975-49), BRASILEIRO,  SOLTEIRO,
+                    COMERCIANTE, CARTEIRA DE IDENTIDADE N. 1.532.477-
+                    SSP(SP),  RESIDENTE  A RUA ROXO MOREIRA  N.  637,
+                    CAMPINAS (SP);
+
+                  - MIGUEL    ASSAD     MACOOL    FILHO    (CPF    N.
+                    025.534.558-52),  BRASILEIRO, DIVORCIADO,  COMER-
+                    CIANTE,  CARTEIRA  DE  IDENTIDADE  N.  1.207.670-
+                    SSP(SP),  RESIDENTE A RUA FREDERICO OZANAN N. 23,
+                    AP. 32, SANTOS (SP).
+
+                         III  - AS INFORMACOES A RESPEITO DA EVENTUAL
+EXISTENCIA DE BENS AI INSCRITOS, EM NOME DAS PESSOAS NOMEADAS NO ITEM
+ANTERIOR,  DEVEM  SER DIRIGIDAS AO SR. LIQUIDANTE, A  AV.  PRESIDENTE
+WILSON 1033 - CEP 11.320, SAO VICENTE (SP).
+
+                           BRASILIA (DF), 05 DE SETEMBRO DE 1991
+
+                           DEPARTAMENTO  DE CONTROLE DE PROCESSOS
+                           ADMINISTRATIVOS E DE REGIMES ESPECIAIS
+
+                           JOSE CARLOS MONTEIRO MEDEIROS
+                           CHEFE
+COM91038.DOC
+```
