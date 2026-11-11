@@ -31,7 +31,7 @@ e as demais) estão lá, em `federal/`; aqui ficam só os atos do BCB e do CMN.
 
 | Série | No índice oficial | Publicadas | Vigentes | Revogadas | Período |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| [Comunicados](comunicados/) | 43.925 | 5.394 | 5.394 | 0 | 1990 a 2026 |
+| [Comunicados](comunicados/) | 43.925 | 5.454 | 5.454 | 0 | 1990 a 2026 |
 | [Resoluções do CMN](resolucoes-cmn/) | 5.344 | 5.254 | 799 | 4.455 | 1965 a 2026 |
 | [Cartas Circulares](cartas-circulares/) | 4.076 | 4.025 | 101 | 3.924 | 1968 a 2020 |
 | [Circulares](circulares/) | 4.038 | 3.933 | 123 | 3.810 | 1965 a 2020 |
@@ -41,13 +41,13 @@ e as demais) estão lá, em `federal/`; aqui ficam só os atos do BCB e do CMN.
 | [Resoluções BCB](resolucoes-bcb/) | 604 | 604 | 526 | 78 | 2020 a 2026 |
 | [Atos Normativos Conjuntos](atos-normativos-conjuntos/) | 31 | 31 | 30 | 1 | 2003 a 2026 |
 | [Resoluções Conjuntas](resolucoes-conjuntas/) | 21 | 21 | 20 | 1 | 2020 a 2026 |
-| [Comunicados Conjuntos](comunicados-conjuntos/) | 20 | 20 | 20 | 0 | 1990 a 1993 |
 | [Decisões Conjuntas](decisoes-conjuntas/) | 20 | 20 | 19 | 1 | 1994 a 2015 |
+| [Comunicados Conjuntos](comunicados-conjuntos/) | 20 | 20 | 20 | 0 | 1990 a 1993 |
 | [Portarias Conjuntas](portarias-conjuntas/) | 8 | 8 | 8 | 0 | 2020 a 2026 |
-| [Resoluções Coseg](resolucoes-coseg/) | 4 | 4 | 4 | 0 | 2026 a 2026 |
 | [Instruções Normativas Conjuntas](instrucoes-normativas-conjuntas/) | 4 | 4 | 0 | 4 | 2021 a 2026 |
+| [Resoluções Coseg](resolucoes-coseg/) | 4 | 4 | 4 | 0 | 2026 a 2026 |
 | [Resoluções Coremec](resolucoes-coremec/) | 1 | 1 | 1 | 0 | 2020 a 2020 |
-| **Total** | **60.977** | **22.200** | **9.649** | **12.551** |  |
+| **Total** | **60.977** | **22.260** | **9.709** | **12.551** |  |
 
 Vigentes são as que o portal não marca como revogadas nem canceladas.
 
@@ -59,19 +59,19 @@ Vigentes são as que o portal não marca como revogadas nem canceladas.
 
 | Áreas | Normas |
 | --- | ---: |
-| SECRE | 10.980 |
-| DENOR | 1.470 |
+| SECRE | 10.983 |
+| DENOR | 1.471 |
 | DEASF | 1.230 |
 | PRESI | 919 |
-| DEMAB | 856 |
+| DEMAB | 858 |
 | DEPAD | 681 |
 | DEBAN | 592 |
-| DEPEC | 544 |
+| DEPEC | 560 |
 | DESIG | 441 |
-| DECAM | 365 |
-| DEORF | 294 |
+| DECAM | 366 |
+| DEORF | 326 |
 | DINOR | 222 |
-| DECAD | 217 |
+| DECAD | 219 |
 | DECEM | 179 |
 | MF | 162 |
 
