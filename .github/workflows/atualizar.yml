@@ -24,6 +24,9 @@ jobs:
       - uses: actions/checkout@v7
       - uses: astral-sh/setup-uv@v10.3.2  # sem tag de versão maior; versão exata
       - name: Dependências de PDF e OCR
+        # o espelho do apt às vezes trava; sem PDF/OCR a norma cai em _falhas.jsonl e é refeita na próxima hora
+        continue-on-error: true
+        timeout-minutes: 6
         run: sudo apt-get update -qq && sudo apt-get install -y -qq --no-install-recommends poppler-utils tesseract-ocr tesseract-ocr-por > /dev/null
       - name: Normas novas
         run: uv run -q scripts/bcb.py --novos 3

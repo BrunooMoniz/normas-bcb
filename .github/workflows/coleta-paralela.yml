@@ -1,6 +1,6 @@
 name: coleta-paralela
 
-# Carga inicial em paralelo: cada fatia roda numa máquina do GitHub (IP próprio), com a mesma pausa
+# Carga inicial em paralelo (até 20 jobs simultâneos no plano gratuito): cada fatia roda numa máquina do GitHub (IP próprio), com a mesma pausa
 # entre requisições do coletor. Dispara com push num branch coleta/*; "coleta/teste" faz só um ensaio
 # curto (2 fatias, 30 normas por tipo). O job "juntar" publica tudo num commit por pasta na main.
 on:
@@ -21,7 +21,7 @@ jobs:
     steps:
       - id: p
         run: |
-          if [ "${GITHUB_REF_NAME}" = "coleta/teste" ]; then n=2; extra="--limite 30"; else n=12; extra=""; fi
+          if [ "${GITHUB_REF_NAME}" = "coleta/teste" ]; then n=2; extra="--limite 30"; else n=20; extra=""; fi
           echo "n=$n" >> "$GITHUB_OUTPUT"
           echo "extra=$extra" >> "$GITHUB_OUTPUT"
           echo "fatias=$(python3 -c "import json;print(json.dumps(list(range($n))))")" >> "$GITHUB_OUTPUT"
@@ -37,10 +37,9 @@ jobs:
     steps:
       - uses: actions/checkout@v7
       - uses: astral-sh/setup-uv@v10.3.2
-      - name: Dependências de PDF e OCR
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq --no-install-recommends poppler-utils tesseract-ocr tesseract-ocr-por > /dev/null
+      # só Comunicados: o texto vem da API, sem PDF; as normas em PDF que faltam ficam com a VM, que tem OCR
       - name: Coletar a fatia
-        run: uv run -q scripts/bcb.py --fatia ${{ matrix.k }}/${{ needs.plano.outputs.n }} --pular-existentes ${{ needs.plano.outputs.extra }}
+        run: uv run -q scripts/bcb.py --tipos Comunicado --fatia ${{ matrix.k }}/${{ needs.plano.outputs.n }} --pular-existentes ${{ needs.plano.outputs.extra }}
       - name: Separar o que é novo
         if: always()
         run: |
