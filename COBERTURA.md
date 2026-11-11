@@ -4,10 +4,10 @@ Gerado por `scripts/bcb.py --relatorio`. Índice = itens na busca de normas do B
 
 | Pasta | Tipos | Índice | Arquivos .md | Só metadados | Falhas |
 | --- | --- | ---: | ---: | ---: | ---: |
-| `comunicados/` | Comunicado | 43.925 | 5.454 | 0 | 0 |
-| `resolucoes-cmn/` | Resolução, Resolução CMN | 5.344 | 5.254 | 0 | 0 |
-| `cartas-circulares/` | Carta Circular | 4.076 | 4.025 | 2 | 0 |
-| `circulares/` | Circular | 4.038 | 3.933 | 0 | 0 |
+| `comunicados/` | Comunicado | 43.925 | 43.925 | 1 | 0 |
+| `resolucoes-cmn/` | Resolução, Resolução CMN | 5.344 | 5.344 | 8 | 0 |
+| `cartas-circulares/` | Carta Circular | 4.076 | 4.076 | 16 | 0 |
+| `circulares/` | Circular | 4.038 | 4.038 | 11 | 0 |
 | `atos-do-presidente/` | Ato do Presidente | 1.389 | 1.389 | 0 | 0 |
 | `instrucoes-normativas-bcb/` | Instrução Normativa BCB | 786 | 786 | 0 | 0 |
 | `atos-de-diretor/` | Ato de Diretor | 706 | 706 | 0 | 0 |
@@ -20,4 +20,4 @@ Gerado por `scripts/bcb.py --relatorio`. Índice = itens na busca de normas do B
 | `instrucoes-normativas-conjuntas/` | Instrução Normativa Conjunta | 4 | 4 | 0 | 0 |
 | `resolucoes-coseg/` | Resolução Coseg | 4 | 4 | 0 | 0 |
 | `resolucoes-coremec/` | Resolução Coremec | 1 | 1 | 0 | 0 |
-| **Total** | | **60.977** | **22.260** | **2** | **0** |
+| **Total** | | **60.977** | **60.977** | **36** | **0** |

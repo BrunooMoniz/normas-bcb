@@ -31,23 +31,23 @@ e as demais) estão lá, em `federal/`; aqui ficam só os atos do BCB e do CMN.
 
 | Série | No índice oficial | Publicadas | Vigentes | Revogadas | Período |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| [Comunicados](comunicados/) | 43.925 | 5.454 | 5.454 | 0 | 1990 a 2026 |
-| [Resoluções do CMN](resolucoes-cmn/) | 5.344 | 5.254 | 799 | 4.455 | 1965 a 2026 |
-| [Cartas Circulares](cartas-circulares/) | 4.076 | 4.025 | 101 | 3.924 | 1968 a 2020 |
-| [Circulares](circulares/) | 4.038 | 3.933 | 123 | 3.810 | 1965 a 2020 |
+| [Comunicados](comunicados/) | 43.925 | 43.925 | 43.822 | 103 | 1990 a 2026 |
+| [Resoluções do CMN](resolucoes-cmn/) | 5.344 | 5.344 | 810 | 4.534 | 1965 a 2026 |
+| [Cartas Circulares](cartas-circulares/) | 4.076 | 4.076 | 106 | 3.970 | 1968 a 2020 |
+| [Circulares](circulares/) | 4.038 | 4.038 | 155 | 3.883 | 1965 a 2020 |
 | [Atos do Presidente](atos-do-presidente/) | 1.389 | 1.389 | 1.388 | 1 | 1994 a 2026 |
 | [Instruções Normativas BCB](instrucoes-normativas-bcb/) | 786 | 786 | 512 | 274 | 2020 a 2026 |
 | [Atos de Diretor](atos-de-diretor/) | 706 | 706 | 704 | 2 | 1996 a 2026 |
 | [Resoluções BCB](resolucoes-bcb/) | 604 | 604 | 526 | 78 | 2020 a 2026 |
 | [Atos Normativos Conjuntos](atos-normativos-conjuntos/) | 31 | 31 | 30 | 1 | 2003 a 2026 |
 | [Resoluções Conjuntas](resolucoes-conjuntas/) | 21 | 21 | 20 | 1 | 2020 a 2026 |
-| [Decisões Conjuntas](decisoes-conjuntas/) | 20 | 20 | 19 | 1 | 1994 a 2015 |
 | [Comunicados Conjuntos](comunicados-conjuntos/) | 20 | 20 | 20 | 0 | 1990 a 1993 |
+| [Decisões Conjuntas](decisoes-conjuntas/) | 20 | 20 | 19 | 1 | 1994 a 2015 |
 | [Portarias Conjuntas](portarias-conjuntas/) | 8 | 8 | 8 | 0 | 2020 a 2026 |
-| [Instruções Normativas Conjuntas](instrucoes-normativas-conjuntas/) | 4 | 4 | 0 | 4 | 2021 a 2026 |
 | [Resoluções Coseg](resolucoes-coseg/) | 4 | 4 | 4 | 0 | 2026 a 2026 |
+| [Instruções Normativas Conjuntas](instrucoes-normativas-conjuntas/) | 4 | 4 | 0 | 4 | 2021 a 2026 |
 | [Resoluções Coremec](resolucoes-coremec/) | 1 | 1 | 1 | 0 | 2020 a 2020 |
-| **Total** | **60.977** | **22.260** | **9.709** | **12.551** |  |
+| **Total** | **60.977** | **60.977** | **48.125** | **12.852** |  |
 
 Vigentes são as que o portal não marca como revogadas nem canceladas.
 
@@ -59,21 +59,21 @@ Vigentes são as que o portal não marca como revogadas nem canceladas.
 
 | Áreas | Normas |
 | --- | ---: |
-| SECRE | 10.983 |
-| DENOR | 1.471 |
+| DEORF | 18.558 |
+| SECRE | 11.726 |
+| DEMAB | 10.851 |
+| DEPEC | 5.053 |
+| DEPIN | 3.115 |
+| DENOR | 1.610 |
 | DEASF | 1.230 |
-| PRESI | 919 |
-| DEMAB | 858 |
+| PRESI | 922 |
+| DEBAN | 803 |
 | DEPAD | 681 |
-| DEBAN | 592 |
-| DEPEC | 560 |
-| DESIG | 441 |
-| DECAM | 366 |
-| DEORF | 326 |
-| DINOR | 222 |
-| DECAD | 219 |
-| DECEM | 179 |
-| MF | 162 |
+| DESIG | 673 |
+| DEINF | 465 |
+| DECAM | 372 |
+| DELIQ | 340 |
+| DECAD | 237 |
 
 _Números de 11/11/2026, gerados por `scripts/readme.py`._
 <!-- acervo:fim -->
