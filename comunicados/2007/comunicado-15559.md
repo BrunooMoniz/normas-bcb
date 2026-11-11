@@ -1,0 +1,63 @@
+---
+titulo: "COMUNICADO N. 015559"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "15559"
+data: 2007-04-09
+ementa: "Divulga Declaração de Propósito de pretendente a cargo de administração na Grazziotin Financiadora S/A - Crédito, Financiamento e Investimentos"
+revogada: false
+responsavel: "DEORF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=15559"
+baixado_em: 2026-11-11
+---
+# COMUNICADO N. 015559
+
+```
+                        COMUNICADO N. 015559
+                        --------------------
+
+                               Divulga  Declaração  de  Propósito  de
+                               pretendente  a  cargo de administração
+                               na   Grazziotin  Financiadora  S/A   -
+                               Crédito,        Financiamento        e
+                               Investimentos
+
+     Divulgamos,  abaixo, o inteiro teor da Declaração  de  Propósito
+publicada nos jornais O Nacional de Passo Fundo e Jornal do  Comércio
+de  Porto Alegre, nos dias 2 e 4 de abril de 2007, em atendimento  ao
+disposto  na Resolução 3.041, de 28 de novembro de 2002 e na Circular
+3.172, de 30 de dezembro de 2002:
+
+                      "DECLARAÇÃO DE PROPÓSITO
+
+Renata  Grazziotin, RG nº 7046584401-SSP/RS  e CPF nº 582.131.390/20,
+Declara  sua intenção de exercer cargo de administração na Grazziotin
+Financiadora  S/A  -  Crédito, Financiamento e  Investimentos  e  que
+preenche as condições estabelecidas no art. 2º da Resolução 3.041, de
+28 de novembro de 2002.
+Esclarece  que,  nos  termos da regulamentação  em  vigor,  eventuais
+objeções  à presente declaração devem ser comunicadas diretamente  ao
+Banco Central do Brasil, no endereço abaixo, no prazo de quinze  dias
+contados  da  data  da publicação desta, por meio formal  em  que  os
+autores    estejam   devidamente   identificados,   acompanhado    da
+documentação  comprobatória, observado que os declarantes  podem,  na
+forma  da  legislação  em vigor, ter direito  a  vistas  do  processo
+respectivo.
+
+Banco Central do Brasil
+Departamento de Organização do Sistema Financeiro
+Rua 7 de Setembro, 586 - 90010-190 - Porto Alegre/RS.
+Passo Fundo, 20 de março de 2007.
+Renata Grazziotin
+RG nº 7046584401- SSP/RS
+CPF nº 582.131.390/20"
+
+                           Brasília, 9 de abril de 2007
+
+                           Departamento  de  Organização  do  Sistema
+                           Financeiro
+
+                           Luiz Edson Feltrim
+                           Chefe
+```

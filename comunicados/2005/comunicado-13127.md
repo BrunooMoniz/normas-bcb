@@ -1,0 +1,64 @@
+---
+titulo: "COMUNICADO N. 013127"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "13127"
+data: 2005-03-17
+ementa: "Divulga Declaração de Propósito de pretendentes a cargos de direção no Banco Rabobank Internacional Brasil S.A."
+revogada: false
+responsavel: "DEORF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=13127"
+baixado_em: 2026-11-11
+---
+# COMUNICADO N. 013127
+
+```
+                        COMUNICADO N. 013127
+                        --------------------
+
+                               Divulga  Declaração  de  Propósito  de
+                               pretendentes  a cargos de  direção  no
+                               Banco  Rabobank  Internacional  Brasil
+                               S.A.
+
+     Divulgamos,  abaixo, o inteiro teor da Declaração  de  Propósito
+publicada  no jornal Diário do Comércio e Indústria - DCI,  nos  dias
+12,  13,14  e  15  de março de 2005, em atendimento  ao  disposto  na
+Resolução 3.041, de 28 de novembro de 2002 e na Circular 3.172, de 30
+de dezembro de 2002:
+
+                      "DECLARAÇÃO DE PROPÓSITO
+
+Antônio Carlos Barbosa Ortiz, portador de documento de identidade  RG
+n.º 6.725.740-SSP/SP, inscrito no CPF/MF sob o n.º 039.397.068-09;  e
+Mark Andrew Snow, portador de documento de identidade RNE n.º V218781
+8, inscrito no CPF/MF sob o n.º 216.325.388-06,
+declaraM  sua intenção de exercer cargos de direção no Banco Rabobank
+International   Brasil  S.A.,  inscrito   no   CNPJ/MF   sob   o   nº
+01.023.570/0001-60, e que preenchem todas as condições  estabelecidas
+no  art.  2º  da Resolução nº 3.041, de 28 de novembro  de  2002,  do
+Conselho Monetário Nacional.
+EsclareceM  que,  nos  termos da regulamentação em  vigor,  eventuais
+objeções  à presente declaração devem ser comunicadas diretamente  ao
+Banco Central do Brasil, no endereço abaixo indicado, no prazo de  15
+(quinze)  dias contados da data da publicação desta, por meio  formal
+em  que os autores estejam devidamente identificados, acompanhado  da
+documentação  comprobatória, observado que os declarantes  podem,  na
+forma  da  legislação  em vigor, ter direito  a  vistas  do  processo
+respectivo.
+
+Banco Central do Brasil
+Delegacia Regional em São Paulo
+Departamento de Organização do Sistema Financeiro
+Gerência Técnica em São Paulo - II
+Av. Paulista, 1804, Térreo - São Paulo - SP"
+
+                           Brasília, 17 de março de 2005
+
+                           Departamento  de  Organização  do  Sistema
+                           Financeiro
+
+                           Luiz Edson Feltrim
+                           Chefe
+```

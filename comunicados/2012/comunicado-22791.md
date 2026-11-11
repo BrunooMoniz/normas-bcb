@@ -1,0 +1,24 @@
+---
+titulo: "Comunicado Nº 22.791"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "22791"
+data: 2012-08-02
+ementa: "Divulga Declaração de Propósito relativa à constituição da ARENA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A."
+revogada: false
+responsavel: "DEORF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=22791"
+baixado_em: 2026-11-11
+---
+# Comunicado Nº 22.791
+
+Divulgamos, abaixo, o inteiro teor da Declaração de Propósito publicada no Jornal do Commercio, nos dias 30 e 31 de julho de 2012, em atendimento ao disposto na Resolução 3.040, de 28 de novembro de 2002 e na Circular 3.179, de 26 de fevereiro de 2003:
+
+"DECLARAÇÃO DE PROPÓSITO
+
+ARENA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A
+As pessoas físicas e/ou jurídicas abaixo identificadas, por intermédio do presente instrumento, I – DECLARAM sua intenção de constituir uma instituição com as características abaixo especificadas: Denominação social: ARENA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. Local da sede: Rua Dias Ferreira, nº 190, sala 401 – Leblon – Rio de Janeiro – RJ, CEP: 22431-050 -Capital inicial: R$ 10.000.000,00 (Dez milhões de reais). Composição societária: Controlador direto: ARENA HOLDING S.A., anteriormente denominada MDRJ59 Empreendimentos e Participações Ltda., atualmente em fase de transformação do tipo societário, passando de sociedade limitada para sociedade anônima de capital fechado e inscrita no CNPJ sob o nº 15.033.581/0001-35, que detém 99,9% (noventa e nove vírgula nove por cento) do Capital Social da ARENA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. Controladores indiretos: XVIC PARTICIPAÇÕES LTDA., inscrita no CNPJ sob o nº 14.468.499/0001-70, que detém 51% (cinquenta e um por cento) do capital social da ARENA HOLDING S.A.. A XVIC PARTICIPAÇÕES LTDA., por sua vez, é constituída com a participação dos CONTROLADORES FINAIS da ARENA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. nos seguintes percentuais: 46,67% (quarenta e seis vírgula sessenta e sete por cento) do Sr. Arthur Mário Pinheiro Machado, brasileiro, maior de idade, casado, inscrito no CPF sob o nº 009.075.467-06;46,67% (quarenta e seis vírgula sessenta e sete por cento) do Sr. Martin Fernando Cohen, brasileiro, maior de idade, casado, inscrito no CPF sob o nº 053.954.147-89; e 6,66% (seis vírgula sessenta e seis por cento) do Sr. Francisco Gurgel do Amaral Valente, brasileiro, maior de idade, solteiro, inscrito no CPF sob o nº 109.482.807-60. Participação Qualificada: a ATG AMERICAS TRADING GROUP S.A., CNPJ nº 10.828.610/0001-31, detentora de 49% (quarenta e nove por cento) do capital social da ARENA HOLDING S.A.. A ATG AMERICAS TRADING GROUP S.A. possui capital social detido integralmente pelo ETB FUNDO DE INVESTIMENTO EM PARTICIPAÇÕES, Fundo de Investimento em Participações, inscrito no CNPJ sob o nº 12.353.723/0001-53. O ETB FUNDO DE INVESTIMENTO EM PARTICIPAÇÕES é um fundo constituído com a participação de 31,99% (trinta e um vírgula noventa e nove por cento) da VICTRIX PARTNERS S.A., CNPJ nº 12.052.120/0001-11; 35,6% (trinta e cinco vírgula seis por cento) da POSTALIS INSTITUTO DE SEGURIDADE SOCIAL DOS CORREIOS E TELÉGRAFOS, CNPJ nº 00.627.638/0001-57; e 26,32% (vinte e seis vírgula trinta e dois por cento) da XSTRATEGUS PARTICIPAÇÕES LTDA, CNPJ nº 14.372.206./0001-57; A VICTRIX PARTNERS S.A é constituída com a participação de 98,96% (noventa e oito vírgula noventa e seis por cento) da XVIC PARTICIPAÇÕES LTDA, CNPJ nº 14.468.499/0001-70, cujos sócios são os acima qualificados. A XSTRATEGUS PARTICIPAÇÕES LTDA, conforme acima qualificada, é constituída com a participação de 50% (cinquenta por cento) do Sr. Arthur Mário Pinheiro Machado, conforme acima qualificado; e de 50% (cinquenta por cento) do Sr. Martin Fernando Cohen, conforme também acima qualificado. Administração - Martin Fernando Cohen, CPF nº 053.954.147-89, Diretor Presidente; - Arthur Mário Pinheiro Machado, CPF nº 009.075.467-06, Diretor Vice-Presidente; - Francisco Gurgel do Amaral Valente, CPF nº 109.482.807-60, Diretor; - Patrícia Bittencourt de Almeida Iriarte, CPF nº 090.611.967-79, Diretora. II – ESCLARECEM que, nos termos da regulamentação em vigor, eventuais objeções à presente declaração devem ser comunicadas diretamente ao Banco Central do Brasil, no endereço abaixo, no prazo de trinta dias contados da data da publicação desta, por meio formal em que os autores estejam devidamente identificados, acompanhado da documentação comprobatória, observado que os declarantes podem, na forma da legislação em vigor, ter direito a vistas do processo respectivo. BANCO CENTRAL DO BRASIL Av. Presidente Vargas, 730, Centro, Rio de Janeiro – RJ, CEP: 20071-900. Processo nº 1201556054. Rio de Janeiro, 27 de julho de 2012.”
+
+Adalberto Gomes da Rocha
+Chefe do Departamento de Organização do Sistema Financeiro

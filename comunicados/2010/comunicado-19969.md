@@ -1,0 +1,38 @@
+---
+titulo: "COMUNICADO N. 019969"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "19969"
+data: 2010-07-28
+ementa: ""
+revogada: false
+responsavel: "DEPEC"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=19969"
+baixado_em: 2026-11-11
+---
+# COMUNICADO N. 019969
+
+```
+                        COMUNICADO N. 019969
+                        --------------------
+
+                       Divulga a Taxa Básica Financeira-TBF,
+                       o Redutor-R e a Taxa Referencial-TR
+                       relativos ao dia 27 de julho de 2010.
+
+        De  acordo  com o que determina a Resolução n.  3.354,  de
+31.03.06, comunicamos que a Taxa Básica Financeira-TBF, o Redutor-
+R  e  a  Taxa Referencial-TR relativos ao período de 27.07.2010  a
+27.08.2010  são, respectivamente: 0,8930% (oito mil, novecentos  e
+trinta  décimos  de  milésimo por cento),  1,0078  (um  inteiro  e
+setenta  e  oito décimos de milésimo) e 0,1121% (um mil,  cento  e
+vinte e um décimos de milésimo por cento).
+
+                             Brasília, 28 de julho de 2010.
+
+                             Departamento Econômico
+
+                             Altamir Lopes
+                             Chefe
+```

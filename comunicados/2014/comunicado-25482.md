@@ -1,0 +1,41 @@
+---
+titulo: "Comunicado Nº 25.482"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "25482"
+data: 2014-03-21
+ementa: "Comunica procedimentos e prazos para a versão 4.03 do Catálogo de Serviços do SFN."
+revogada: false
+responsavel: "DEINF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=25482"
+baixado_em: 2026-11-11
+---
+# Comunicado Nº 25.482
+
+Em conformidade com o disposto na Circular nº 3.629, de 19 de fevereiro de 2013, comunico os procedimentos e prazos para a versão 4.03 do Catálogo de Serviços do SFN, que obedecerão ao que segue:
+
+2. fica estabelecida a data limite de 13/6/2014 para a submissão, apreciação e aprovação, pelas unidades de negócio,  da seção 1 - Contextualização do Negócio - dos Documentos de Requisitos de Negócio (DRN) que serão considerados para a versão 4.03 do Catálogo de Serviços do SFN.
+
+3. A data-limite para a submissão dos DRN pelos gestores às unidades de negócio deverá ser estabelecida pelas próprias unidades, para que haja tempo hábil para sua apreciação e eventuais ajustes.
+
+4. Compete às unidades de negócio e aos gestores de serviço definir a comunicação, a forma de deliberação e os critérios de aceitação da seção 1 dos DRN sob suas responsabilidades.
+
+5. Fica estabelecida a data-limite de 11/7/2014 para a publicação, no sítio internet da Comunicação Eletrônica de Dados do Banco Central do Brasil ([http://www.bcb.gov.br/?CEDSFN](http://www.bcb.gov.br/?CEDSFN "Ir para o sítio http://www.bcb.gov.br/?CEDSFN.")SERVICOS), dos documentos que integram o Catálogo de Serviço do SFN em sua versão 4.03, do conjunto de arquivos XSD, do Dicionário de Domínios e da Relação de Códigos de Erros associados.
+
+6. Até a data de publicação do Catálogo, o Comitê Gestor e o Subgrupo de Serviços poderão, a seus critérios, requisitar aos participantes, aos gestores e às unidades de negócio informações complementares necessárias à especificação de mensagens e de arquivos, que deverão ser fornecidas na maior brevidade possível, sob o risco do DRN não ser incorporado à versão 4.03 do Catálogo.
+
+7. O Comitê Gestor requisitará a análise do Subgrupo de Redes na situação em que a seção 2 do DRN - Especificação de Mensagens e Arquivos - solicitar a criação de grupos de serviços e de arquivos que possuam tráfego previsto na Rede do Sistema Financeiro Nacional (RSFN). Fundamentado nesta análise, o Comitê Gestor poderá solicitar aos gestores alterações na especificação que deverão ser atendidas na maior brevidade possível, sob o risco do DRN não ser incorporado à versão 4.03 do Catálogo.
+
+8. Fica estabelecida a data de 18/8/2014 para o início da homologação dos sistemas constantes do Catálogo de Serviços do SFN, em sua versão 4.03.
+
+9. Fica estabelecida a data de 30/8/2014 para a implantação em produção dos sistemas constantes do Catálogo de Serviços do SFN, em sua versão 4.03.
+
+10. Somente na situação de criação de novos serviços, mensagens ou arquivos no Catálogo, a unidade de negócio responsável poderá estabelecer cronogramas de homologação e de implantação de sistemas diversos deste comunicado, desde que a homologação dos sistemas não ocorra antes de 18/8/2014 e a implantação em produção não ocorra antes de 30/8/2014. A comunicação de prazos diversos dos demais serviços do Catálogo será de responsabilidade da unidade de negócio. Não havendo comunicação pelas unidades de negócio, as datas de homologação e de implantação em produção dos sistemas que implementem novos serviços, novas mensagens ou novos arquivos no Catálogo deverão ser, respectivamente, 18/8/2014 e 30/8/2014.
+
+11. Com relação às alterações no Dicionário de Domínios e na Relação de Códigos de Erros, deverão ser observadas as respectivas datas de ativação e de desativação para os ambientes de homologação e de produção.
+
+12. Os modelos de DRN e a lista de serviços, gestores e unidades de negócio estão disponíveis no sítio do Banco Central do Brasil, no endereço [http://www.bcb.gov.br/?CEDSFNSERVICOS](http://www.bcb.gov.br/?CEDSFNSERVICOS "Ir para o sítio http://www.bcb.gov.br/?CEDSFNSERVICOS.").
+
+Eduardo Weller
+Comitê Gestor da Comunicação Eletrônica de Dados no Âmbito do SFN

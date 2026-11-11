@@ -1,0 +1,37 @@
+---
+titulo: "COMUNICADO N. 020287"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "20287"
+data: 2010-11-05
+ementa: ""
+revogada: false
+responsavel: "DEPEC"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=20287"
+baixado_em: 2026-11-11
+---
+# COMUNICADO N. 020287
+
+```
+                        COMUNICADO N. 020287
+                        --------------------
+
+                       Divulga a Taxa Básica Financeira-TBF,
+                       o Redutor-R e a Taxa Referencial-TR
+                       relativos ao dia 04 de novembro de 2010.
+
+        De  acordo  com  o  que determina a Resolução  n.  3.354,  de
+31.03.06, comunicamos que a Taxa Básica Financeira-TBF, o Redutor-R e
+a Taxa Referencial-TR relativos ao período de 04.11.2010 a 04.12.2010
+são,  respectivamente: 0,8105% (oito mil, cento e  cinco  décimos  de
+milésimo por cento), 1,0075 (um inteiro e setenta e cinco décimos  de
+milésimo) e 0,0600% (seiscentos décimos de milésimo por cento).
+
+                             Brasília, 05 de novembro de 2010.
+
+                             Departamento Econômico
+
+                             Altamir Lopes
+                             Chefe
+```

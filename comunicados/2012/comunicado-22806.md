@@ -1,0 +1,34 @@
+---
+titulo: "Comunicado Nº 22.806"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "22806"
+data: 2012-08-07
+ementa: "Divulga Declaração de Propósito de cancelamento da autorização para funcionamento da ORBIVAL Corretora de Câmbio e Valores Mobiliários Ltda."
+revogada: false
+responsavel: "DEORF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=22806"
+baixado_em: 2026-11-11
+---
+# Comunicado Nº 22.806
+
+Divulgamos, abaixo, o inteiro teor da Declaração de Propósito publicada no Jornal do Comercio de Porto Alegre, nos dias 2 a 5 de agosto de 2012, em atendimento ao disposto na Resolução 4.122, de 2 de agosto de 2012 e na Circular 3.179, de 26 de fevereiro de 2003:
+
+"DECLARAÇÃO DE PROPÓSITO
+
+A ORBIVAL Corretora de Câmbio e Valores Mobiliários Ltda., inscrita no CNPJ sob nº 00.087.530/0001-19.
+I – DECLARA sua intenção de alterar o estatuto/contrato social, modificando o seu objeto social, deixando de atuar como instituição integrante do Sistema Financeiro Nacional (SFN), não realizando, em decorrência, operações típicas de instituição sujeita à autorização do Banco Central do Brasil;
+II – E S C L A R E C E que, nos termos da regulamentação em vigor, eventuais objeções à presente declaração devem ser comunicadas diretamente ao Banco Central do Brasil, no endereço abaixo, no prazo de trinta dias contados da data da publicação desta, por meio formal em que os autores estejam devidamente identificados, acompanhado da documentação comprobatória, observado que o declarante pode, na forma da legislação em vigor, ter direito a vistas do processo respectivo.
+
+Banco Central do Brasil
+DEORF – Rua Sete de Setembro, 586 – Porto Alegre/RS – CEP 90010-190
+
+Processo nº 1201554814
+
+Porto Alegre, 30 de julho de 2012.
+
+Orbi Administração e Participações S/A, João Spier,”
+
+Adalberto Gomes da Rocha
+Chefe do Departamento de Organização do Sistema Financeiro

@@ -1,0 +1,34 @@
+---
+titulo: "Comunicado Nº 27.348"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "27348"
+data: 2015-03-04
+ementa: "Divulga Declaração de Propósito de pretendentes a cargos de administração na Cooperativa de Crédito de Livre Admissão de Associados Encosta Superior do Nordeste RS."
+revogada: false
+responsavel: "DEORF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=27348"
+baixado_em: 2026-11-11
+---
+# Comunicado Nº 27.348
+
+Divulgamos, abaixo, o inteiro teor da Declaração de Propósito publicada no Jornal NH, nos dias 26 e 27 de fevereiro de 2015, em atendimento ao disposto no art. 2° do Regulamento Anexo da Resolução nº 4.122, de 2 de agosto de 2012, e na Circular nº 3.611, de 31 de outubro de 2012:
+
+                               "DECLARAÇÃO DE PROPÓSITO
+
+Liseu Steffen Ferreira, CPF n° 387.807.800-59. Balduino Prezzi, CPF n° 180.713.760-00. Cláudio Luis Smaniotto, CPF n° 900.464.800-30. Evandro Afonso Lembi, CPF n° 835.290.630-53. José Elói dos Santos, CPF n° 373.234.660-91.
+
+DECLARAM, nos termos do art. 6º do Regulamento Anexo II à Resolução nº 4.122, de 2 de agosto de 2012, sua intenção de exercer cargos de administração na Cooperativa de Crédito de Livre Admissão de Associados Encosta Superior do Nordeste RS - Sicredi Nordeste
+RS.
+
+ESCLARECEM que eventuais objeções à presente declaração devem ser comunicadas diretamente ao Banco Central do Brasil, no endereço abaixo, no prazo de quinze dias contados da divulgação, por aquela Autarquia, de comunicado público acerca desta, por meio formal em que os autores estejam devidamente identificados, acompanhado da documentação comprobatória, observado que os declarantes podem, na forma da legislação em vigor, ter direito a vistas do processo respectivo.
+
+Banco Central do Brasil
+Departamento de Organização do Sistema Financeiro - Deorf
+Rua 7 de Setembro, 586, 12º andar - Centro
+Porto Alegre - RS, CEP 90010-190
+Rolante, 03 de Março de 2015.”
+
+                              Adalberto Gomes da Rocha
+          Chefe do Departamento de Organização do Sistema Financeiro.

@@ -1,0 +1,23 @@
+---
+titulo: "Comunicado N° 45.878"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "45878"
+data: 2026-09-04
+ementa: "Comunica as alterações e as publicações do Dicionário de Domínios e da Relação de Códigos de Erros associados ao Catálogo de Serviços do SFN."
+revogada: false
+responsavel: "DEINF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=45878"
+baixado_em: 2026-11-11
+---
+# Comunicado N° 45.878
+
+Em conformidade com o disposto na Circular nº 3.970, de 28 de novembro de 2019, comunico as alterações do Dicionário de Domínios e da Relação de Códigos de Erros associados ao Catálogo de Serviços do SFN e as suas publicações no sítio internet da Comunicação
+Eletrônica de Dados do Banco Central do Brasil (https://www.bcb.gov.br/estabilidadefinanceira/comunicacaodados).
+
+Eduardo Weller
+
+Departamento de Tecnologia da Informação - Deinf
+
+Comunicação Eletrônica de Dados no Âmbito do SFN

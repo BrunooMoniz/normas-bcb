@@ -1,0 +1,37 @@
+---
+titulo: "Comunicado Nº 23.509"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "23509"
+data: 2013-02-21
+ementa: "Divulga nome aprovado de pessoas eleitas/nomeadas para cargos de órgãos estatutários ou contratuais de instituições financeiras, administradoras de consórcio e demais sociedades autorizadas a funcionar pelo Banco Central do Brasil."
+revogada: false
+responsavel: "DEORF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=23509"
+baixado_em: 2026-11-11
+---
+# Comunicado Nº 23.509
+
+Conforme previsto na Resolução nº 4.122, de 2 de agosto de 2012, e na Circular nº 3.433, de 3 de fevereiro de 2009, divulgamos o nome aprovado de pessoas eleitas/nomeadas para cargos de órgãos estatutários ou contratuais de instituições financeiras, administradoras de consórcio e demais sociedades autorizadas a funcionar pelo Banco Central do Brasil:
+
+Número do processo: 1301573790.    Data do despacho: 20.2.2013.
+Instituição: Bancorbrás Administradora de Consórcios Ltda.
+Tipo e data do ato de nomeação: AC de 2.1.2013.
+Órgão estatutário: Diretoria.
+Nome do nomeado: Luiz Carlos Gama Pinto.
+
+Número do processo: 1201568397.    Data do despacho: 18.2.2013.
+Instituição: Cooperativa de Crédito de Livre Admissão de Associados do Araguaia - Sicredi Araguaia.
+Tipo e data do ato de eleição: RCA de 23.11.2012.
+Órgão estatutário: Diretoria Executiva.
+Nome dos eleitos: Juliermison Ferreira Vieira e Anderson Carlos Ribeiro Wolff.
+
+Número do processo: 1301571503.    Data do despacho: 20.2.2013.
+Instituição: Cooperativa de Economia e Crédito Mútuo dos Funcionários da Dana Indústrias.
+Tipo e data do ato de eleição: AGE de 28.12.2012.
+Órgão estatutário: Diretoria.
+Nome da eleita: Simone Teixeira Lovera.
+
+Adalberto Gomes da Rocha
+Chefe do Departamento de Organização do Sistema Financeiro

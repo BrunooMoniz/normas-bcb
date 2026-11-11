@@ -1,0 +1,104 @@
+---
+titulo: "COMUNICADO N. 007843"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "7843"
+data: 2000-09-12
+ementa: "Divulga condicoes para acolhimento de propostas para compra de Notas do Ban- co Central do Brasil - Serie Especial (NBCE)."
+revogada: false
+responsavel: "DEMAB"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=7843"
+baixado_em: 2026-11-11
+---
+# COMUNICADO N. 007843
+
+```
+                        COMUNICADO N. 007843
+                        --------------------
+
+                               Divulga condicoes para acolhimento  de
+                               propostas para compra de Notas do Ban-
+                               co Central do Brasil -  Serie Especial
+                               (NBCE).
+
+                O Banco  Central do Brasil, tendo em vista o disposto
+no artigo  10, inciso  XII, da Lei n. 4.595, de 31.12.1964, torna pu-
+blico que acolhera, das 12:00 as 13:00 horas do dia 13.09.2000,  pro-
+postas das instituicoes financeiras participantes do  Sistema  Oferta
+Publica Formal Eletronica  (OFPUB), cadastradas de acordo com o Comu-
+nicado n. 5.377, de 18.11.1996, para compra de Notas do Banco Central
+do Brasil - Serie Especial (NBCE), de sua carteira, de  que  trata  a
+Resolucao  n.  2.760, de  27.07.2000, a precos competitivos, conforme
+as caracteristicas abaixo:
+                                           TAXA DE           VALOR
+                     DATA DA     DATA DO    JUROS  QUANT.  NOMINAL NA
+CODIGO  DATA-BASE    EMISSAO    VENCIMENTO (%A.A.) (MIL)   DATA-BASE
+180199  01.07.2000  02.08.2000  12.08.2004  12,00   375   R$ 1.000,00
+
+2.             De acordo com o art. 1., inciso VII, e art. 3. da  Re-
+solucao n. 2.760, de 27.07.2000, e com o paragrafo 2.  do  Comunicado
+n. 7.737, de 28.07.2000, os titulos objeto da presente oferta  publi-
+ca poderao ter o principal e os respectivos  cupons  de  juros  nego-
+ciados  separadamente, mantendo  suas  caracteristicas  originais  de
+emissao.
+
+3.             As pessoas fisicas e as demais pessoas juridicas pode-
+rao participar da oferta de que trata este Comunicado por  intermedio
+das instituicoes referidas no paragrafo primeiro.
+
+4.             A presente Oferta Publica sera realizada exclusivamen-
+te por meio  do Sistema Oferta Publica Formal Eletronica (OFPUB), nos
+termos do Regulamento do Sistema Especial de Liquidacao e de Custodia
+(SELIC), aprovado pela Circular n. 2.727, de 14.11.1996.
+
+5.             Na formulacao de propostas devera ser utilizada a  co-
+tacao com quatro casas decimais.
+
+6.             O numero de   propostas  por  instituicao e limitado a
+cinco, sendo consideradas, exclusivamente, aquelas mais favoraveis ao
+emissor, dentre  as  confirmadas pela  instituicao e  recebidas  pelo
+Sistema.
+
+7.             O Banco Central vendera  os titulos a preco unico para
+todas as propostas aceitas. As instituicoes financeiras  farao lances
+de cotacoes  maximas  por quantidade. O Banco Central acatara aqueles
+com cotacoes  maiores ou iguais a  minima  por  ele  aceita, que sera
+aplicada  a todas as propostas vencedoras.
+
+8.             A  liquidacao das propostas aceitas sera efetivada por
+intermedio  do  Sistema Especial de Liquidacao e de Custodia (SELIC),
+previsto no MNI-6-3, devendo as instituicoes que tiverem suas propos-
+tas  aceitas,  total  ou parcialmente, promover a atualizacao de suas
+contas de custodia  no  dia 15.09.2000, impreterivelmente, implicando
+a  perda  do  direito a aquisicao o nao cumprimento do disposto neste
+paragrafo.
+
+9.             O preco  unitario  (PU) a ser  utilizado na liquidacao
+financeira sera considerado com seis  casas  decimais, desprezando-se
+as restantes, sendo adotada a seguinte sistematica de calculo:
+
+                          cot
+    preco unitario (PU) = --- X valor par
+                          100
+    onde:
+          cot = cotacao com quatro casas decimais; e
+
+                      tct
+          valor par = ----  X valor nominal na data-base
+                      tcto
+
+    sendo: tct = cotacao de venda do dolar dos Estados Unidos do  dia
+                 util imediatamente anterior ao da liquidacao; e
+
+          tcto = cotacao de  venda do dolar dos Estados Unidos do dia
+                 util imediatamente anterior a data-base.
+
+                              Rio de Janeiro, 12 de setembro de 2000
+
+                              DEPARTAMENTO DE OPERACOES
+                              DO MERCADO ABERTO - DEMAB
+
+                              Eduardo Hitiro Nakao
+                              Chefe
+```

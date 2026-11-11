@@ -1,0 +1,39 @@
+---
+titulo: "Comunicado N° 39.909"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "39909"
+data: 2023-03-14
+ementa: "Divulga as Taxas Básicas Financeiras (TBF), os Redutores \"R\" e as Taxas Referenciais (TR) relativos a 11, 12 e 13 de março de 2023."
+revogada: false
+responsavel: "DEMAB"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=39909"
+baixado_em: 2026-11-11
+---
+# Comunicado N° 39.909
+
+De acordo com o que determina a Resolução nº 4.624, de 18.1.2018, comunicamos que as Taxas Básicas Financeiras (TBF), os Redutores "R" e as Taxas Referenciais (TR) relativos aos períodos abaixo especificados são:
+
+I - Taxas Básicas Financeiras (TBF):
+
+a) de 11.3.2023 a 11.4.2023: 0,9457% (nove mil, quatrocentos e cinquenta e sete décimos de milésimo por cento);
+
+b) de 12.3.2023 a 12.4.2023: 0,9932% (nove mil, novecentos e trinta e dois décimos de milésimo por cento);
+
+c) de 13.3.2023 a 13.4.2023: 1,0406% (um inteiro e quatrocentos e seis décimos de milésimo por cento);
+
+II - Redutores "R":
+
+a) de 11.3.2023 a 11.4.2023: 1,0080 (um inteiro e oitenta décimos de milésimo);
+
+b) de 12.3.2023 a 12.4.2023: 1,0082 (um inteiro e oitenta e dois décimos de milésimo);
+
+c) de 13.3.2023 a 13.4.2023: 1,0083 (um inteiro e oitenta e três décimos de milésimo); e
+
+III - Taxas Referenciais (TR):
+
+a) de 11.3.2023 a 11.4.2023: 0,1445% (mil, quatrocentos e quarenta e cinco décimos de milésimo por cento);b) de 12.3.2023 a 12.4.2023: 0,1718% (mil, setecentos e dezoito décimos de milésimo por cento);c) de 13.3.2023 a 13.4.2023: 0,2089% (dois mil e oitenta e nove décimos de milésimo por cento).
+
+                   Andre de Oliveira Amante
+                  Chefe do Departamento de Operações do Mercado Aberto

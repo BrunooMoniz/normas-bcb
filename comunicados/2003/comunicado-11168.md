@@ -1,0 +1,94 @@
+---
+titulo: "COMUNICADO N. 011168"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "11168"
+data: 2003-06-26
+ementa: "Divulga as condições de oferta pú- blica para a realização de opera- ções de \"swap\"."
+revogada: false
+responsavel: "DEMAB"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=11168"
+baixado_em: 2026-11-11
+---
+# COMUNICADO N. 011168
+
+```
+                        COMUNICADO N. 011168
+                        --------------------
+
+                                  Divulga as condições de oferta  pú-
+                                  blica para a realização  de  opera-
+                                  ções de "swap".
+
+         O  Banco  Central do Brasil, tendo em vista  o  disposto  na
+Resolução nº 2.939 e na Circular nº 3.099, ambas de 26  de  março  de
+2002, torna público que das 12:00 às 13:00 horas do dia  27 de  junho
+de 2003 acolherá propostas das instituições financeiras participantes
+do Módulo Oferta Pública Formal Eletrônica(OFPUB), cadastradas de  a-
+cordo com o Comunicado nº 5.377, de 18 de novembro  de  1996, para  a
+realização de operações de "swap", conforme as características  abai-
+xo:
+             Data de         Data  de         Quantidade
+             Início          Vencimento       de Contratos
+            01/07/2003       02/01/2004        até 4.100
+            01/07/2003       01/03/2004        até 3.100
+            01/07/2003       01/07/2004        até 2.100
+            01/07/2003       01/07/2005        até 2.300
+            01/07/2003       02/07/2007        até 4.300
+
+2.       A presente oferta pública será realizada exclusivamente pelo
+Módulo Oferta Pública Formal Eletrônica (OFPUB), previsto no  Regula-
+mento do Sistema Especial de Liquidação e de Custódia  (Selic), cons-
+tante do Título 6, Capítulo  3, do  Manual  de  Normas  e  Instruções
+(MNI).
+
+3.       As  operações de "swap" aceitas na presente  oferta  pública
+serão registradas na Bolsa de Mercadoria e de Futuros (BM&F) na forma
+do "Contrato  de  Swap  Cambial  com Ajuste Periódico - SCC", daquela
+Bolsa, em que o Banco Central do Brasil estará assumindo a posição de
+comprador  do  referido  contrato e as  instituições  contempladas  a
+posição de vendedoras.
+
+4.       Na formulação das propostas, limitadas a cinco por institui-
+ção, deverá ser informada a quantidade de contratos  e  a  respectiva
+cotação, com quatro casas decimais.
+
+5.       Na  apuração  da presente  Oferta Pública será  utilizado  o
+formato  de  preço único, acatando-se todas as propostas com  cotação
+igual  ou  superior  à cotação mínima aceita pelo  Banco  Central  do
+Brasil, a qual será aplicada a todas as propostas vencedoras.
+
+6.       A  divulgação final  do resultado desta oferta pública ocor-
+rerá a partir das 14:30 horas do dia 27/06/2003.
+
+7.       Ao  final da apuração da presente oferta, o Banco Central do
+Brasil  enviará  à  BM&F a relação das instituições  contempladas,  a
+quantidade  de  contratos aceita para cada uma, e  a  taxa  de  juros
+representativa  de  cupom  cambial da operação,  dada  pela  seguinte
+fórmula:
+         c = [(100 / cot) - 1] x 36000 / n (em % a.a.), onde:
+         c = taxa de juros representativa de cupom  cambial, expressa
+como  taxa  linear  anual,  base 360 dias corridos,  com  três  casas
+decimais, arredondando-se a terceira matematicamente;
+         cot = cotação mínima aceita pelo Banco Central do Brasil;
+         n = número de dias corridos compreendido  entre  a  data  de
+início do "swap", inclusive, e a data de seu vencimento, exclusive.
+
+8.       Conforme  previsto no Ofício Circular 033 da BM&F, de 15  de
+março  de  2002,  as instituições que tiverem suas propostas  aceitas
+deverão  eleger uma corretora associada àquela Bolsa  para  que  essa
+proceda o pré-registro da operação de "swap" de que se trata.
+
+9.       As  pessoas  físicas e as demais  pessoas jurídicas  poderão
+participar da oferta de que trata este Comunicado, por intermédio das
+instituições referidas no parágrafo primeiro.
+
+                                 Rio de Janeiro, 26 de junho de 2003.
+
+                                 Departamento de Operações
+                                 do Mercado Aberto - Demab
+
+                                 Sérgio Goldenstein
+                                 Chefe
+```

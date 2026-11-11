@@ -1,0 +1,63 @@
+---
+titulo: "COMUNICADO N. 021022"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "21022"
+data: 2011-05-09
+ementa: "Divulga Declaração de Propósito de pretendente a cargo na administração da Cooperativa Central de Crédito de Minas Gerais Ltda. SICOOB CENTRAL CREDIMINAS."
+revogada: false
+responsavel: "DEORF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=21022"
+baixado_em: 2026-11-11
+---
+# COMUNICADO N. 021022
+
+```
+                        COMUNICADO N. 021022
+                        --------------------
+
+                             Divulga   Declaração  de  Propósito   de
+                             pretendente a cargo na administração  da
+                             Cooperativa Central de Crédito de  Minas
+                             Gerais Ltda. SICOOB CENTRAL CREDIMINAS.
+
+     Divulgamos,  abaixo, o inteiro teor da Declaração  de  Propósito
+publicada no Jornal Hoje em Dia, nos dias 6 e 7 de maio de  2011,  em
+atendimento  ao  disposto na Resolução 3.041, de 28  de  novembro  de
+2002, e na Circular 3.502, de 26 de julho de 2010:
+
+                      "DECLARAÇÃO DE PROPÓSITO
+
+           ELEIÇÃO DE MEMBRO DO CONSELHO DE ADMINISTRAÇÃO
+O  abaixo  subscrito,  na  condição de eleito  na  Assembléia  Geral
+Ordinária,  ocorrida  em  28/04/2011,  por  intermédio  do  presente
+instrumento,
+I  -  DECLARA:  sua  intenção de exercer cargo de  administração  na
+Cooperativa Central de Crédito de Minas Gerais Ltda. SICOOB  CENTRAL
+CREDIMINAS e que preenche as condições estabelecidas no Art.  2º  da
+Resolução 3041, de 28 de novembro de 2002.
+II - ESCLARECE que, nos termos da regulamentação em vigor, eventuais
+objeções à presente declaração devem ser comunicadas diretamente  ao
+Banco Central do Brasil, no endereço abaixo, no prazo de quinze dias
+contados da data da publicação desta, por meio formal em que o autor
+esteja   devidamente  identificado,  acompanhado   da   documentação
+comprobatória,  observado  que  o  declarante  pode,  na  forma   da
+legislação em vigor, ter direito a vistas do processo respectivo.
+
+BANCO  CENTRAL  DO BRASIL - Departamento de Organização  do  Sistema
+Financeiro  - Av. Álvares Cabral, 1.605 - Bairro Santo  Agostinho  -
+Belo Horizonte (MG) - CEP 30.170-001.
+
+Belo Horizonte (MG), 28 de abril de 2011.
+                      Ricardo Ferreira da Silva
+                        CPF: 983.064.486-34.-
+
+                             Brasília, 9 de maio de 2011.
+
+                             Departamento de Organização  do  Sistema
+                             Financeiro
+
+                             Adalberto Gomes da Rocha
+                             Chefe
+```

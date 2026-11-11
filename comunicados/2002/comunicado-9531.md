@@ -1,0 +1,58 @@
+---
+titulo: "COMUNICADO N. 009531"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "9531"
+data: 2002-05-17
+ementa: "Divulga a realizacao de operacao junto as instituicoes credenciadas a operar com o DEMAB."
+revogada: false
+responsavel: "DEMAB"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=9531"
+baixado_em: 2026-11-11
+---
+# COMUNICADO N. 009531
+
+```
+                        COMUNICADO N. 009531
+                        --------------------
+
+                                 Divulga  a  realizacao  de  operacao
+                                 junto as  instituicoes  credenciadas
+                                 a operar com o DEMAB.
+
+        O  Banco Central  do Brasil,  tendo em  vista o  disposto  no
+artigo 10, inciso XII, da  Lei n° 4.595, de 31.12.1964, torna publico
+que acolhera das 12:00  as 13:00  horas do dia  20.05.2002, propostas
+das  instituicoes  credenciadas  a  operar   com  o  Departamento  de
+Operacoes do Mercado Aberto  (DEMAB), para realizacao  da operacao de
+que trata o  inciso II  do paragrafo  1° do  Comunicado n°  7.669, de
+04.07.2000, considerando-se as seguintes informacoes complementares:
+
+         I - titulo: Letra  do  Tesouro  Nacional  (LTN), com venci-
+mento  em 04.09.2002;
+
+        II - preco unitario de venda: a ser  divulgado ate duas horas
+antes do horario previsto para o inicio do acolhimento das propostas;
+
+       III - divulgacao  do  resultado: em  20.05.2002,  a partir das
+14:30 horas;
+
+        IV - data da liquidacao financeira da venda: 21.05.2002;
+
+         V - data da liquidacao financeira da revenda: 21.08.2002.
+
+2.      Na  formulacao  das  propostas, limitadas  a  duas  por  ins-
+tituicao, devera  ser  utilizado o percentual,  com  quatro casas de-
+cimais,  a ser aplicado sobre o fator  diario da Taxa SELIC  deduzido
+de uma unidade, de acordo  com  a formula apresentada no paragrafo 2°
+do Comunicado n° 7.669, de 2000.
+
+                            Rio de Janeiro, 17 de maio de 2002.
+
+                            DEPARTAMENTO DE OPERACOES
+                            DO MERCADO ABERTO - DEMAB
+
+                            Sergio Goldenstein
+                            Chefe
+```

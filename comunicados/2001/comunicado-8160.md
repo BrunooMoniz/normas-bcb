@@ -1,0 +1,58 @@
+---
+titulo: "COMUNICADO N. 008160"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "8160"
+data: 2001-01-23
+ementa: "DIVULGA ALTERACAO NA RELACAO DE AGENCIAS DE TURISMO E MEIOS DE HOSPEDAGEM DE TURISMO CREDENCIADOS A OPERAR NO MERCADO DE CAMBIO DE TAXAS FLUTUANTES."
+revogada: false
+responsavel: "DECAM"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=8160"
+baixado_em: 2026-11-11
+---
+# COMUNICADO N. 008160
+
+```
+                        COMUNICADO N. 008160
+                        --------------------
+                               DIVULGA   ALTERACAO   NA   RELACAO  DE
+                               AGENCIAS   DE  TURISMO   E   MEIOS  DE
+                               HOSPEDAGEM  DE TURISMO  CREDENCIADOS A
+                               OPERAR NO  MERCADO DE  CAMBIO DE TAXAS
+                               FLUTUANTES.
+
+         COMUNICAMOS AOS  INTERESSADOS AS ALTERACOES OCORRIDAS NO MES
+DE NOVEMBRO DE 2000 NA RELACAO DE AGENCIAS DE TURISMO E MEIOS DE HOS-
+PEDAGEM DE TURISMO CREDENCIADOS A OPERAR NO MERCADO DE CAMBIO  DE TA-
+XAS FLUTUANTES, INSTITUIDO PELA RESOLUCAO N. 1.552, DE 22 DE DEZEMBRO
+DE DE 1988.
+
+          I - REVOGACAO DE CREDENCIAMENTO DE AGENCIAS DE TURISMO:
+
+PRACA/EMPRESA                         CNPJ            DATA
+
+PORTO ALEGRE (RS)
+
+PLANALTO TURISMO LTDA.           88.374.764/0002-79   01.11.2000
+
+         II - RECREDENCIAMENTO DE AGENCIAS DE TURISMO:
+
+PRACA/EMPRESA                         CNPJ            DATA
+
+PORTO ALEGRE (RS)
+
+EXPRINTER TURISMO LIMITADA       33.156.274/0003-95   16.11.2000
+
+2.       ENCONTRA-SE  DISPONIVEL  NO SISBACEN,  TRANSACAO  PCAM830, A
+RELACAO DAS  AGENCIAS DE  TURISMO E  MEIOS  DE HOSPEDAGEM  DE TURISMO
+CREDENCIADOS A  OPERAR  NO  MERCADO DE  CAMBIO  DE  TAXAS FLUTUANTES,
+INCLUINDO OS EVENTOS INDICADOS NO PARAGRAFO ANTERIOR.
+
+                           BRASILIA, 23 DE JANEIRO DE 2001
+
+                           DEPARTAMENTO DE CAMBIO
+
+                           JOSE MARIA FERREIRA DE CARVALHO
+                           CHEFE
+```

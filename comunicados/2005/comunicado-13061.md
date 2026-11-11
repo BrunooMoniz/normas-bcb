@@ -1,0 +1,53 @@
+---
+titulo: "COMUNICADO N. 013061"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "13061"
+data: 2005-03-03
+ementa: "Divulga intenção de cancelar autorização de funcionamento de cooperativa de crédito, em consonância com o disposto no § 2º do artigo 26 do Regulamento Anexo à Resolução 3.106, de 25 de junho de 2003."
+revogada: false
+responsavel: "DEORF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=13061"
+baixado_em: 2026-11-11
+---
+# COMUNICADO N. 013061
+
+```
+                        COMUNICADO N. 013061
+                        --------------------
+                               Divulga     intenção    de    cancelar
+                               autorização    de   funcionamento   de
+                               cooperativa     de     crédito,     em
+                               consonância com o disposto no § 2º  do
+                               artigo  26  do  Regulamento  Anexo   à
+                               Resolução  3.106, de 25  de  junho  de
+                               2003.
+
+    O   Banco  Central do Brasil, com base no disposto  no  §  2º do
+artigo  26 do Regulamento Anexo à Resolução 3.106, de 25 de junho de
+2003,   divulga   sua  intenção  de  cancelar  a  autorização   para
+funcionamento da COOPERATIVA DE CRÉDITO RURAL DO SUL DO  PARÁ,  CNPJ
+02.685.487/0001-19, com sede em São Felix do Xingu/PA, pelas  razões
+constantes dos autos do processo 0301205171.
+
+    Eventuais  objeções à adoção da medida deverão ser  apresentadas
+no  endereço  abaixo, no prazo de trinta dias, contados da  data  da
+publicação  deste,  por  meio formal   em  que  os  autores  estejam
+devidamente    identificados   e   acompanhada    da    documentação
+comprobatória.
+
+Departamento de Organização do Sistema Financeiro - Deorf
+Gerência Técnica em Recife - GTREC
+Rua da Aurora, 1259, 3º andar - Santo Amaro
+50040-090 - Recife/PE
+Telefone (0XX81) 2125-4138
+
+                           Brasília, 3 de março de 2005
+
+                           DEPARTAMENTO  DE  ORGANIZAÇÃO  DO  SISTEMA
+                           FINANCEIRO
+
+                           Luiz Edson Feltrim
+                           Chefe
+```

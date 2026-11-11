@@ -1,0 +1,41 @@
+---
+titulo: "Comunicado Nº 22.658"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "22658"
+data: 2012-06-26
+ementa: "Divulga Declaração de Propósito de pretendentes a cargos na administração da Cooperativa de Economia e Crédito Mútuo dos Empregados das Empresas do Grupo Zema Ltda."
+revogada: false
+responsavel: "DEORF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=22658"
+baixado_em: 2026-11-11
+---
+# Comunicado Nº 22.658
+
+Divulgamos, abaixo, o inteiro teor da Declaração de Propósito publicada no Jornal Clarín, de Araxá (MG), nos dias 22 e 23 de junho de 2012, em atendimento ao disposto na Resolução nº 3.041, de 28 de novembro de 2002, e na Circular nº 3.502, de 26 de julho de 2010:
+
+"DECLARAÇÃO DE PROPÓSITO
+
+NOME: ADRIANO AUGUSTO BONTEMPO, IDENTIDADE: MG- 7.315.815 -CPF: 952.220.906-63,
+NOME: DENIS LUCIANO ROSA, IDENTIDADE:SP 30.724.187-7 -CPF: 037.207.816-82,
+NOME: BRUNO WILLIAN FERREIRA IDENTIDADE: MG 12.183.919 - CPF: 061.096.096-25,
+NOME: EDVALDO APARECIDO DE MENEZES IDENTIDADE: MG 5.865.542 - CPF:755.365.106-06.
+DECLARAM SUA INTENÇÃO DE EXERCER CARGOS DE CONSELHEIROS ADMINISTRATIVOS E FISCAL NA COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS EMPREGADOS DAS EMPRESAS DO GRUPO ZEMA LTDA LTDA., QUE PREENCHEM AS CONDIÇÕES ESTABELECIDAS NO ART. 2º DA RESOLUÇÃO 3.041, DE 28 DE NOVEMBRO DE 2002.
+ESCLARECEM QUE, NOS TERMOS DA REGULAMENTAÇÃO EM VIGOR, EVENTUAIS OBJEÇÕES À PRESENTE DECLARAÇÃO DEVEM SER COMUNICADAS DIRETAMENTE AO BANCO CENTRAL DO BRASIL, NO ENDEREÇO ABAIXO, NO PRAZO DE QUINZE DIAS CONTADOS DA DATA DA PUBLICAÇÃO DESTA, POR MEIO FORMAL EM QUE OS AUTORES ESTEJAM DEVIDAMENTE IDENTIFICADOS, ACOMPANHADO DA DOCUMENTAÇÃO COMPROBATÓRIA, OBSERVADO QUE OS DECLARANTES PODEM, NA FORMA DA LEGISLAÇÃO EM VIGOR, TER DIREITO A VISTAS DO PROCESSO RESPECTIVO.
+
+BANCO CENTRAL DO BRASIL - DEPARTAMENTO DE ORGANIZAÇÃO DO SISTEMA FINANCEIRO
+AVENIDA ÁLVARES CABRAL, 1605, 2º ANDAR
+BAIRRO SANTO AGOSTINHO
+CEP – 30170-001
+BELO HORIZONTE MG
+
+ARAXÁ(MG), 23 DE JUNHO  DE 2012”
+
+ Brasília, 26 de junho de 2012.
+
+ Departamento de Organização do Sistema Financeiro
+
+ Adalberto Gomes da Rocha
+
+ Chefe

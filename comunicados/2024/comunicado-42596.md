@@ -1,0 +1,26 @@
+---
+titulo: "Comunicado N° 42.596"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "42596"
+data: 2024-12-20
+ementa: "Divulga o resultado de leilão de venda à vista de moeda estrangeira no mercado interbancário de câmbio pela Ptax"
+revogada: false
+responsavel: "DEPIN"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=42596"
+baixado_em: 2026-11-11
+---
+# Comunicado N° 42.596
+
+**Resultado do Leilão de Câmbio 13/2024**
+
+O Departamento das Reservas Internacionais (DEPIN), do Banco Central do Brasil, comunica que o diferencial de corte do leilão
+**13/2024** foi de **0,000100**. Foram aceitas 8 propostas no valor total de
+**USD $3.000.000.000,00**.
+
+Brasília-DF, 20/12/2024
+
+ALAN DA SILVA ANDRADE MENDES
+
+Chefe de Unidade

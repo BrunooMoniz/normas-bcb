@@ -1,0 +1,49 @@
+---
+titulo: "Comunicado N° 31.443"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "31443"
+data: 2017-12-06
+ementa: "Divulga a meta para a Taxa Selic, a partir de 7 de dezembro de 2017."
+revogada: false
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=31443"
+baixado_em: 2026-11-11
+---
+# Comunicado N° 31.443
+
+Em reunião realizada nesta data, de acordo com o Regulamento anexo à Circular nº 3.593, de 16 de maio de 2012, o Comitê de Política Monetária (Copom) definiu que a meta para a Taxa Selic será de 7,00% (sete inteiros por cento) ao ano, a partir de 7 de dezembro de 2017.
+
+O Copom emitiu a seguinte nota informativa ao público:
+
+“O Copom decidiu, por unanimidade, reduzir a taxa Selic em 0,5 ponto percentual, para 7,00% a.a., sem viés.
+
+A atualização do cenário básico do Copom pode ser descrita com as seguintes observações:
+
+O conjunto dos indicadores de atividade econômica divulgados desde a última reunião do Copom mostra sinais compatíveis com a recuperação gradual da economia brasileira;
+
+O cenário externo tem se mostrado favorável, na medida em que a atividade econômica global vem se recuperando sem pressionar em demasia as condições financeiras nas economias avançadas. Isso contribui para manter o apetite ao risco em relação a economias emergentes;
+
+O Comitê julga que o cenário básico para a inflação tem evoluído, em boa medida, conforme o esperado. O comportamento da inflação permanece favorável, com diversas medidas de inflação subjacente em níveis confortáveis ou baixos, inclusive os componentes mais sensíveis ao ciclo econômico e à política monetária;
+
+As expectativas de inflação para 2017 apuradas pela pesquisa Focus recuaram para em torno de 3,0%. As projeções para 2018, 2019 e 2020 mantiveram-se em torno de 4,0%, 4,25% e 4,0%, respectivamente; e
+
+No cenário com trajetórias para as taxas de juros e câmbio extraídas da pesquisa Focus, as projeções do Copom situam-se em torno de 2,9% para 2017, 4,2% para 2018 e 4,2% para 2019. Esse cenário supõe trajetória de juros que encerra 2017 e 2018 em 7,0% e 2019 em 8,0%.
+
+O Comitê ressalta que seu cenário básico para a inflação envolve fatores de risco em ambas as direções. Por um lado, a combinação de (i) possíveis efeitos secundários do choque favorável nos preços de alimentos e da inflação de bens industriais em níveis correntes baixos e da (ii) possível propagação, por mecanismos inerciais, do nível baixo de inflação pode produzir trajetória prospectiva abaixo do esperado. Por outro lado, (iii) uma frustração das expectativas sobre a continuidade das reformas e ajustes necessários na economia brasileira pode afetar prêmios de risco e elevar a trajetória da inflação no horizonte relevante para a política monetária.  Esse risco se intensifica no caso de (iv) reversão do corrente cenário externo favorável para economias emergentes.
+
+Considerando o cenário básico, o balanço de riscos e o amplo conjunto de informações disponíveis, o Copom decidiu, por unanimidade, pela redução da taxa básica de juros em 0,5 ponto percentual, para 7,00% a.a., sem viés. O Comitê entende que a convergência da inflação para a meta no horizonte relevante para a condução da política monetária, que inclui os anos-calendário de 2018 e 2019, é compatível com o processo de flexibilização monetária.
+
+O Copom entende que a conjuntura econômica prescreve política monetária estimulativa, ou seja, com taxas de juros abaixo da taxa estrutural.
+
+O Comitê enfatiza que o processo de reformas e ajustes necessários na economia brasileira contribui para a queda da sua taxa de juros estrutural.  As estimativas dessa taxa serão continuamente reavaliadas pelo Comitê.
+
+A evolução do cenário básico, em linha com o esperado, e o estágio do ciclo de flexibilização tornaram adequada a redução da taxa básica de juros em 0,5 ponto percentual nesta reunião. Para a próxima reunião, caso o cenário básico evolua conforme esperado, e em razão do estágio do ciclo de flexibilização, o Comitê vê, neste momento, como adequada uma nova redução moderada na magnitude de flexibilização monetária. Essa visão para a próxima reunião é mais suscetível a mudanças na evolução do cenário e seus riscos que nas reuniões anteriores. Para frente, o Comitê entende que o atual estágio do ciclo recomenda cautela na condução da política monetária. O Copom ressalta que o processo de flexibilização monetária continuará dependendo da evolução da atividade econômica, do balanço de riscos, de possíveis reavaliações da estimativa da extensão do ciclo e das projeções e expectativas de inflação.
+
+Votaram por essa decisão os seguintes membros do Comitê: Ilan Goldfajn (Presidente), Carlos Viana de Carvalho, Isaac Sidney Menezes Ferreira, Maurício Costa de Moura, Otávio Ribeiro Damaso, Paulo Sérgio Neves de Souza, Reinaldo Le Grazie, Sidnei Corrêa Marques e Tiago Couto Berriel.”
+
+Conforme estabelece o Comunicado nº 30.921, de 30 de junho de 2017, o Copom voltará a se reunir, ordinariamente, em 6 de fevereiro de 2018, para as apresentações técnicas e, no dia seguinte, para deliberar sobre as diretrizes de política monetária.
+
+                            Reinaldo Le Grazie
+                     Diretor de Política Monetária

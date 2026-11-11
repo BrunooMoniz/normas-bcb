@@ -1,0 +1,62 @@
+---
+titulo: "COMUNICADO N. 015198"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "15198"
+data: 2007-01-03
+ementa: "Divulga Declaração de Propósito de pretendentes a cargos de direção na Manchester S/A Corretora de Câmbio e Títulos"
+revogada: false
+responsavel: "DEORF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=15198"
+baixado_em: 2026-11-11
+---
+# COMUNICADO N. 015198
+
+```
+                        COMUNICADO N. 015198
+                        --------------------
+
+                               Divulga  Declaração  de  Propósito  de
+                               pretendentes  a cargos de  direção  na
+                               Manchester S/A Corretora de  Câmbio  e
+                               Títulos
+
+     Divulgamos,  abaixo, o inteiro teor da Declaração  de  Propósito
+publicada  no jornal A Notícia S/A, Joinville nos dias  14  e  15  de
+dezembro  de 2006, em atendimento ao disposto na Resolução 3.041,  de
+28  de  novembro  de 2002 e na Circular 3.172, de 30 de  dezembro  de
+2002:
+
+                      "DECLARAÇÃO DE PROPÓSITO
+
+HENRIQUE DE LOYOLA RODRIGUES ALVES, brasileiro, solteiro, nascido  na
+data   21/06/1982,  RG  3.137.943-5  -  SSP/SC,  CPF  035.995.119-85,
+domiciliado na Rua Presidente Nasser nº 303, Bairro Glória, Joinville
+- SC.
+DECLARA  sua intenção de exercer cargo de administração na MANCHESTER
+S/A  CORRETORA  DE  CÃMBIO  E  TÍTULOS e que  preenche  as  condições
+estabelecidas  no art. 2º da Resolução 3.041, de 28  de  novembro  de
+2002.
+ESCLARECE  que,  nos  termos da regulamentação  em  vigor,  eventuais
+objeções  à presente declaração devem ser comunicadas diretamente  ao
+Banco Central do Brasil, no endereço abaixo, no prazo de quinze  dias
+contados  da  data  da publicação desta, por meio formal  em  que  os
+autores    estejam   devidamente   identificados,   acompanhado    da
+documentação comprobatória, observado que o declarante pode, na forma
+da legislação em vigor, ter direito a vistas do processo respectivo.
+Joinville (SC), 12 de dezembro de 2006.
+BANCO CENTRAL DO BRASIL
+DEORF - Gerência Técnica em Porto Alegre (RS)
+Rua  7 de Setembro nº 586 - sala 1201- PORTO ALEGRE (RS) - CEP 90010-
+190
+Fone (51) 32157242"
+
+                           Brasília, 3 de janeiro de 2007.
+
+                           Departamento  de  Organização  do  Sistema
+                           Financeiro
+
+                           Adalberto Gomes da Rocha
+                           Chefe, substituto
+```

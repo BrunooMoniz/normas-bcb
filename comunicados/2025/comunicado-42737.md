@@ -1,0 +1,19 @@
+---
+titulo: "Comunicado N° 42.737"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "42737"
+data: 2025-01-23
+ementa: "Divulga a Taxa Básica Financeira (TBF), o Redutor \"R\" e a Taxa Referencial (TR) relativos a 22 de janeiro de 2025."
+revogada: false
+responsavel: "DEMAB"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=42737"
+baixado_em: 2026-11-11
+---
+# Comunicado N° 42.737
+
+De acordo com o que determina a Resolução CMN nº 4.624, de 18.1.2018, comunicamos que a Taxa Básica Financeira (TBF), o Redutor "R" e a Taxa Referencial (TR) relativos ao período de 22.1.2025 a 22.2.2025 são, respectivamente: 1,0554% (um inteiro e quinhentos e cinquenta e quatro décimos de milésimo por cento), 1,00882679 (um inteiro e oitocentos e oitenta e dois mil, seiscentos e setenta e nove centésimos de milionésimos) e 0,1712% (mil, setecentos e doze décimos de milésimo por cento).
+
+                   Andre de Oliveira Amante
+                  Chefe do Departamento de Operações do Mercado Aberto

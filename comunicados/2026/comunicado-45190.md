@@ -1,0 +1,19 @@
+---
+titulo: "Comunicado N° 45.190"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "45190"
+data: 2026-05-07
+ementa: "Divulga a Taxa Básica Financeira (TBF), o Redutor \"R\" e a Taxa Referencial (TR) relativos a 6 de maio de 2026."
+revogada: false
+responsavel: "DEMAB"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=45190"
+baixado_em: 2026-11-11
+---
+# Comunicado N° 45.190
+
+De acordo com o que determina a Resolução CMN nº 4.624, de 18.1.2018, comunicamos que a Taxa Básica Financeira (TBF), o Redutor "R" e a Taxa Referencial (TR) relativos ao período de 6.5.2026 a 6.6.2026 são, respectivamente: 1,0935% (um inteiro e novecentos e trinta e cinco décimos de milésimo por cento), 1,00919268 (um inteiro e novecentos e dezenove mil, duzentos e sessenta e oito centésimos de milionésimos) e 0,1726% (mil, setecentos e vinte e seis décimos de milésimo por cento).
+
+                   Andre de Oliveira Amante
+                  Chefe do Departamento de Operações do Mercado Aberto

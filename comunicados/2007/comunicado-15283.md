@@ -1,0 +1,61 @@
+---
+titulo: "COMUNICADO N. 015283"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "15283"
+data: 2007-01-25
+ementa: "Divulga Declaração de Propósito de pretendente a cargo de direção na Portobens Administradora de Consórcios Ltda."
+revogada: false
+responsavel: "DEORF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=15283"
+baixado_em: 2026-11-11
+---
+# COMUNICADO N. 015283
+
+```
+                        COMUNICADO N. 015283
+                        --------------------
+
+                              Divulga  Declaração  de  Propósito   de
+                              pretendente  a  cargo  de  direção   na
+                              Portobens  Administradora de Consórcios
+                              Ltda.
+
+     Divulgamos,  abaixo, o inteiro teor da Declaração  de  Propósito
+publicada no jornal Diário da Região, São José do Rio Preto, SP,  nos
+dias  1  e  2  de  novembro de 2006, em atendimento  ao  disposto  na
+Circular 3.260, de 28 de outubro de 2004:
+
+                      "DECLARAÇÃO DE PROPÓSITO
+
+Administrador de Consórcio
+RONALD MACEDO TORRES,  brasileiro, casado, Engenharia Civil, portador
+da  Carteira  de Identidade RG n.º 8.679.971 - SSP/SP e  inscrito  no
+CPF/MF n.º 001.996.528/13;
+DECLARA  sua intenção de exercer cargos de administração na Portobens
+Administradora  de  Consórcios Ltda. - CNPJ n.º 87.433.413/0001-48  e
+que  preenche  as condições estabelecidas no art. 15  do  Regulamento
+anexo à Circular 3.260, de 28 de outubro de 2004.
+ESCLARECE  que,  nos  termos  da regulamentação  em  vigor,  eventual
+objeção  à  presente declaração devem ser comunicadas diretamente  ao
+Banco Central do Brasil, no endereço abaixo, no prazo de quinze  dias
+contados  da  data  da publicação desta, por meio formal  em  que  os
+autores    estejam   devidamente   identificados,   acompanhado    da
+documentação  comprobatória, observado que os declarantes  podem,  na
+forma  da  legislação  em vigor, ter direito  a  vistas  do  processo
+respectivo.
+Banco Central do Brasil
+Departamento de Organização do Sistema Financeiro - DEORF
+Gerencia Técnica em São Paulo
+Avenida Paulista, n.º 1.804
+01310-922 - São Paulo, SP"
+
+                              Brasília, 25 de janeiro de 2007.
+
+                              Departamento de Organização do  Sistema
+                              Financeiro
+
+                              Luiz Edson Feltrim
+                              Chefe
+```

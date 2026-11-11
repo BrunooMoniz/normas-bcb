@@ -1,0 +1,25 @@
+---
+titulo: "Comunicado N° 28.860"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "28860"
+data: 2015-12-09
+ementa: "Divulga nome aprovado de pessoas eleitas/nomeadas para cargos de órgãos estatutários ou contratuais de instituições financeiras, administradoras de consórcio e demais sociedades autorizadas a funcionar pelo Banco Central do Brasil."
+revogada: false
+responsavel: "DEORF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=28860"
+baixado_em: 2026-11-11
+---
+# Comunicado N° 28.860
+
+Conforme previsto na Resolução nº 4.122, de 2 de agosto de 2012, e na Circular nº 3.433, de 3 de fevereiro de 2009, divulgamos o nome aprovado de pessoas eleitas/nomeadas para cargos de órgãos estatutários ou contratuais de instituições financeiras, administradoras de consórcio e demais sociedades autorizadas a funcionar pelo Banco Central do Brasil:
+
+Processo: 1501611466.    Data do despacho: 8.12.2015.
+Instituição: Solidez - Corretora de Câmbio, Títulos e Valores Mobiliários Ltda.
+Ato(s) societário(s): AC de 10.11.2015.
+Órgão estatutário: Administração.
+Nomeado(s): Eduardo Souza Ribeiro.
+
+                         Adalberto Gomes da Rocha
+            Chefe do Departamento de Organização do Sistema Financeiro

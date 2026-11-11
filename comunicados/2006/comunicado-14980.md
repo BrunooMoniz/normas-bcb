@@ -1,0 +1,42 @@
+---
+titulo: "COMUNICADO N. 014980"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "14980"
+data: 2006-10-19
+ementa: "INFORMA A ALTERAÇÃO DO ENDEREÇO DAS REPRE- SENTAÇÕES REGIONAIS DO BANCO CENTRAL EM CURITIBA."
+revogada: false
+responsavel: "ADCUR"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=14980"
+baixado_em: 2026-11-11
+---
+# COMUNICADO N. 014980
+
+```
+                        COMUNICADO N. 014980
+                        --------------------
+
+                           INFORMA A ALTERAÇÃO DO ENDEREÇO DAS REPRE-
+                           SENTAÇÕES  REGIONAIS  DO  BANCO CENTRAL EM
+                           CURITIBA.
+
+        COMUNICO QUE A PARTIR DO DIA  23 DE OUTUBRO DE 2006, SEGUNDA-
+FEIRA, AS REPRESENTAÇÕES DO  BANCO CENTRAL DO BRASIL EM CURITIBA PAS-
+SARÃO A ATENDER EM SUAS NOVAS INSTALAÇÕES, NO ENDEREÇO A SEGUIR:
+
+        - AVENIDA CÂNDIDO DE ABREU, Nº. 344, BAIRRO CENTRO CÍVICO,
+          CURITIBA - PR - CEP 80530-000
+          TELEFONE (41)3281-3000; FAX (41)3281-3100
+
+        INFORMO AINDA QUE NO DIA  20 DE OUTUBRO DE 2006, SEXTA-FEIRA,
+NÃO HAVERÁ EXPEDIENTE NO BANCO CENTRAL EM CURITIBA, DATA  DA  MUDANÇA
+DAS ÁREAS DE ESCRITÓRIO PARA  O NOVO ENDEREÇO. REGISTRO, NO  ENTANTO,
+QUE SERÃO ATENDIDAS AS SITUAÇÕES QUE ENVOLVAM O CUMPRIMENTO DE PRAZOS
+LEGAIS.
+
+        ATENCIOSAMENTE,
+
+        SALIM CAFRUNI SOBRINHO
+        GERENTE ADMINISTRATIVO REGIONAL
+```

@@ -1,0 +1,32 @@
+---
+titulo: "Comunicado N° 43.445"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "43445"
+data: 2025-07-04
+ementa: "Divulga o resultado de leilões de swap"
+revogada: false
+responsavel: "DEPIN"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=43445"
+baixado_em: 2026-11-11
+---
+# Comunicado N° 43.445
+
+O Departamento das Reservas Internacionais (DEPIN), do Banco Central do Brasil, comunica:
+
+**Resultado do Leilão de Swap 47/2025**
+A taxa de corte do leilão 47/2025 foi de 4,7790.
+Foram aceitas 2 propostas no total de 8.000 contratos (USD $400.000.000,00), com vencimento em
+01/09/2025.
+
+**Resultado do Leilão de Swap 48/2025**
+A taxa de corte do leilão 48/2025 foi de 5,3840.
+Foram aceitas 7 propostas no total de 27.000 contratos (USD $1.350.000.000,00), com vencimento em
+03/11/2025.
+
+Brasília-DF, 04/07/2025
+
+LUIS GUILHERME SICILIANO PONTES
+
+Chefe de Unidade

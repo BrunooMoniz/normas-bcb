@@ -1,0 +1,33 @@
+---
+titulo: "Comunicado Nº 27.511"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "27511"
+data: 2015-03-24
+ementa: "Divulga Declaração de Propósito de pretendente a cargo de administração na Cooperativa de Crédito de Livre Admissão Campos da Mantiqueira Ltda., Sicoob Credicampo."
+revogada: false
+responsavel: "DEORF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=27511"
+baixado_em: 2026-11-11
+---
+# Comunicado Nº 27.511
+
+Divulgamos, abaixo, o inteiro teor da Declaração de Propósito publicada no jornal O Tempo, nos dias 18 e 19 de março de 2015, em atendimento ao disposto no art. 2° do Regulamento Anexo da Resolução nº 4.122, de 2 de agosto de 2012, e na Circular nº 3.611, de 31 de outubro de 2012:
+
+                                "DECLARAÇÃO DE PROPÓSITO
+
+Carlos Geraldo Ignacchitti Pimentel, CPF 278.817.176-53, C.I M-2.282.43
+
+DECLARA, nos termos do art. 6º do Regulamento Anexo II à Resolução nº 4.122, de 2 de agosto de 2012, sua intenção de exercer cargos de administração na Cooperativa de Crédito de Livre Admissão Campos da Mantiqueira LTDA – Sicoob Credicampo.
+
+ESCLARECE que eventuais objeções à presente declaração devem ser comunicadas diretamente ao Banco Central do Brasil, no endereço abaixo, no prazo de quinze dias contados da divulgação, por aquela Autarquia, de comunicado público acerca desta, por meio formal em que os autores estejam devidamente identificados, acompanhado da documentação comprobatória, observado que os declarantes podem, na forma da legislação em vigor, ter direito a vistas do processo respectivo.
+
+Banco Central do Brasil(DEORF)
+Av. Alvares Cabral, 1605-
+Bairro Santo Agostinho
+CEP 30.170-001-Belo Horizonte (MG)
+Entre Rios de Minas, 17 de Março de 2015.”
+
+                                 Adalberto Gomes da Rocha
+             Chefe do Departamento de Organização do Sistema Financeiro.

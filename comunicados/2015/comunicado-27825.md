@@ -1,0 +1,32 @@
+---
+titulo: "Comunicado Nº 27.825"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "27825"
+data: 2015-05-08
+ementa: "Divulga Declaração de Propósito de responsabilidade do Banco Regional de Desenvolvimento do Extemo Sul - BRDE."
+revogada: false
+responsavel: "DEORF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=27825"
+baixado_em: 2026-11-11
+---
+# Comunicado Nº 27.825
+
+Divulgamos, abaixo, inteiro teor da Declaração de Propósito publicada no jornal Zero Hora, nos dias 5 e 6 de maio de 2015:
+
+**"**DECLARAÇÃO DE PROPÓSITO
+
+ODACIR KLEIN, Carteira de Identidade RG nº 9033007809, CPF nº 006356340-15; e LUIZ CORRÊA NORONHA, Carteira de Identidade RG nº 3006600633, CPF nº 286036800-00,
+
+DECLARAM sua intenção de exercerem cargo de Diretores na Diretoria do BRDE, nomeados por Ato do Governador do Estado do Rio Grande do Sul em 30-04-2015 e que preenchem as condições estabelecidas na Resolução nº 3.041, de 28 de novembro de 2002.
+
+ESCLARECEM que, nos termos da regulamentação em vigor, eventuais objeções à presente declaração devem ser comunicadas diretamente ao Banco Central do Brasil, no endereço abaixo, no prazo de quinze dias contados da data da publicação desta, por meio formal em que os autores estejam devidamente identificados, acompanhado da documentação comprobatória, observado que o declarante pode, na forma da legislação em vigor, ter direito a vistas do processo respectivo.
+
+BANCO CENTRAL DO BRASIL
+Departamento de Organização do Sistema Financeiro – DEORF
+Rua Sete de Setembro, nº 586 – sala 1.201
+90010-140 – Porto Alegre (RS)**"**
+
+Adalberto Gomes da Rocha
+                Chefe do Departamento de Organização do Sistema Financeiro.

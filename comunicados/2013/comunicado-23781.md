@@ -1,0 +1,41 @@
+---
+titulo: "Comunicado Nº 23.781"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "23781"
+data: 2013-04-18
+ementa: "Divulga Declaração de Propósito de pretendentes a cargos na administração da Cooperativa de Crédito de Livre Admissão do Triângulo Mineiro Ltda. - Sicoob Aracoop"
+revogada: false
+responsavel: "DEORF"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=23781"
+baixado_em: 2026-11-11
+---
+# Comunicado Nº 23.781
+
+Divulgamos, abaixo, o inteiro teor da Declaração de Propósito publicada no jornal Gazeta do Triângulo, nos dias 13 e 16 de abril de 2013, em atendimento ao disposto na Resolução nº 4.122, de 2 de agosto de 2012, e na Circular nº 3.611, de 31 de outubro de 2012:
+
+ "DECLARAÇÃO DE PROPÓSITO
+
+*RAMIRO RODRIGUES DE ÁVILA JUNIOR RG M-1045.998 SSP/MG CPF: 239.531.606-72*
+*ANDRÉ LUIZ CARDOSO RG M- 1.447.907 SSPMG CPF: 288.961.226-00*
+*SILVIO PRESLEY DOS REIS RG M- 2.774.483 SSPMG CPF:* *511.143.996-04*
+DECLARAM SUA INTENÇÃO DE EXERCER CARGOS DE DIRETORES EXECUTIVOS NA COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO DO TRIÂNGULO MINEIRO LTDA.-SICOOB ARACOOP, QUE PREENCHEM AS CONDIÇÕES ESTABELECIDAS NO ART. 2º DO REGULAMENTO ANEXO II À RESOLUÇÃO Nº 4.122/12.
+ESCLARECEM QUE, NOS TERMOS DA REGULAMENTAÇÃO EM VIGOR, EVENTUAIS OBJEÇÕES À PRESENTE DECLARAÇÃO DEVEM SER COMUNICADAS DIRETAMENTE AO BANCO CENTRAL DO BRASIL, NO ENDEREÇO ABAIXO, NO PRAZO DE QUINZE DIAS CONTADOS DA DATA DA PUBLICAÇÃO DESTA, POR MEIO FORMAL EM QUE OS AUTORES ESTEJAM DEVIDAMENTE IDENTIFICADOS, ACOMPANHADO DA DOCUMENTAÇÃO COMPROBATÓRIA, OBSERVADO QUE OS DECLARANTES PODEM, NA FORMA DA LEGISLAÇÃO EM VIGOR, TER DIREITO A VISTAS DO PROCESSO RESPECTIVO.
+
+BANCO CENTRAL DO BRASIL - DEPARTAMENTO DE ORGANIZAÇÃO DO SISTEMA FINANCEIRO
+AVENIDA ÁLVARES CABRAL, 1605, 2º ANDAR
+BAIRRO SANTO AGOSTINHO
+CEP – 30170-001
+BELO HORIZONTE MG
+
+ARAGUARI/MG, 12 DE ABRIL DE 2013.
+
+DIRETORES:
+
+*RAMIRO RODRIGUES DE ÁVILA JUNIOR CPF: 239.531.606-72*
+*ANDRÉ LUIZ CARDOSO CPF: 288.961.226-00*
+*SILVIO PRESLEY DOS REIS CPF:* *511.143.996-04”*
+
+Adalberto Gomes da Rocha
+Chefe do Departamento de Organização do Sistema Financeiro
