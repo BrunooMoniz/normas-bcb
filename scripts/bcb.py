@@ -155,14 +155,16 @@ def url_pdf(arquivo, ano):
     return f"{SITE}/pre/normativos/{m[1].lower()}/{ano}/pdf/{arquivo.lower()}" if m else ""
 
 
-def escolher_pdf(documentos):
-    """Do campo 'Documentos' ('X_v1_O.pdf;56#;X_v2_L.pdf;57#;'), a versão mais nova '_L', senão a primeira."""
-    nomes = [n for n in re.findall(r"([^;#]+\.pdf)", documentos or "", re.I)]
+def pdfs_em_ordem(documentos):
+    """Do campo 'Documentos' ('X_v1_O.pdf;56#;X_v2_L.pdf;57#;'): primeiro as versões '_L' da mais nova para a
+    mais antiga, depois as demais. O portal às vezes só publica a original (v1_O), por isso a lista inteira."""
+    nomes = re.findall(r"([^;#]+\.pdf)", documentos or "", re.I)
+
     def versao(n):
         m = re.search(r"_v(\d+)_", n)
         return int(m[1]) if m else 0
-    livres = sorted((n for n in nomes if re.search(r"_L\.pdf$", n, re.I)), key=versao)
-    return livres[-1] if livres else (nomes[0] if nomes else "")
+    livres = sorted((n for n in nomes if re.search(r"_L\.pdf$", n, re.I)), key=versao, reverse=True)
+    return livres + [n for n in nomes if n not in livres]
 
 
 def pdf_para_texto(dados):
@@ -276,18 +278,24 @@ def montar(linha, d, hoje):
     corpo, ocr, arquivo, sha = html_para_md(c.get("Texto")), False, "", ""
     versao = "texto do portal do BCB"
     if len(re.sub(r"\W", "", corpo)) < 200 and c.get("Documentos"):
-        nome = escolher_pdf(c["Documentos"])
-        url = url_pdf(nome, data[:4]) if nome else ""
-        if url:
+        for nome in pdfs_em_ordem(c["Documentos"]):
+            url = url_pdf(nome, data[:4])
             cache = FONTE / "pdf" / nome
             if not cache.exists():
+                try:
+                    dados = pedir(url, json_esperado=False)
+                except urllib.error.HTTPError as e:
+                    if e.code == 404:
+                        continue  # versão não publicada nesse endereço: tenta a próxima
+                    raise
                 cache.parent.mkdir(parents=True, exist_ok=True)
-                cache.write_bytes(pedir(url, json_esperado=False))
+                cache.write_bytes(dados)
             dados = cache.read_bytes()
             texto, ocr = pdf_para_texto(dados)
             if len(re.sub(r"\W", "", texto)) >= 40:
                 corpo, arquivo, sha = limpar_md(texto), url, hashlib.sha256(dados).hexdigest()
                 versao = "PDF do portal do BCB" + (" (OCR)" if ocr else "")
+                break
     if len(re.sub(r"\W", "", corpo)) < 20:
         corpo = "> O portal do BCB não traz o texto desta norma; ficaram só os metadados.\n"
         versao = "metadados apenas"

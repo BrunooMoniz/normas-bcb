@@ -33,8 +33,9 @@ class Basicos(unittest.TestCase):
         self.assertEqual(bcb.lista("a;#b;#"), ["a", "b"])
 
     def test_pdf(self):
-        self.assertEqual(bcb.escolher_pdf("X_0001_v1_O.pdf;1#;X_0001_v2_L.pdf;2#;X_0001_v10_L.pdf;3#;"), "X_0001_v10_L.pdf")
-        self.assertEqual(bcb.escolher_pdf("C_Circ_0073_v1_O.pdf;56#;"), "C_Circ_0073_v1_O.pdf")
+        self.assertEqual(bcb.pdfs_em_ordem("X_0001_v1_O.pdf;1#;X_0001_v2_L.pdf;2#;X_0001_v10_L.pdf;3#;"),
+                         ["X_0001_v10_L.pdf", "X_0001_v2_L.pdf", "X_0001_v1_O.pdf"])
+        self.assertEqual(bcb.pdfs_em_ordem("C_Circ_0073_v1_O.pdf;56#;"), ["C_Circ_0073_v1_O.pdf"])
         self.assertEqual(bcb.url_pdf("C_Circ_0073_v1_O.pdf", "1972"),
                          "https://www.bcb.gov.br/pre/normativos/c_circ/1972/pdf/c_circ_0073_v1_o.pdf")
 
