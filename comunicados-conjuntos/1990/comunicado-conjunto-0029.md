@@ -1,0 +1,48 @@
+---
+titulo: "COMUNICADO-CONJUNTO N. 000029"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado Conjunto"
+numero: "29"
+data: 1990-09-26
+ementa: ""
+revogada: false
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado%20Conjunto&numero=29"
+baixado_em: 2026-11-10
+---
+# COMUNICADO-CONJUNTO N. 000029
+
+```
+                   COMUNICADO-CONJUNTO N. 000029
+                   -----------------------------
+
+ BANCO CENTRAL DO BRASIL             COMISSAO DE VALORES MOBILIARIOS
+
+                             PROGRAMA  FEDERAL DE DESREGULAMENTACAO -
+                             SOCIEDADES  DE ARRENDAMENTO MERCANTIL  -
+                             AUTORIZACAO PREVIA PARA A EMISSAO DE DE-
+                             BENTURES.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL  E  O COLEGIADO DA COMISSAO DE VALORES MOBILIARIOS,  TENDO  EM
+VISTA  O  DISPOSTO NO ART. 35, PARAGRAFO UNICO, DA LEI N.  4.595,  DE
+31.12.64,
+
+R E S O L V E R A M:
+
+                    ART.  1.. AS SOCIEDADES DE ARRENDAMENTO MERCANTIL
+INTERESSADAS NA EMISSAO DE DEBENTURES DEVERAO FORMALIZAR PEDIDO JUNTO
+A  COMISSAO DE VALORES MOBILIARIOS, QUE SOLICITARA A MANIFESTACAO  DO
+BANCO  CENTRAL  DO BRASIL, COM VISTAS AO ATENDIMENTO DO  DISPOSTO  NO
+ART. 35, PARAGRAFO UNICO, DA LEI N. 4.595, DE 31.12.64.
+
+                    ART.  2.. ESTE COMUNICADO-CONJUNTO ENTRA EM VIGOR
+NA DATA DE SUA PUBLICACAO.
+
+                              BRASILIA (DF), 26 DE SETEMBRO DE 1990
+
+GUSTAVO JORGE LABOISSIERE LOYOLA     ARY OSWALDO MATTOS FILHO
+PRESIDENTE, EM EXERCICIO, DO         PRESIDENTE DA
+BANCO  CENTRAL DO BRASIL             COMISSAO DE VALORES MOBILIARIOS
+```
