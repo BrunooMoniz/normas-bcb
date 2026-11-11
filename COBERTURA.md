@@ -21,3 +21,19 @@ Gerado por `scripts/bcb.py --relatorio`. Índice = itens na busca de normas do B
 | `resolucoes-coseg/` | Resolução Coseg | 4 | 4 | 0 | 0 |
 | `resolucoes-coremec/` | Resolução Coremec | 1 | 1 | 0 | 0 |
 | **Total** | | **60.977** | **60.977** | **36** | **0** |
+
+## Grafo de relações
+
+Gerado por `scripts/grafo.py` a partir dos cabeçalhos, sem IA. Fica em `grafo/`: `arestas.jsonl` (uma relação por linha), `estado.jsonl` (situação de cada norma), `externos.jsonl` (normas do outro acervo e leis do ctresb/leis) e `nao_resolvidos.jsonl`.
+
+| Relação | Arestas | Não resolvidas |
+| --- | ---: | ---: |
+| revoga | 14.441 | 1.054 |
+| revoga_parcial | 2.028 | 43 |
+| altera | 5.724 | 33 |
+| cita | 28.226 | 2.129 |
+| regulamenta | 18.899 | 106 |
+| conjunta | 14 | 0 |
+| **Total** | **69.332** | **3.365** (4,9%) |
+
+Não resolvida = aresta que aponta para uma norma sem arquivo neste acervo, no outro ou no ctresb/leis (1.723 normas distintas). Trechos dos cabeçalhos sem norma reconhecida: 3.691. Situação calculada: 47.390 vigentes, 529 alteradas e 13.058 revogadas.
