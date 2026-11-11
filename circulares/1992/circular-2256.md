@@ -1,0 +1,61 @@
+---
+titulo: "Circular Nº 2.256"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2256"
+data: 1992-12-17
+ementa: "RECOLHIMENTO COMPULSORIO E ENCAIXE OBRIGATORIO SOBRE RECURSOS A VISTA - DÁ NOVA REDAÇÃO AO PARÁGRAFO 3º DO ARTIGO 1º DA CIRCULAR 2.043, DE 23/09/91."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2280/93 DOU 17/02/1993 PAG 2105 - REVOGACAO TOTAL, A PARTIR DE 09/03/1993 E DE 18/03/1993 PARA AS INSTITUICOES DO \"GRUPO A\" E \"GRUPO B\" RESPECTIVAMENTE."]
+normas_vinculadas: ["CIRCULAR 2280/93", "CIRCULAR 2043/91", "RESOLUÇÃO 1857/91"]
+referencias: ["LEI 4595/64 ART/10 ITEM/III ITEM/IV.", "LEI 7730/89 ART/19 ART/20.", "RESOLUÇÃO CMN 1857/91.", "ALTERA CIRCULAR BCB 2043/91 ART/1 PARAG/3."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2256"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.256
+
+```
+                         CIRCULAR Nº 002256
+                         ------------------
+AOS
+BANCOS  MÚLTIPLOS COM CARTEIRA COMERCIAL, BANCOS COMERCIAIS E  CAIXAS
+ECONÔMICAS
+
+                              RECOLHIMENTO  COMPULSÓRIO/ENCAIXE OBRI-
+                              GATÓRIO SOBRE RECURSOS À VISTA - DÁ NO-
+                              VA  REDAÇÃO AO PARÁGRAFO 3º DO ART.  1º
+                              DA CIRCULAR Nº 2.043, DE 23.09.91.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO REALIZADA EM 16.12.92, TENDO EM VISTA O DISPOSTO NO
+ART.  10, INCISOS III E IV, DA LEI Nº 4.595, DE 31.12.64, COM A REDA-
+ÇÃO  QUE  LHE  FOI  DADA  PELOS ARTS. 19 E 20 DA  LEI  Nº  7.730,  DE
+31.01.89, E NA RESOLUÇÃO Nº 1.857, DE 15.08.91, DECIDIU:
+
+                    ART.  1º.  ALTERAR O PARÁGRAFO 3º DO ART. 1º   DA
+CIRCULAR  Nº 2.043, DE 23.09.91, QUE PASSA A VIGORAR  COM A  SEGUINTE
+REDAÇÃO:
+
+                   "PARÁGRAFO  3º. O RECOLHIMENTO COMPULSÓRIO/ENCAIXE
+OBRIGATÓRIO  NÃO INCIDE SOBRE OS VALORES INSCRITOS NOS SEGUINTES SUB-
+TÍTULOS:
+
+   A - 4.1.4.20.00-3 - DEPÓSITOS DE AVISO PRÉVIO EM MOEDAS ESTRANGEI-
+                       RAS - TAXAS FLUTUANTES;
+   B - 4.5.1.80.10-5 - CONCESSIONÁRIOS DE SERVIÇOS PÚBLICOS;
+   C - 4.5.1.85.00-7 - ORDENS DE PAGAMENTO EM MOEDAS ESTRANGEIRAS;
+   D - 4.5.1.90.00-9 - ORDENS  DE PAGAMENTO EM MOEDAS ESTRANGEIRAS  -
+                       TAXAS FLUTUANTES;
+   E - 4.9.1.10.00-9 - IOF A RECOLHER; E
+   F - 4.9.1.25.00-1 - RECURSOS DO PROAGRO;".
+
+                    ART. 2º. ESTA  CIRCULAR  ENTRA  EM VIGOR  NA DATA
+DE SUA PUBLICAÇÃO.
+
+                             BRASÍLIA (DF), 17 DE DEZEMBRO DE 1992
+
+                             JOÃO HERALDO LIMA
+                             DIRETOR
+```

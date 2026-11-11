@@ -1,0 +1,173 @@
+---
+titulo: "Circular Nº 3.672"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "3672"
+data: 2013-10-23
+ementa: "Altera o Regulamento do Mercado de Câmbio e Capitais Internacionais (RMCCI)."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "PDF do portal do BCB"
+atualizacoes: ["Circular BCB nº 3.691/2013 - Revogação total, a partir de 3/2/2014."]
+normas_vinculadas: ["RESOLUÇÃO 3568/2008", "CIRCULAR 3280/2005", "CIRCULAR 3379/2008", "CIRCULAR 3401/2008", "CIRCULAR 3530/2011", "CIRCULAR 3575/2012", "CIRCULAR 3589/2012", "CIRCULAR 3691/2013"]
+referencias: ["Lei nº 4.595/1964, arts. 9º e 11.", "Resolução CMN nº 3.568/2008, art. 10.", "Circular BCB nº 3.280/2005, art. 2º.", "Cita Circular BCB nº 3.379/2008, 3.401/2008, 3.530/2011, 3.575/2012, 3.589/2012.", "Altera RMCCI 1-11-2."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3672"
+arquivo: "https://www.bcb.gov.br/pre/normativos/circ/2013/pdf/circ_3672_v2_l.pdf"
+sha256_arquivo: b25fb0853f4b29b7e72d344dd5424bf31aa1774954a1fd6a423982791352a88a
+baixado_em: 2026-11-10
+---
+# Circular Nº 3.672
+
+CIRCULAR Nº 3.672, DE 23 DE OUTUBRO DE 2013
+Documento normativo revogado, a partir de 3/2/2014, pela Circular nº 3.691, de 16/12/2013.
+Altera o Regulamento do Mercado de Câmbio e
+Capitais Internacionais (RMCCI).
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 22 de
+outubro de 2013, com base nos arts. 9º e 11 da Lei nº 4.595, de 31 de dezembro de 1964, no art.
+10 da Resolução nº 3.568, de 29 de maio de 2008, e tendo em vista o art. 2º da Circular nº 3.280,
+de 9 de março de 2005,
+RESOLVE:
+Art. 1º A seção 2 do capítulo 11 do título 1 do Regulamento do Mercado de
+Câmbio e Capitais Internacionais (RMCCI), divulgado pela Circular nº 3.280, de 9 de março de
+2005, passa a vigorar com a redação constante das folhas anexas a esta Circular.
+Art. 2º Esta Circular entra em vigor na data de sua publicação.
+
+Luiz Awazu Pereira da Silva
+Diretor de Regulação
+
+Sidnei Corrêa Marques
+Diretor de Fiscalização, substituto
+
+Este texto não substitui o publicado no DOU de 24/10/2013, Seção 1, p. 20/21, e no Sisbacen.
+
+REGULAMENTO DO MERCADO DE CÂMBIO E CAPITAIS INTERNACIONAIS
+TÍTULO
+
+:
+
+CAPÍTULO
+
+: 11 - Exportação
+
+SEÇÃO
+
+:
+
+1.
+
+1 - Mercado de Câmbio
+2 - Contratação de Câmbio
+
+O contrato de câmbio de exportação pode ser celebrado para liquidação pronta ou futura, prévia
+ou posteriormente ao embarque da mercadoria ou da prestação do serviço, observado o prazo
+máximo de 750 dias entre a contratação e a liquidação, bem como o seguinte:
+a) no caso de contratação prévia, o prazo máximo entre a contratação de câmbio e o embarque
+da mercadoria ou da prestação do serviço é de 360 dias;
+b) o prazo máximo para liquidação do contrato de câmbio é o último dia útil do 12º mês
+subsequente ao do embarque da mercadoria ou da prestação do serviço.
+
+1-A.
+
+Para os contratos de câmbio de exportação, no caso de requerimento de recuperação judicial,
+ajuizamento de pedido de falência do exportador ou em outra situação em que fique
+documentalmente comprovada a incapacidade do exportador para embarcar a mercadoria ou para
+prestar o serviço por fatores alheios à sua vontade, o embarque da mercadoria ou a prestação do
+serviço pode ocorrer até 1.500 dias a partir da data de contratação da operação de câmbio, desde
+que o prazo entre a contratação e a liquidação do contrato de câmbio não ultrapasse 1.500 dias.
+(NR)
+
+2.
+
+(Revogado) Circular nº 3.589/2012.
+
+2-A.
+
+(Revogado) Circular nº 3.589/2012.
+
+3.
+
+As operações de câmbio referentes a exportação sujeitas a Registro de Crédito (RC) devem ser
+celebradas em conformidade ao disposto na seção 10 - Exportações Financiadas.
+
+4.
+
+Os contratos de câmbio de exportação em consignação devem ser classificados sob o código de
+natureza de operação "10124 - EXPORTAÇÃO - Exportação em Consignação", sendo vedada
+alteração de natureza de referido código.
+
+5.
+
+(Revogado) Circular nº 3.379/2008.
+
+6.
+
+(Revogado) Circular nº 3.401/2008.
+
+7.
+
+(Revogado) Circular nº 3.575/2012.
+
+8.
+
+(Revogado) Circular nº 3.530/2011.
+
+9.
+
+As instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do
+Brasil, autorizadas a operar no mercado de câmbio, com as quais forem firmados contratos de
+câmbio de exportação devem, até o dia 15 do mês subsequente às correspondentes liquidações,
+fornecer por meio de mecanismo eletrônico regulado pelo Banco Central do Brasil, para acesso
+exclusivo da Secretaria da Receita Federal do Brasil, os seguintes dados:
+a) nome empresarial e número de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ) do
+vendedor da moeda estrangeira, se pessoa jurídica, ou nome e número de inscrição no
+Cadastro de Pessoas Físicas (CPF), se pessoa física;
+b) montante das liquidações, consolidado mensalmente por tipo de moeda estrangeira e por
+natureza da operação;
+c) montante do contravalor em reais das liquidações referidas na alínea “b” anterior, consolidado
+mensalmente; e
+
+Circular nº 3.672, de 23 de outubro de 2013
+
+Página 1 de 2
+
+REGULAMENTO DO MERCADO DE CÂMBIO E CAPITAIS INTERNACIONAIS
+TÍTULO
+
+:
+
+1 - Mercado de Câmbio
+
+CAPÍTULO
+
+: 11 - Exportação
+
+SEÇÃO
+
+:
+
+2 - Contratação de Câmbio
+
+d) nome e número de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ) da instituição
+autorizada a operar no mercado de câmbio, compradora da moeda estrangeira.
+10.
+
+Os dados a que se refere o item 9 anterior compreendem as liquidações de contratos de câmbio
+relativos a embarques de mercadorias e prestações de serviço realizados a partir de 01.03.2007,
+observado que os dados da espécie relativos ao período compreendido entre 01.03.2007 e
+30.04.2009 devem ser fornecidos ao Banco Central do Brasil até 31.08.2009.
+
+11.
+
+Relativamente às operações de câmbio simplificado de exportação:
+a) a negociação da moeda estrangeira com instituição integrante do Sistema Financeiro Nacional
+autorizada a operar no mercado de câmbio no País pode ocorrer até 360 dias antes ou até 360
+dias após o embarque da mercadoria ou a prestação dos serviços;
+b) os dados da operação devem ser registrados no Sistema Câmbio na mesma data da
+contratação de câmbio sob o código de natureza específico, inclusive para o caso de
+recebimento antecipado, sendo que o Sistema Câmbio gera de forma automática o evento de
+liquidação da operação para o mesmo dia, observado que referido contrato não é passível de
+alteração, cancelamento ou baixa.
+
+Circular nº 3.672, de 23 de outubro de 2013
+
+Página 2 de 2

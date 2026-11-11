@@ -1,0 +1,65 @@
+---
+titulo: "Circular Nº 2.097"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2097"
+data: 1991-12-06
+ementa: "Inclui o financiamento da estocagem (\"warrantagem\") de álcool carburante entre as operações de crédito rural admitidas para efeito de aplicação de recursos dos depósitos especiais remunerados."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 10/12/1991, seção 1, p. 28326/28327."
+atualizacoes: ["Circular BCB nº 2.110/1991 DOU 31/12/1991 p. 31230 - Revogação total."]
+normas_vinculadas: ["CIRCULAR 2110/1991", "CIRCULAR 2058/1991", "CIRCULAR 2057/1991", "CIRCULAR 2001/1991"]
+referencias: ["Lei nº 8.024/1990, art. 20.", "Cita Circular BCB nº 2.058/1991, art. 1º.", "Cita Circular BCB nº 2.057/1991, art. 1º, I; art. 3º, parágrafo único.", "Altera Circular BCB nº 2.001/1991 - Dá nova redação a: art. 5º, V."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2097"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.097
+
+```
+                         CIRCULAR N. 002097
+                         ------------------
+
+                              INCLUI  O  FINANCIAMENTO  DA  ESTOCAGEM
+                              ("WARRANTAGEM")  DE  ÁLCOOL  CARBURANTE
+                              ENTRE AS OPERAÇÕES DE CRÉDITO RURAL AD-
+                              MITIDAS PARA EFEITO DE APLICAÇÃO DE RE-
+                              CURSOS  DOS DEPÓSITOS ESPECIAIS REMUNE-
+                              RADOS.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO REALIZADA EM 06.12.91, COM BASE NO DISPOSTO NO ART.
+20 DA LEI Nº 8.024, DE 12.04.90, DECIDIU:
+
+                    ART. 1º. ALTERAR O ART. 5º, INCISO V, DA CIRCULAR
+Nº  2.001, DE 06.08.91, COM A MODIFICAÇÃO INTRODUZIDA PELO ART. 1º DA
+CIRCULAR  Nº  2.058, DE 09.10.91, QUE PASSA A VIGORAR COM A  SEGUINTE
+REDAÇÃO:
+
+     "ART. 5º. .....................................................
+     ...............................................................
+     V  - 20% (VINTE POR CENTO), NO MÍNIMO, E 30% (TRINTA POR CENTO),
+     NO  MÁXIMO, NAS OPERAÇÕES DE CRÉDITO RURAL DESTINADAS A  CUSTEIO
+     DE  QUE  TRATA  O ART. 1º, INCISO I, DA CIRCULAR  Nº  2.057,  DE
+     09.10.91, DE EMPRÉSTIMO DO GOVERNO FEDERAL (EGF) REFERENTE À CO-
+     MERCIALIZAÇÃO  DE TRIGO, A QUE ALUDE O ART. 3º, PARÁGRAFO ÚNICO,
+     DA  MESMA CIRCULAR, E/OU DE FINANCIAMENTO DA ESTOCAGEM ("WARRAN-
+     TAGEM")  DE ÁLCOOL CARBURANTE -- EXCETO EM SE TRATANDO DE CAIXAS
+     ECONÔMICAS E ASSOCIAÇÕES DE POUPANÇA E EMPRÉSTIMO --, A TAXAS DE
+     JUROS  NÃO SUPERIORES À TAXA REFERENCIAL DIÁRIA  - TRD ACRESCIDA
+     DE  JUROS DE 12,5% (DOZE INTEIROS E CINCO DÉCIMOS POR CENTO)  AO
+     ANO, OBSERVADO QUE A METADE, NO MÍNIMO, DO PISO AQUI ESTABELECI-
+     DO DEVERÁ SER DIRECIONADA PARA AS FINALIDADES PRIORITÁRIAS DEFI-
+     NIDAS  NO  ART. 3º, PARÁGRAFO ÚNICO, DA MENCIONADA  CIRCULAR  Nº
+     2.057.
+     .............................................................."
+
+                    ART.  2º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 06 DE DEZEMBRO DE 1991
+
+                              GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                              DIRETOR
+```

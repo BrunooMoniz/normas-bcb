@@ -1,0 +1,57 @@
+---
+titulo: "Circular Nº 1.969"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1969"
+data: 1991-06-07
+ementa: "EMISSÃO E COLOCAÇÃO EXCLUSIVAMENTE NO EXTERIOR, EM MOEDA ESTRANGEIRA, DE DEBÊNTURES CONVERSÍVEIS EM AÇÕES, POR PARTE DE COMPANHIAS SEDIADAS NO PAÍS."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2199/92 DOU 20/07/1992 PAG 9575 - REVOGACAO TOTAL."]
+normas_vinculadas: ["CIRCULAR 2199/92"]
+referencias: ["LEI 6404/76 ART/54 ART/73.", "LEI 4595/64 ART/10 ITEM/VI.", "LEI 4131/62 ART/3."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1969"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.969
+
+```
+                         CIRCULAR N. 001969
+                         ------------------
+
+                              EMISSÃO  E COLOCAÇÃO EXCLUSIVAMENTE  NO
+                              EXTERIOR,  EM MOEDA ESTRANGEIRA, DE DE-
+                              BÊNTURES  CONVERSÍVEIS  EM  AÇÕES,  POR
+                              PARTE DE COMPANHIAS SEDIADAS NO PAÍS.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL,  EM  SESSÃO  DE 05.06.91, TENDO EM VISTA AS  DISPOSIÇÕES  DOS
+ARTS.  54 E 73 DA LEI Nº 6.404, DE 15.12.76, DO ART.10, INCISO VI, DA
+LEI Nº 4.595, DE 31.12.64, E DO ART. 3º DA LEI Nº 4.131, DE 03.09.62,
+DECIDIU:
+
+                    ART. 1º. DEPENDERÁ DA PRÉVIA AUTORIZAÇÃO DO BANCO
+CENTRAL DO BRASIL A EMISSÃO E A COLOCAÇÃO NO EXTERIOR, EM MOEDA   ES-
+TRANGEIRA, DE DEBÊNTURES CONVERSÍVEIS EM AÇÕES, POR PARTE   DE COMPA-
+NHIAS SEDIADAS NO PAÍS, OBSERVADAS AS DISPOSIÇÕES LEGAIS PERTINENTES,
+INCLUSIVE NO QUE CONCERNE À ÁREA DE COMPETÊNCIA DA COMISSÃO  DE VALO-
+RES MOBILIÁRIOS (CVM).
+
+                    ART. 2º. OS INGRESSOS DE DIVISAS  CORRESPONDENTES
+À COLOCAÇÃO DE DEBÊNTURES DE QUE SE TRATA DEVERÃO  SE DAR SOB A MODA-
+LIDADE DE EMPRÉSTIMO EXTERNO, COM BASE NA LEGISLAÇÃO EM VIGOR.
+
+                    ART. 3º. FICA O DEPARTAMENTO DE CAPITAIS  ESTRAN-
+GEIROS (FIRCE) AUTORIZADO A EXPEDIR AS NORMAS COMPLEMENTARES E ADOTAR
+AS  MEDIDAS JULGADAS NECESSÁRIAS À EXECUÇÃO DO DISPOSTO NESTA  CIRCU-
+LAR.
+
+                    ART. 4º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA  DE
+SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF),  6 DE JUNHO DE 1991
+
+                              JOUBERT FURTADO
+                              DIRETOR, EM EXERCÍCIO
+```

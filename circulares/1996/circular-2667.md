@@ -1,0 +1,69 @@
+---
+titulo: "Circular Nº 2.667"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2667"
+data: 1996-02-28
+ementa: "Revoga a regulamentação relativa a impedimento estabelecida no Manual de Crédito Agroindustrial (MCA)."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 29/2/1996, p. 3322."
+atualizacoes: ["Resolução BCB nº 157/2021 - Revogação total, a partir de 1º/12/2021."]
+normas_vinculadas: ["RESOLUÇÃO BCB 157/2021", "RESOLUÇÃO 1559/1988"]
+referencias: ["Lei nº 4.595/1964, art. 10, inciso V.", "Revoga MCA 1-4.", "Cita Lei nº 7.492/1986, arts. 19 e 20.", "Cita Resolução CMN nº 1.559/1988, item IX, alínea \"d\"."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2667"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.667
+
+```
+                         CIRCULAR N. 002667
+                         ------------------
+
+                              Revoga  a regulamentação relativa a im-
+                              pedimento  estabelecida  no  Manual  de
+                              Crédito Agroindustrial (MCA).
+
+               A Diretoria do Banco Central do Brasil, em sessão rea-
+lizada  em 28.02.96, com base no inciso V do art. 10 da Lei nº 4.595,
+de 31.12.64,
+
+D E C I D I U:
+
+               Art.  1º  Revogar  as disposições do Manual de Crédito
+Agroindustrial  (MCA) 1-4 relativas a impedimento para operar no cré-
+dito  agroindustrial,  ficando sem efeito os impedimentos  divulgados
+por este Órgão.
+
+               Art. 2º  Cumpre às instituições financeiras:
+
+               I  - na  concessão de crédito agroindustrial, observar
+a  regulamentação geral aplicável às demais operações de crédito,  em
+especial  o contido no item IX, alínea "d", da Resolução nº 1.559, de
+22.12.88;
+
+              II  - na  hipótese de verificação da ocorrência das si-
+tuações  capituladas nos arts. 19 e 20 da Lei nº 7.492, de  16.06.86,
+ou  de outras infrações previstas na legislação em vigor,  encaminhar
+os documentos comprobatórios à Delegacia Regional do Banco Central do
+Brasil  a que estiver jurisdicionada, para fins de comunicação às au-
+toridades tributárias ou ao Ministério Público, sob o título "Crédito
+Agroindustrial  -  Comunicação de Fraude Fiscal e/ou Ilícito  Penal",
+observados os seguintes códigos CADOC (Catálogo de Documentos):
+
+               a) bancos comerciais                   20.5.9.345-6;
+               b) bancos de desenvolvimento           22.5.9.345-4;
+               c) bancos de investimento              24.5.9.345-2;
+               d) bancos múltiplos                    26.5.9.345-0;
+               e) bancos/caixas econômicas estaduais  36.1.9.345-5.
+
+               Art.  3º  Esta  Circular entra em vigor na data de sua
+publicação.
+
+                              Brasília, 28 de fevereiro de 1996
+
+                              Cláudio Ness Mauch
+                              Diretor de Normas e Organização
+                              do Sistema Financeiro
+```

@@ -1,0 +1,44 @@
+---
+titulo: "Circular Nº 1.643"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1643"
+data: 1990-03-30
+ementa: "PLANO DE ESTABILIZACAO ECONOMICA - ALTERACAO DAS DISPOSICOES CONTIDAS NA RESOLUCAO 1692, DE 18/03/90, E NAS CIRCULARES 1636, DE 29/03/90, E 1637, DE 23/03/90 - LINHA ESPECIAL DE CREDITO A INSTITUICOES FINANCEIRAS COM CARTEIRA COMERCIAL, DESTINADA A FINANCIAR RECURSOS DAS FOLHAS DEPAGAMENTO - REVOGACAO DO ITEM VIII DO ARTIGO 1 DAS MENCIONADAS CIRCULARES."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2232/92 DOU 30/09/1992 PAG 13747 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1692/90", "CIRCULAR 1637/90", "CIRCULAR 2232/92", "CIRCULAR 1636/90"]
+referencias: ["RESOLUÇÃO CMN 1692/90 ART/2.", "REVOGA CIRCULAR BCB 1636/90 ART/1 ITEM/VIII.", "REVOGA CIRCULAR BCB 1637/90 ART/1 ITEM/VIII."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1643"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.643
+
+```
+                         CIRCULAR N. 001643
+                         ------------------
+
+ÀS
+INSTITUIÇÕES FINANCEIRAS COM CARTEIRA COMERCIAL.
+
+                              ALTERA  DISPOSIÇÕES  DAS CIRCULARES  Nº
+                              1.636 E 1.637, AMBAS DE 29.03.90.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM REUNIÃO REALIZADA EM 30.03.90, COM BASE NO DISPOSTO NO AR-
+TIGO 2º DA RESOLUÇÃO Nº 1.692, DE 18.03.90, DECIDIU:
+
+                    ART.  1º.  FICAM REVOGADOS O ITEM VIII DO  ARTIGO
+1º  DA CIRCULAR Nº 1.636, DE 29.03.90, E O ITEM VIII DO ARTIGO 1º  DA
+CIRCULAR Nº 1.637, DE 29.03.90.
+
+                    ART.  2º. ESTA CIRCULAR  ENTRARÁ EM VIGOR NA DATA
+DE SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF),30 DE MARÇO DE 1990
+
+                              LUIS EDUARDO ALVES DE ASSIS
+                              DIRETOR
+```

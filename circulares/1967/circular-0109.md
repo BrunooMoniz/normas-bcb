@@ -1,0 +1,97 @@
+---
+titulo: "Circular Nº 109"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "109"
+data: 1967-12-28
+ementa: "ARRECADACAO DE PREMIOS DE SEGURO - AJUSTES NA REGULAMENTACAO - PRESTACAO DO SERVICO DE ARRECADACAO DE PREMIOS DE SEGURO, NA FORMA DO DISPOSTO NOS DECRETOS 59195, DE 08/09/66 E 61589, DE 25/10/67."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 619/80 DOU 30/05/1980 PAG 10800 - RET: 12/06/1980 PAG 11556 - REVOGACAO: ITEM/V ITEM/VI ITEM/VII (A PARTIR DE 16/06/1980).", "RESOLUÇÃO CMN 1665/89 DOU 30/11/1989 PAG 22000 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 619/80", "RESOLUÇÃO 1665/89", "CIRCULAR 54/66"]
+referencias: ["CITA DEC 59195/66.   CITA DEC 61589/67.", "CITA DEC 61867/67.   CITA DL 73/66 ART/20.   CITA LEI 4380/64.", "CITA RESOLUÇÃO CNSP 25/67.   CITA CIRCULAR BCB 63/66 ITEM/VII INC/2.", "REVOGA CIRCULAR BCB 54/66."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=109"
+baixado_em: 2026-11-10
+---
+# Circular Nº 109
+
+```
+                         CIRCULAR N. 000109
+                         ------------------
+
+Aos
+Estabelecimentos Bancários
+
+         Comunicamos  que a Diretoria, tendo em vista  a  necessidade
+de  ajustar a regulamentação sobre a matéria ao verdadeiro sentido de
+prestação  de serviço que deve ser dado à arrecadação de  prêmios  de
+seguro,  na  forma do disposto nos Decretos nºs 59.195, de  8.9.66  e
+61.589, de 23.10.67, resolveu:
+
+         I   -   Permitir   que  os  estabelecimentos  bancários   já
+credenciados por este Banco Central continuem efetuando a arrecadação
+de  prêmios  de  seguro,  em  favor  das  Seguradoras,  inclusive  os
+relativos ao seguro obrigatório de responsabilidade civil previsto no
+art.  20  do  Decreto-lei nº 73, de 21.11.66,  e  regulamentado  pelo
+Decreto  nº 61.867, de 7.12.67 e Resolução nº 25/67, de 18.12.67,  do
+Conselho  Nacional de Seguros Privados, observadas as  normas  que  a
+respeito existem ou que vierem a ser baixadas por aquele Conselho  ou
+pela  Superintendência de Seguros Privados (SUSEP). Enquanto  não  se
+efetivar  a adaptação dos convênios às novas normas, prevalecerão  os
+instrumentos existentes.
+
+         II  -  Determinar o prazo de 120 dias, a contar desta  data,
+para  que os Bancos e as Seguradoras adaptem seus convênios às normas
+ora divulgadas, independentemente de nova autorização deste Órgão.
+
+         III   -   Estabelecer   as  seguintes  condições   a   serem
+preenchidas  pelos  Bancos não participantes ainda  do  sistema,  que
+vierem a requerer autorização para prestar o serviço:
+
+         a)  capital  realizado mínimo de NCR$500.000,00  (quinhentos
+mil cruzeiros novos);
+
+         b)  fiel  observância das normas legais e regulamentares  em
+vigor.
+
+         IV  - Instituir que os novos convênios sejam sempre firmados
+entre  as  Seguradoras  e Sedes ou Sucursais principais  dos  Bancos,
+abrangendo as agências de interesse das partes convenentes, devendo a
+inclusão  ou  exclusão  de  determinadas  dependências  formalizar-se
+mediante  simples  troca  de correspondência entre  os  contratantes,
+independentemente de qualquer comunicação ao Banco Central.
+
+         V   -   Admitir   que  a  contabilização  das   importâncias
+arrecadadas  se faça em conta transitória, sem juros,  subordinada  à
+rubrica  nº 3.03.245 "Devedores e Credores Diversos - País - Outros",
+de  "Outras  exigibilidades" do novo modelo de balanços e balancetes,
+conta essa que poderá ser mantida na própria agência recebedora ou em
+departamentos centralizadores previamente indicados nos convênios, na
+qual  será  debitado o imposto sobre operações financeiras  incidente
+sobre  o total arrecadado, a crédito da conta a que se refere o  item
+VII, inciso 2, da Circular nº 63, de 20.12.66.
+
+         VI  -  Estabelecer que os saldos apurados nos  últimos  dias
+úteis de cada quinzena serão transferidos para crédito das contas  de
+movimento  das  seguradoras,  deixando a  critério  dos  interessados
+convencionar,  quando lhes convier, menor prazo.  O  recolhimento  do
+imposto  sobre operações financeiras será efetuado no prazo  previsto
+na Circular nº 63, de 20.12.66.
+
+         VII  - O Banco Nacional da Habitação fica autorizado a reter
+e  recolher  ao Banco Central, na forma estipulada nesta Circular,  o
+imposto  incidente sobre os prêmios de seguro em favor  do  Consórcio
+Segurador  instituído em convênio especial para o Plano  Nacional  da
+Habitação,  de  acordo  com a Lei nº 4.380, de 21.8.64,  observada  a
+orientação constante desta e da citada Circular nº 63.
+
+         VIII - Fica revogada a Circular nº 54, de 5.10.66.
+
+                           Rio de Janeiro-GB, 28 de dezembro de 1967
+
+                           INSPETORIA DE BANCOS
+
+                           Moacyr de Araújo Simões
+                           Inspetor Geral
+```

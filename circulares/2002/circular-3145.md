@@ -1,0 +1,158 @@
+---
+titulo: "Circular Nº 3.145"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "3145"
+data: 2002-08-23
+ementa: "Dispõe sobre a realização pelo Banco Central do Brasil de leilões de venda de moeda estrangeira vinculados à concessão de adiantamentos sobre contratos de câmbio de exportação."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CARTA-CIRCULAR BCB 3036/2002 DOU 23/08/2002 PAG 24 - ESCLARECIMENTO: ART/4. REVOGACAO TOTAL (A PARTIR DE 03/09/2002).", "CIRCULAR BCB 3146/2002 DOU 02/09/2002 PAG 43 - REVOGACAO TOTAL (A PARTIR DE 03/09/2002)."]
+normas_vinculadas: ["RESOLUÇÃO 2664/99", "RESOLUÇÃO 1690/90", "CIRCULAR 3146/2002", "CIRCULAR 3083/2002", "CARTA CIRCULAR 3039/2002", "CARTA CIRCULAR 3036/2002", "CARTA CIRCULAR 3035/2002"]
+referencias: ["LEI 4595/64 ART/11.", "RESOLUÇÃO CMN 1690/90 2664/99.", "CIRCULAR BCB 3083/2002.", "CITA CIRCULAR BCB 2947/99."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3145"
+baixado_em: 2026-11-10
+---
+# Circular Nº 3.145
+
+```
+                         CIRCULAR N. 003145
+                         ------------------
+
+                               Dispõe  sobre a realização pelo  Banco
+                               Central do Brasil de leilões de  venda
+                               de  moeda  estrangeira  vinculados   à
+                               concessão   de   adiantamentos   sobre
+                               contratos de câmbio de exportação.
+
+           A  Diretoria  Colegiada  do Banco Central  do  Brasil,  em
+sessão extraordinária realizada em 20 de agosto de 2002, com base  no
+art. 11 da Lei 4.595, de 31 de dezembro de 1964 e na Resolução 1.690,
+de  18  de  março de 1990, alterada pela Resolução 2.664,  de  28  de
+outubro  de 1999, e tendo em vista o disposto na  Circular 3.083,  de
+30 de janeiro de 2002,
+
+D E C I D I U:
+
+           Art.  1º  O  Banco Central do Brasil realizará leilões  de
+venda  de  moeda  estrangeira na forma da Circular 3.083,  de  30  de
+janeiro  de  2002,  vinculados  à concessão  de  adiantamentos  sobre
+contratos  de  câmbio de exportação nas fases pré e  pós-embarque  da
+mercadoria,  observados  os  critérios e as  condições  estabelecidos
+nesta Circular.
+
+           Art.  2º  Estarão habilitados a participar dos leilões  de
+que  trata  esta  Circular os bancos autorizados a operar  em  câmbio
+credenciados  pelo  Banco  Central  do  Brasil  como  "dealers",   na
+modalidade, observados os limites definidos no art. 4º.
+
+           Art.  3º As operações de câmbio interbancárias resultantes
+dos  leilões  serão  realizadas para liquidação futura,  observado  o
+prazo  máximo de 185 dias, com entrega da moeda estrangeira por parte
+do Banco Central do Brasil até o segundo dia útil de sua celebração e
+entrega dos reais por parte do banco comprador na data prevista  para
+a liquidação dos contratos de câmbio interbancários.
+
+           Parágrafo  único.    Ao  valor de principal  dos  reais  a
+serem creditados ao Banco Central do Brasil na data da liquidação dos
+contratos  de  câmbio  deverá  ser acrescentada  a  correção  cambial
+observada no período, definida pela PTAX de venda do segundo dia útil
+anterior  à  data  da  liquidação, bem como  o  valor  resultante  da
+aplicação da taxa de aceite para a operação, indicada no Sisbacen  na
+transação PCAM380, calculado sobre o valor do principal corrigido.
+
+           Art.  4º Como forma de possibilitar maior participação  na
+distribuição da moeda estrangeira a ser vendida pelo Banco Central do
+Brasil,   o  limite  individual   atribuído  a  cada  "dealer"   será
+estabelecido de acordo com o volume de adiantamentos sobre  contratos
+de  câmbio de exportação, nas fases pré e pós-embarque da mercadoria,
+concedidos  a  exportadores  nas últimas quatro  semanas,  não  sendo
+considerados  em reavaliação futura aqueles concedidos  com  recursos
+oriundos de leilões da espécie, observado o limite máximo de  15%  do
+respectivo Patrimônio de Referência (PR).
+
+           §  1º  Os limites individuais serão definidos e informados
+periodicamente a cada "dealer".
+
+           §  2º   Os  contratos de câmbio interbancários que  tenham
+sido  liquidados  recomporão o limite de que trata  o  "caput"  deste
+artigo.
+
+           Art. 5º Até o quinto dia contado da data de realização  do
+leilão,  o  banco comprador da moeda estrangeira do Banco Central  do
+Brasil deverá celebrar contratos de câmbio de exportação, com 100% de
+adiantamento  da  moeda  nacional  para  o  exportador,  em  montante
+equivalente  em  moeda  estrangeira ao do contrato  interbancário  de
+compra  com  o Banco Central do Brasil, com recursos provenientes  do
+leilão, com as seguintes características:
+
+           I  -  código  de  grupo  específico e  prazo  mínimo  para
+liquidação de 90 (noventa) dias;
+
+           II  -  indicação,  no  campo "Outras Especificações",  das
+condições financeiras do adiantamento concedido.
+
+           Parágrafo  único.  A  totalidade do contravalor  em  moeda
+nacional  dos  contratos de câmbio tratados neste artigo  deverá  ser
+adiantada aos exportadores até o segundo dia útil de sua celebração.
+
+           Art.  6º   Na  hipótese de cancelamento, baixa, liquidação
+ou  transferência para posição especial de parte ou da totalidade  de
+contrato  de câmbio de exportação referido anteriormente  e  enquanto
+não  liquidada a operação de câmbio interbancária de compra de  moeda
+estrangeira  celebrada  com  o  Banco  Central  do  Brasil,  o  banco
+comprador  deverá  celebrar novo contrato de  câmbio  de  exportação,
+observados os procedimentos indicados no artigo 5º,  pelo mesmo valor
+cancelado, baixado, liquidado ou transferido para a posição especial,
+até o quinto dia contado da data de ocorrência do evento,  dispensada
+a exigência de prazo mínimo para liquidação.
+
+            Art.  7º   Na  hipótese de não atendimento  às  condições
+estabelecidas  nos artigos 5º e 6º, com relação à obrigatoriedade  de
+contratação  de  câmbio  de  exportação, o  banco  deverá  constituir
+depósito  no Banco Central do Brasil, sem remuneração, em  dólar  dos
+Estados Unidos, pelo valor excedente do saldo contratado com o  Banco
+Central do Brasil em relação aos contratos de câmbio de exportação em
+ser em cada dia, celebrados na forma disposta na presente Circular.
+
+           Parágrafo   único.   A  constituição  e  a  liberação   do
+depósito de que trata este artigo seguirão, no que couber, as  mesmas
+disposições da Circular 2.947, de 28 de outubro de 1999.
+
+             Art.  8º   O  contrato  de  câmbio  de  exportação  será
+considerado  válido para fins de verificação da destinação  da  moeda
+estrangeira  adquirida nos leilões de que trata  esta  Circular  pelo
+prazo  máximo  de   185  dias contados da data  de  sua  contratação,
+respeitado  o prazo de liquidação da operação de câmbio interbancária
+realizada com o Banco Central do Brasil.
+
+            Art.  9º  Exclusivamente para fins de depósito  no  Banco
+Central  do  Brasil  por excesso de posição de  câmbio  comprada,  as
+operações  de  câmbio  interbancárias  realizadas  ao  amparo   desta
+Circular  somente  gerarão impacto na posição de  câmbio  dos  bancos
+compradores  a  partir do segundo dia útil anterior à  data  prevista
+para liquidação dos contratos de câmbio interbancários.
+
+           Art. 10.   O  não  cumprimento das  disposições  previstas
+nesta   Circular  implicará  o  descredenciamento  para   operar   na
+sistemática ora estabelecida, sem prejuízo das demais sanções  legais
+e regulamentares aplicáveis.
+
+           Art.  11.  Ficam o Departamento de Operações das  Reservas
+Internacionais  (Depin) e o Departamento de Capitais  Estrangeiros  e
+Câmbio  (Decec)  autorizados  a baixar as  normas  e  demais  medidas
+necessárias  à execução do disposto nesta Circular, inclusive  dispor
+sobre os  limites a serem atribuídos aos respectivos "dealers".
+
+            Art.  12.   Esta Circular entrará em vigor na data de sua
+publicação.
+
+                        Brasília, 21 de agosto de 2002
+
+Beny Parnes                                  Luiz Fernando Figueiredo
+Diretor                                      Diretor
+
+---------------------------------------------------------------------
+Obs.: retransmitida para correção no prazo contido nos arts. 3º e 8º.
+```

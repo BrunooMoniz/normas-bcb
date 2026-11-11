@@ -1,0 +1,62 @@
+---
+titulo: "Circular Nº 1.981"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1981"
+data: 1991-06-28
+ementa: "DISPÕE SOBRE A EXIGIBILIDADE DE APLICAÇÕES EM CRÉDITO RURAL."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 1987/91 DOU 17/07/1991 PAG 14155 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1753/90", "CIRCULAR 1987/91", "CIRCULAR 1973/91"]
+referencias: ["RESOLUÇÃO CMN 1753/90 ART/3.", "CITA MCR 6/2 5/5 5/2/1/B.", "CITA CIRCULAR BCB 1973/91 ART/1.", "REVOGA CIRCULAR BCB 1973/91 ART/2 ART/3."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1981"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.981
+
+```
+                         CIRCULAR N. 001981
+                         ------------------
+
+                              DISPÕE SOBRE A EXIGIBILIDADE DE APLICA-
+                              ÇÕES EM CRÉDITO RURAL.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL,  EM  SESSÃO  REALIZADA EM 27.06.91, COM BASE NO  ART.  3º  DA
+RESOLUÇÃO Nº 1.753, DE 24.09.90, DECIDIU:
+
+                    ART.  1º. NO  MÍNIMO  OS SEGUINTES PERCENTUAIS DA
+EXIGIBILIDADE   DO  MCR  6-2  DEVEM  SER  SATISFEITOS  COM   CRÉDITOS
+CONCEDIDOS A PEQUENOS PRODUTORES:
+
+                      I  - 20%  (VINTE POR CENTO) NO PERÍODO DE AJUS-
+TAMENTO DO MÊS DE AGOSTO/91;
+
+                     II  - 40%  (QUARENTA  POR  CENTO)  NO PERÍODO DE
+AJUSTAMENTO DO MÊS DE SETEMBRO/91;
+
+                    III  - 60%  (SESSENTA POR CENTO)  A PARTIR DO PE-
+RÍODO DE AJUSTAMENTO DO MÊS DE OUTUBRO/91.
+
+                    PARÁGRAFO ÚNICO. ADMITE-SE COMO ENQUADRÁVEL NESTE
+ARTIGO  O CRÉDITO A COOPERATIVA COMPROVADAMENTE DESTINADO A  PEQUENOS
+PRODUTORES, SOB A FORMA DE REPASSE OU FORNECIMENTO DE BENS (MCR 5-5 E
+MCR  5-2-1-B RESPECTIVAMENTE), PARA CUSTEIO PREVISTO NO ARTIGO 1º  DA
+CIRCULAR Nº 1.973, DE 13.06.91.
+
+                    ART.  2º. A  PARTIR  DO PERÍODO DE AJUSTAMENTO DO
+MÊS  DE  AGOSTO DE 1991 NÃO PODERÁ SER COMPUTADA PARA  SATISFAÇÃO  DA
+EXIGIBILIDADE OPERAÇÃO INSCRITA EM "CRÉDITOS EM LIQUIDAÇÃO".
+
+                    ART.  3º. FICAM  REVOGADOS  OS ARTIGOS 2º E 3º DA
+CIRCULAR Nº 1.973, DE 13.06.91.
+
+                    ART.  4º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+                              BRASÍLIA (DF), 28 DE JUNHO DE 1991
+
+                              GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                              DIRETOR
+```

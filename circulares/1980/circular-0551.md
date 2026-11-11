@@ -1,0 +1,180 @@
+---
+titulo: "Circular Nº 551"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "551"
+data: 1980-07-02
+ementa: "PROGRAMA DE DESIMOBILIZACAO DE ATIVOS - RESOLUCAO 374, DE 09/04/76 - ALTERACAO DA TAXA DO CUSTO MINIMO DAS OPERACOES."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2551/98 DOU 25/09/1998 PAG 51 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2551/98"]
+referencias: ["CITA RESOLUÇÃO CMN 374/76 ITEM/IX.", "CITA RESOLUÇÃO CMN 374/76 ITEM/IV AL/B."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=551"
+baixado_em: 2026-11-10
+---
+# Circular Nº 551
+
+```
+                         CIRCULAR N. 000551
+                         ------------------
+
+Aos
+Bancos  de  Investimento  e  Sociedades de Crédito,  Financiamento  e
+Investimento
+
+         Comunicamos que o Banco Central, tendo em vista  o  disposto
+no  item IX da Resolução nº 374, de 09.04.76, decidiu elevar para 36%
+ao  ano,  o  custo  mínimo  previsto na alínea  "b"  do  item  IV  da
+mencionada Resolução.
+
+         2.   Em   conseqüência,  encontram-se   anexas   as   folhas
+necessárias à atualização do MNI 18-8-15 e 19-8-6.
+
+                             Brasília-DF, 2 de julho de 1980
+
+                             Antonio Chagas Meirelles
+                             Diretor
+
+_______________________
+
+TÍTULO  : BANCOS DE INVESTIMENTO - 18
+CAPÍTULO: Operações Ativas e Passivas - 8
+SEÇÃO   : Assistência Financeira - 15
+_____________________________________________________________________
+
+          dias, consecutivos ou não, por período de 120 dias.
+
+6  -  Os saldos utilizados com base nos limites previstos no item 5-a
+ podem ser consolidados em operações de desimobilização de ativos  do
+ banco  de  investimento devedor e/ou de pessoas físicas ou jurídicas
+ a ele ligadas, observadas as seguintes condições:
+ a) prazo não superior a 4 anos;
+ b) custo mínimo de 36% ao ano;                                   (*)
+ c) o  esquema  de  liquidação deve guardar  compatibilidade  com  as
+   condições de pagamento do bem alienado.
+
+7  - O Banco Central pode atender a efetivas necessidades de liquidez
+ que  superem  o  limite adicional previsto no item 5-a-II,  mediante
+ exame  de  cada  caso,  obrigando-se  antecipadamente  o  banco   de
+ investimento  a apresentar plano de desimobilização de  seus  ativos
+ ou  de  pessoas físicas ou jurídicas a ele ligadas, o qual deve  ser
+ concretizado no prazo máximo de 180 dias.
+
+8  -  Sobre  a  assistência  financeira  especial  prevista  no  item
+ anterior,  incidem os custos máximos estabelecidos para as operações
+ de  que  trata  o  item  5-a-II, sendo  que,  a  partir  da  efetiva
+ desimobilização de ativos, a operação que vier a ser pactuada  entre
+ o   Banco  Central  e  a  instituição  deve  observar  as  condições
+ constantes do item 6.
+
+9  -  Para  as operações da espécie, são feitos o crédito e o  débito
+ diretamente  à  conta  "Depósitos de  Instituições  Financeiras"  do
+ banco  de investimento, junto ao Banco do Brasil S.A., sob aviso  ao
+ interessado.
+
+10  -  O  banco  de investimento assume, contratualmente, compromisso
+ expresso  de,  quando  o Banco Central exigir, promover  a  imediata
+ caução   de   direitos  creditórios  emergentes  de   contratos   de
+ financiamento por ele realizados, descritos em "Termo de Tradição".
+
+11  -  Essa  caução deve ser equivalente a, no mínimo, 120% (cento  e
+ vinte  por  cento)  das respectivas utilizações,  sem  prejuízo  dos
+ avales  apostos  de,  pelo menos, 2 (dois)  diretores  do  banco  de
+ investimento,  nas  notas  promissórias representativas  dos  saques
+ efetuados ao abrigo do contrato de abertura de crédito firmado.
+
+12  - Em circunstâncias especiais, a critério do Banco Central, podem
+ ser  exigidos  bens imóveis de propriedade do banco de investimento,
+ ou  de  pessoas  físicas ou jurídicas a ele ligadas,  como,  também,
+ caução de valores mobiliários, em reforço da garantia constituída.
+
+13  - O Banco Central pode aumentar ou reduzir, em até 50% (cinqüenta
+ por  cento)  de  seus  valores, os limites,  prazos  e  custos  aqui
+ previstos.
+
+14  -  A utilização sistemática do crédito aberto consoante o item  3
+ pode  determinar  providências  do  Banco  Central  no  sentido   de
+ restringir  as operações ativas do banco de investimento,  inclusive
+ com  a  suspensão temporária da autorização que eventualmente  tenha
+ sido  concedida  para atuar como agente financeiro  de  instituições
+ oficiais.
+
+15  -  O  banco  de  investimento que responda por  responsabilidades
+ decorrentes de consolidação de dívidas com o Banco Central,  ou  que
+ já  tenha  sido  beneficiado com o programa  de  desimobilização  de
+ ativos, somente pode ter acesso a novo mecanismo median-
+
+_____________________________________________________________________
+
+TÍTULO  : SOCIEDADES DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO - 19
+CAPÍTULO: Operações Ativas e Passivas - 8
+SEÇÃO   : Assistência Financeira - 6
+_____________________________________________________________________
+
+          30º dia, a contar da data da utilização;
+        - eleva-se  para  58%  ao  ano, sempre  que  a  sociedade  de
+          crédito,  financiamento e investimento utilizar o  crédito,
+          parcial  ou  totalmente, por mais de 90 dias,  consecutivos
+          ou não, por período de 120 dias.
+
+6  -  Os saldos utilizados com base nos limites previstos no item 5-a
+ podem ser consolidados em operações de desimobilização de ativos  da
+ sociedade de crédito, financiamento e investimento devedora e/ou  de
+ pessoas  físicas ou jurídicas a ela ligadas, observadas as seguintes
+ condições:
+ a) prazo não superior a 4 anos;
+ b) custo mínimo de 36% ao ano;                                   (*)
+ c) o  esquema  de  liquidação deve guardar  compatibilidade  com  as
+   condições de pagamento do bem alienado.
+
+7  - O Banco Central pode atender a efetivas necessidades de liquidez
+ que  superem  o  limite adicional previsto no item 5-a-II,  mediante
+ exame  de  cada  caso, obrigando-se antecipadamente a  sociedade  de
+ crédito,   financiamento  e  investimento  a  apresentar  plano   de
+ desimobilização de seus ativos ou de pessoas físicas ou jurídicas  a
+ ela  ligadas,  o qual deve ser concretizado no prazo máximo  de  180
+ dias.
+
+8  -  Sobre  a  assistência  financeira  especial  prevista  no  item
+ anterior,  incidem os custos máximos estabelecidos para as operações
+ de  que  trata  o  item  5-a-II, sendo  que,  a  partir  da  efetiva
+ desimobilização de ativos, a operação que vier a ser pactuada  entre
+ o   Banco  Central  e  a  instituição  deve  observar  as  condições
+ constantes do item 6.
+
+9  -  Para  as operações da espécie, são feitos o crédito e o  débito
+ diretamente  à  conta  "Depósitos de Instituições  Financeiras"  das
+ sociedades de crédito, financiamento e investimento, junto ao  Banco
+ do Brasil S.A., sob aviso às interessadas.
+
+10  -  A  sociedade de crédito, financiamento e investimento  assume,
+ contratualmente,  compromisso expresso de, quando  o  Banco  Central
+ exigir,   promover   a  imediata  caução  de  direitos   creditórios
+ emergentes   de  contratos  de  financiamento  por  ela  realizados,
+ descritos em "Termo de Tradição".
+
+11  -  Essa  caução deve ser equivalente a, no mínimo, 120% (cento  e
+ vinte  por  cento)  das respectivas utilizações,  sem  prejuízo  dos
+ avales  apostos  de, pelo menos, 2 (dois) diretores  das  sociedades
+ nas  notas  promissórias  representativas dos  saques  efetuados  ao
+ abrigo do contrato de abertura de crédito firmado.
+
+12  - Em circunstâncias especiais, a critério do Banco Central, podem
+ ser  exigidos bens imóveis de propriedade da sociedade  de  crédito,
+ financiamento e investimento, ou de pessoas físicas ou  jurídicas  a
+ ela  ligadas, como também, caução de valores mobiliários, em reforço
+ da garantia constituída.
+
+13  - O Banco Central pode aumentar ou reduzir, em até 50% (cinqüenta
+ por  cento)  de  seus  valores, os limites,  prazos  e  custos  aqui
+ previstos.
+
+14  -  A utilização sistemática do crédito aberto consoante o item  3
+ pode  determinar  providências  do  Banco  Central  no  sentido   de
+ restringir   as   operações  ativas  das  sociedades   de   crédito,
+ financiamento  e investimento, inclusive com a suspensão  temporária
+ da  autorização  que eventualmente tenha sido concedida  para  atuar
+ como agente financeiro de instituições oficiais.
+```

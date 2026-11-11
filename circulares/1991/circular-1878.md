@@ -1,0 +1,138 @@
+---
+titulo: "Circular Nº 1.878"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1878"
+data: 1991-01-09
+ementa: "CONTINGENCIAMENTO DO CREDITO AO SETOR PUBLICO - RESOLUCAO 1718, DE 29/05/90 - OPERACOES DE ANTECIPACAO DE RECEITA ORCAMENTARIA - INSTITUICAO DE DEMONSTRATIVO."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2358/93 DOU 19/08/1993 PAG 12179-82 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1718/90", "CIRCULAR 2358/93", "CIRCULAR 2153/92"]
+referencias: ["RESOLUÇÃO CMN 1718/90.", "CITA CIRCULAR BCB 1788/90 ART/6."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1878"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.878
+
+```
+                         CIRCULAR N. 001878
+                         ------------------
+ÀS
+INSTITUIÇÕES FINANCEIRAS E
+SOCIEDADES DE ARRENDAMENTO MERCANTIL
+
+                              INSTITUI  DEMONSTRATIVO DE CONTROLE DAS
+                              OPERAÇÕES  DE CRÉDITO REALIZADAS COM  O
+                              SETOR PÚBLICO, NA MODALIDADE DE ANTECI-
+                              PAÇÃO DE RECEITAS ORÇAMENTÁRIAS - ARO.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL,  EM SESSÃO REALIZADA EM 09.01.91, COM BASE NO DISPOSTO NO AR-
+TIGO 16, DA RESOLUÇÃO Nº 1.718, DE 29.05.90, DECIDIU:
+
+                    ART.  1º. INSTITUIR O  DEMONSTRATIVO  DE CONTROLE
+DAS OPERAÇÕES DE ANTECIPAÇÃO DE RECEITAS ORÇAMENTÁRIAS - ARO REALIZA-
+DAS  PELAS INSTITUIÇÕES FINANCEIRAS E SOCIEDADES DE ARRENDAMENTO MER-
+CANTIL  COM O SETOR PÚBLICO, MODELO 24015-2 E CODIFICADO NO  CATÁLOGO
+DE DOCUMENTOS - CADOC SOB OS SEGUINTES NÚMEROS:
+
+BANCOS COMERCIAIS                                       20.1.3.065-1
+BANCOS DE DESENVOLVIMENTO                               22.1.3.065-9
+BANCOS DE INVESTIMENTO                                  24.1.3.065-7
+BANCOS MÚLTIPLOS                                        26.1.3.065-5
+CAIXAS ECONÔMICAS ESTADUAIS                             36.1.3.065-2
+CAIXA ECONÔMICA FEDERAL                                 38.0.3.065-7
+SOC. DE ARRENDAMENTO MERCANTIL                          77.1.3.065-9
+SOC. DE CRÉDITO FIN. E INVESTIMENTOS                    81.1.3.065-2
+SOC. DE CRÉDITO IMOBILIÁRIO                             83.1.3.065-0
+
+                    ART.  2º. O  DEMONSTRATIVO DE QUE SE TRATA DEVERÁ
+SER  ASSINADO POR, NO MÍNIMO, DOIS DIRETORES OU REPRESENTANTES LEGAL-
+MENTE  CONSTITUÍDOS DA INSTITUIÇÃO E ENCAMINHADO, MENSALMENTE, AO DE-
+PARTAMENTO DE OPERAÇÕES BANCÁRIAS (DEBAN) OU À DELEGACIA REGIONAL QUE
+JURISDICIONE  A INSTITUIÇÃO INFORMANTE, A PARTIR DA POSIÇÃO REFERENTE
+AO  MÊS DE DEZEMBRO DE 1990, ATÉ O DIA 20 (VINTE) DO MÊS  SUBSEQÜENTE
+AO DA POSIÇÃO INFORMADA, OU NO DIA ÚTIL IMEDIATAMENTE POSTERIOR, SE O
+DIA 20 (VINTE) NÃO FOR DIA ÚTIL.
+
+                    ART.  3º. NA HIPÓTESE  DE O DEMONSTRATIVO NÃO SER
+ENTREGUE NA DATA FIXADA, O BANCO CENTRAL DO BRASIL APLICARÁ, INDEPEN-
+DENTEMENTE DE OUTRAS JULGADAS CABÍVEIS, AS SANÇÕES PREVISTAS NO ARTI-
+GO 6º, DA CIRCULAR Nº 1.788, DE 31.07.90.
+
+                    ART.  4º. ESTA  CIRCULAR  ENTRA  EM VIGOR NA DATA
+DE SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF),  9 DE JANEIRO DE 1.991
+
+LUIS EDUARDO ALVES DE ASSIS         GUSTAVO JORGE LABOISSIÈRE LOYOLA
+DIRETOR                             DIRETOR
+
+ELISEU MARTINS
+DIRETOR
+
+                                             -----------------------
+                                             CADOC Nº
+                                             -----------------------
+
+       DEMONSTRATIVO CONSOLIDADO DAS OPERAÇÕES SOB CONTROLE -
+                          CIRCULAR Nº 1.878
+
+                                             -----------------------
+                                             MÊS DE REFERÊNCIA:
+
+                                             -----------------------
+--------------------------------------------------------------------
+INSTITUIÇÃO:
+--------------------------------------------------------------------
+CGC:                               TELEFONE:
+--------------------------------------------------------------------
+ENDEREÇO:
+--------------------------------------------------------------------
+
+OPERAÇÕES DE ANTECIPAÇÃO DE RECEITAS ORÇAMENTÁRIAS - ARO,
+REALIZADAS NO MÊS DE REFERÊNCIA:
+====================================================================
+ENTIDADE                    |DATA DA      |DATA DO       |VALOR
+                            |OPERAÇÃO     |VENCIMENTO    |EM CR$ MIL
+====================================================================
+                            |             |              |
+--------------------------------------------------------------------
+                            |             |              |
+--------------------------------------------------------------------
+                            |             |              |
+--------------------------------------------------------------------
+                            |             |              |
+--------------------------------------------------------------------
+                            |             |              |
+--------------------------------------------------------------------
+                            |             |              |
+--------------------------------------------------------------------
+                            |             |              |
+--------------------------------------------------------------------
+T O T A L                                                |
+====================================================================
+SALDO DAS OPERAÇÕES DE ARO NO MÊS ANTERIOR:              |
+--------------------------------------------------------------------
+SALDO DAS OPERAÇÕES DE ARO NO MÊS DE REFERÊNCIA:         |
+====================================================================
+
+              OS SIGNATÁRIOS DESTE DOCUMENTO SE RESPONSABILIZAM PELA
+VERACIDADE  DOS ELEMENTOS E DADOS NELE CONTIDOS E PELA TOTAL COMPATI-
+BILIDADE  DAS  POSIÇÕES DECLARADAS COM OS REGISTROS  CONTÁBEIS  DESTA
+INSTITUIÇÃO.
+
+--------------------------------------------------------------------
+ASSINATURA:                               CPF:
+--------------------------------------------------------------------
+NOME:                                     CARGO:
+--------------------------------------------------------------------
+ASSINATURA:                               CPF:
+--------------------------------------------------------------------
+NOME:                                     CARGO:
+--------------------------------------------------------------------
+LOCAL/DATA
+--------------------------------------------------------------------
+```

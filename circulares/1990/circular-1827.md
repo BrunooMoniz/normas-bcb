@@ -1,0 +1,52 @@
+---
+titulo: "Circular Nº 1.827"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1827"
+data: 1990-10-25
+ementa: "PERMITE A APLICAÇÃO EM OPERAÇÕES DE CRÉDITO RURAL DO MCR 6-3 DE RECURSOS CAPTADOS POR DIR ORIUNDOS DE DEPÓSITOS DE POUPANÇA."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 3081/2002 DOU 21/01/2002 PAG 26 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1702/90", "RESOLUÇÃO 1745/90", "CIRCULAR 3081/2002"]
+referencias: ["RESOLUÇÃO CMN 1745/90 ART/5.", "RESOLUÇÃO CMN 1702/90 ART/3.", "CITA RESOLUÇÃO CMN 1745/90 ART/2 PARAG/2."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1827"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.827
+
+```
+                         CIRCULAR N. 001827
+                         ------------------
+
+                             PERMITE A APLICAÇÃO EM OPERAÇÕES DE CRÉ-
+                             DITO RURAL DO MCR 6-3 DE RECURSOS CAPTA-
+                             DOS  POR  DIR ORIUNDOS DE  DEPÓSITOS  DE
+                             POUPANÇA.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL,  EM REUNIÃO REALIZADA EM 24.10.90, TENDO EM VISTA O  DISPOSTO
+NO  ARTIGO  5º DA RESOLUÇÃO Nº 1.745, DE 30.08.90, E NO ARTIGO 3º  DA
+RESOLUÇÃO Nº 1.702, DE 25.04.90, DECIDIU QUE:
+
+                    ART. 1º.  OS RECURSOS CAPTADOS ATRAVÉS DE DEPÓSI-
+TOS  INTERFINANCEIROS VINCULADOS AO CRÉDITO RURAL (DIR), ORIUNDOS  DE
+DEPÓSITOS  DE  POUPANÇA, DE QUE TRATA O PARÁGRAFO 2º DO ARTIGO 2º  DA
+RESOLUÇÃO  Nº 1.745, DE 30.08.90, PODERÃO SER APLICADOS EM  OPERAÇÕES
+DE CRÉDITO RURAL ENQUADRÁVEIS NO MCR 6-3.
+
+                    PARÁGRAFO ÚNICO. AS INSTITUIÇÕES DEPOSITÁRIAS DE-
+VERÃO  MANTER SUBTÍTULOS DE USO INTERNO NO PLANO CONTÁBIL DAS  INSTI-
+TUIÇÕES DO SISTEMA FINANCEIRO NACIONAL - COSIF, PARA FINS DE CONTROLE
+DOS  DIR E DAS  RESPECTIVAS  APLICAÇÕES EM CRÉDITO RURAL DE QUE TRATA
+ESTE ARTIGO, À DISPOSIÇÃO DO BANCO CENTRAL DO BRASIL.
+
+                    ART. 2º.  ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 25 DE OUTUBRO DE 1990
+
+                              GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                              DIRETOR
+```

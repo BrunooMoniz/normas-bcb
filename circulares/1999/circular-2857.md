@@ -1,0 +1,111 @@
+---
+titulo: "Circular Nº 2.857"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2857"
+data: 1999-01-25
+ementa: "Dispõe sobre limites de posição de câmbio e divulga esclarecimentos sobre as operações de câmbio que as instituições autorizadas e credenciadas podem realizar."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 3280/2005 DOU 14/03/2005 PAG 16 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2588/99", "RESOLUÇÃO 1552/88", "RESOLUÇÃO 1690/90", "CIRCULAR 3280/2005"]
+referencias: ["RESOLUÇÃO CMN 1690/90 ART/10.", "RESOLUÇÃO CMN 1552/88 ITEM/I AL/E.", "RESOLUÇÃO CMN 1552/88 ITEM/II ITEM/IV.", "RESOLUÇÃO CMN 2588/99."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2857"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.857
+
+```
+                         CIRCULAR N. 002857
+                         ------------------
+
+                                   Dispõe sobre limites de posição de
+                                   câmbio  e  divulga esclarecimentos
+                                   sobre   as operações de câmbio que
+                                   as   instituições   autorizadas  e
+                                   credenciadas podem realizar.
+
+               A Diretoria Colegiada  do Banco Central  do Brasil, em
+sessão realizada em   25.01.1999, com base no  artigo 10 da Resolução
+nº 1.690, de 18.03.1990,   e nos incisos  I - alínea "e",  II e IV da
+Resolução nº 1.552, de 22.12.1988, e  tendo em vista o   disposto  na
+Resolução nº 2.588, de  25.01.1999,
+
+D E C I D I U:
+
+               Art. 1º A  posição de câmbio  vendida passa  a ter por
+limite:
+
+               I - para os bancos autorizados  a operar no mercado de
+taxas livres e credenciados a operar  no mercado de taxas flutuantes:
+o total representado  pela soma  dos limites atualmente  fixados para
+cada banco nos dois segmentos;
+
+               II - para os  bancos credenciados a  operar somente no
+mercado de taxas  flutuantes: o  mesmo limite atualmente  fixado para
+cada banco;
+
+               III  -  para  as   sociedades  corretoras,  sociedades
+distribuidoras de  títulos  e  valores  mobiliários  e  sociedades de
+crédito,  financiamento  e  investimento  credenciadas  a  operar  no
+mercado de taxas flutuantes: o limite fica mantido em zero.
+
+               Parágrafo único. Ficam  mantidas as  regras aplicáveis
+aos eventuais excessos sobre os limites referidos neste artigo.
+
+               Art. 2º Relativamente à posição de câmbio comprada:
+
+               I - para os bancos autorizados  a operar no mercado de
+taxas livres e credenciados a operar  no mercado de taxas flutuantes:
+deve ser objeto de depósito, neste Banco Central, o valor excedente a
+US$6.000.000,00  (seis  milhões  de  dólares  dos  Estados   Unidos),
+mantidos os procedimentos atualmente vigentes para esse efeito;
+
+               II - para os  bancos credenciados a  operar somente no
+mercado de taxas futuantes:  deve ser objeto de depósito, neste Banco
+Central, o valor excedente  a  US$1.000.000,00 (um  milhão de dólares
+dos Estados  Unidos), mantidos  os procedimentos  atualmente vigentes
+para esse efeito;
+
+               III   -   para   sociedades   corretoras,   sociedades
+distribuidoras de  títulos  e  valores  mobiliários  e  sociedades de
+crédito,  financiamento  e  investimento  credenciadas  a  operar  no
+mercado de taxas flutuantes: o limite  fica mantido em  US$500.000,00
+(quinhentos mil dólares dos Estados Unidos).
+
+               Parágrafo  único.  Ficam  também  mantidas  as  regras
+aplicáveis aos eventuais depósitos não realizados e excessos sobre os
+limites referidos neste artigo.
+
+               Art. 3º  Ficam mantidos  os  valores, as  regras  e as
+condições relativos aos limites operacionais  das agências de turismo
+e dos meios de  hospedagem credenciados a operar  no mercado de taxas
+flutuantes.
+
+               Art. 4º Ficam mantidas todas as regras existentes para
+compra e venda  de moeda estrangeira  e transferências internacionais
+em reais previstas nas  normas cambiais em vigor  para os mercados de
+câmbio de taxas livres e de taxas flutuantes.
+
+               Art. 5º As  operações de câmbio  devem continuar sendo
+registradas no SISBACEN  por intermédio  das transações PCAM,  com as
+separações  "L"  e  "F",  ou  PMTF,   conforme  a  característica  da
+instituição autorizada e/ou credenciada, observada, ainda, a natureza
+da operação,  a  distinção  entre  setor  público  e  setor  privado,
+mantidos  os  mesmos  prazos,   limites,  condições  e  procedimentos
+praticados até esta data.
+
+               Art.  6º  Em   conseqüência  do   disposto  no  artigo
+anterior,  permanecem   inalterados  os   critérios   aplicáveis  aos
+registros contábeis das operações de câmbio e dos demais atos e fatos
+administrativos a elas vinculados.
+
+               Art. 7º Esta  Circular entra em  vigor na  data de sua
+publicação, produzindo efeitos a partir de 1º.02.1999.
+
+                         Brasília, 25 de janeiro de 1999
+
+                         Demosthenes Madureira de Pinho Neto
+                         Diretor
+```

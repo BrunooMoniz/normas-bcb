@@ -1,0 +1,53 @@
+---
+titulo: "Circular Nº 726"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "726"
+data: 1982-08-27
+ementa: "Determina providências relativas aos financiamentos de cacau concedidos em 1982."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 30/8/1982, p. 16.103."
+atualizacoes: ["Resolução CMN nº 2.535/1998 - Revogação total."]
+normas_vinculadas: ["CIRCULAR 920/1985", "CIRCULAR 766/1983", "RESOLUÇÃO 2535/1998"]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=726"
+baixado_em: 2026-11-10
+---
+# Circular Nº 726
+
+```
+                         CIRCULAR N. 000726
+                         ------------------
+
+Às
+Instituições Financeiras do Sistema Nacional de Crédito Rural
+
+         Comunicamos   que   devem   ser   adotadas   as    seguintes
+providências  relativamente aos financiamentos de  custeio  de  cacau
+concedidos em 1982:
+
+         a)  prorrogar  o  principal para pagamento em  4  prestações
+iguais, vencíveis em 31.01.83, 31.01.84, 31.01.85 e 31.01.86;
+
+         b)  prorrogar  os  acessórios vencidos e vencíveis  em  1982
+para cobrança juntamente com a primeira prestação;
+
+         c)  efetuar  a cobrança dos acessórios devidos a  partir  de
+31.01.83 à mesma época do vencimento das prestações anuais.
+
+         2.  Os  beneficiários das prorrogações poderão receber novos
+empréstimos  para custeio de suas lavouras, na vigência  dos  débitos
+abrangidos pela composição, desde que:
+
+         a)   os   limites   regulamentares  de  adiantamento   sejam
+reduzidos em 20%;
+
+         b)  em  cada  ciclo  se  tenha verificado  a  liquidação  da
+prestação de principal e acessórios prevista no item anterior.
+
+                             Brasília-DF, 27 de agosto de 1982
+
+                             José Kléber Leite de Castro
+                             Diretor
+```

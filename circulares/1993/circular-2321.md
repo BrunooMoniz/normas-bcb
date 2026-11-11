@@ -1,0 +1,69 @@
+---
+titulo: "Circular Nº 2.321"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2321"
+data: 1993-06-17
+ementa: "Programa Federal de Desregulamentação. Divulga alteração no Regulamento de Câmbio de Exportação instituído pela Circular nº 2.231, de 25.09.92."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Circular BCB nº 3.718/2014 - Revogação total."]
+normas_vinculadas: ["RESOLUÇÃO 1964/1992", "CIRCULAR 2231/1992", "CIRCULAR 2322/1993", "CIRCULAR 3718/2014"]
+referencias: ["Resolução CMN nº 1.964/1992, art. 5º.", "Altera CNC 5-2-1.", "Cita Circular BCB nº 2.231/1992."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2321"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.321
+
+```
+                         CIRCULAR N. 002321
+                         ------------------
+
+                            PROGRAMA  FEDERAL  DE  DESREGULAMENTAÇÃO.
+                            DIVULGA  ALTERAÇÃO NO REGULAMENTO DE CÂM-
+                            BIO  DE EXPORTAÇÃO INSTITUÍDO  PELA  CIR-
+                            CULAR Nº 2.231, DE 25.09.92.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL,  EM SESSÃO REALIZADA EM 16.06.93, COM  BASE NO ART. 5º DA RE-
+SOLUÇÃO Nº 1.964, DE 25.09.92, DECIDIU:
+
+                    ART.  1º.  PROMOVER  ALTERAÇÃO NO REGULAMENTO  DE
+CÂMBIO  DE EXPORTAÇÃO (CAPÍTULO 5 DA CONSOLIDAÇÃO DAS NORMAS CAMBIAIS
+-  CNC),  INSTITUÍDO PELA CIRCULAR Nº 2.231, DE 25.09.92,  PERMITINDO
+QUE  A CONTRATAÇÃO DO CÂMBIO DE EXPORTAÇÃO SEJA EFETIVADA NO PRAZO DE
+ATÉ 90 (NOVENTA) DIAS CONTADOS DA DATA DO EMBARQUE DAS MERCADORIAS.
+
+                    ART.  2º. ENCONTRA-SE ANEXA A FOLHA NECESSÁRIA  À
+ATUALIZAÇÃO DO REFERIDO REGULAMENTO.
+
+                    ART.  3º. ESTA  CIRCULAR  ENTRA EM  VIGOR NA DATA
+DE  SUA  PUBLICAÇÃO, ALCANÇANDO OS REGISTROS DE EXPORTAÇÃO  EFETUADOS
+ATÉ ESTA DATA.
+                              BRASÍLIA (DF), 17 DE JUNHO DE 1993
+
+                             J. R. NOVAES DE ALMEIDA
+                             DIRETOR
+
+NOTA: A  FOLHA DE ATUALIZAÇÃO A QUE SE REFERE ESTA CIRCULAR SERÁ DIS-
+      TRIBUÍDA  AOS ASSINANTES DA CONSOLIDAÇÃO DAS NORMAS CAMBIAIS  -
+      CNC. PUBLICAM-SE A SEGUIR AS ALTERAÇÕES INTRODUZIDAS NO MANUAL.
+
+CONSOLIDAÇÃO DAS NORMAS CAMBIAIS
+CAPÍTULO: EXPORTAÇÃO - 5
+TÍTULO  : CONTRATAÇÃO DO CÂMBIO - 2
+
+ 1 - AS  OPERAÇÕES  DE CÂMBIO REFERENTES A EXPORTAÇÕES CUJO PRAZO  DE
+     PAGAMENTO  NÃO  EXCEDA A 180 (CENTO E OITENTA) DIAS OU 6  (SEIS)
+     MESES, CONTADOS DA DATA DO EMBARQUE, PODEM SER CELEBRADAS PRÉVIA
+     OU POSTERIORMENTE AO EMBARQUE DAS MERCADORIAS, OBSERVADO QUE:
+
+     A) SE PREVIAMENTE AO EMBARQUE DAS MERCADORIAS, A ANTECIPAÇÃO MÁ-
+        XIMA É DE 180 (CENTO E OITENTA) DIAS;
+
+     B) SE  POSTERIORMENTE AO EMBARQUE DAS MERCADORIAS, O PRAZO É LI-
+        MITADO AO 5º (QUINTO) DIA ÚTIL SEGUINTE À DATA DO RECEBIMENTO
+        DO  VALOR EM MOEDA ESTRANGEIRA OU NO MÁXIMO ATÉ DECORRIDOS 90
+        (NOVENTA) DIAS CONTADOS DA DATA DO EMBARQUE.              (*)
+```

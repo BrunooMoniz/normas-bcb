@@ -1,0 +1,67 @@
+---
+titulo: "Circular Nº 1.821"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1821"
+data: 1990-09-21
+ementa: "REGULAMENTA O DISPOSTO NA RESOLUÇÃO Nº 1.752, DE 21.09.90, REFERENTE AO FINANCIAMENTO DE ESTOCAGEM DA PRODUÇÃO NACIONAL DE TRIGO E TRITICALE."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 1934/91 DOU 12/04/91 PAG 6822 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1752/90", "CIRCULAR 1934/91"]
+referencias: ["REGULAMENTA RESOLUÇÃO CMN 1752/90."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1821"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.821
+
+```
+                         CIRCULAR N. 001821
+                         ------------------
+
+                              REGULAMENTA O DISPOSTO NA RESOLUÇÃO Nº
+                              1.752, DE 21.09.90, REFERENTE AO FINAN-
+                              CIAMENTO  DE ESTOCAGEM DA PRODUÇÃO  NA-
+                              CIONAL DE TRIGO E TRITICALE.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO REALIZADA EM 21.09.90, COM BASE NO ART. 4º DA RESO-
+LUÇÃO Nº 1.752, DE 21.09.90, DECIDIU:
+
+                    ART.  1º. ESTABELECER   QUE  A  RESTRIÇÃO  DO MCR
+6-1-6 E 6-2-9-J (PRAZO IGUAL OU INFERIOR A NOVENTA DIAS) NÃO SE APLI-
+CA AOS EMPRÉSTIMOS DO GOVERNO FEDERAL (EGF) PREVISTOS  NOS ARTIGOS 1º
+E 2º DA CITADA RESOLUÇÃO.
+
+                    ART.  2º. ESCLARECER   QUE AS NORMAS OPERACIONAIS
+DOS FINANCIAMENTOS DE QUE SE TRATA SERÃO ELABORADAS E DIVULGADAS PELA
+COMPANHIA  DE FINANCIAMENTO DA PRODUÇÃO - CFP, NA FORMA DO MCR 4-1-4-
+A.
+
+                    ART.  3º. ESTABELECER QUE AS OPERAÇÕES DE CUSTEIO
+VENCIDAS E NÃO LIQUIDADAS, ENQUADRÁVEIS NO ARTIGO 3º DA MESMA RESOLU-
+ÇÃO,  DEVEM  SER  PRORROGADOS PARA LIQUIDAÇÃO EM 28 DE  FEVEREIRO  DE
+1991, MANTIDAS AS DEMAIS CONDIÇÕES CONTRATUAIS.
+
+                    ART.  4º. ESCLARECER  QUE O DÉBITO NÃO PODERÁ SER
+OBJETO DE PRORROGAÇÃO NA FORMA PREVISTA NESTA CIRCULAR, SE O PRODUTOR
+OU COOPERATIVA JÁ HOUVER COMERCIALIZADO A PRODUÇÃO OU QUANDO SE VERI-
+FICAR:
+
+                      I  - DESVIO DE RECURSOS PARA FINS NÃO PREVISTOS
+NO INSTRUMENTO DE CRÉDITO;
+
+                     II  - ALIENAÇÃO, ABANDONO OU REMOÇÃO INDÉBITA DE
+GARANTIA;
+
+                    III - QUALQUER OUTRA IRREGULARIDADE GRAVE.
+
+                    ART.  5º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 21 DE SETEMBRO DE 1990.
+
+                              GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                              DIRETOR
+```

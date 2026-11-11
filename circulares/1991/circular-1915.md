@@ -1,0 +1,53 @@
+---
+titulo: "Circular Nº 1.915"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1915"
+data: 1991-03-19
+ementa: "ESCLARECE ACERCA DA INCIDÊNCIA DE IOF NAS OPERAÇÕES DE CESSÃO DE CRÉDITO E DE COMPRA E VENDA DE ATIVOS, QUE CONFIGUREM APLICAÇÕES FINANCEIRAS DE RENDA FIXA."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2551/98 DOU 25/09/1998 PAG 51 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2551/98"]
+referencias: ["DEC 99374/90 ART/9.", "CITA RESOLUÇÃO CMN 1762/90.", "CITA PORT MEFP 120/91.", "CITA DEC 99374/90 ART/3."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1915"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.915
+
+```
+                         CIRCULAR N. 001915
+                         ------------------
+
+                              ESCLARECE  ACERCA DA INCIDÊNCIA DE  IOF
+                              NAS OPERAÇÕES DE CESSÃO DE CRÉDITO E DE
+                              COMPRA  E VENDA DE ATIVOS, QUE CONFIGU-
+                              REM APLICAÇÕES FINANCEIRAS DE RENDA FI-
+                              XA.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL,  EM  REUNIÃO DE 13.03.91, COM BASE NO DISPOSTO NO ART. 9º  DO
+DECRETO Nº 99.374, DE 09.07.90, DECIDIU:
+
+                    ART. 1º. ESCLARECER QUE AS OPERAÇÕES DE CESSÃO DE
+CRÉDITO  DEFINIDAS  NA RESOLUÇÃO Nº 1.762, DE 31.10.90, BEM  ASSIM  A
+REALIZAÇÃO,  PELAS INSTITUIÇÕES FINANCEIRAS E DEMAIS INSTITUIÇÕES AU-
+TORIZADAS  A FUNCIONAR POR ESTE ÓRGÃO, DE OPERAÇÕES DE COMPRA E VENDA
+DE  QUAISQUER  ATIVOS, AS QUAIS CONFIGUREM APLICAÇÕES FINANCEIRAS  DE
+RENDA FIXA, SUJEITAM-SE AO IMPOSTO SOBRE OPERAÇÕES DE CRÉDITO, CÂMBIO
+E  SEGURO,  OU RELATIVAS A TÍTULOS OU VALORES MOBILIÁRIOS -  IOF,  ÀS
+ALÍQUOTAS  CONSTANTES  DA  TABELA  II ANEXA À  PORTARIA  Nº  120,  DE
+26.02.91, DO MINISTÉRIO DA ECONOMIA, FAZENDA E PLANEJAMENTO, CONFORME
+O  NÚMERO  DE DIAS ÚTEIS DECORRIDOS ENTRE A AQUISIÇÃO E A  CESSÃO  OU
+VENDA  RESPECTIVAS,  OBSERVADO  O DISPOSTO NO ART. 3º DO  DECRETO  Nº
+99.374, DE 09.07.90.
+
+                    ART.  2º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 19 DE MARÇO DE 1991
+
+                              GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                              DIRETOR
+```

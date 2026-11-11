@@ -1,0 +1,63 @@
+---
+titulo: "Circular Nº 1.799"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1799"
+data: 1990-08-15
+ementa: "ESTABELECE QUE A CONTRATAÇÃO DE CÂMBIO DE IMPORTAÇÃO DE MERCADORIAS PODE SER REALIZADA PARA LIQUIDAÇÃO FUTURA."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2322/93 DOU 18/06/1993 PAG 8094 - REVOGACAO TOTAL."]
+normas_vinculadas: ["CIRCULAR 2322/93", "CARTA CIRCULAR 2109/90"]
+referencias: ["CANCELA COMUNICADO GECAM 312/76.", "ALTERA COMUNICADO DECAM 960/86 ITEM/I AL/B."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1799"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.799
+
+```
+                         CIRCULAR N. 001799
+                         ------------------
+
+                              ESTABELECE  QUE A CONTRATAÇÃO DE CÂMBIO
+                              DE  IMPORTAÇÃO DE MERCADORIAS PODE  SER
+                              REALIZADA PARA LIQUIDAÇÃO FUTURA.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO DE 15.08.90, DECIDIU:
+
+                    ART.  1º.  AS  IMPORTAÇÕES  DE  MERCADORIAS  PARA
+PAGAMENTO  A PRAZO, DE ATÉ 360 (TREZENTOS E SESSENTA) DIAS DA DATA DO
+EMBARQUE,  PODEM  TER O CORRESPONDENTE CONTRATO DE  CÂMBIO  CELEBRADO
+TAMBÉM  PARA  LIQUIDAÇÃO FUTURA, INDEPENDENTEMENTE DA  MODALIDADE  DA
+TRANSAÇÃO.
+
+                    PARÁGRAFO  ÚNICO. A ANTERIORIDADE MÁXIMA ADMITIDA
+É  DE  ATÉ 45 (QUARENTA E CINCO) DIAS CORRIDOS EM RELAÇÃO À  DATA  DE
+VENCIMENTO DA CORRESPONDENTE OBRIGAÇÃO NO EXTERIOR.
+
+                    ART.  2º. AS PRESENTES DISPOSIÇÕES APLICAM-SE  ÀS
+SITUAÇÕES EM QUE, A PARTIR DA VIGÊNCIA DESTA CIRCULAR, OCORRA:
+
+                    I  - A EMISSÃO DE GUIA DE IMPORTAÇÃO OU DOCUMENTO
+EQUIVALENTE;
+
+                   II  -  O  EMBARQUE DA MERCADORIA NO EXTERIOR,  NOS
+CASOS DE IMPORTAÇÕES DISPENSADAS DE GUIA;
+
+                  III  - A EMISSÃO DO ANEXO DISCRIMINATIVO, NOS CASOS
+DE GUIAS GENÉRICAS.
+
+                    ART.  3º.  FICA CANCELADO O COMUNICADO  GECAM  Nº
+312, DE 04.06.76, E ALTERADO, NO PARTICULAR, O ITEM 1, ALÍNEA "B"  DO
+COMUNICADO DECAM Nº 960, DE 31.10.86.
+
+                    ART.  4º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 15 DE AGOSTO DE 1990
+
+                              ANTONIO CLÁUDIO SOCHACZEWSKI
+                              DIRETOR
+```

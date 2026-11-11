@@ -1,0 +1,195 @@
+---
+titulo: "Circular Nº 2.893"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2893"
+data: 1999-05-27
+ementa: "Estabelece normas a serem observadas pelas instituições administradoras de fundos de investimento financeiro e de fundos de aplicação em quotas de fundos de investimento."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2899/99 DOU 25/06/1999 PAG 7 (E) - NORMAS COMPLEMENTARES: ART/1. ALTERACAO: ART/9 (PRORROGACAO DE PRAZO).", "CIRCULAR BCB 2923/99 DOU 25/08/1999 PAG 11 (E) - ALTERACAO: ART/9 (PRORROGACAO DE PRAZO).", "CIRCULAR BCB 2929/99 DOU 15/09/1999 PAG 4 (E) - ALTERACAO: ART/7 (PRORROGACAO DE PRAZO).", "CIRCULAR BCB 2949/99 DOU 08/11/1999 PAG 4 (E) - REVOGACAO: ART/9.", "CIRCULAR 2952/99 DOU 16/11/1999 PAG 12 (E) - ALTERACAO: ART/2.", "CIRCULAR BCB 2958/2000 DOU 10/01/2000 PAG 5 (E) - ALTERACAO: ART/2.", "CIRCULAR BCB 3049/2001 DOU 20/07/2001 PAG 16 (E) - CITACAO: ART/1. REVOGACAO: ART/7.", "CIRCULAR BCB 3304/2005 DOU 30/12/2005 PAG 81 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2183/95", "CIRCULAR 3049/2001", "CIRCULAR 2952/99", "CIRCULAR 2949/99", "CIRCULAR 2886/99", "CIRCULAR 2958/2000", "CIRCULAR 2923/99", "CIRCULAR 3304/2005", "CIRCULAR 2929/99", "CIRCULAR 2906/99", "CIRCULAR 2899/99", "CIRCULAR 2883/99"]
+referencias: ["RESOLUÇÃO CMN 2183/95 ART/1.", "CITA CIRCULAR BCB 2616/95 ART/4 ART/13 ART/28 (REGULAMENTO).", "CITA CIRCULAR BCB 2798/97 ART/1 ITEM/I.", "CITA CIRCULAR BCB 2688/96 ART/1.", "CITA RESOLUÇÃO CMN 2451/97 2486/98.", "CITA CIRCULAR BCB 2676/99.", "CITA CIRCULAR BCB 2798/97 ART/1 ITEM/II ITEM/III.", "REVOGA CIRCULAR BCB 2883/99 2886/99."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2893"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.893
+
+```
+                         CIRCULAR N. 002893
+                          ------------------
+
+                                   Estabelece normas a serem observa-
+                                   das pelas instituições administra-
+                                   doras  de  fundos  de investimento
+                                   financeiro e de  fundos de aplica-
+                                   ção em quotas  de fundos de inves-
+                                   timento.
+
+         A Diretoria  Colegiada do Banco Central do Brasil, em sessão
+realizada em 26 de maio de 1999, tendo em vista o disposto no art. 1º
+da Resolução nº 2.183, de 21 de julho de 1995,
+
+D E C I D I U:
+
+         Art.  1º Estabelecer que as  instituições administradoras de
+fundos de investimento financeiro e de  fundos de aplicação em quotas
+de fundos de investimento, de que trata a Circular nº 2.616, de 18 de
+setembro de 1995, não podem deter quotas  de  tais  fundos  por  elas
+administrados.
+
+         Parágrafo único. O disposto neste artigo  não  se  aplica  à
+hipótese de aquisição de quotas por ocasião da constituição de fundo,
+desde que a totalidade das  aplicações  realizadas  pela  instituição
+administradora seja mantida por, no máximo, 180 dias contados da data
+de constituição desse  e não  ultrapasse R$990.000,00  (novecentos  e
+noventa mil reais).
+
+         Art.  2º As pessoas jurídicas  controladoras de instituições
+administradoras de  fundos referidos  no art.  1º, as  sociedades por
+elas direta ou indiretamente controladas e suas coligadas somente po-
+dem adquirir quotas de tais fundos  por elas administrados quando es-
+ses estiverem enquadrados na faixa de atuação nos mercados de deriva-
+tivos de que trata o inciso I do art. 1º  da Circular nº 2.798, de 23
+de dezembro de 1997.
+
+         Art.  3º O  enquadramento às disposições  dos arts.  1º e 2º
+deve ocorrer por  ocasião da primeira  atualização do  valor da quota
+dos fundos ali referidos ou no prazo de noventa dias contados da data
+de entrada em vigor desta Circular, o que ocorrer primeiro.
+
+         Art. 4º  As instituições administradoras de fundos de inves-
+timento financeiro, sem prejuízo  da  observância  dos  procedimentos
+relativos a demonstrações financeiras previstos no art. 28 do Regula-
+mento  anexo   à  Circular   nº   2.616,  de   1995,   devem  manter,
+separadamente, registros analíticos  com informações  completas sobre
+toda e qualquer modalidade  de negociação realizada entre  essas e os
+fundos de mesma natureza por elas administrados.
+
+         Art.  5º É vedado às  instituições administradoras de fundos
+referidos no art. 1º:
+
+         I  - prestar fiança, aval, aceite  ou coobrigar-se sob qual-
+quer outra forma nas operações praticadas pelos fundos por elas admi-
+nistrados, inclusive quando se tratar de  garantias prestadas às ope-
+rações realizadas nos mercados de derivativos;
+
+         II - utilizar ativos de sua própria emissão e/ou coobrigação
+como garantia das operações praticadas pelos fundos por elas adminis-
+trados;
+
+         III -  efetuar aportes de recursos nos fundos por elas admi-
+nistrados, de forma direta ou indireta,  a qualquer título, ressalva-
+das as hipóteses previstas  no parágrafo único  do art. 1º  e no art.
+2º.
+         Parágrafo  1º As vedações de  que tratam os incisos  I a III
+deste artigo abrangem os  recursos próprios das  pessoas físicas e/ou
+das pessoas jurídicas controladoras  das  instituições  referidas  no
+caput, das sociedades por elas direta ou indiretamente controladas  e
+de suas coligadas, bem como  os ativos  integrantes  das  respectivas
+carteiras e os de emissão e/ou coobrigação dessas.
+
+         Parágrafo  2º Excetuam-se do disposto  no parágrafo 1º deste
+artigo:
+
+         I - a aquisição de quotas de tais fundos por pessoas físicas
+controladoras de instituições administradoras desses;
+
+         II - os títulos de emissão do Tesouro Nacional e/ou do Banco
+Central do  Brasil e  os títulos  públicos estaduais,  integrantes da
+carteira dos fundos de investimento financeiro.
+
+         Art.  6º As operações referidas nos incisos  I a III do art.
+5º, contratadas até a data de  entrada em vigor desta Circular, podem
+ser mantidas até o respectivo vencimento, vedada a sua renovação.
+
+         Art. 7º  Os ativos financeiros e/ou modalidades operacionais
+integrantes das carteiras dos fundos  de investimento financeiro, sem
+prejuízo do atendimento das disposições contidas  no art. 13 do Regu-
+lamento anexo à Circular nº  2.616, de 1995, com  a redação dada pelo
+art. 1º da Circular nº 2.688, de 5 de junho de 1996, devem ser regis-
+trados, custodiados e/ou mantidos em conta de depósito diretamente em
+nome do fundo, em  contas específicas abertas no  Sistema Especial de
+Liquidação e de Custódia (SELIC), em  sistema de registro de liquida-
+ção financeira administrado pela Central de  Custódia e de Liquidação
+Financeira de Títulos - CETIP ou em instituições ou entidades autori-
+zadas à prestação  desses serviços  pelo Banco  Central do  Brasil ou
+pela Comissão de Valores Mobiliários.
+
+         Parágrafo  único. O atendimento às  disposições deste artigo
+deverá ser providenciado no prazo máximo de 120 dias contados da data
+de entrada em vigor desta Circular.
+
+         Art.  8º O diretor ou  sócio gerente, designado  na forma da
+Resolução nº 2.451,  de 27 de  novembro de 1997,  com as modificações
+introduzidas pela Resolução  nº 2.486,  de 30 de  abril de  1998, sem
+prejuízo do atendimento das determinações ali estabelecidas:
+         I - é responsável pelo registro e pela movimentação dos ati-
+vos financeiros e/ou modalidades operacionais integrantes da carteira
+de fundos referidos no art. 1º;
+         II - deverá elaborar demonstrativos trimestrais evidenciando
+que as operações praticadas pelo fundo estão  em  consonância  com  a
+política de investimento prevista em seu regulamento e com os limites
+de composição e de diversificação  estabelecidos na regulamentação em
+vigor, bem como que as modalidades de negociação referidas no art. 4º
+foram realizadas a taxas de mercado.
+
+         Parágrafo  único. Os  demonstrativos referidos  neste artigo
+devem permanecer à disposição  do  Banco  Central  do  Brasil  e  dos
+quotistas do fundo, bem como ser examinados por ocasião da  auditoria
+independente prevista na Circular nº 2.676, de 10 de abril de 1996.
+
+         Art. 9º  As instituições administradoras de fundos referidos
+no art. 1º que estiverem enquadrados nas faixas de atuação nos merca-
+dos de derivativos de  que tratam os incisos  II e III do  art. 1º da
+Circular nº 2.798, de 1997, deverão,  por ocasião da admissão de quo-
+tistas no fundo, entregar documento contendo, no mínimo, as seguintes
+informações:
+
+          I - objetivos do fundo;
+         II - descrição detalhada da política de investimento adotada
+pelo fundo, inclusive no  que se refere à  atuação desse nos mercados
+de derivativos;
+
+          III - possibilidade de o quotista  ser  chamado  a  aportar
+recursos nas situações em  que  o  patrimônio  líquido  do  fundo  se
+tornar negativo;
+
+         IV  - taxas de  administração e de  desempenho cobradas pelo
+administrador do fundo ou critério para sua fixação;
+
+         V -  quando for o caso, referência à contratação de serviços
+de terceiros para administrar a carteira  do fundo, com identificação
+da pessoa jurídica à qual foram delegados tais poderes.
+
+         Parágrafo  1º As informações  de que trata  este artigo, sem
+prejuízo daquelas previstas no art. 4º  do Regulamento anexo  à  Cir-
+cular nº 2.616, de 1995, também  deverão constar  do  regulamento  do
+fundo.
+
+         Parágrafo  2º  Caberá  às  instituições  administradoras   a
+responsabilidade de comprovar que o investidor recebeu o documento de
+que trata o caput deste artigo.
+
+         Parágrafo 3º O atendimento às disposições deste artigo deve-
+rá ser providenciado no prazo máximo  de trinta dias contados da data
+de entrada em vigor desta Circular.
+
+         Art.  10. O  descumprimento das disposições  desta Circular,
+sem prejuízo das sanções previstas na  legislação e regulamentação em
+vigor, pode acarretar o  impedimento da instituição  para o exercício
+da atividade de administração de fundos de investimento nas modalida-
+des regulamentadas pelo Banco Central do Brasil.
+
+         Art. 11.  Esta Circular entra em vigor na data de sua publi-
+cação.
+
+         Art.  12. Ficam revogadas a  Circulares nºs 2.883,  de 29 de
+abril de 1999, e 2.886, de 6 de maio de 1999.
+
+                        Brasília, 27 de maio de 1999
+
+                        Sérgio Darcy da Silva Alves
+                        Diretor
+```

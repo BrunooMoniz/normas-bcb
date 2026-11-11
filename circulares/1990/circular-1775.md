@@ -1,0 +1,57 @@
+---
+titulo: "Circular Nº 1.775"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1775"
+data: 1990-07-12
+ementa: "SERVICO DE COMPENSACAO DE CHEQUES E OUTROS PAPEIS - REGULAMENTACAO DA DEVOLUCAO DE CHEQUES DE VALOR SUPERIOR A 100 BTN, EMITIDOS SEM A IDENTIFICACAO DO BENEFICIARIO - CRIACAO DO MOTIVO 48 DO TITULO 4 DO MANUAL DE NORMAS E INSTRUCOES."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2444/94 DOU 07/07/1994 PAG 10263 - REVOGACAO TOTAL."]
+normas_vinculadas: ["CIRCULAR 2444/94"]
+referencias: ["LEI 8021/90 ART/2."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1775"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.775
+
+```
+                         CIRCULAR Nº 001775
+                         ------------------
+
+ÀS
+INSTITUIÇÕES FINANCEIRAS PARTICIPANTES DO
+SERVIÇO DE COMPENSAÇÃO DE CHEQUES E OUTROS PAPÉIS
+
+                              REGULAMENTA  A DEVOLUÇÃO DE CHEQUES  DE
+                              VALOR  SUPERIOR  AO EQUIVALENTE  A  100
+                              (CEM)  BÔNUS DO TESOURO NACIONAL, SEM A
+                              IDENTIFICAÇÃO DO BENEFICIÁRIO.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO DE 11.07.90, COM FUNDAMENTO NO ARTIGO 2º, DA LEI Nº
+8.021, DE 12.04.90, DECIDIU QUE:
+
+                    ART.  1º. OS CHEQUES DE VALOR SUPERIOR AO EQUIVA-
+LENTE A 100 (CEM) BÔNUS DO TESOURO NACIONAL, EMITIDOS SEM A IDENTIFI-
+CAÇÃO DO BENEFICIÁRIO, SERÃO DEVOLVIDOS, NO SERVIÇO DE COMPENSAÇÃO DE
+CHEQUES E OUTROS PAPÉIS, PELO MOTIVO "48".
+
+                    PARÁGRAFO  ÚNICO.  SERÁ PERMITIDA A DEVOLUÇÃO,  A
+QUALQUER TEMPO, DOS CHEQUES DE QUE TRATA O "CAPUT" DESTE ARTIGO.
+
+                    ART.  2º. ESTA CIRCULAR  ENTRARÁ EM VIGOR NA DATA
+DE SUA PUBLICAÇÃO.
+
+                    ART.  3º. EM CONSEQÜÊNCIA, ENCONTRAM-SE ANEXAS AS
+FOLHAS  NECESSÁRIAS À ATUALIZAÇÃO DO MANUAL DE NORMAS E INSTRUÇÕES  -
+MNI.
+                              BRASÍLIA(DF), 12 DE JULHO DE 1990.
+
+                              LUIS EDUARDO ALVES DE ASSIS
+                              DIRETOR
+
+OBS.: AS FOLHAS DE ATUALIZAÇÃO A QUE SE REFERE  ESTA  CIRCULAR  SERÃO
+      DISTRIBUÍDAS AOS ASSINANTES DO MNI.
+```

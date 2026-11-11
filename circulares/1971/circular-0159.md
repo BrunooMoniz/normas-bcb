@@ -1,0 +1,52 @@
+---
+titulo: "Circular Nº 159"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "159"
+data: 1971-05-20
+ementa: "INDICE DE IMOBILIZACOES TRADICIONAIS - EFEITOS DISTORSIVOS DA CORRECAO MONETARIA DO ATIVO IMOBILIZADO SOBRE A DETERMINACAO DO INDICE DE IMOBILIZACAO PARCIAL DE QUE TRATA A CIRCULAR 144, DE 15/09/70 - EXCLUSAO, DO INDICE DE IMOBILIZACAO PARCIAL ACIMA REFERIDO, DAS ACOES DE INSTITUICOES FINANCEIRAS, EXCETO DE BANCOS COMERCIAIS, DE PROPRIEDADE DOS ESTABELECIMENTOS BANCARIOS."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 986/84 DOU 14/12/1984 PAG 18805 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 986/84", "CIRCULAR 161/71"]
+referencias: ["CITA RESOLUÇÃO CMN 108/69.", "CITA CIRCULAR BCB 144/70 ITEM/II."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=159"
+baixado_em: 2026-11-10
+---
+# Circular Nº 159
+
+```
+                         CIRCULAR N. 000159
+                         ------------------
+
+Aos
+Estabelecimentos Bancários,
+
+         Comunicamos  que  o Conselho Monetário Nacional,  em  sessão
+desta  data, procedendo ao reexame da atual sistemática de  avaliação
+do  índice de imobilizações tradicionais, cujos níveis foram  fixados
+pela Resolução nº 108, de 4.2.69, resolveu:
+
+         I  - Para cálculo do "Índice de Imobilização Parcial", a que
+se  refere  o  modelo  anexo à Circular nº  144,  de  15.9.70,  serão
+apartadas  as parcelas decorrentes da correção monetária de  "Imóveis
+de  Uso",  tanto na apuração dos "RECURSOS PRÓPRIOS PARA  APLICAÇÃO",
+como na apropriação das "IMOBILIZAÇÕES - Imobilizado";
+
+         II  - Para a determinação do "Índice de Imobilização Total",
+as  parcelas  resultantes da Correção Monetária do Ativo  Imobilizado
+continuarão, entretanto, sendo computadas;
+
+         III  -  As  participações  de  Bancos  Comerciais  em  outra
+instituição financeira, de categoria diferente, com vistas à formação
+de   conglomerados  financeiros,  serão  excluídas  do  cômputo   das
+imobilizações tradicionais, sendo-lhes dispensado tratamento idêntico
+àquele previsto para os investimentos tecnológicos, a que se refere o
+item 2 da Circular nº 144, de 15.9.70.
+
+                             Brasília-DF, 20 de maio de 1971
+
+                             Luiz de Carvalho e Mello Filho
+                             Diretor
+```

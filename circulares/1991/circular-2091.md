@@ -1,0 +1,55 @@
+---
+titulo: "Circular Nº 2.091"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2091"
+data: 1991-11-29
+ementa: "DETERMINA NOVA FORMA DE CÁLCULO DAS OPERAÇÕES CONTINGENCIADAS REALIZADAS SOB A MODALIDADE DE \"CHEQUES ESPECIAIS\" E REVOGA RESTRIÇÃO À NEGOCIAÇÃO DE CRÉDITOS COM COOBRIGAÇÃO ENVOLVENDO OPERAÇÕES CONTINGENCIADAS."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2197/92 DOU 02/07/1992 PAG 8509 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1715/90", "CIRCULAR 2017/91", "CIRCULAR 2197/92", "CIRCULAR 2101/91", "CARTA CIRCULAR 2209/91"]
+referencias: ["RESOLUÇÃO CMN 1715/90 ART/6 ITEM/I.", "REVOGA CIRCULAR BCB 2017/91 ART/2.", "REVOGA CARTA-CIRCULAR BCB 2209/91."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2091"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.091
+
+```
+                         CIRCULAR N. 002091
+                         ------------------
+
+                               DETERMINA  NOVA  FORMA DE CÁLCULO  DAS
+                               OPERAÇÕES  CONTINGENCIADAS  REALIZADAS
+                               SOB  A  MODALIDADE DE  "CHEQUES  ESPE-
+                               CIAIS" E REVOGA RESTRIÇÃO À NEGOCIAÇÃO
+                               DE CRÉDITOS COM COOBRIGAÇÃO ENVOLVENDO
+                               OPERAÇÕES CONTINGENCIADAS.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+ BRASIL,  EM SESSÃO REALIZADA EM 27.11.91, COM BASE NO ITEM I DO ART.
+6º DA RESOLUÇÃO Nº 1.715, DE 29.05.90, DECIDIU:
+
+                    ART.  1º. DETERMINAR, PARA EFEITO DO  CÁLCULO  DO
+SALDO DAS OPERAÇÕES DE CRÉDITO CONTINGENCIADAS, DE QUE TRATAM A RESO-
+LUÇÃO  Nº 1.715, DE 29.05.90, E DEMAIS NORMAS COMPLEMENTARES, QUE  AS
+OPERAÇÕES  PRATICADAS  SOB A MODALIDADE DE "CHEQUES ESPECIAIS"  SERÃO
+COMPUTADAS  COM BASE NA MÉDIA MENSAL OBTIDA A PARTIR DOS SALDOS DEVE-
+DORES DIÁRIOS.
+
+                    PARÁGRAFO  ÚNICO. PARA A POSIÇÃO DO MÊS DE NOVEM-
+BRO  DE 1991, SERÁ CONSIDERADO O SALDO DAS OPERAÇÕES NO ÚLTIMO DIA DO
+MÊS OU O SALDO MÉDIO DO MÊS, O QUE FOR MENOR.
+
+                    ART.  2º. FICAM REVOGADOS O ART. 2º  DA  CIRCULAR
+Nº 2.017, DE 15.08.91, E A CARTA-CIRCULAR Nº 2.209, DE 26.08.91.
+
+                    ART.  3º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 29 DE NOVEMBRO DE 1991
+
+                              GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                              DIRETOR
+```

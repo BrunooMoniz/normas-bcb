@@ -1,0 +1,48 @@
+---
+titulo: "Circular Nº 1.349"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1349"
+data: 1988-08-18
+ementa: "TAXA DE APLICACAO E CAPTACAO - ACOMPANHAMENTO - INSTITUI O DEMONSTRATIVO CADOC 3515- ANEXA MODELO DE REMESSA OBRIGATORIA A SER ENCAMINHADA AOS BANCOS COMERCIAIS, BANCOS DE INVESTIMENTO E SOCIEDADES DE CREDITO FINANCIAMENTO E INVESTIMENTO, QUE DEVERA SER PREENCHIDO E ENCAMINHADO AO BANCO CENTRAL ATE O DIA 10 DO MÊS SEGUINTE AO DA POSICAO CONSIDERADA."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2292/93 DOU 26/03/1993 PAG 3807 - REVOGACAO TOTAL, A PARTIR DE 03/05/1993."]
+normas_vinculadas: ["CIRCULAR 2292/93", "CIRCULAR 1363/88", "CARTA CIRCULAR 1894/89", "CARTA CIRCULAR 1913/89", "CARTA CIRCULAR 1989/89", "CARTA CIRCULAR 1843/88"]
+referencias: ["CITA LEI 4595/64 ART/10 ITEM/VIII."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1349"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.349
+
+```
+                         CIRCULAR N. 001349
+                         ------------------
+
+Aos
+Bancos  Comerciais, Bancos de Investimento e Sociedades  de  Crédito,
+Financiamento e Investimento
+
+         Comunicamos  que  a  Diretoria do Banco Central  do  Brasil,
+tendo em vista o disposto no artigo 10, inciso VIII, da Lei n. 4.595,
+de  31.12.64,  decidiu  que a partir desta  data  fica  instituído  o
+Demonstrativo CADOC n. 3515 - "Taxas de Aplicação e Captação", modelo
+anexo,  de  remessa  obrigatória para  todas  as  instituições  acima
+mencionadas,  que deve ser encaminhado, até o dia  10  (dez)  do  mês
+seguinte  ao da posição considerada, ao Banco Central do Brasil,  via
+Central  de  Recepção  de  Documentos, de  acordo  com  a  respectiva
+jurisdição.
+
+         2.  Oportunamente serão divulgadas instruções com  vistas  a
+que  tais  informes  sejam  transmitidos  por  meio  do  Sistema   de
+Informações Banco Central - SISBACEN.
+
+                             Brasília-DF, 18 de agosto de 1988
+
+                             José Tupy Caldas de Moura
+                             Diretor
+
+Obs:   o   anexo   deste  normativo  encontra-se  à  disposição   dos
+interessados na Sede do Banco Central do Brasil.
+```

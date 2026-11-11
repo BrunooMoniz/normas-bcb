@@ -1,0 +1,53 @@
+---
+titulo: "Circular Nº 1.763"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1763"
+data: 1990-06-20
+ementa: "ALTERACAO DOS CUSTOS DAS OPERACOES DA LINHA ESPECIAL DE LIQUIDEZ INSTITUIDA PELA RESOLUCAO 1717, DE 29/05/90."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 1818/90 DOU 21/09/1990 PAG 18250 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2148/90", "RESOLUÇÃO 2167/90", "RESOLUÇÃO 2140/90", "RESOLUÇÃO 2165/90", "RESOLUÇÃO 2125/90", "RESOLUÇÃO 2174/90", "RESOLUÇÃO 2178/90", "RESOLUÇÃO 1717/90", "RESOLUÇÃO 2156/90", "RESOLUÇÃO 2123/90", "RESOLUÇÃO 2143/90", "RESOLUÇÃO 2187/90", "RESOLUÇÃO 2169/90", "RESOLUÇÃO 2157/90", "CIRCULAR 1741/90", "CIRCULAR 1818/90", "CIRCULAR 2002/91"]
+referencias: ["RESOLUÇÃO CMN 1717/90 ART/2.", "ALTERA CIRCULAR BCB 1741/90 ART/1 ITEM/III."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1763"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.763
+
+```
+                         CIRCULAR N. 001763
+                         ------------------
+
+AOS
+BANCOS  COMERCIAIS, CAIXAS ECONÔMICAS, E INSTITUIÇÕES DETENTORAS   DE
+CARTEIRA COMERCIAL
+
+                              ALTERA OS CUSTOS DAS OPERAÇÕES AO AMPA-
+                              RO DA LINHA ESPECIAL DE LIQUIDEZ INSTI-
+                              TUÍDA   PELA  RESOLUÇÃO  Nº  1.717,  DE
+                              29.05.90.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO REALIZADA EM  19.06.90, COM BASE NO DISPOSTO NO AR-
+TIGO 2º DA RESOLUÇÃO Nº 1.717, DE 29.05.90, DECIDIU:
+
+                    ART.  1º. ALTERAR OS CUSTOS DAS  OPERAÇÕES REALI-
+ZADAS AO AMPARO DA LINHA ESPECIAL DE LIQUIDEZ INSTITUÍDA PELA RESOLU-
+ÇÃO Nº 1.717, PASSANDO O ITEM III DO ART. 1º DA CIRCULAR Nº 1.741, DE
+29.05.90, A TER A SEGUINTE REDAÇÃO:
+
+                 "III  - CUSTOS: TAXA MÉDIA DE DESCONTO DAS LETRAS DO
+TESOURO  NACIONAL  (LTN) DE 28 (VINTE E OITO) DIAS DO  ÚLTIMO  LEILÃO
+FORMAL  OU  INFORMAL  DESSES TÍTULOS, DESCAPITALIZADA POR  DIA  ÚTIL,
+ACRESCIDA DE 15% (QUINZE POR CENTO) AO ANO."
+
+                    ART.  2º. ESTA CIRCULAR ENTRARÁ EM VIGOR NA  DATA
+DE SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 20 DE JUNHO DE 1990
+
+                              LUIS EDUARDO ALVES DE ASSIS
+                              DIRETOR
+```

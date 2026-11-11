@@ -1,0 +1,56 @@
+---
+titulo: "Circular Nº 2.171"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2171"
+data: 1992-05-05
+ementa: "DISCIPLINA A CONTRATAÇÃO DE OPERAÇÕES DE COMPRA E VENDA DE MOEDA ESTRANGEIRA, NO MERCADO DE CÂMBIO DE TAXAS FLUTUANTES, COM O BANCO CENTRAL DO BRASIL."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2220/92 DOU 03/09/1992 PAG 12188 - REVOGACAO TOTAL (A PARTIR DE 04/09/1992)."]
+normas_vinculadas: ["CIRCULAR 2220/92"]
+referencias: ["LEI 4595/64 ART/11 ITEM/III.", "CITA CIRCULAR BCB 1999/91."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2171"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.171
+
+```
+                         CIRCULAR Nº 002171
+                         ------------------
+
+                             DISCIPLINA A CONTRATAÇÃO DE OPERAÇÕES DE
+                             COMPRA  E VENDA DE MOEDA ESTRANGEIRA, NO
+                             MERCADO  DE CÂMBIO DE TAXAS  FLUTUANTES,
+                             COM O BANCO CENTRAL DO BRASIL.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO DE 30.10.91, TENDO EM VISTA AS DISPOSIÇÕES DO ARTI-
+GO 11, INCISO III, DA LEI Nº 4.595, DE 31.12.64, DECIDIU:
+
+                    ART.  1º. O BANCO CENTRAL DO BRASIL, A SEU CRITÉ-
+RIO,  PODERÁ REALIZAR OPERAÇÕES DE COMPRA E VENDA NO MERCADO DE TAXAS
+FLUTUANTES.
+
+                    ART.  2º. AS OPERAÇÕES  SERÃO REALIZADAS PELO DE-
+PARTAMENTO DE OPERAÇÕES DAS RESERVAS INTERNACIONAIS (DEPIN), OBSERVA-
+DOS, NO QUE COUBER, OS PROCEDIMENTOS E DISPOSIÇÕES PREVISTOS NO REGU-
+LAMENTO ANEXO À CIRCULAR Nº 1.999, DE 01.08.91.
+
+                    ART.  3º. AS  INSTITUIÇÕES   ("DEALERS")  COM  AS
+QUAIS  O BANCO CENTRAL REALIZARÁ TAIS OPERAÇÕES SERÃO AS MESMAS SELE-
+CIONADAS NOS TERMOS DA CIRCULAR MENCIONADA NO ARTIGO ANTERIOR.
+
+                    ART.  4º. O DEPARTAMENTO  DE OPERAÇÕES DAS RESER-
+VAS  INTERNACIONAIS  (DEPIN) PODERÁ ADOTAR AS MEDIDAS NECESSÁRIAS  AO
+CUMPRIMENTO DO DISPOSTO NA PRESENTE CIRCULAR.
+
+                    ART.  5º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 5 DE MAIO DE 1992
+
+                              ARMINIO FRAGA NETO
+                              DIRETOR
+```

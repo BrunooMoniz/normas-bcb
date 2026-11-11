@@ -1,0 +1,40 @@
+---
+titulo: "Circular Nº 92"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "92"
+data: 1967-07-14
+ementa: "EMPRESTIMOS E DEPOSITOS A PRAZO FIXO COM CORRECAO MONETARIA - - ADITAMENTO A CIRCULAR 48, DE 15/08/66 - PROPOSTA DE QUE OS INDICES A SEREM UTILIZADOS NOS EMPRESTIMOS E DEPOSITOS A PRAZO FIXO, COM CORRECAO MONETARIA, SERA APLICADO O DISPOSTO NO ARTIGO 28 DA LEI 4728, DE 14/07/65, ENTENDIDO QUE O COEFICIENTE A SER UTILIZADO E O MESMO ESTABELECIDO, MENSALMENTE, PARA AS OBRIBACOES REAJUSTAVEIS DO TESOURO NACIONAL."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 127/69 DOU 10/07/1969 PAG 1825 - REVOGACAO TOTAL."]
+normas_vinculadas: ["CIRCULAR 127/69"]
+referencias: ["CITA CIRCULAR BCB 48/66.   CITA LEI 4728/65 ART/28 PARAG/2."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=92"
+baixado_em: 2026-11-10
+---
+# Circular Nº 92
+
+```
+                         CIRCULAR N. 000092
+                         ------------------
+
+Aos
+Estabelecimentos Bancários
+
+         Em  aditamento à nossa Circular nº 48, de 15.8.66,  e  tendo
+em  vista  consultas dirigidas a este Banco Central esclarecemos  que
+para os Empréstimos e Depósitos a Prazo Fixo, com correção monetária,
+mesmo na  hipótese  de  correção  monetária  em  montante  prefixado,
+aplica-se o disposto no § 2º do art. 28 da  Lei  4.728/65,  entendido
+que  o  coeficiente  a  ser  utilizado  é   o   mesmo   estabelecido,
+mensalmente, para as Obrigações Reajustáveis do Tesouro Nacional.
+
+                             Rio de Janeiro-GB, 14 de julho de 1967
+
+                             INSPETORIA DE BANCOS
+
+                             Moacyr de Araújo Simões
+                             Inspetor Geral
+```

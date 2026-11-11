@@ -1,0 +1,105 @@
+---
+titulo: "Circular Nº 1.284"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1284"
+data: 1988-01-28
+ementa: "RECOLHIMENTO COMPULSORIO - COMPOSICAO DAS EXIGIBILIDADES EM OBRIGACOES DO TESOURO NACIONAL - ALTERACAO NA LINHA ESPECIAL PARA SUBSCRICAO DE DEBENTURES DE EMPRESAS PRIVADAS NACIONAIS - PROPOE QUE SEJAM CONSIDERADAS SUBSCRICOES DE DEBENTURES E NAO MAIS APENAS DEBENTURES CONVERSIVEIS EM ACOES - AMPLIACAO DO \"LEQUE\" DAS DIVIDAS DAS EMPRESAS PASSIVEIS DE AMPARO PELA LINHA DE CREDITO CRIADA PELA RESOLUCAO 1418 - INCLUSAO DO APOIO AS DIVIDAS DAS EMPRESAS JUNTO AOS BANCOS DE INVESTIMENTO E AS SOCIEDADES DE CREDITO FINANCIAMENTO E INVESTIMENTO - REVOGACAO DA RESOLUCAO 1418, DE 17/11/87 E DA CIRCULAR 1256, DE 17/11/87."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 1770/90 DOU 09/07/1990 PAG 13173 - REVOGACAO TOTAL."]
+normas_vinculadas: ["CIRCULAR 1770/90", "CIRCULAR 1424/89", "CARTA CIRCULAR 1792/88"]
+referencias: ["REGULAMENTA RESOLUÇÃO CMN 1455/88.   CITA LEI 4595/64 ART/34.", "CITA DL 1911/81.   REVOGA CIRCULAR BCB 1256/87."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1284"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.284
+
+```
+                         CIRCULAR N. 001284
+                         ------------------
+
+Às
+Instituições Financeiras
+
+         Comunicamos  que  a  Diretoria do Banco  Central,  tendo  em
+vista o disposto na Resolução n. 1.455, de 27.01.88, decidiu que:
+
+         a)   os  bancos  comerciais  que  desejarem  participar   da
+subscrição de debêntures de empresas privadas nacionais com  base  na
+citada Resolução deverão respeitar as mesmas restrições estabelecidas
+para  as  operações de empréstimos ou adiantamentos de  que  trata  o
+artigo 34 da Lei n. 4.595, de 31.12.64;
+
+         b)  o  total  da subscrição de debêntures ficará limitado  a
+49%  (quarenta  e  nove  por  cento) do  capital  social  da  empresa
+beneficiada;
+
+         c)  o  total  da subscrição não poderá superar  o  montante,
+apurado  em  30.10.87, das dívidas de cada empresa junto  aos  bancos
+comerciais,   bancos  de  investimento  e  sociedades   de   crédito,
+financiamento  e  investimento,  excluídos  os  empréstimos  a  taxas
+favorecidas  ou aqueles de características especiais que  possam  ser
+girados dentro de seus próprios programas especiais;
+
+         d)  para  os  fins de que se trata, somente serão  admitidas
+debêntures  com  prazo  de trinta a sessenta  meses,  sendo  doze  de
+carência;
+
+         e)  igualmente, apenas serão admitidas para os fins  de  que
+se  trata debêntures cuja remuneração não supere os custos médios  de
+captação  de  depósitos  a  prazo dos bancos  comerciais  envolvidos,
+restrição esta não aplicável às demais instituições financeiras;
+
+         f)  serão  admitidas, para fins de composição  de  parte  da
+exigibilidade  de recolhimento compulsório na forma  do  item  II  da
+mencionada  Resolução,  Obrigações do Tesouro Nacional,  de  qualquer
+espécie,  exceto  as  emitidas conforme o Decreto-lei  n.  1.911,  de
+29.12.81,   vinculadas  consoante  normas  a  serem  baixadas   pelos
+Departamentos  de Operações Bancárias e de Operações  com  Títulos  e
+Valores Mobiliários;
+
+         g)  a  composição do recolhimento compulsório em  Obrigações
+do Tesouro Nacional somente será autorizada no ato da comprovação das
+subscrições, mediante apresentação ao Banco Central (Departamento  de
+Operações  Bancárias, ou, se não jurisdicionado em Brasília  (DF),  à
+sua respectiva Representação Regional), dos respectivos "boletins  de
+subscrição"   e   dos   "recibos   de   integralização",   sendo   de
+responsabilidade  do  banco  comercial  que  usufruir  do   benefício
+previsto no item I da Resolução n. 1.455, de 27.01.88, atestar que  a
+empresa  beneficiária  se  enquadra nos  requisitos  fixados  para  o
+programa  de  que  se  trata, podendo exigir a  documentação  julgada
+necessária para tanto, mantendo-a em seus arquivos;
+
+         h)  para as ações resultantes de conversão de debêntures,  o
+prazo   decorrido  com  a  utilização  destas  últimas   deverá   ser
+considerado  no cômputo do prazo máximo de 5 (cinco) anos,  observado
+que,  se ocorrida conversão, o banco terá o prazo máximo de dois anos
+para negociar as ações;
+
+         i)  o  resgate  antecipado das debêntures  ou  a  venda  dos
+títulos  subscritos ou de ações convertidas, dentro  do  prazo  de  5
+(cinco)   anos,   implicará   na   recomposição   proporcional    dos
+recolhimentos compulsórios;
+
+         j)  para  os fins de que se trata, considera-se empresa  com
+elevado  índice  de endividamento aquela que apresente  endividamento
+geral  em  nível  superior à média do sub-setor de atividades  a  que
+pertença;
+
+         l)  constatada  qualquer irregularidade  no  cumprimento  da
+Resolução  n.  1.455, de 27.01.88, o Banco Central  aplicará  custos,
+intransferíveis    às    empresas    beneficiárias    da    operação,
+correspondentes aos previstos para a ocorrência de saldo  devedor  na
+conta  "Reservas  Bancárias" das instituições financeiras,  incidente
+pelo  prazo e sobre o valor do recolhimento compulsório indevidamente
+composto por intermédio de Obrigações do Tesouro Nacional.
+
+         2. Fica revogada a Circular n. 1.256, de 17.11.87.
+
+                             Brasília-DF, 28 de janeiro de 1988
+
+                             Wadico Waldir Bucchi
+                             Diretor
+```

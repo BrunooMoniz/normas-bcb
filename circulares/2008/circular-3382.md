@@ -1,0 +1,52 @@
+---
+titulo: "Circular Nº 3.382"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "3382"
+data: 2008-04-24
+ementa: "Dispensa o envio, por parte das cooperativas de crédito, de comprovante de publicação de certidão de arquivamento expedida por Junta Comercial e determina sua manutenção à disposição do Banco Central do Brasil."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Resolução BCB nº 216/2022 - Revogação total, a partir de 2/5/2022."]
+normas_vinculadas: ["RESOLUÇÃO BCB 216/2022", "RESOLUÇÃO 3442/2007", "CIRCULAR 598/1980"]
+referencias: ["Lei nº 4.595/1964, art. 9º.", "Lei nº 5.764/1971, art. 92, inciso I.", "Resolução CMN nº 3.442/2007, art. 46.", "Cita Circular BCB nº 598/1980."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3382"
+baixado_em: 2026-11-10
+---
+# Circular Nº 3.382
+
+```
+                         CIRCULAR N. 003382
+                         ------------------
+
+                                 Dispensa  o  envio,  por  parte  das
+                                 cooperativas    de    crédito,    de
+                                 comprovante    de   publicação    de
+                                 certidão  de  arquivamento  expedida
+                                 por  Junta Comercial e determina sua
+                                 manutenção  à  disposição  do  Banco
+                                 Central do Brasil.
+
+         A  Diretoria Colegiada do Banco Central do Brasil, em sessão
+realizada  em 24 de abril de 2008, com base nos arts. 9º  da  Lei  nº
+4.595,  de 31 de dezembro de 1964, 92, inciso I, da Lei nº 5.764,  de
+16  de  dezembro  de  1971, e 46 da Resolução  nº  3.442,  de  28  de
+fevereiro de 2007,
+
+         D E C I D I U :
+
+         Art.  1º   As  cooperativas de crédito ficam dispensadas  de
+enviar  ao  Banco Central do Brasil o comprovante de  publicação,  no
+diário  oficial do estado, de certidão de arquivamento expedida  pela
+Junta  Comercial,  referido no anexo da Circular nº  598,  de  31  de
+dezembro  de  1980,  devendo manter referido documento  arquivado  na
+própria instituição à disposição da referida autarquia.
+
+         Art.  2º   Esta  circular entra em  vigor  na  data  de  sua
+publicação.
+                                       Brasília, 24 de abril de 2008.
+
+                      Alexandre Antonio Tombini
+                               Diretor
+```

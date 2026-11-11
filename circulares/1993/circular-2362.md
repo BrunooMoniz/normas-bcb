@@ -1,0 +1,54 @@
+---
+titulo: "Circular Nº 2.362"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2362"
+data: 1993-09-15
+ementa: "Dispensa a obrigatoriedade de assinatura do correntista nos documentos para transferência de recursos sem incidência do IPMF (DOC \"D\") e dá nova redação ao item II do art. 10 da Circular nº 2.346, de 26.07.93."
+revogada: true
+cancelada: true
+versao_texto: "PDF do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 3081/2002 DOU 21/01/2002 PAG 26 - REVOGACAO TOTAL."]
+normas_vinculadas: ["CIRCULAR 2346/1993", "CIRCULAR 3081/2002"]
+referencias: ["Lei Complementar nº 77/1993, art. 8º, § 1º.", "Altera Circular nº 2.346/1993, art. 10, II."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2362"
+arquivo: "https://www.bcb.gov.br/pre/normativos/circ/1993/pdf/circ_2362_v1_o.pdf"
+sha256_arquivo: f75d4af3a73f694fb4dea444fde8fa57dfdf7493e1df124354009d2a56a83db0
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.362
+
+CIRCULAR Nº 2.362
+Tendo em vista a decisão plenária do Supremo Tribunal Federal, em 15/9/1993, suspendendo os
+efeitos do art. 2º e parágrafos da Emenda Constitucional nº 03, de 17/3/1993, e da Lei
+Complementar nº 77, de 13/7/1993, informamos que foi cancelada a Circular nº 2.362, de
+15/9/1993, divulgada por intermédio do Sistema de Informações Banco Central (Sisbacen) e não
+publicada no Diário Oficial. (Comunicado nº 3.518, de 20 de setembro de 1993; publicado no
+DOU de 22/9/1993, Seção III, p. 14.277.)
+Dispensa a obrigatoriedade de assinatura do
+correntista nos documentos para transferência
+de recursos sem incidência do IPMF (DOC
+"D") e dá nova redação ao item II do art. 10 da
+Circular nº 2.346, de 26.07.93.
+Comunicamos que a Diretoria do Banco Central do Brasil, em sessão realizada em
+15.09.93, com base no art. 8º, § 1º, da Lei Complementar nº 77, de 13.07.93, que instituiu o
+Imposto Provisório sobre a Movimentação ou Transmissão de Valores e de Créditos e Direitos
+de Natureza Financeira (IPMF),
+D E C I D I U:
+Art. 1º Dispensar a obrigatoriedade de assinatura do correntista na emissão de
+documentos para transferência de recursos (DOC "D") sem incidência do Imposto Provisório
+sobre a Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza
+Financeira (IPMF) de que trata a Circular nº 2.346, de 26.07.93.
+Parágrafo único. Na emissão de DOC "D" sem assinatura do correntista, a
+instituição remetente será co-responsável pelas informações constantes dos respectivos
+documentos.
+Art. 2º Fica alterado o item II do art. 10 da Circular nº 2.346/93, que passa a
+vigorar com a seguinte redação:
+"II - 62: DOC "D" com divergência na indicação do número do CPF/CGC."
+Art. 3º Esta Circular entra em vigor na data de sua publicação.
+Brasília (DF), 15 de setembro de 1993.
+
+Cláudio Ness Mauch
+Diretor de Normas e Organização do Sistema Financeiro
+
+Circular nº 2.362, de 15 de setembro de 1993.

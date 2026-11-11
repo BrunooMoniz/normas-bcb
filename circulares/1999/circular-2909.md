@@ -1,0 +1,105 @@
+---
+titulo: "Circular Nº 2.909"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2909"
+data: 1999-07-14
+ementa: "Estabelece procedimentos complementares com vistas à adequação dos sistemas eletrônicos de informação ao processamento de datas posteriores ao ano de 1999."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 3081/2002 DOU 21/01/2002 PAG 26 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2453/97", "CIRCULAR 3081/2002"]
+referencias: ["RESOLUÇÃO CMN 2453/97 ART/3.", "CITA CIRCULAR BCB 2803/98 2853/98 2676/96 2892/99.", "CITA RESOLUÇÃO CMN 2099/94 2267/96."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2909"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.909
+
+```
+                         CIRCULAR N. 002909
+                         ------------------
+
+                                   Estabelece  procedimentos  comple-
+                                   mentares  com  vistas  à adequação
+                                   dos sistemas eletrônicos de infor-
+                                   mação  ao  processamento  de datas
+                                   posteriores ao ano de 1999.
+
+         A Diretoria  Colegiada do Banco Central do Brasil, em sessão
+realizada em 14 de julho de 1999, com base no art. 3º da Resolução nº
+2.453, de 18 de dezembro de 1997,
+
+D E C I D I U:
+
+         Art. 1º  Estabelecer que as instituições financeiras, as de-
+mais instituições autorizadas a funcionar pelo  Banco Central do Bra-
+sil e as administradoras  de consórcio devem estar  com seus sistemas
+eletrônicos de informação automatizados adequados  e testados e apre-
+sentar declaração de conformidade nos termos da Circular nº 2.803, de
+4 de fevereiro de 1998, com a redação dada pela Circular nº 2.853, de
+10 de dezembro de 1998,  quando da instrução de  processos, até 31 de
+dezembro de 1999, relativos a:
+
+         I - concessão de autorização para funcionamento, transferên-
+cia de controle societário e atos de reorganização definidos na Reso-
+lução nº 2.099, de 17 de agosto de  1994,  no  caso  de  instituições
+financeiras e demais  instituições autorizadas a funcionar pelo Banco
+Central do Brasil;
+
+         II -  transferência de controle societário, cisão e incorpo-
+ração, no caso de administradoras de consórcio.
+
+         Parágrafo 1º No caso de processos já instruídos e em fase de
+analise, a concessão  de eventual  autorização ficará  condicionada à
+apresentação da declaração de conformidade.
+
+         Parágrafo 2º No caso de processos já deferidos, que resulta-
+ram na concessão de  autorização para funcionamento,  a declaração de
+conformidade deverá ser apresentada pela  instituição quando da comu-
+nicação do início de suas atividades.
+
+         Parágrafo 3º  A declaração de conformidade deve ser apresen-
+tada mesmo no caso  de já ter sido  fornecida pela instituição objeto
+de transferência de controle  societário ou de  atos de reorganização
+referidos neste artigo.
+
+         Parágrafo  4º A instituição  que não  utilizar sistemas ele-
+trônicos de informação automatizados deve apresentar documento formal
+evidenciando essa situação.
+
+         Art. 2º Os processos a que se refere o art. 1º só serão con-
+siderados devidamente instruídos, para fins de  exame, com a apresen-
+tação da declaração de conformidade na forma ali prevista.
+
+         Art.  3º O reinício das atividades  de instituição em regime
+de intervenção decretado  pelo Banco  Central do  Brasil ou  com suas
+operações voluntariamente paralisadas ficará  condicionado à apresen-
+tação da declaração de  conformidade nos termos  da regulamentação em
+vigor.
+
+         Art. 4º O pedido de cancelamento de autorização para funcio-
+nar de instituição que não tenha  apresentado declaração de conformi-
+dade somente será deferido pelo Banco Central do Brasil mediante for-
+necimento de  declaração  assegurando  que  as  suas  operações  e os
+respectivos contratos serão encerrados em data  não posterior a 31 de
+dezembro de 1999.
+
+         Art. 5º No relatório de auditoria de junho de 1999, elabora-
+do na forma da Resolução nº 2.267, de 29 de  março de 1996, e da Cir-
+cular nº 2.676, de 10 de abril  de 1996, o auditor independente deve,
+adicionalmente, comentar sobre a adequação dos sistemas de informação
+eletrônicos automatizados da instituição, visando o correto processa-
+mento das datas posteriores  ao ano de  1999, bem como  a respeito da
+implementação de plano  de continuidade das  operações ante eventuais
+situações emergenciais  que possam  ocorrer  na passagem  para  o ano
+2000, conforme previsto na Circular nº 2.892, de 26 de maio de 1999.
+
+         Art. 6º Esta Circular entra em vigor na data de sua publica-
+ção.
+
+                        Brasília, 14 de julho de 1999
+
+Sérgio Darcy da Silva Alves                 Luiz Carlos Alvarez
+Diretor                                     Diretor
+```

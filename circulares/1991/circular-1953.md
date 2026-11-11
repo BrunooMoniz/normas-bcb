@@ -1,0 +1,48 @@
+---
+titulo: "Circular Nº 1.953"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1953"
+data: 1991-05-10
+ementa: "CONTINGENCIAMENTO DO CREDITO AO SETOR PUBLICO - ESTABELECE CRITERIOS PARA CORRECAO DO LIMITE E RENOVACAO DAS OPERACOES DE QUE TRATA O ARTIGO 4 DA RESOLUCAO 1718, DE 29/0/90."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2358/93 DOU 19/08/1993 PAG 12179/82 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1718/90", "CIRCULAR 1919/91", "CIRCULAR 2358/93", "CIRCULAR 12179/82"]
+referencias: ["RESOLUÇÃO CMN 1718/90 ART/16.", "CIRCULAR BCB 1919/91 ART/4.", "CITA RESOLUÇÃO CMN 1718/90 ART/2."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1953"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.953
+
+```
+                         CIRCULAR N. 001953
+                         ------------------
+ÀS
+INSTITUIÇÕES FINANCEIRAS E
+SOCIEDADES DE ARRENDAMENTO MERCANTIL
+
+                              CONTINGENCIAMENTO  DO CRÉDITO AO  SETOR
+                              PÚBLICO  --  ESTABELECE CRITÉRIOS  PARA
+                              CORREÇÃO  DOS SALDOS DAS OPERAÇÕES  SOB
+                              CONTROLE DO SETOR PÚBLICO.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL,  EM REUNIÃO REALIZADA EM 09.05.91, COM BASE NO ART. 16 DA RE-
+SOLUÇÃO  Nº 1.718, DE 29.05.90, E TENDO EM VISTA O DISPOSTO NO ARTIGO
+4º DA CIRCULAR Nº 1.919, DE 25.03.91, DECIDIU:
+
+                    ART. 1º. FIXAR, PARA O MÊS DE ABRIL/91, O PERCEN-
+TUAL DE 10% (DEZ POR CENTO) PARA ATUALIZAÇÃO DOS SALDOS DAS OPERAÇÕES
+DE CRÉDITO E DE GARANTIAS DE QUALQUER NATUREZA REALIZADAS COM O SETOR
+PÚBLICO, DE QUE TRATA A RESOLUÇÃO Nº 1.718, DE 29.05.90, INCLUSIVE AS
+RENOVAÇÕES REFERIDAS NO ARTIGO 2º DAQUELA RESOLUÇÃO.
+
+                    ART.  2º. ESTA CIRCULAR ENTRA EM VIGOR NA    DATA
+DE SUA PUBLICAÇÃO.
+                              BRASÍLIA (DF), 10 DE MAIO DE 1991
+
+LUIS EDUARDO ALVES DE ASSIS        GUSTAVO JORGE LABOISSIÈRE LOYOLA
+DIRETOR                            DIRETOR
+```

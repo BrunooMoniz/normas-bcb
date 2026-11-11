@@ -1,0 +1,98 @@
+---
+titulo: "Circular Nº 2.189"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2189"
+data: 1992-06-19
+ementa: "Regulamenta o disposto na Resolução nº 1.764, de 31.10.90, modificada pela Resolução nº 1.865, de 05.09.91, relativamente aos convênios de prestação de serviços para arrecadação de tributos de competência dos estados pelos estabelecimentos bancários oficiais nos termos da Lei Complementar nº 63, de 10.01.90."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Resolução BCB nº 157/2021 - Revogação total, a partir de 1º/12/2021."]
+normas_vinculadas: ["RESOLUÇÃO BCB 157/2021", "RESOLUÇÃO 1865/1991", "RESOLUÇÃO 1764/1990", "CIRCULAR 2119/1992"]
+referencias: ["Lei Complementar nº 63/1990.", "Resoluções CMN ns. 1.764/1990 e 1.865/1991.", "Revoga Circular BCB nº 2.119/1992."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2189"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.189
+
+```
+                         CIRCULAR Nº 002189
+                         ------------------
+
+                              REGULAMENTA  O DISPOSTO NA RESOLUÇÃO Nº
+                              1.764, DE 31.10.90, MODIFICADA PELA RE-
+                              SOLUÇÃO  Nº 1.865, DE 05.09.91, RELATI-
+                              VAMENTE  AOS CONVÊNIOS DE PRESTAÇÃO  DE
+                              SERVIÇOS  PARA ARRECADAÇÃO DE  TRIBUTOS
+                              DE  COMPETÊNCIA DOS ESTADOS PELOS ESTA-
+                              BELECIMENTOS  BANCÁRIOS  OFICIAIS,  NOS
+                              TERMOS  DA  LEI COMPLEMENTAR Nº 63,  DE
+                              10.01.90.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO REALIZADA EM 17.06.92, TENDO EM VISTA O DISPOSTO NA
+LEI  COMPLEMENTAR  Nº  63, DE 10.01.90, E NA RESOLUÇÃO Nº  1.764,  DE
+31.10.90,  MODIFICADA  PELA RESOLUÇÃO Nº 1.865, DE 05.09.91,  DECIDIU
+QUE:
+
+                    ART.  1º. OS  CONVÊNIOS  DE PRESTAÇÃO DE SERVIÇOS
+CELEBRADOS PELOS ESTABELECIMENTOS BANCÁRIOS OFICIAIS COM GOVERNOS ES-
+TADUAIS PARA ARRECADAÇÃO DE TRIBUTOS DEVEM CONTER CLÁUSULAS QUE ATEN-
+DAM ÀS SEGUINTES EXIGÊNCIAS:
+
+                    I  - A  ABERTURA DE CONTA CONJUNTA EM NOME DE TO-
+DOS OS MUNICÍPIOS DO ESTADO;
+
+                   II  - O  DEPÓSITO  OBRIGATÓRIO,  NA CONTA CONJUNTA
+ALUDIDA NO ITEM ANTERIOR, DE 25% (VINTE E CINCO POR CENTO) DA ARRECA-
+DAÇÃO DO ICMS, NO ATO DA REALIZAÇÃO DA ARRECADAÇÃO; E
+
+                  III  - O PERCENTUAL DESTA CONTA CONJUNTA QUE A INS-
+TITUIÇÃO  DEVERÁ CREDITAR A CADA MUNICÍPIO, ATÉ O SEGUNDO DIA ÚTIL DA
+SEMANA SEGUINTE À DA ARRECADAÇÃO.
+
+                    PARÁGRAFO  ÚNICO. ANUALMENTE  DEVERÁ  SER FIRMADO
+ADITIVO  AOS CONVÊNIOS ORIGINAIS, ESTIPULANDO O PERCENTUAL  ATRIBUÍDO
+AO MUNICÍPIO EM DECORRÊNCIA DE SUA PARTICIPAÇÃO NA ARRECADAÇÃO GLOBAL
+DO RESPECTIVO ESTADO.
+
+                    ART.  2º.  O  NÃO  CUMPRIMENTO DAS DISPOSIÇÕES DA
+LEI  COMPLEMENTAR  Nº 63, DE 11.01.90, ENSEJARÁ A IMEDIATA  APLICAÇÃO
+DAS SEGUINTES MEDIDAS:
+
+                    I  - O  ESTABELECIMENTO  BANCÁRIO OFICIAL QUE NÃO
+CREDITAR,  NO  PRAZO, A QUALQUER MUNICÍPIO, AS IMPORTÂNCIAS QUE  LHES
+PERTENÇAM  FICARÁ SUJEITO ÀS SANÇÕES APLICÁVEIS AOS  ESTABELECIMENTOS
+BANCÁRIOS QUE DEIXAM DE CUMPRIR SAQUES DE DEPOSITANTES;
+
+                   II  - SEM PREJUÍZO DA APLICAÇÃO DA PENALIDADE ACI-
+MA,  O  ESTABELECIMENTO  FALTOSO FICARÁ, POR PRAZO NÃO INFERIOR  A  2
+(DOIS)  E NEM SUPERIOR A 4 (QUATRO) ANOS, PROIBIDO DE ARRECADAR E  DE
+RECEBER DEPÓSITOS E REMESSAS DE IMPORTÂNCIAS RELATIVAS AO ICMS;
+
+                  III - ENQUANTO DURAR A PROIBIÇÃO AO ESTABELECIMENTO
+OFICIAL  FALTOSO,  AS ARRECADAÇÕES E OS DEPÓSITOS E REMESSAS  DE  QUE
+TRATA O ITEM PRECEDENTE SERÃO FEITOS, OBRIGATORIAMENTE, JUNTO AO BAN-
+CO  DO  BRASIL S.A. PARA O QUAL DEVE SER IMEDIATAMENTE TRANSFERIDO  O
+SALDO EM PODER DO INFRATOR;
+
+                   IV  - O  BANCO DO BRASIL S.A.  OBSERVARÁ OS PRAZOS
+PREVISTOS NA LEI COMPLEMENTAR Nº 63/90;
+
+                    V - FINDO O PRAZO DA PROIBIÇÃO, O ESTABELECIMENTO
+INFRATOR PODERÁ TORNAR A RECEBER OS DEPÓSITOS E REMESSAS, SE ESCOLHI-
+DO PELO PODER EXECUTIVO ESTADUAL, AO QUAL SERÁ FACULTADO ELEGER QUAL-
+QUER OUTRO ESTABELECIMENTO BANCÁRIO OFICIAL.
+
+                    ART.  3º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                    ART.  4º. FICA  REVOGADA  A CIRCULAR Nº 2.119, DE
+08.01.92.
+
+                              BRASÍLIA (DF), 19 DE JUNHO DE 1992
+
+                              GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                              DIRETOR
+```

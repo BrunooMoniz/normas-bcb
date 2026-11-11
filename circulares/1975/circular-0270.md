@@ -1,0 +1,130 @@
+---
+titulo: "Circular Nº 270"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "270"
+data: 1975-08-13
+ementa: "CREDITO RURAL - ENCHENTE OCORRIDA NAS REGIOES NORTE E NORDESTE. ASSISTENCIA FINANCEIRA ESPECIAL AOS PRODUTORES RURAIS PREJUDICADOS NOS ESTADOS DE PERNAMBUCO, SERGIPE, ALAGOAS, AMAZONAS E PARA. EM ANEXO, PLANILHA CONTENDO AS CONDICOES FINANCEIRAS DO PLANO DE EMERGENCIA PARA ASSISTENCIA FINANCEIRA AOS PRODUTORES RURAIS PREJUDICADOS PELAS ENCHENTES NA REGIAO NORTE E NORDESTE."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 699/82 DOU 03/06/1982 PAG 10176 - REVOGACAO TOTAL."]
+normas_vinculadas: ["CIRCULAR 699/82", "CARTA CIRCULAR 138/75"]
+referencias: ["CITA CIRCULAR BCB 257/75 262/75."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=270"
+baixado_em: 2026-11-10
+---
+# Circular Nº 270
+
+```
+                         CIRCULAR N. 000270
+                         ------------------
+
+Às
+Instituições Financeiras do Sistema Nacional de Crédito Rural
+
+         Comunicamos  que  o Conselho Monetário Nacional,  em  sessão
+realizada  nesta  data, aprovou as seguintes medidas  financeiras  de
+caráter   emergencial   e  prioritário,  visando   a   oferecer   aos
+agropecuaristas  condições para retomada de  suas  atividades  rurais
+ante  os  efeitos  danosos  das enchentes ocorridas  em  regiões  dos
+Estados do Amazonas, Pará, Pernambuco, Alagoas e Sergipe:
+
+         I - Em relação ao setor açucareiro
+
+         Estão  sendo examinados pelo IAA os levantamentos efetuados,
+levando  em  conta  o  grau de intensidade dos  danos  causados,  nas
+diferentes   regiões   atingidas,  a  lavouras   de   cana-de-açúcar,
+equipamentos rurais, instalações industriais e estradas internas, com
+vistas a elaboração de programas emergenciais, visando o soerguimento
+econômico do setor.
+
+         II   -   Em   relação  às  demais  atividades  agropecuárias
+prejudicadas:
+
+         II.1  -  composição  das  dívidas dos produtores  atingidos,
+mediante as seguintes condições:
+
+         a) Custeio
+
+         efetuados os recolhimentos decorrentes da venda de  eventual
+produção  e,  se  for o caso, do subsídio de 40% sobre  o  preço  dos
+fertilizantes (Circulares nºs 257 e 262) e dos valores decorrentes de
+cobertura  do  PROAGRO, será o saldo remanescente  reescalonado  para
+pagamento em 5 prestações anuais, mediante juros de 7% a.a.;
+
+         b) Investimentos
+
+         observado  o  disposto na alínea precedente,  as  prestações
+pactuadas  para resgate com a safra perdida e com a próxima  colheita
+serão  somadas  para parcelamento em 3 prestações  anuais,  vencíveis
+após   a  última  prestação  estabelecida  no  instrumento  original,
+estipulando-se juros de 7% a.a. sobre os valores prorrogados;
+
+         c) Operações com pecuaristas
+
+         as    dívidas    contraídas,   inclusive    prestações    de
+investimentos  realizados com vencimentos fixados para  até  fins  do
+corrente ano, poderão ser prorrogadas por um período não superior a 6
+meses,  a  contar dos vencimentos dos compromissos financeiros  antes
+aludidos, mantidos os juros e demais ônus financeiros da operação.
+
+         II.2  - Operações realizadas pela rede bancária com recursos
+próprios:  observado o disposto no inciso II.1 anterior, poderão  ser
+refinanciadas  pelo  Banco Central do Brasil as operações  realizadas
+pela  rede  bancária,  com recursos próprios,  que  forem  objeto  de
+composição nas condições ali previstas.
+
+         III  -  Em  relação  a  novos  incentivos  à  agricultura  e
+pecuária:
+
+         III.1  -  abertura  de  linha  de  crédito  para  custeio  e
+investimento,  mediante  juros, prazos  e  condições  especiais,  com
+vistas  ao reinício do processo produtivo de agricultores que tiveram
+suas explorações atingidas pelas enchentes;
+
+         III.2  -  abertura  de  linha de crédito  para  execução  do
+"Programa de Desenvolvimento da Pecuária de Corte nas Regiões Norte e
+Nordeste"  (PRODENOR),  com vistas a imprimir  maior  tecnificação  à
+atividade;
+
+         III.3   -   reforço  das  linhas  de  crédito   tradicionais
+(PESAC's) para apoio intensivo à produção agropecuária da região, com
+vistas, inclusive, a manter o nível de emprego nas áreas atingidas;
+
+         III.4  - inclusão, nas novas operações de custeio, de verbas
+destinadas  a  cobrir  os  gastos realizados  pelos  produtores,  com
+recursos próprios, na aquisição de insumos já utilizados nas culturas
+prejudicadas pelos eventos;
+
+         III.5   -  ativação  do  "Programa  Nacional  de  Pastagens"
+(PRONAP), para cuja execução já foram expedidas a Circular nº 256, de
+05.06.75, e a GERUR/DIRAL-AF-75/10, de 18.7.75;
+
+         III.6  -  abertura  de  linha de crédito  para  retenção  de
+crias,  visando  à  manutenção de bezerros e matrizes  em  poder  dos
+pecuaristas  e possibilitando a aquisição de rações e forragens  para
+suplementação alimentar animal;
+
+         III.7   -   reforço   de   verba   para   o   "Programa   de
+Desenvolvimento  da  Pecuária  de  Leite"  (PDPL),  criado  consoante
+autorização do Conselho Monetário Nacional em sessão de 17.05.73.
+
+         2.  As  competentes  instruções para  operacionalização  das
+medidas  enunciadas  no item precedente serão  objeto  de  documentos
+específicos que estão sendo expedidos ao Sistema Nacional de  Crédito
+Rural.
+
+         3.  À  vista  do estímulo creditício criado,  que  traduz  o
+interesse  governamental em manter o incentivo ao impulsionamento  do
+setor agropecuário e reduzir os prejuízos causados pelas adversidades
+climáticas,  recomendamos  às  instituições  financeiras  que  adotem
+especiais  cautelas  no  estudo  das  propostas  e  na  condução  das
+operações,  de  modo  a  evitar  desvirtuamento  dos  objetivos   dos
+créditos.
+
+                             Brasília-DF, 13 de agosto de 1975
+
+                             José de Ribamar Melo
+                             Diretor
+```

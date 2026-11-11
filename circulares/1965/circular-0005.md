@@ -1,0 +1,48 @@
+---
+titulo: "Circular Nº 5"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "5"
+data: 1965-07-19
+ementa: "Determina procedimentos para que se efetuem os recolhimentos compulsórios."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Circular BCB nº 153/1971 - Revogação total ( a partir de 1º/4/1971)."]
+normas_vinculadas: ["CIRCULAR 153/71"]
+referencias: ["Cita Instrução SUMOC nº 235/1963.", "Cita Circulares SUMOC ns. 76 e 106/1964."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=5"
+baixado_em: 2026-11-10
+---
+# Circular Nº 5
+
+```
+                         CIRCULAR N. 000005
+                         ------------------
+
+Aos
+Estabelecimentos Bancários e às Sociedades de Crédito,  Financiamento
+e Investimentos
+
+         Comunicamos  que,  nesta  praça, a  partir  de  26.7.65,  os
+recolhimentos  compulsórios, de que tratam a Instrução  nº  235  e  a
+Circular nº 76, bem como os previstos na Circular nº 106, da  extinta
+Superintendência  da  Moeda  e  do  Crédito,  deverão  ser  efetuados
+diretamente  a  este Órgão, na Gerência de Operações  Bancárias,  Av.
+Presidente  Vargas,  328 - 19º andar, mediante a entrega  de  cheques
+nominativos,  à  nossa  ordem, emitidos  sobre  contas  de  depósitos
+"voluntários" no Banco do Brasil S.A.
+
+         2.  Informamos,  ainda,  que  o  referido  Setor  apreciará,
+também,   os   pedidos   de  liberação  dos  citados   recolhimentos,
+providenciando,  para  os casos desta praça, a devolução  direta  dos
+respectivos valores.
+
+         3.  O  processamento dos depósitos e liberações  nas  demais
+localidades não sofrerá, por enquanto, qualquer alteração.
+
+                             Rio de Janeiro-GB, 19 de julho de 1965
+
+                             Hélio Marques Vianna
+                             Secretário Geral, interino
+```

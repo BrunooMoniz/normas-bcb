@@ -1,0 +1,57 @@
+---
+titulo: "Circular Nº 1.618"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1618"
+data: 1990-03-23
+ementa: "(*)"
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2232/92 DOU 30/09/1992 PAG 13747 - REVOGACAO TOTAL."]
+normas_vinculadas: ["CIRCULAR 1613/90", "CIRCULAR 2232/92", "CARTA CIRCULAR 2080/90", "CARTA CIRCULAR 2083/90", "CARTA CIRCULAR 2075/90", "CARTA CIRCULAR 2066/90"]
+referencias: ["MP 168/90 ART/20.", "CITA MP 168/90 ART/7 ITEM/I ITEM/II.", "REVOGA CIRCULAR BCB 1613/90."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1618"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.618
+
+```
+                         CIRCULAR N. 001618
+                         ------------------
+                                (*)
+
+                              PLANO  DE ESTABILIZAÇÃO ECONÔMICA - ME-
+                              DIDA  PROVISÓRIA Nº 168, DE 15.03.90. -
+                              LIMITE DE CONVERSÃO.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL,  EM SESSÃO DE 22.03.90, TENDO EM VISTA O DISPOSTO NO ART.  20
+DA MEDIDA PROVISÓRIA Nº 168, DE 15.03.90, DECIDIU:
+
+                    ART.  1º. OS SALDOS DAS CONTAS EM CRUZADOS NOVOS,
+EM NOME DE MAIS DE UM TITULAR (CONTA CONJUNTA), IDENTIFICADOS ATRAVÉS
+DE  NºS DE INSCRIÇÃO NO CADASTRO DE PESSOAS FÍSICAS (CPF)  DISTINTOS,
+SERÃO CONVERTIDOS PARA CRUZEIROS:
+
+                      I  - NO CASO  PREVISTO NO INCISO I DO ARTIGO 7º
+DA  MEDIDA  PROVISÓRIA Nº 168, DE 15.03.90, NCZ$ 25.000,00  (VINTE  E
+CINCO MIL CRUZADOS NOVOS), POR TITULAR, OU 20% (VINTE POR CENTO), CO-
+MO VALOR GLOBAL CONVERTIDO DA OPERAÇÃO, INDEPENDENTE DO NÚMERO DE TI-
+TULARES, PREVALECENDO O QUE FOR MAIOR;
+
+                     II  - NO CASO PREVISTO NO INCISO II DO ARTIGO 7º
+DA  MEDIDA  PROVISÓRIA Nº 168, DE 15.03.90, 20% (VINTE POR CENTO)  DO
+VALOR  GLOBAL CONVERTIDO DA OPERAÇÃO, INDEPENDENTE DO NÚMERO DE TITU-
+LARES.
+
+                    ART. 2º. ESTA  CIRCULAR  ENTRARÁ  EM VIGOR NA DA-
+TA  DE SUA PUBLICAÇÃO, REVOGANDO-SE A CIRCULAR Nº 1.613, DE 21.03.90.
+
+                              BRASÍLIA (DF), 23 DE MARÇO 1990
+
+IBRAHIM ERIS                  GUSTAVO JORGE LABOISSIÈRE LOYOLA
+PRESIDENTE                    DIRETOR
+
+(*) REEDITADA TENDO EM VISTA ALTERAÇÃO NO ART. 2º
+```

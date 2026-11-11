@@ -1,0 +1,162 @@
+---
+titulo: "Circular Nº 1.796"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1796"
+data: 1990-08-13
+ementa: "Altera os custos das operações de assistência financeira - Resolução nº 1.598, de 29/3/1989."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 14/8/1990, p. 15.397-8."
+atualizacoes: ["Resolução CMN nº 1.786/1991 - Revogação total."]
+normas_vinculadas: ["CIRCULAR 1874/1990", "CIRCULAR 1762/1990", "RESOLUÇÃO 1786/1991", "RESOLUÇÃO 1664/1989", "RESOLUÇÃO 1598/1989"]
+referencias: ["Resolução CMN nº 1.598/1989, item II.", "Altera Resolução CMN nº 1.598/1989 (Regulamento).", "Cita Resolução CMN nº 1.664/1989.", "Revoga Circular BCB nº 1.762/1990."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1796"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.796
+
+```
+                         CIRCULAR N. 001796
+                         ------------------
+
+ÀS
+INSTITUIÇÕES FINANCEIRAS DO SISTEMA FINANCEIRO NACIONAL
+
+                              ALTERA  OS CUSTOS DAS OPERAÇÕES DE  AS-
+                              SISTÊNCIA  FINANCEIRA  -  RESOLUÇÃO  Nº
+                              1.598, DE 29.03.89.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL,  EM  SESSÃO REALIZADA EM  10.08.90, COM BASE NO  DISPOSTO  NO
+ITEM II DA RESOLUÇÃO Nº 1.598, DE 29.03.89, DECIDIU:
+
+                    ART.  1º. ALTERAR  OS  CUSTOS  DAS  OPERAÇÕES  DE
+ASSISTÊNCIA FINANCEIRA, PASSANDO OS ITENS DO REGULAMENTO ANEXO ÀQUELE
+NORMATIVO, COM AS ALTERAÇÕES INTRODUZIDAS PELA RESOLUÇÃO Nº 1.664, DE
+29.11.89, A TER A SEGUINTE REDAÇÃO:
+
+A) LINHAS DE CRÉDITO
+
+  I - EMPRÉSTIMOS DE LIQUIDEZ
+
+      A) INSTITUIÇÕES FINANCEIRAS COM CARTEIRA COMERCIAL
+
+         ART. 2º, ITEM 4:
+
+        "4.CUSTOS : TAXA  MÉDIA DE DESCONTO DAS LETRAS DO TESOURO NA-
+                    CIONAL  (LTN) DE 28 (VINTE E OITO) DIAS DO ÚLTIMO
+                    LEILÃO  FORMAL OU INFORMAL DESSES TÍTULOS, DESCA-
+                    PITALIZADA  POR DIA ÚTIL, ACRESCIDA DOS SEGUINTES
+                    PERCENTUAIS:
+
+         4.1 - SAQUES ATÉ O LIMITE CONTRATUAL: 15% (QUINZE POR CENTO)
+               AO ANO;
+
+         4.2 - SAQUES ACIMA DO LIMITE CONTRATUAL E ATÉ MAIS UMA VEZ O
+               SEU VALOR: 18% (DEZOITO POR CENTO) AO ANO;  E
+
+         4.3 - SAQUES  QUE EXCEDEREM 2 (DUAS) VEZES O LIMITE  CONTRA-
+               TUAL: 21% (VINTE E UM POR CENTO) AO ANO."
+
+         ART. 2º, ITEM 5:
+
+        "5.1 - PERDERÁ  A PRERROGATIVA DE OPERAR AOS CUSTOS PREVISTOS
+               NO  ITEM 4.1, ANTERIOR, PASSANDO A OPERAR À TAXA MÉDIA
+               DE DESCONTO DAS LETRAS DO TESOURO NACIONAL (LTN) DE 28
+               (VINTE  E OITO) DIAS DO ÚLTIMO LEILÃO FORMAL OU INFOR-
+               MAL  DESSES  TÍTULOS,  DESCAPITALIZADA POR  DIA  ÚTIL,
+               ACRESCIDA DOS SEGUINTES PERCENTUAIS:
+
+               5.1.1 - 18%  (DEZOITO POR CENTO) AO ANO NAS  OPERAÇÕES
+                       ATÉ O LIMITE CONTRATUAL;  E
+
+               5.1.2 - 21%  (VINTE E UM POR CENTO) AO ANO NAS  OPERA-
+                       ÇÕES QUE EXCEDEREM O LIMITE CONTRATUAL."
+
+      B) INSTITUIÇÕES FINANCEIRAS SEM CARTEIRA COMERCIAL COM CARTEIRA
+         DE  INVESTIMENTO E/OU CARTEIRA DE FINANCIAMENTO E  INSTITUI-
+         ÇÕES FINANCEIRAS COM CARTEIRA IMOBILIÁRIA/POUPANÇA RURAL.
+
+         ART. 3º, ITEM 3:
+
+        "3.1 - INSTITUIÇÕES  FINANCEIRAS  SEM CARTEIRA COMERCIAL  COM
+               CARTEIRA DE INVESTIMENTO E/OU CARTEIRA DE FINANCIAMEN-
+               TO:  TAXA MÉDIA DE DESCONTO DAS LETRAS DO TESOURO  NA-
+               CIONAL  (LTN) DE 28 (VINTE E OITO) DIAS DO ÚLTIMO LEI-
+               LÃO FORMAL OU INFORMAL DESSES TÍTULOS, DESCAPITALIZADA
+               POR DIA ÚTIL, ACRESCIDA DOS SEGUINTES PERCENTUAIS:
+
+               3.1.1 - SAQUES  ATÉ  O LIMITE CONTRATUAL (1  PL):  18%
+                       (DEZOITO POR CENTO) AO ANO;  E
+
+               3.1.2 - SAQUES ACIMA DO LIMITE CONTRATUAL (1 PL) E ATÉ
+                       MAIS  A  METADE  DO  LIMITE  CONTRATUAL  --1/2
+                       (MEIO) PL: 21% (VINTE E UM POR CENTO) AO ANO.
+
+         3.2 - INSTITUIÇÕES FINANCEIRAS COM CARTEIRA IMOBILIÁRIA/POU-
+               PANÇA  RURAL:  ÍNDICE DE ATUALIZAÇÃO DOS DEPÓSITOS  DE
+               POUPANÇA,  ACRESCIDO DE 7,8% (SETE INTEIROS E OITO DÉ-
+               CIMOS POR CENTO) AO ANO;"
+
+      C) BANCOS DE DESENVOLVIMENTO
+
+         ART. 4º, ITEM 3:
+
+        "3.CUSTOS : TAXA  MÉDIA DE DESCONTO DAS LETRAS DO TESOURO NA-
+                    CIONAL  (LTN) DE 28 (VINTE E OITO) DIAS DO ÚLTIMO
+                    LEILÃO  FORMAL OU INFORMAL DESSES TÍTULOS, DESCA-
+                    PITALIZADA  POR DIA ÚTIL, ACRESCIDA DOS SEGUINTES
+                    PERCENTUAIS:
+
+                    3.1 - SAQUES  ATÉ O LIMITE CONTRATUAL (1 PL): 18%
+                          (DEZOITO POR CENTO) AO ANO;  E
+
+                    3.2 - SAQUES  ACIMA DO LIMITE CONTRATUAL (1 PL) E
+                          ATÉ  MAIS  A  METADE DO  LIMITE  CONTRATUAL
+                          --1/2 (MEIO) PL: 21% (VINTE E UM POR CENTO)
+                          AO ANO."
+
+ II - EMPRÉSTIMO ESPECIAL
+
+      ART. 6º, ITEM D:
+
+     "D.1 - INSTITUIÇÕES FINANCEIRAS COM CARTEIRA IMOBILIÁRIA/POUPAN-
+            ÇA  RURAL: ÍNDICE DE ATUALIZAÇÃO DOS DEPÓSITOS DE POUPAN-
+            ÇA,  ACRESCIDO DE 7,8% (SETE INTEIROS E OITO DÉCIMOS  POR
+            CENTO) AO ANO;  E
+
+      D.2 - INSTITUIÇÕES  FINANCEIRAS COM CARTEIRA COMERCIAL, DE  IN-
+            VESTIMENTO  E/OU DE FINANCIAMENTO E BANCOS DE DESENVOLVI-
+            MENTO:  VARIAÇÃO ACUMULADA DA TAXA MÉDIA DE DESCONTO  DAS
+            LETRAS  DO  TESOURO NACIONAL (LTN) DE 28 (VINTE  E  OITO)
+            DIAS  VERIFICADA  NO PRAZO CONTRATUAL, ACRESCIDA  DE  15%
+            (QUINZE POR CENTO) AO ANO."
+
+                    ART. 2º. ALTERAR O ART. 19 DO REGULAMENTO ANEXO À
+RESOLUÇÃO Nº 1.598, DE 29.03.89, COM AS MODIFICAÇÕES INTRODUZIDAS PE-
+LA  RESOLUÇÃO Nº 1.664, DE 29.11.89, QUE PASSA A TER A SEGUINTE REDA-
+ÇÃO:
+
+                   "ART. 19 - AS INSTITUIÇÕES FINANCEIRAS COM CARTEI-
+RA  COMERCIAL  E CARTEIRA IMOBILIÁRIA/POUPANÇA RURAL TERÃO ACESSO  ÀS
+SEGUINTES MODALIDADES DE ASSISTÊNCIA FINANCEIRA:
+
+                    - EMPRÉSTIMOS DE LIQUIDEZ (CARTEIRA COMERCIAL);
+
+                    - EMPRÉSTIMOS  DE  LIQUIDEZ  (CARTEIRA  IMOBILIÁ-
+                      RIA/POUPANÇA RURAL);  E
+
+                    - EMPRÉSTIMO ESPECIAL (CARTEIRA COMERCIAL OU CAR-
+                      TEIRA  IMOBILIÁRIA/POUPANÇA  RURAL,  SEGUNDO  A
+                      ORIGEM DAS NECESSIDADES DE CAIXA)."
+
+                    ART.  3º. ESTA CIRCULAR ENTRARÁ  EM VIGOR NA DATA
+DE SUA PUBLICAÇÃO, FICANDO REVOGADA A CIRCULAR Nº 1.762, DE 20.06.90.
+
+                                 BRASÍLIA (DF), 13 DE AGOSTO DE 1990.
+
+LUIS EDUARDO ALVES DE ASSIS          GUSTAVO JORGE LABOISSIÈRE LOYOLA
+DIRETOR                              DIRETOR
+```

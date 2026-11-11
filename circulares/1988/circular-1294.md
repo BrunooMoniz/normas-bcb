@@ -1,0 +1,47 @@
+---
+titulo: "Circular Nº 1.294"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1294"
+data: 1988-02-26
+ementa: "PRONAGRI - FIXACAO DOS ENCARGOS FINANCEIROS, A VIGORAR NO PERIODO DE 01/01/88 A 30/06/88, PARA OS FINANCIAMENTOS REALIZADOS A PARTIR DE 01/09/87 - DETERMINA QUE ESTARAO SUJEITOS, ALEM DA ATUALIZACAO MONETARIA IGUAL AO INDICE DE VARIACAO DAS OBRIGACOES DO TESOURO NACIONAL (OTN), A JUROS A TAXA REAJUSTAVEL SEMESTRALMENTE, EM FUNCAO DO CUSTO DO EMPRESTIMO JUNTO AO BANCO MUNDIAL."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 3081/2002 DOU 21/01/2002 PAG 26 - REVOGACAO TOTAL."]
+normas_vinculadas: ["CIRCULAR 3081/2002", "CIRCULAR 1345/88"]
+referencias: ["CITA CIRCULAR BCB 1252/87 ITEM/III."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1294"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.294
+
+```
+                         CIRCULAR N. 001294
+                         ------------------
+
+Às
+Instituições Financeiras e demais Entidades Autorizadas  a  Funcionar
+pelo Banco Central do Brasil
+
+         Comunicamos  que os financiamentos do Programa  Nacional  de
+Assistência  à Agroindústria (PRONAGRI), contratados e a contratar  a
+partir  de  01.09.87, estarão sujeitos, além da atualização monetária
+igual ao índice de variação das Obrigações do Tesouro Nacional (OTN),
+a  juros  a  taxa reajustável semestralmente, em função do  custo  do
+empréstimo externo junto ao Banco Mundial.
+
+         2.  Em decorrência, na conformidade do item 3 da Circular n.
+1.252,  de 12.11.87, referidas operações estarão sujeitas, no período
+de 01.01 a 30.06.88, a juros à taxa de 8,26% a.a.
+
+         3. A remuneração do agente financeiro deverá ser agregada  à
+taxa  acima, observados os critérios indicados no item 3 do documento
+n.  14 do MCA 16, respeitado o teto de 14% a.a., durante todo o curso
+das operações contratadas entre 01.01 e 30.06.88.
+
+                             Brasília-DF, 26 de fevereiro de 1988
+
+                             Hélio Ribeiro de Oliveira
+                             Diretor
+```

@@ -1,0 +1,95 @@
+---
+titulo: "Circular Nº 893"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "893"
+data: 1984-10-04
+ementa: "EXTINCAO DOS CENTAVOS - NORMAS COMPLEMENTARES A RESOLUCAO 945, DE 21/08/84 - COMUNICA QUE OS CENTAVOS SERAO DESPREZADOS NA CONTABILIDADE DAS INSTITUICOES FINANCEIRAS E DEMAIS ENTIDADES AUTORIZADAS A FUNCIONAR PELO BANCO CENTRAL EM 31/12/84 - PROCEDIMENTOS CONTABEIS."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2551/98 DOU 25/09/1998 PAG 51 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2551/98"]
+referencias: ["CITA RESOLUÇÃO CMN 945/84.   CITA LEI 7214/84."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=893"
+baixado_em: 2026-11-10
+---
+# Circular Nº 893
+
+```
+                         CIRCULAR N. 000893
+                         ------------------
+
+Às
+Instituições Financeiras e demais entidades autorizadas  a  funcionar
+pelo Banco Central do Brasil
+
+         Comunicamos que a Diretoria do Banco Central do  Brasil,  em
+sessão  realizada nesta data, tendo em vista as disposições  contidas
+na Resolução n. 945, de 21.08.84, decidiu estabelecer que os centavos
+serão desprezados, na contabilidade, em 31.12.84.
+
+         2.  Naquela  data,  adotar-se-ão os seguintes  procedimentos
+contábeis, para que o balanço patrimonial seja elaborado com  a  nova
+expressão monetária:
+
+         a)  transferir  os  centavos de todos os  saldos,  ao  menor
+nível de desdobramento, das contas do ATIVO, exceto CAIXA e contas do
+grupo  de  compensação,  a  débito do  subtítulo  de  uso  interno  e
+obrigatório "Conversão Monetária - Lei n. 7.214/84" das contas:
+
+         -  DEVEDORES DIVERSOS - PAÍS, para as instituições  da  Área
+Bancária;
+
+         -  OUTROS CRÉDITOS, para as instituições da Área do  Mercado
+de Capitais; e
+
+         - conta equivalente, para as demais instituições;
+
+         b)  transferir  os  centavos de todos os  saldos,  ao  menor
+nível de desdobramento, das contas do PASSIVO, exceto contas do grupo
+de  compensação, a crédito do subtítulo de uso interno e  obrigatório
+"Conversão Monetária - Lei n. 7.214/84" das contas:
+
+         -  CREDORES  DIVERSOS - PAÍS, para as instituições  da  Área
+Bancária;
+
+         -  OUTROS CREDORES, para as instituições da Área do  Mercado
+de Capitais; e
+
+         - conta equivalente, para as demais instituições;
+
+         c)  eliminar  os centavos do saldo da conta CAIXA,  mediante
+pagamento simbólico, a débito do subtítulo "Conversão Monetária - Lei
+n. 7.214/84" das contas referidas na alínea "a";
+
+         d)  promover,  nos  grupos de compensação,  saldo  a  saldo,
+analiticamente, a eliminação dos centavos, mediante débito e  crédito
+nas contas que se correspondem.
+
+         3.  Confrontando os valores transferidos conforme o item  2-
+"a"  com  os transferidos conforme o item 2-"b", em cada instituição,
+respectivamente, proceder a eliminação do menor valor, observando:
+
+         a)  se o valor resultante for credor e superior a um salário
+mínimo,  transferir  os  cruzeiros para o subtítulo  de  uso  interno
+"Valor  a Recolher ao Tesouro Nacional - Lei n. 7.214/84" das  mesmas
+contas  referidas  no  item  2-"b", e os  centavos,  para  GANHOS  DE
+CAPITAL, ou equivalente, nas instituições que não tiverem esta conta;
+
+         b)  se  o valor resultante for credor e igual ou inferior  a
+um  salário  mínimo, transferir o saldo que remanescer  no  subtítulo
+"Conversão Monetária - Lei n. 7.214/84" das contas referidas no  item
+2-"b",  para GANHOS DE CAPITAL, ou equivalente, nas instituições  que
+não tiverem esta conta;
+
+         c)  se  o  valor resultante for devedor, transferir o  saldo
+que  remanescer no subtítulo "Conversão Monetária - Lei n.  7.214/84"
+das  contas  referidas  no item 2-"a", para  PERDAS  DE  CAPITAL,  ou
+equivalente, nas instituições que não tiverem esta conta.
+
+                             Brasília-DF, 4 de outubro de 1984
+
+José Luiz Silveira Miranda   Iran Siqueira Lima
+Diretor                      Diretor
+```

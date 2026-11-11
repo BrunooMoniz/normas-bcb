@@ -1,0 +1,65 @@
+---
+titulo: "Circular Nº 2.359"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2359"
+data: 1993-08-19
+ementa: "DISPÕE SOBRE ATUALIZAÇÃO DE OPERAÇÕES REALIZADAS NO MERCADO FINANCEIRO COM REMUNERAÇÃO CALCULADA COM BASE NA TAXA REFERENCIAL - TR."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2075/94 DOU 27/05/1994 PAG 7776-7 - REVOGACAO TOTAL, (A PARTIR DE 29/06/1994)."]
+normas_vinculadas: ["RESOLUÇÃO 2075/94", "CIRCULAR 2309/93"]
+referencias: ["LEI 8660/93 ART/9.", "LEI 8660/93 ART/5 PARAGRAFO UNICO.", "ESCLARECE CIRCULAR BCB 2309/93."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2359"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.359
+
+```
+                         CIRCULAR N. 002359
+                         ------------------
+
+                              DISPÕE  SOBRE ATUALIZAÇÃO DE  OPERAÇÕES
+                              REALIZADAS  NO  MERCADO FINANCEIRO  COM
+                              REMUNERAÇÃO  CALCULADA COM BASE NA TAXA
+                              REFERENCIAL - TR.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL,  EM SESSÃO REALIZADA EM 18.08.93, COM BASE NO ART. 9º DA  LEI
+Nº  8.660, DE 28.05.93, E TENDO EM VISTA O DISPOSTO NO ART. 5º, PARÁ-
+GRAFO ÚNICO, DA MESMA LEI, DECIDIU:
+
+                    ART.  1º. SEMPRE  QUE INEXISTENTE(S), EM FINAL DE
+MÊS, DETERMINADA(S) DATA(S)-BASE:
+
+                    I - A  ATUALIZAÇÃO  DE  OPERAÇÕES, A SER EFETUADA
+NA(S)  DATA(S)-BASE INEXISTENTE(S) COM UTILIZAÇÃO DA TR RELATIVA À(S)
+DATA(S)-BASE  NO MÊS ANTERIOR, FAR-SE-Á NO PRIMEIRO DIA DO MÊS SUBSE-
+QÜENTE, INDEPENDENTEMENTE DE ESTE SER DIA ÚTIL OU NÃO;
+
+                   II - O BANCO CENTRAL DIVULGARÁ:
+
+     A - A(S)  TAXA(S) REFERENCIAL(AIS) - TR RELATIVA(S) AO DIA  PRI-
+         MEIRO  DO MÊS SUBSEQÜENTE, PARA UTILIZAÇÃO NA ATUALIZAÇÃO DE
+         OPERAÇÕES  CUJA(S)  DATA(S)-BASE SEJA(M)  INEXISTENTE(S)  NO
+         MÊS;
+
+     B - A  TR RELATIVA AO DIA PRIMEIRO DO MÊS SUBSEQÜENTE, PARA UTI-
+         LIZAÇÃO  NA  ATUALIZAÇÃO DE OPERAÇÕES CUJA DATA-BASE SEJA  O
+         PRÓPRIO DIA PRIMEIRO.
+
+                    ART.  2º. PARA  EFEITO  DA  APLICAÇÃO DO CRITÉRIO
+"PRO-RATA"  DIA  ÚTIL PREVISTO NA CIRCULAR Nº 2.309, DE  19.05.93,  A
+CONTAGEM DO NÚMERO DE DIAS ÚTEIS ENTRE DUAS DATAS INCLUIRÁ A PRIMEIRA
+E EXCLUIRÁ A ÚLTIMA.
+
+                    ART.  3º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 19 DE AGOSTO DE 1993
+
+FRANCISCO AMADEU PIRES FELIX         CLÁUDIO NESS MAUCH
+DIRETOR DE POLÍTICA MONETÁRIA        DIRETOR DE NORMAS E ORGANIZAÇÃO
+                                     DO SISTEMA FINANCEIRO
+```

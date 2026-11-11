@@ -1,0 +1,67 @@
+---
+titulo: "Circular Nº 2.418"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2418"
+data: 1994-04-13
+ementa: "Dispõe sobre o atendimento da exigibilidade prevista no Regulamento anexo à Resolução nº 1.980, de 30.04.93."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR 2758/97 DOU 26/05/1997 PAG 10849 - ALTERACAO: ART/1 PARAG/2.", "RESOLUÇÃO CMN 2458/97 DOU 19/12/1997 PAG 30488 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2458/97", "RESOLUÇÃO 1980/93", "CIRCULAR 2758/97", "CARTA CIRCULAR 2463/94"]
+referencias: ["RESOLUÇÃO CMN 1980/93 ART/57 (REGULAMENTO).", "CITA RESOLUÇÃO CMN 1980/93 ART/6 PARAG/1 (REGULAMENTO)."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2418"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.418
+
+```
+                         CIRCULAR N. 002418
+                         ------------------
+
+                              Dispõe  sobre o atendimento da exigibi-
+                              lidade  prevista no Regulamento anexo à
+                              Resolução nº 1.980, de 30.04.93.
+
+               A Diretoria do Banco Central do Brasil, em sessão rea-
+lizada  em  06.04.94, com base no disposto no art. 57 do  Regulamento
+anexo à Resolução nº 1.980, de 30.04.93,
+
+D E C I D I U:
+
+               Art.  1º  Estabelecer que a exigibilidade de aplicação
+de  que trata o art. 6º do Regulamento anexo à Resolução nº 1.980, de
+30.04.93,  com a redação que lhe foi dada pela Resolução nº 2.019, de
+18.10.93, poderá ser atendida com concessões de cartas de crédito pa-
+ra financiamento à produção de unidades habitacionais ou para a aqui-
+sição  de imóvel novo ou usado, desde que formalizadas as  correspon-
+dentes  propostas de financiamento ou os respectivos recursos estejam
+depositados no Banco Central do Brasil, a partir da data de ajuste da
+posição relativa ao mês da concessão da carta de crédito e até a data
+de ajuste da posição de formalização do respectivo financiamento.
+
+               Parágrafo  1º  O recolhimento  ao Banco Central em de-
+corrência do disposto neste artigo será efetuado mensalmente, em moe-
+da corrente, no dia 15 (quinze) do mês subseqüente ao da posição apu-
+rada ou no dia útil imediatamente posterior, se o dia 15 (quinze) for
+dia não útil.
+
+               Parágrafo 2º  Os recursos recolhidos  na  forma  deste
+artigo  serão remunerados pela Taxa Referencial - TR do dia 15 (quin-
+ze) do mês subseqüente ao da posição apurada, acrescida de juros cor-
+respondentes  a 7,06% a.a. (sete inteiros e seis centésimos por cento
+ao ano).
+
+               Art.  2º  Esta  Circular entra em vigor na data de sua
+publicação.
+
+                              Brasília, 06 de abril de 1994
+
+Cláudio Ness Mauch                    Alkimar Ribeiro Moura
+Diretor de Normas e Organização       Diretor de Política Monetária
+do Sistema Financeiro
+
+----------------
+Republicada por ter havido incorreção no art. 1º
+```

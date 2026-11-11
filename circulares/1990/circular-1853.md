@@ -1,0 +1,52 @@
+---
+titulo: "Circular Nº 1.853"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1853"
+data: 1990-11-29
+ementa: "CONSOLIDA REGULAMENTOS DO PROFIR E PROVÁRZEAS NO CAPÍTULO 8 DO MCR."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 3208/2004 DOU 28/06/2004 PAG 48 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2484/98", "RESOLUÇÃO 3208/2004", "CIRCULAR 1581/90", "CARTA CIRCULAR 1598/87", "CARTA CIRCULAR 1717/87"]
+referencias: ["REVOGA CIRCULAR BCB 1581/90.", "REVOGA CARTA-CIRCULAR BCB 1598/87 1717/87."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1853"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.853
+
+```
+                         CIRCULAR N. 001853
+                         ------------------
+
+                              CONSOLIDA REGULAMENTOS DO PROFIR E PRO-
+                              VÁRZEAS NO CAPÍTULO 8 DO MCR.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO REALIZADA EM 28.11.90, DANDO SEQÜÊNCIA À REESTRUTU-
+RAÇÃO DO MANUAL DE CRÉDITO RURAL (MCR), DECIDIU:
+
+                    ART.  1º. CONSOLIDAR  OS REGULAMENTOS DO PROGRAMA
+DE  FINANCIAMENTO PARA  AQUISIÇÃO DE  EQUIPAMENTOS DE IRRIGAÇÃO (PRO-
+FIR)  E  PROGRAMA  NACIONAL DE APROVEITAMENTO DE  VÁRZEAS  IRRIGÁVEIS
+(PROVÁRZEAS) NO CAPÍTULO 8 DO MANUAL, CONFORME FOLHAS ANEXAS DESTINA-
+DAS À SUA ATUALIZAÇÃO.
+
+                    ART.  2º. REVOGAR   A   CIRCULAR   Nº   1.581, DE
+14.02.90 E AS CARTAS-CIRCULARES Nº 1.598, DE 01.04.87, E Nº 1.717, DE
+11.09.87, SEM PREJUÍZO DOS DISPOSITIVOS CODIFICADOS NO MANUAL.
+
+                    ART.  3º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 29 DE NOVEMBRO DE 1990
+
+                              GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                              DIRETOR
+
+NOTA: AS  FOLHAS DE ATUALIZAÇÃO DE QUE TRATA ESTA CIRCULAR ENCONTRAM-
+      SE  À DISPOSIÇÃO DOS INTERESSADOS NA SEDE E NAS DELEGACIAS  RE-
+      GIONAIS DO BANCO CENTRAL E SERÃO DISTRIBUÍDAS AOS ASSINANTES DO
+      MCR.
+```

@@ -1,0 +1,59 @@
+---
+titulo: "Circular Nº 2.044"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2044"
+data: 1991-09-25
+ementa: "CONTINGENCIAMENTO DE CRÉDITO - CIRCULAR Nº 2.017, DE 15.08.91 NORMAS COMPLEMENTARES"
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2197/92 DOU 02/07/1992 PAG 8509 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1715/90", "CIRCULAR 2197/92"]
+referencias: ["RESOLUÇÃO CMN 1715/90 ART/6.", "CITA CIRCULAR BCB 2017/91."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2044"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.044
+
+```
+                         CIRCULAR N. 002044
+                         ------------------
+
+                              CONTINGENCIAMENTO DE CRÉDITO - CIRCULAR
+                              Nº  2.017, DE 15.08.91 - NORMAS COMPLE-
+                              MENTARES
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO REALIZADA EM 25.09.91, COM BASE NO ART. 6º DA RESO-
+LUÇÃO Nº 1.715, DE 29.05.90, DECIDIU:
+
+                    ART.  1º. EXCLUIR DO CONTINGENCIAMENTO DE CRÉDITO
+DE  QUE  TRATA A CIRCULAR Nº 2.017, DE 15.08.91, AS SEGUINTES  OPERA-
+ÇÕES:
+
+                    I - DE DESCONTO DE DUPLICATAS, REALIZADAS COM EM-
+PRESAS DE "FACTORING", DESDE QUE OS EMITENTES E OS SACADOS DESSES TÍ-
+TULOS SEJAM PESSOAS JURÍDICAS;
+
+                   II - DE CAPITAL DE GIRO A EMPRESAS ADMINISTRADORAS
+DE CARTÃO DE CRÉDITO.
+
+                    ART.  2º. AS EMPRESAS DE "FACTORING" DEVEM  APRE-
+SENTAR  ÀS INSTITUIÇÕES FINANCEIRAS DECLARAÇÃO, SOB AS PENAS DA  LEI,
+DE  QUE AS DUPLICATAS NEGOCIADAS SE ENQUADRAM NA CONDIÇÃO PREVISTA NO
+ITEM I DO ARTIGO ANTERIOR.
+
+                    ART.  3º. ESCLARECER QUE É VEDADO ÀS EMPRESAS AD-
+MINISTRADORAS CONCEDER FINANCIAMENTO DIRETO AOS USUÁRIOS DE CARTÃO DE
+CRÉDITO,  RELATIVAMENTE À PARCELA DA FATURA MENSAL NÃO AMORTIZADA PE-
+LOS MESMOS, POR SER ATIVIDADE PRIVATIVA DE INSTITUIÇÕES FINANCEIRAS.
+
+                    ART.  4º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 25 DE SETEMBRO DE 1991
+
+                              GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                              DIRETOR
+```

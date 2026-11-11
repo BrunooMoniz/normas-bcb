@@ -1,0 +1,49 @@
+---
+titulo: "Circular Nº 1.828"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1828"
+data: 1990-10-25
+ementa: "NOVO VALOR LIMITE PARA CHEQUES TROCADOS NAS SESSOES ESPECIFICAS DO DO SERVICO DE COMPENSACAO DE CHEQUES E OUTROS PAPEIS, DE 100 BTN PARA 400 BTN, ARREDONDADO PARA A DEZENA DE MILHAR DE CRUZEIROS MAIS PROXIMA."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 1908/91 DOU 01/03/91 PAG 3852 - REVOGACAO TOTAL."]
+normas_vinculadas: ["CIRCULAR 1908/91"]
+referencias: ["LEI 4595/64 ART/11 ITEM/VI."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1828"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.828
+
+```
+                         CIRCULAR N. 001828
+                         ------------------
+
+ÀS
+INSTITUIÇÕES  FINANCEIRAS PARTICIPANTES DO SERVIÇO DE COMPENSAÇÃO  DE
+CHEQUES E OUTROS PAPÉIS.
+
+                              ESTABELECE  NOVO  VALOR-LIMITE PARA  OS
+                              CHEQUES  A  SEREM TROCADOS NAS  SESSÕES
+                              ESPECÍFICAS  DO SERVIÇO DE  COMPENSAÇÃO
+                              DE CHEQUES E OUTROS PAPÉIS.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO REALIZADA EM 24.10.90, COM BASE NO ARTIGO 11, INCI-
+SO VI, DA LEI Nº 4.595, DE 31.12.64, DECIDIU:
+
+                    ART. 1º. O  VALOR-LIMITE   DOS  CHEQUES  A  SEREM
+TROCADOS  NAS  SESSÕES ESPECÍFICAS FICA FIXADO EM 400  (QUATROCENTOS)
+BTN,  ARREDONDADO PARA A DEZENA DE MILHAR DE CRUZEIROS MAIS PRÓXIMA E
+SERÁ  ATUALIZADO BIMESTRALMENTE, NOS MESES DE NOVEMBRO, JANEIRO, MAR-
+ÇO, MAIO, JULHO E SETEMBRO.
+
+                    ART. 2º. ESTA  CIRCULAR  ENTRA  EM VIGOR NA  DATA
+DE SUA PUBLICAÇÃO.
+
+                              BRASÍLIA, 25 DE OUTUBRO DE 1990.
+
+LUIS EDUARDO ALVES DE ASSIS       GUSTAVO JORGE LABOISSIÈRE LOYOLA
+DIRETOR                           DIRETOR
+```

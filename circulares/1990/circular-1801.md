@@ -1,0 +1,50 @@
+---
+titulo: "Circular Nº 1.801"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1801"
+data: 1990-08-16
+ementa: "EXCLUSAO DAS LIMITACOES ESTABELECIDAS PELA RESOLUCAO 1715, DE 29/05/90, AS OPERACOES DE CREDITO RURAL E AS ENQUADRAVEIS NO MANUAL DE CREDITO AGROINDUSTRIAL (MCA)."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 1977/91 DOU 27/06/91 PAG 12484 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1715/90", "CIRCULAR 1977/91", "CIRCULAR 1742/90"]
+referencias: ["RESOLUÇÃO CMN 1715/90 ART/6 ITEM/I ITEM/III.", "REVOGA CIRCULAR BCB 1742/90 ART/3 ITEM/I."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1801"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.801
+
+```
+                         CIRCULAR N. 001801
+                         ------------------
+
+AOS
+BANCOS COMERCIAIS, SOCIEDADES DE CRÉDITO, FINANCIAMENTO E INVESTIMEN-
+TO,  CAIXAS ECONÔMICAS E BANCOS MÚLTIPLOS COM CARTEIRA COMERCIAL E/OU
+DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO
+
+                              EXCLUI DAS LIMITAÇÕES ESTABELECIDAS PE-
+                              LA  RESOLUÇÃO Nº 1.715 AS OPERAÇÕES  DE
+                              CRÉDITO RURAL E AS ENQUADRÁVEIS NO MCA.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM REUNIÃO REALIZADA EM 15.08.90 COM BASE NO ARTIGO 6º, ITENS
+I E III, DA RESOLUÇÃO Nº 1.715, DE 29.05.90, DECIDIU:
+
+                    ART.  1º. NÃO SE INCLUEM NAS LIMITAÇÕES ESTABELE-
+CIDAS  PELA RESOLUÇÃO Nº 1.715, DE 29.05.90, AS OPERAÇÕES DE  CRÉDITO
+RURAL E AS ENQUADRÁVEIS NO MANUAL DE CRÉDITO AGROINDUSTRIAL - MCA.
+
+                    ART.  2º. FICA REVOGADO O ITEM I DO ARTIGO 3º  DA
+CIRCULAR Nº 1.742, DE 29.05.90.
+
+                    ART.  3º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 16 DE AGOSTO DE 1990
+
+GUSTAVO JORGE LABOISSIÈRE LOYOLA   LUIS EDUARDO ALVES DE ASSIS
+DIRETOR                            DIRETOR
+```

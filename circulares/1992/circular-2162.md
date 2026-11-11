@@ -1,0 +1,74 @@
+---
+titulo: "Circular Nº 2.162"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2162"
+data: 1992-04-15
+ementa: "DISPÕE SOBRE A EXIGIBILIDADE DE APLICAÇÕES EM CRÉDITO RURAL."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2185/92 DOU 12/06/1992 PAG 7464 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1895/92", "CIRCULAR 2185/92", "CIRCULAR 2057/91", "CIRCULAR 2142/92"]
+referencias: ["RESOLUÇÃO CMN 1895/92 ART/2.", "ALTERA CIRCULAR BCB 2057/91 ART/3 PARAGRAFO UNICO.", "REVOGA CIRCULAR BCB 2142/92."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2162"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.162
+
+```
+                         CIRCULAR Nº 002162
+                         ------------------
+
+                              DISPÕE   SOBRE   A   EXIGIBILIDADE   DE
+                              APLICAÇÕES EM CRÉDITO RURAL.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO REALIZADA EM 15.04.92, COM BASE NO ART. 2º DA RESO-
+LUÇÃO Nº 1.895, DE 22.01.92, DECIDIU:
+
+                    ART.  1º. ALTERAR O PARÁGRAFO ÚNICO DO ART. 3º DA
+CIRCULAR  Nº  2.057, DE 09.10.91, COM A MODIFICAÇÃO INTRODUZIDA  PELA
+CIRCULAR  Nº  2.142, DE 11.03.92, QUE PASSA A VIGORAR COM A  SEGUINTE
+REDAÇÃO:
+
+     "ART. 3º. .....................................................
+
+      PARÁGRAFO ÚNICO. CONCEITUAM-SE COMO FINALIDADES PRIORITÁRIAS:
+
+     A - O  CUSTEIO DE ALGODÃO,  ARROZ, BANANA, BATATA-INGLESA, CEBO-
+         LA,  CEVADA,  FEIJÃO, MANDIOCA, MILHO, SOJA, TOMATE,  TRIGO,
+         TRITICALE E SEMENTES;
+
+     B - O  CUSTEIO  DA AVICULTURA,  DA  SUINOCULTURA E  DA  PECUÁRIA
+         LEITEIRA CONCEDIDO A PEQUENO PRODUTOR;
+
+     C - A   AQUISIÇÃO  DE MILHO DESTINADO AO CUSTEIO DA  AVICULTURA,
+         DA SUINOCULTURA E DA PECUÁRIA LEITEIRA, INDEPENDENTEMENTE DO
+         PORTE DO PRODUTOR;
+
+     D - O EMPRÉSTIMO DO GOVERNO FEDERAL (EGF);
+
+     E - A  AQUISIÇÃO ANTECIPADA DE FERTILIZANTES E SEMENTES, NA FOR-
+         MA  ADMITIDA NO MANUAL DE CRÉDITO RURAL (MCR), DESTINADOS  À
+         FORMAÇÃO  DE LAVOURA CUJO CUSTEIO É CONCEITUADO COMO FINALI-
+         DADE PRIORITÁRIA;
+
+     F - O   INVESTIMENTO  PARA  RECUPERAÇÃO  DO  SOLO, COMPREENDENDO
+         A AQUISIÇÃO, TRANSPORTE E APLICAÇÃO DE CORRETIVOS".
+
+                    ART.  2º. AS  DISPOSIÇÕES  ORA ESTABELECIDAS  NÃO
+IMPEDEM  SEJA COMPUTADO PARA SATISFAÇÃO DA EXIGIBILIDADE EM FINALIDA-
+DES PRIORITÁRIAS O ESTOQUE DE OPERAÇÕES COMPUTÁVEIS ATÉ ESTA DATA.
+
+                    ART.  3º. FICA  REVOGADA  A CIRCULAR Nº 2.142, DE
+11.03.92.
+
+                    ART.  4º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 15 DE ABRIL DE 1992.
+
+                              GUSTAVO JORGE LABOISSIÉRE LOYOLA
+                              DIRETOR
+```

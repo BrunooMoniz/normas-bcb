@@ -1,0 +1,52 @@
+---
+titulo: "Circular Nº 2.127"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2127"
+data: 1992-01-24
+ementa: "ALTERA O LIMITE DE FINANCIAMENTO E O PARÂMETRO DE CLASSIFICAÇÃO DE PEQUENAS E MÉDIAS EMPRESAS NO SEGMENTO AGROINDUSTRIAL DO PRODECER II."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2526/98 DOU 31/07/1998 PAG 53 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2526/98", "RESOLUÇÃO 1829/91", "CIRCULAR 2055/91"]
+referencias: ["RESOLUÇÃO CMN 1829/91 ART/3.", "ALTERA MCA 17/2/8, 17/2/9/I", "REVOGA CIRCULAR BCB 2055/91."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2127"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.127
+
+```
+                         CIRCULAR Nº 002127
+                         ------------------
+
+                              ALTERA  O  LIMITE DE FINANCIAMENTO E  O
+                              PARÂMETRO  DE CLASSIFICAÇÃO DE PEQUENAS
+                              E  MÉDIAS EMPRESAS NO SEGMENTO  AGROIN-
+                              DUSTRIAL DO PRODECER II.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO REALIZADA EM 24.01.92, COM BASE NO DISPOSTO NO ART.
+3º DA RESOLUÇÃO Nº 1.829, DE 28.05.91, DECIDIU:
+
+                    ART.  1º. OS FINANCIAMENTOS AO AMPARO DO SEGMENTO
+AGROINDUSTRIAL  DO PROGRAMA DE COOPERAÇÃO NIPO-BRASILEIRA PARA O  DE-
+SENVOLVIMENTO DOS CERRADOS  (PRODECER II)  NÃO  PODEM  EXCEDER  A CR$
+4.022.000.000,00  (QUATRO BILHÕES E VINTE E DOIS  MILHÕES  DE CRUZEI-
+ROS)  INCLUÍDO O CAPITAL DE GIRO INICIALMENTE REQUERIDO, QUE FICA LI-
+MITADO  A 30% (TRINTA POR CENTO) DO VALOR DOS INVESTIMENTOS FIXOS FI-
+NANCIADOS.
+
+                    ART.  2º. FICA ALTERADO PARA CR$ 2.855.000.000,00
+(DOIS  BILHÕES E OITOCENTOS E CINQÜENTA E CINCO MILHÕES DE CRUZEIROS)
+O  PARÂMETRO DE CLASSIFICAÇÃO DE PEQUENAS E MÉDIAS EMPRESAS  PREVISTO
+NO MCA 17-2-8 E 17-2-9-I.
+
+                    ART.  3º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO, FICANDO REVOGADA A CIRCULAR Nº 2.055, DE 08.10.91.
+
+                              BRASÍLIA (DF), 24 DE JANEIRO DE 1992
+
+                              GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                              DIRETOR
+```

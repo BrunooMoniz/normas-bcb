@@ -1,0 +1,56 @@
+---
+titulo: "Circular Nº 1.894"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1894"
+data: 1991-02-04
+ementa: "ESCLARECE SOBRE O CONTIDO NO ART. 6º DA MEDIDA PROVISÓRIA Nº 294, DE 31.01.91."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 1898/91 DOU 19/02/91 PAG 3133 - REVOGACAO: ART/1 PARAGRAFO UNICO.", "RESOLUÇÃO CMN 2551/98 DOU 25/09/1998 PAG 51 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2551/98", "CIRCULAR 1898/91"]
+referencias: ["MP 294/91 ART/6 PARAG/1."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1894"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.894
+
+```
+                         CIRCULAR N. 001894
+                         ------------------
+
+                              ESCLARECE SOBRE O CONTIDO NO ART. 6º DA
+                              MEDIDA PROVISÓRIA Nº 294, DE 31.01.91.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL,  EM REUNIÃO REALIZADA EM 04.02.91, TENDO EM VISTA O  DISPOSTO
+NA MEDIDA PROVISÓRIA Nº 294, DE 31.01.91, DECIDIU ESCLARECER:
+
+                    ART.  1º. O ÍNDICE "PRO RATA" MENCIONADO NO  ART.
+6º, § 1º, DA CITADA MEDIDA PROVISÓRIA Nº 294 DEVERÁ SER CALCULADO  DE
+FORMA EXPONENCIAL, POR DIA ÚTIL.
+
+                    PARÁGRAFO ÚNICO.  PARA EFEITO DO QUE SE CONTÉM NO
+DISPOSITIVO  REFERIDO NESTE ARTIGO, CONSIDERA-SE COMO A DATA DE  ANI-
+VERSÁRIO  DO TÍTULO OU DA OBRIGAÇÃO O DIA DO MÊS CORRESPONDENTE AO DE
+SUA EMISSÃO OU CONTRATAÇÃO.
+
+                    ART.  2º.  NAS OBRIGAÇÕES EM QUE ESTIPULADA CLÁU-
+SULA  DE CORREÇÃO EM FUNÇÃO DA VARIAÇÃO DO ÍNDICE DE PREÇOS AO CONSU-
+MIDOR (IPC), NÃO HAVENDO PREVISÃO DE UTILIZAÇÃO DE ÍNDICE SUBSTITUTI-
+VO,  DEVERÁ SER ADOTADA, A PARTIR DO MÊS DE MARÇO DE 1991, A TAXA RE-
+FERENCIAL - TR PARA SUA ATUALIZAÇÃO.
+
+                    PARÁGRAFO  ÚNICO. PARA ATUALIZAÇÃO, NO MÊS DE FE-
+VEREIRO DE 1991, DEVERÃO SER OBSERVADOS OS PROCEDIMENTOS PRECONIZADOS
+NO ART. 6º, § 1º, DA CITADA MEDIDA PROVISÓRIA Nº 294.
+
+                    ART. 3º.  ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                            BRASÍLIA (DF), 04 DE FEVEREIRO DE 1991.
+
+                            GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                            DIRETOR
+```

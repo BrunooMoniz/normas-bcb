@@ -1,0 +1,54 @@
+---
+titulo: "Circular Nº 1.716"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1716"
+data: 1990-05-05
+ementa: "DISPÕE SOBRE A FORMA DE CUMPRIMENTO DA EXIGIBILIDADE DO CRÉDITO RURAL NOS DOIS PRIMEIROS PERÍODOS DE AJUSTAMENTO."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 1934/91 DOU 12/04/1991 PAG 6822 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1702/90", "CIRCULAR 1934/91", "CIRCULAR 1735/90", "CIRCULAR 1696/90"]
+referencias: ["RESOLUÇÃO CMN 1702/90.", "ALTERA CIRCULAR BCB 1696/90 ART/2 PARAG/1.", "TORNA SEM EFEITO CIRCULAR BCB 1696/90 ART/2 PARAG/2.", "CITA CIRCULAR BCB 1712/90 ART/1."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1716"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.716
+
+```
+                         CIRCULAR N. 001716
+                         ------------------
+
+                                    DISPÕE  SOBRE A FORMA DE  CUMPRI-
+                                    MENTO DA EXIGIBILIDADE DO CRÉDITO
+                                    RURAL NOS DOIS PRIMEIROS PERÍODOS
+                                    DE AJUSTAMENTO.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL,  EM SESSÃO REALIZADA NESTA DATA, COM FUNDAMENTO NA  RESOLUÇÃO
+Nº 1.702, DE 25.04.90, DECIDIU:
+
+                    ART.  1º. ALTERAR  O PRIMEIRO  PERÍODO DE AJUSTA-
+MENTO  PREVISTO  NO  PARÁGRAFO  1º DO  ART. 2º DA  CIRCULAR Nº 1.696,
+DE 25.04.90, QUE  PASSA  A  SER  DE 07.05.90 A 01.06.90, FICANDO  SEM
+EFEITO O PARÁGRAFO 2º DO REFERIDO ARTIGO.
+
+                    ART.  2º. DETERMINAR  QUE,  NO  PRIMEIRO  PERÍODO
+DE  AJUSTAMENTO, O CUSTO PREVISTO NO INCISO I DO ART. 5º DA  CIRCULAR
+CITADA  NO ARTIGO ANTERIOR SERÁ CALCULADO  SOBRE A PARCELA  EXCEDENTE
+A 50% (CINQÜENTA POR CENTO) DA EXIGIBILIDADE.
+
+                    ART.  3º. PERMITIR QUE O VALOR RECOLHIDO NA FORMA
+DO  ART. 1º DA CIRCULAR Nº 1.712, DE 03.05.90, SEJA LIBERADO À MEDIDA
+EM  QUE A INSTITUIÇÃO FINANCEIRA REALIZE NOVAS APLICAÇÕES EM  CRÉDITO
+RURAL DURANTE O PRIMEIRO PERÍODO DE AJUSTAMENTO.
+
+                    ART.  4º. DETERMINAR  QUE ESTA  CIRCULAR ENTRE EM
+VIGOR A PARTIR DA DATA DE SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 4 DE MAIO DE 1990
+
+                              GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                              DIRETOR
+```

@@ -1,0 +1,55 @@
+---
+titulo: "Circular Nº 2.167"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2167"
+data: 1992-04-29
+ementa: "FACULTA A UTILIZAÇÃO COMO REFERENCIAL DAS TAXAS DOS DEPÓSITOS INTERFINANCEIROS."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2216/92 DOU 20/08/1992 PAG 11322 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1143/86", "CIRCULAR 2216/92", "CIRCULAR 1978/91", "CARTA CIRCULAR 2319/92"]
+referencias: ["RESOLUÇÃO CMN 1143/86 ITEM/IV.", "CITA CIRCULAR BCB 1978/91 ART/3.", "REVOGA CIRCULAR BCB 1978/91 ART/5 ITEM/I."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2167"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.167
+
+```
+                         CIRCULAR Nº 002167
+                         ------------------
+
+                              FACULTA  A UTILIZAÇÃO COMO  REFERENCIAL
+                              DAS  TAXAS DOS DEPÓSITOS INTERFINANCEI-
+                              ROS.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO REALIZADA EM 29.04.92, TENDO EM VISTA O DISPOSTO NO
+ITEM IV DA RESOLUÇÃO Nº 1.143, DE 26.06.86, DECIDIU:
+
+                    ART.  1º. FACULTAR  A  UTILIZAÇÃO,  COMO REFEREN-
+CIAL, EM OPERAÇÕES DE CRÉDITO E DE ARRENDAMENTO MERCANTIL CONTRATADAS
+A  TAXAS FLUTUANTES NOS TERMOS DA RESOLUÇÃO Nº 1.143, DE 26.06.86, DE
+INDICADOR  OBTIDO  A PARTIR DAS TAXAS DE JUROS PRATICADAS NO  MERCADO
+INTERFINANCEIRO PARA DEPÓSITOS COM PRAZO DE 30 (TRINTA) DIAS.
+
+                    PARÁGRAFO 1º.  PERMANECE VEDADA A UTILIZAÇÃO, CO-
+MO  REFERENCIAL, DE QUAISQUER OUTROS INDICADORES OBTIDOS A PARTIR DAS
+TAXAS DE JUROS PRATICADAS NO MERCADO DE DEPÓSITOS INTERFINANCEIROS.
+
+                    PARÁGRAFO  2º.  DEVERÃO SER OBSERVADOS NAS OPERA-
+ÇÕES  CONTRATADAS  A TAXAS FLUTUANTES OS PRAZOS MÍNIMOS PREVISTOS  NO
+ART. 3º DA CIRCULAR Nº 1.978, DE 26.06.91.
+
+                    ART.  2º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                    ART.  3º. FICA  REVOGADO  O  ITEM I DO ART. 5º DA
+CIRCULAR Nº 1.978, DE 26.06.91.
+
+                              BRASÍLIA (DF), 29 DE ABRIL DE 1992
+
+                              GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                              DIRETOR
+```

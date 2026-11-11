@@ -1,0 +1,58 @@
+---
+titulo: "Circular Nº 3.058"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "3058"
+data: 2001-09-05
+ementa: "Dispõe sobre os prazos a serem observados no cumprimento das disposições da Resolução 2878, de 2001."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 3081/2002 DOU 21/01/2002 PAG 26 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2878/2001", "CIRCULAR 3081/2002"]
+referencias: ["RESOLUÇÃO CMN 2878/2001 ART/20.", "REGULAMENTA RESOLUÇÃO CMN 2878/2001 ART/2 ART/10."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3058"
+baixado_em: 2026-11-10
+---
+# Circular Nº 3.058
+
+```
+                         CIRCULAR N. 003058
+                         ------------------
+
+                                   Dispõe sobre os prazos a serem ob-
+                                   servados no cumprimento das dispo-
+                                   sições da Resolução 2878, de 2001.
+
+         A Diretoria  Colegiada do Banco Central do Brasil, em sessão
+realizada em 5 de setembro de 2001,  com  fundamento  no  art. 20  da
+Resolução 2.878, de 26 de julho de 2001,
+
+D E C I D I U:
+
+         Art.  1º Fixar,  para as  instituições financeiras  e demais
+instituicoes autorizadas a funcionar pelo Banco Central do Brasil, as
+seguintes datas para cumprimento das  disposições da Resolução 2.878,
+de 26 de julho de 2001:
+
+         I  - até 30 de outubro de  2001, para colocação à disposição
+dos clientes e usuários das informações  que assegurem total conheci-
+mento acerca das situações que possam  implicar recusa na recepção de
+documentos ou na realização  de pagamentos, bem como  para a afixação
+do número da  Central de Atendimento  ao Público do  Banco Central do
+Brasil e do número relativo ao serviço de mesma natureza, caso ofere-
+cido, na forma do disposto no art. 2º da referida resolução;
+
+         II - até 30 de novembro de 2001, para a adequação dos siste-
+mas operacionais com  vistas à emissão  de cartões  magnéticos com os
+dados impressos em alto relevo, conforme previsto no art. 10 da refe-
+rida resolução.
+
+         Art. 2º Esta circular entra em vigor na data de sua publica-
+ção.
+
+                                     Brasília, 5 de setembro de 2001
+
+                                     Sérgio Darcy da Silva Alves
+                                     Diretor
+```

@@ -1,0 +1,53 @@
+---
+titulo: "Circular Nº 1.778"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1778"
+data: 1990-07-18
+ementa: "PROPOE SEJA ADOTADA A VARIACAO DA TAXA DE REMUNERACAO DAS LETRAS FINANCEIRAS DO TESOURO (LFT) COMO NOVO INDICE DE AUTUALIZACAO PARA AS OPERACOES DE CREDITO CONTRATADAS AO AMPARO DA RESOLUCAO 1335, DE 10/06/87. ."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 3081/2002 DOU 21/01/2002 PAG 26 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1335/87", "CIRCULAR 3081/2002"]
+referencias: ["RESOLUÇÃO CMN 1335/87 ITEM/XIX."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1778"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.778
+
+```
+                         CIRCULAR Nº 001778
+                         ------------------
+
+ÀS
+INSTITUIÇÕES  FINANCEIRAS ORGANIZADAS SOB A FORMA MÚLTIPLA, BANCOS DE
+INVESTIMENTO,  BANCOS DE DESENVOLVIMENTO, SOCIEDADES DE CRÉDITO,  FI-
+NANCIAMENTO E INVESTIMENTO E CAIXA ECONÔMICA FEDERAL
+
+                              RESOLUÇÃO  Nº 1.335, DE 10.06.87 -- ÍN-
+                              DICE  DE ATUALIZAÇÃO PARA AS  OPERAÇÕES
+                              CONTRATADAS ATÉ 01.10.87, EXCLUSIVE.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL,  EM REUNIÃO REALIZADA EM 18.07.90, COM BASE NO INCISO XIX  DA
+RESOLUÇÃO Nº 1.335, DE 10.06.87, DECIDIU:
+
+                    ART.  1º. PARA A  ATUALIZAÇÃO DAS OPERAÇÕES  CON-
+TRATADAS AO AMPARO DA RESOLUÇÃO Nº 1.335 ATÉ 01.10.87, EXCLUSIVE, DE-
+VERÁ SER UTILIZADA, A PARTIR DE 18.06.90, A VARIAÇÃO DA TAXA DE REMU-
+NERAÇÃO DAS LETRAS FINANCEIRAS DO TESOURO (LFT).
+
+                    ART.  2º. EM CONSEQÜÊNCIA, O FATOR  FLFT  DE  QUE
+TRATA  O MNI-4.20.1.14-"J" E "L", OBTIDO NA TRANSAÇÃO PTAX 880, OPÇÃO
+1  (LFT-REMUNERAÇÃO) DO SISTEMA DE INFORMAÇÕES BANCO CENTRAL - SISBA-
+CEN, FICA ALTERADO A PARTIR DAQUELA DATA.
+
+                    ART.  3º. ESTA CIRCULAR ENTRARÁ EM VIGOR NA  DATA
+DE SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 18 DE JULHO DE 1990.
+
+                              LUIS EDUARDO ALVES DE ASSIS
+                              DIRETOR
+```

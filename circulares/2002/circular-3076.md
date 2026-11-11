@@ -1,0 +1,116 @@
+---
+titulo: "Circular Nº 3.076"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "3076"
+data: 2002-01-07
+ementa: "Estabelece disposições complementares à Resolução 2.874, de 2001, relativas a autorização para funcionamento, transferência de controle, reorganização societária e auditoria independente de sociedade de crédito ao microempreendedor e instalação de posto de atendimento ao microempreendedor."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 3182/2003 DOU 07/03/2003 PAG 8 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2874/2001", "CIRCULAR 2915/99", "CIRCULAR 3182/2003"]
+referencias: ["REGULAMENTA RESOLUÇÃO CMN 2874/2001.", "CITA CIRCULAR BCB 2502/94 ART/1 ITEM/II.", "CITA RESOLUÇÃO CMN 2874/2001 ART/3 ART/8.", "CITA CIRCULAR BCB 2502/94 ITEM/II (ANEXO/II).", "CITA RESOLUÇÃO CMN 2267/96.", "CITA CIRCULAR BCB 2502/94 ART/5.", "REVOGA CIRCULAR BCB 2915/99."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3076"
+baixado_em: 2026-11-10
+---
+# Circular Nº 3.076
+
+```
+                         CIRCULAR N. 003076
+                         ------------------
+
+                                  Estabelece  disposições  complemen-
+                                  tares  à  Resolução 2.874, de 2001,
+                                  relativas  a  autorização para fun-
+                                  cionamento,  transferência  de con-
+                                  trole, reorganização  societária  e
+                                  auditoria independente de sociedade
+                                  de crédito  ao  microempreendedor e
+                                  instalação  de posto de atendimento
+                                  ao microempreendedor.
+
+          A Diretoria Colegiada do Banco Central do Brasil, em sessão
+realizada  em 4 de janeiro de 2002, com base no art. 10 da  Resolução
+2.874, de 26 de julho de 2001,
+
+D E C I D I U:
+
+          Art.  1º  Estabelecer  que  às  sociedades  de  crédito  ao
+microempreendedor, disciplinadas pela Resolução 2.874, de 26 de julho
+de  2001,  aplicam-se  as disposições da Circular  2.502,  de  26  de
+outubro  de  1994, referente a procedimentos a serem  observados  com
+vistas  à aprovação, por parte do Banco Central do Brasil, de pedidos
+de   autorização  para  funcionamento,  transferência   de   controle
+societário e reorganização de instituição em funcionamento, bem  como
+o disposto nesta circular.
+
+          Art.  2º  Ficam dispensados da publicação de declaração  de
+propósito  de que trata o art. 1º, inciso II, da Circular  2.502,  de
+1994, os pedidos de autorização para funcionamento e de transferência
+de controle societário de sociedade de crédito ao microempreendedor.
+
+          Art. 3º Para fins de apreciação de processos que envolvam a
+assunção   de  controle  societário  de  sociedade  de   crédito   ao
+microempreendedor de que trata o art. 3º da Resolução 2.874, de 2001,
+deve   ser   adicionalmente  observado,  em  relação   à   proponente
+controladora, o seguinte:
+
+           I   -  apresentação  de  certificado  de  qualificação  da
+Organização da Sociedade Civil de Interesse Público;
+
+          II  - apresentação de relatório, aprovado pelos respectivos
+administradores,  elaborado  por auditor independente  registrado  na
+Comissão  de  Valores Mobiliários, com base nos balanços patrimoniais
+encerrados  nos três últimos exercícios imediatamente  anteriores  ao
+pedido,  demonstrando  estar  a  referida  organização  operando   em
+condições   econômicas  e  financeiras  auto-sustentáveis,  incluindo
+abordagem  específica sobre a qualidade de sua carteira de  créditos,
+em  substituição  ao documento referido no item 2, do  Anexo  II,  da
+Circular 2.502, de 1994;
+
+          III  -  dispensa  da  comprovação de  capacidade  econômica
+referida no art. 5º da Circular 2.502, de 1994.
+
+           Art.   4º   Fica  vedada  às  sociedades  de  crédito   ao
+microempreendedor,   cujo  controle  societário   seja   detido   por
+Organização  da Sociedade Civil de Interesse Público, a transformação
+em  outro tipo de instituição financeira ou instituição autorizada  a
+funcionar pelo Banco Central do Brasil.
+
+          Art. 5º Ficam as sociedades de crédito ao microempreendedor
+dispensadas  da  observância  da obrigatoriedade  de  contratação  de
+auditoria  independente  de  demonstrações financeiras,  estabelecida
+pela Resolução 2.267, de 29 de março de 1996.
+
+         Art. 6º A instalação, a mudança de endereço e o encerramento
+de  Posto de Atendimento de Microcrédito (PAM), definido pelo art. 8º
+da Resolução 2.874, de 2001, devem ser comunicados ao Departamento de
+Cadastro  e  Informações (Decad), no prazo estabelecido  pelo  citado
+normativo, mediante o envio das seguintes informações:
+
+          I  - denominação, código seqüencial e dígito verificador do
+Cadastro  Nacional  da Pessoa Jurídica (CNPJ) da  instituição,    ou,
+quando for o caso, da agência a que vinculado o posto;
+
+          II  -  localização (logradouro, bairro,  município,  CEP  e
+estado), ou, no caso de posto móvel, a região a ser atendida;
+
+         III - data da ocorrência.
+
+         Parágrafo único. As informações referidas neste artigo podem
+ser  enviadas  por meio de correspondência, da transação  PMSG750  do
+Sistema de Informações Banco Central - Sisbacen, ou da forma que vier
+a ser definida pelo Decad.
+
+         Art.  7º  Esta  circular  entra em  vigor  na  data  de  sua
+publicação.
+
+         Art.  8º  Fica revogada a Circular 2.915, de 5 de agosto  de
+1999.
+
+                                   Brasília, 7 de janeiro de 2002
+
+                                   Sérgio Darcy da Silva Alves
+                                   Diretor
+```

@@ -1,0 +1,55 @@
+---
+titulo: "Circular Nº 2.126"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2126"
+data: 1992-01-24
+ementa: "ALTERA O PERCENTUAL DE DIRECIONAMENTO DE QUE TRATA O ART. 2º DA RESOLUÇÃO Nº 1.745, DE 30.08.90."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 1980/93 DOU 30/04/1993 PAG 5783 (EDICAO EXTRA) - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1980/93", "RESOLUÇÃO 1745/90", "CIRCULAR 1820/90", "CIRCULAR 2077/91"]
+referencias: ["RESOLUÇÃO CMN 1745/90 ART/5.", "ALTERA RESOLUÇÃO CMN 1745/90 ART/2.", "CITA RESOLUÇÃO CMN 1446/88 ITEM/I.", "CITA RESOLUÇÃO CMN 1520/88 ITEM/I.", "CITA MCR 6/2.", "REVOGA CIRCULAR BCB 1820/90 2077/91."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2126"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.126
+
+```
+                         CIRCULAR Nº 002126
+                         ------------------
+
+                              ALTERA  O PERCENTUAL DE  DIRECIONAMENTO
+                              DE  QUE TRATA O ART. 2º DA RESOLUÇÃO Nº
+                              1.745, DE 30.08.90.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO REALIZADA EM 24.01.92, COM BASE NO ART. 5º DA RESO-
+LUÇÃO Nº 1.745, DE 30.08.90, DECIDIU:
+
+                    ART.  1º. ALTERAR  PARA ZERO  O PERCENTUAL DE DI-
+RECIONAMENTO DOS RECURSOS CAPTADOS EM DEPÓSITOS DE POUPANÇA PARA OPE-
+RAÇÕES DE CRÉDITO RURAL, A QUE SE REFERE O ART. 2º, "CAPUT"  DA RESO-
+LUÇÃO Nº 1.745, DE 30.08.90.
+
+                    ART. 2º. PARA FINS DO DIRECIONAMENTO DE QUE TRATA
+O  ITEM  I DA RESOLUÇÃO Nº 1.446, DE 05.01.88, COM A REDAÇÃO QUE  LHE
+FOI CONFERIDA PELO ITEM I DA RESOLUÇÃO Nº 1.520, DE 21.09.88, AS OPE-
+RAÇÕES  DE  CRÉDITO RURAL REALIZADAS PASSAM A SER  CONCEITUADAS  COMO
+OPERAÇÕES DA FAIXA LIVRE.
+
+                    PARÁGRAFO  ÚNICO. AS  OPERAÇÕES  DE CRÉDITO RURAL
+REFERIDAS  NESTE ARTIGO NÃO PODERÃO SER COMPUTADAS PARA SATISFAÇÃO DA
+EXIGIBILIDADE  PREVISTA NO MANUAL DE CRÉDITO RURAL, CAPÍTULO 6, SEÇÃO
+2 (MCR 6-2).
+
+                    ART.  3º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA  PUBLICAÇÃO,  FICANDO  REVOGADAS   AS CIRCULARES  NºS  1.820,  DE
+21.09.90, E 2.077, DE 07.11.91.
+
+                              BRASÍLIA (DF), 24 DE JANEIRO DE 1992
+
+                              GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                              DIRETOR
+```

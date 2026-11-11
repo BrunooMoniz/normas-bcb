@@ -1,0 +1,48 @@
+---
+titulo: "Circular Nº 1.928"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1928"
+data: 1991-04-03
+ementa: "FUNDOS DE APLICACAO FINANCEIRA (FUNDAO) - AQUISICAO DE QUOTAS DO FUNDO DE DESENVOLVIMENTO SOCIAL - ALTERACAO DA DATA PARA A TERCEIRA QUARTA FEIRA DO MES DE ABRIL DE 1991 PARA O INICIO DA AQUISICAO."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 1938/91 DOU 18/04/1991 PAG 7183 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1791/91", "RESOLUÇÃO 1787/91", "CIRCULAR 1903/91", "CIRCULAR 1938/91"]
+referencias: ["RESOLUÇÃO CMN 1787/91 ART/1.", "RESOLUÇÃO CMN 1791/91.", "CIRCULAR BCB 1903/91 ART/15 (REGULAMENTO)."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1928"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.928
+
+```
+                         CIRCULAR N. 001928
+                         ------------------
+
+ÀS
+INSTITUIÇÕES ADMINISTRADORAS DE FUNDOS DE APLICAÇÃO FINANCEIRA
+
+                              DISPÕE  SOBRE A AQUISIÇÃO DE QUOTAS  DO
+                              FUNDO  DE  DESENVOLVIMENTO  SOCIAL  POR
+                              PARTE DOS FUNDOS DE APLICAÇÃO FINANCEI-
+                              RA.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL,  EM  SESSÃO DE 03.04.91, COM BASE NO ART. 1º DA RESOLUÇÃO  Nº
+1.787,  DE 1º.02.91, COM A REDAÇÃO QUE LHE FOI DADA PELA RESOLUÇÃO Nº
+1.791, DE 26.02.91, E TENDO EM VISTA O DISPOSTO NO ART. 15 DO REGULA-
+MENTO ANEXO À CIRCULAR Nº 1.903, DE 26.02.91, DECIDIU:
+
+                    ART. 1º. EXCEPCIONALMENTE,  A PRIMEIRA  AQUISIÇÃO
+DE  QUOTAS DO FUNDO DE DESENVOLVIMENTO SOCIAL POR PARTE DOS FUNDOS DE
+APLICAÇÃO  FINANCEIRA  CONSTITUÍDOS  NO MÊS DE MARÇO DE  1991  DEVERÁ
+OCORRER  NA  TERCEIRA  QUARTA-FEIRA  DO MÊS EM  CURSO,  OU  SEJA,  EM
+17.04.91.
+                    ART. 2º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA  DE
+SUA PUBLICAÇÃO.
+                             BRASÍLIA (DF), 3 DE ABRIL DE 1991
+
+GUSTAVO JORGE LABOISSIÈRE LOYOLA         LUIS EDUARDO ALVES DE ASSIS
+DIRETOR                                  DIRETOR
+```

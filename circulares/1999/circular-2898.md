@@ -1,0 +1,181 @@
+---
+titulo: "Circular Nº 2.898"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2898"
+data: 1999-06-23
+ementa: "Altera o regulamento que rege o pagamento das importações brasileiras a aprazo de até 360 dias."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 3231/2004 DOU 05/04/2004 PAG 119 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2342/96", "CIRCULAR 2749/97", "CIRCULAR 3231/2004"]
+referencias: ["RESOLUÇÃO CMN 2342/96.", "CITA MP 1734-28/99.", "ALTERA CIRCULAR BCB 2749/97 ART/1 (PRORROGACAO DE PRAZO).", "ALTERA CNC 6/2."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2898"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.898
+
+```
+                         CIRCULAR N. 002898
+                         ------------------
+
+                                     Altera o regulamento  que rege o
+                                     pagamento das importações brasi-
+                                     leiras a aprazo de até 360 dias.
+
+       A  Diretoria Colegiada do  Banco Central do  Brasil, em sessão
+realizada em 23 de junho  de 1999, com base  no disposto na Resolução
+nº 2.342, de 13 de dezembro de 1996,
+
+D E C I D I U:
+
+       Art. 1º Alterar para 29 de outubro de 1999 a data de que trata
+o art. 1º da Circular nº 2.749, de 3 de abril de 1997.
+
+       Art.  2º Divulgar as folhas  anexas, necessárias à atualização
+do capítulo 6 da Consolidação das Normas Cambiais - CNC.
+
+       Art.   3º  Esta  Circular  entra  em  vigor  na  data  de  sua
+publicação.
+
+                    Brasília, 23 de junho de 1999
+
+                    Daniel Luiz Gleizer
+                    Diretor
+
+Publicam-se, a seguir, as partes alteradas da Consolidação das Normas
+Cambiais - CNC.
+
+CONSOLIDAÇÃO DAS NORMAS CAMBIAIS
+CAPÍTULO: Importação - 6
+TÍTULO  : Contratação de Câmbio - 2
+---------------------------------------------------------------------
+
+1. As  operações  de câmbio  destinadas ao  pagamento  de importações
+   brasileiras,  inclusive as  relativas a  parcelas de  principal de
+   importações  financiadas até 360 dias,  podem ser  celebradas para
+   liquidação pronta ou futura.
+
+ 2.O  prazo máximo  admitido entre a  contratação e  a liquidação das
+   operações é de 360 (trezentos e sessenta) dias, limitado à data de
+   vencimento da obrigação no exterior.
+
+ 3.As  operações de câmbio  destinadas ao pagamento  de importações a
+   prazo de até 360 dias devem ser celebradas:
+
+    a)   Declarações  de   Importação  registradas   até  17.03.1999,
+     inclusive:  para  liquidação  futura,  observados  os  seguintes
+     critérios de antecipação:
+
+     I.     anteriormente  à  data   de  registro  da  correspondente
+       Declaração  de Importação, nas importações que devam ser pagas
+       até  o último dia do quinto mês subseqüente ao mês de registro
+       da DI;
+
+     II.    até o  último dia do  sexto mês anterior  ao mês previsto
+       para pagamento na DI, nos  demais casos.
+
+   b)       Declarações  de   Importação  registradas   a  partir  de
+     18.03.1999, inclusive:
+
+     I.     para liquidação futura,  anteriormente à data de registro
+       da  correspondente Declaração  de Importação,  nas importações
+       que   devam  ser  pagas  até  o  último  dia  do  segundo  mês
+       subseqüente ao mês de registro da DI;
+
+     II.    até  o  último dia  do  mês  de  vencimento  da obrigação
+       previsto na Declaração de Importação, nos  demais casos.
+
+ 4. Na hipótese de o esquema de pagamentos  constante da DI consignar
+   pagamentos parcelados, as disposições do item precedente devem ser
+   observadas relativamente a cada parcela detalhada.
+
+ 5. As disposições do item "3.a. I e II" e "3.b. I"  não se aplicam :
+
+   a)       às  operações  de  câmbio  em  pagamento  de  importações
+     embarcadas no exterior até o dia 31.03.1997, inclusive;
+
+   b)       às  operações  de  câmbio  em  pagamento  de  importações
+     embarcadas  no  exterior até  29.10.1999,  inclusive,  desde que
+     observadas, cumulativamente, as seguintes condições:
+
+       I  -  tratem-se   de   importações   de   valor   inferior   a
+        US$40.000,00 (quarenta mil dólares dos Estados Unidos) ou seu
+        equivalente em  outras  moedas, para  as DIs  registradas até
+        28.02.1999,  ou  US$80.000,00   (oitenta  mil   dólares   dos
+        Estados Unidos) ou seu equivalente  em outras moedas, para as
+        DIs registradas a partir de 01.03.1999;
+
+      II  -  o país  de  origem das  mercadorias  seja  integrante do
+        MERCOSUL, Bolívia  ou  Chile, e  signatário  do  Mecanismo de
+        Solução de Controvérsias da ALADI;
+
+     III  - as operações de câmbio sejam  liquidadas até o último dia
+        do segundo mês  subseqüente ao mês  de registro da  DI e, nos
+        casos de instrumentos de pagamentos  cursáveis sob o Convênio
+        de Pagamentos e Créditos Recíprocos da ALADI (CCR), efetuados
+        ao amparo do Sistema;
+
+   c)   às importações  de  petróleo e  derivados,  classificadas nos
+     seguintes itens da Nomenclatura Comum do Mercosul - NCM:
+     -  2709.00   - Óleos  brutos de  petróleo ou  de minerais
+                    betuminosos
+     - 2710.00.1  - Naftas
+     - 2710.00.2  - Gasolinas
+     - 2710.00.3  - Querosenes
+     - 2710.00.41 - "Gasóleo" (Óleo diesel)
+     - 2710.00.42 - "Fuel-oil"
+     - 2710.00.61 - Óleos lubrificantes sem aditivos
+     - 2711.11.00 - Gás natural
+     - 2711.12    - Propano
+     - 2711.13.00 - Butanos
+     - 2711.19.10 - Gás liquefeito de petróleo (GLP)
+     - 2711.21.00 - Gás natural
+     - 2711.29.10 - Butanos;
+
+   d) às importações efetuadas sob o regime de drawback;
+
+   e) às  importações  de valor  inferior  a  US$10.000,00  (dez  mil
+     dólares dos Estados Unidos) ou seu equivalente em outras moedas;
+
+   f) aos  pagamentos   de   importações  de   produtos  de   consumo
+     alimentar básico, conforme ato do Ministro de Estado da Fazenda.
+
+ 6. A  verificação  do  atendimento  ao  disposto  no   item  3  será
+   efetuada  eletronicamente,  quando da liquidação do contrato ou da
+   vinculação   a   este   da   correspondente   DI.   Verificado   o
+   descumprimento  da  exigência  regulamentar,  fica  o   importador
+   sujeito    ao   pagamento  da multa    de  que trata    a   Medida
+   Provisória  nº   1.734-28,  de  02.06.1999, que  será  calculada e
+   cobrada  na forma  do título  15 deste  Capítulo, sem  prejuízo de
+   outras  sanções administrativas  que se  recomendem  em  função do
+   descumprimento da exigência.
+
+ 7. É permitida  a  contratação  de  câmbio  por  pessoa  diversa  do
+   importador  indicado na  correspondente Declaração  de Importação,
+   nas seguintes situações:
+
+   a) alteração da denominação social do importador;
+
+   b) concordata ou falência do importador, facultada  a  contratação
+     do câmbio pelo garantidor, estabelecido no País,  co-responsável
+     pelo pagamento da importação;
+
+   c) inadimplemento do importador com o banco autorizado a operar em
+     em câmbio, instituidor de carta  de  crédito  ou  garantidor  do
+     do pagamento da importação;
+
+   d) por decisão judicial;
+
+   e)       fusão, cisão,  sucessão   ou   incorporação  da   empresa
+     importadora;
+
+   f) quando se tratar de  consignatário  de  importação  beneficiada
+     pelo Fundo  para o Desenvolvimento  de  Atividades  Portuárias -
+     FUNDAP.
+
+ 8.As  situações mencionadas nas alíneas "a", "b",  "d" e "e" do item
+   precedente  devem    ser objeto  de  comprovação  perante  o banco
+   vendedor da moeda estrangeira.
+```

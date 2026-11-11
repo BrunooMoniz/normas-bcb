@@ -1,0 +1,53 @@
+---
+titulo: "Circular Nº 1.927"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1927"
+data: 1991-04-01
+ementa: "DEFINE O CRITÉRIO DE AJUSTE DOS LIMITES OPERACIONAIS NO ÂMBITO DO SFH."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 1980/93 DOU 30/04/1993 PAG 5783 (EDICAO EXTRA) - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1980/93", "RESOLUÇÃO 1446/88", "CIRCULAR 1450/89"]
+referencias: ["RESOLUÇÃO CMN 1446/88 ITEM/XXIII.", "COMUNICADO BCB 2300/91 ITEM/III.", "REVOGA CIRCULAR BCB 1450/89."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1927"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.927
+
+```
+                         CIRCULAR N. 001927
+                         ------------------
+
+                              DEFINE O CRITÉRIO DE AJUSTE DOS LIMITES
+                              OPERACIONAIS NO ÂMBITO DO SFH.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL,  EM  REUNIÃO DE 27.03.91, COM FUNDAMENTO NO DISPOSTO NO  ITEM
+XXIII  DA RESOLUÇÃO Nº 1.446, DE 05.01.88, E TENDO EM VISTA O CONTIDO
+NO ITEM III DO COMUNICADO Nº 2.300, DE 04.02.91, DECIDIU:
+
+                    ART.  1º. ESTABELECER QUE OS LIMITES OPERACIONAIS
+EXISTENTES  NO ÂMBITO DO SISTEMA FINANCEIRO DA HABITAÇÃO (SFH)  DEVEM
+SER  AJUSTADOS MENSALMENTE, A PARTIR DE 1º.03.91, INCLUSIVE, MEDIANTE
+A APLICAÇÃO DO ÍNDICE DE REMUNERAÇÃO BÁSICA DOS DEPÓSITOS DE POUPANÇA
+COM DATA DE ANIVERSÁRIO NO DIA PRIMEIRO, CONSIDERANDO COMO BASE O VA-
+LOR ESTABELECIDO NO COMUNICADO Nº 2.300, DE 04.02.91.
+
+                    PARÁGRAFO  ÚNICO. A PARTIR DE 01.04.91, SERÁ UTI-
+LIZADA A TAXA REFERENCIAL DIÁRIA - TRD, PARA AJUSTE DOS LIMITES REFE-
+RIDOS  NO "CAPUT", NO CASO DE EVENTOS QUE OCORRAM DURANTE O TRANSCOR-
+RER DO MÊS.
+
+                    ART.  2º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                    ART.  3º. FICA  REVOGADA  A  CIRCULAR  Nº  1.450,
+DE 27.02.89.
+
+                              BRASÍLIA (DF),  1 DE ABRIL DE 1991
+
+                              GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                              DIRETOR
+```

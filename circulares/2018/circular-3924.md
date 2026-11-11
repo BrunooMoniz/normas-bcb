@@ -1,0 +1,51 @@
+---
+titulo: "Circular N° 3.924"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "3924"
+data: 2018-12-19
+ementa: "Dispõe sobre a utilização de recebíveis de arranjo de pagamento em garantia de operações de crédito."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 21/12/2018, Seção 1, p. 784."
+atualizacoes: ["Circular BCB nº 3.926/2019 - Nova redação ao art. 3º.", "Circular BCB nº 3.928/2019 - Nova redação: art. 2º, inciso II. Inclusão: art. 2º , §§ 1º ao 4º; art. 2º-A; art. 2º-B; art. 2º-C; art. 2º-D. Revogação: art. 2º, parágrafo único.", "Circular BCB nº 3.952/2019 - Revogação total, a partir de 7/6/2021."]
+normas_vinculadas: ["RESOLUÇÃO 4707/2018", "CARTA CIRCULAR 3934/2019", "CIRCULAR 3952/2019", "CIRCULAR 3928/2019", "CIRCULAR 3926/2019", "CIRCULAR 3682/2013"]
+referencias: ["Lei nº 12.865/2013, art. 9º, incisos I, II e X.", "Resolução CMN nº 4.707/2018.", "Cita Circular BCB nº 3.682/2013."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3924"
+baixado_em: 2026-11-10
+---
+# Circular N° 3.924
+
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 19 de dezembro de 2018, com base no art. 9º, incisos I, II e X, da Lei nº 12.865, de 9 de outubro de 2013, e tendo em vista o disposto na Resolução nº 4.707, de 19 de dezembro de 2018,
+
+R E S O L V E :
+
+Art. 1º  Esta Circular disciplina a utilização de recebíveis de arranjo de pagamento em garantia de operações de crédito contratadas por instituições financeiras.
+
+§ 1º  Para fins do disposto nesta Circular, consideram-se recebíveis de arranjo de pagamento os direitos creditórios relativos a obrigações de pagamento de instituições credenciadoras ou subcredenciadores aos usuários finais recebedores constituídas no âmbito de arranjo de pagamento pós-pago, inclusive os direitos creditórios de existência futura de montante desconhecido.
+
+§ 2º  Para fins do disposto no § 1º, consideram-se instituições credenciadoras:
+
+I - as instituições de pagamento credenciadoras;
+
+II - as instituições financeiras que prestam serviço de credenciamento; e
+
+III - as instituições de pagamento emissoras de moeda eletrônica que interoperem com o arranjo de pagamento do usuário pagador.
+
+Art. 2º  As instituições credenciadoras devem:
+
+I - realizar a liquidação financeira dos recebíveis de arranjo de pagamento na instituição domicílio especificada no contrato da operação de crédito garantida por parte ou pela totalidade desses recebíveis, durante sua vigência; e
+
+II - disponibilizar a agenda de recebíveis de seus usuários finais recebedores para as instituições financeiras com as quais esses usuários tenham celebrado operações de crédito garantidas por recebíveis de arranjo de pagamento.
+
+Parágrafo único.  As instituições credenciadoras, na celebração de contratos de parceria com subcredenciadores, devem:
+
+I - fazer constar nos contratos cláusulas que obriguem os subcredenciadores a elas ligados a cumprirem o disposto neste artigo; e
+
+II - assegurar que os controles adotados pelos subcredenciadores possibilitem o cumprimento do disposto neste artigo.
+
+Art. 3º  Esta Circular entra em vigor em 31 de janeiro de 2019.
+
+             Otávio Ribeiro Damaso                    Reinaldo Le Grazie
+             Diretor de Regulação                     Diretor de Política Monetária

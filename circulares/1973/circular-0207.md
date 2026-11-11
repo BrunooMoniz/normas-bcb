@@ -1,0 +1,59 @@
+---
+titulo: "Circular Nº 207"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "207"
+data: 1973-06-12
+ementa: "POLITICA DE ENDIVIDAMENTO EXTERNO - ESQUEMA OPERACIONAL PARA OS EMPRESTIMOS EM MOEDA PARA O RESTANTE DE 1973 E PERIODO SUBSEQUENTE - SUSPENDE A EXIGENCIA DO DEPOSITO DE 25% DA NEGOCIACAO DAS DIVISAS, NAS OPERACOES AUTORIZADAS A PARTIR DE 13/06/73."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2770/2000 DOU 31/08/2000 PAG 13 (E) - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2770/2000"]
+referencias: ["CITA RESOLUÇÃO CMN 236/72 259/73.", "CITA CIRCULAR BCB 190/72 ITEM/IV ITEM/V."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=207"
+baixado_em: 2026-11-10
+---
+# Circular Nº 207
+
+```
+                         CIRCULAR N. 000207
+                         ------------------
+
+         Comunicamos que a Diretoria deste Banco, tendo em  vista  as
+disposições  da  Resolução  nº 259, desta  data,  decidiu  baixar  as
+seguintes normas complementares:
+
+         I  -  Os  valores depositados no Banco Central do Brasil  na
+forma  da  Resolução  nº  236, serão liberados  independentemente  de
+qualquer  solicitação, em favor da agência bancária através  da  qual
+tenha  sido  feito  o  recolhimento  inicial,  obedecido  o  seguinte
+escalonamento:
+
+         a)  depósitos  efetuados em outubro e  novembro  de  1972  -
+liberação de 2 a 6.7.1973;
+
+         b) depósitos efetuados em dezembro de 1972 - liberação de  1
+a 6.8.1973;
+
+         c)  depósitos  efetuados em janeiro e fevereiro  de  1973  -
+liberação de 3 a 6.9.1973;
+
+         d)  depósitos efetuados em março de 1973 - liberação de 1  a
+5.10.1973;
+
+         e)  depósitos efetuados em abril de 1973 - liberação de 5  a
+9.11.1973;
+
+         f)  depósitos  efetuados de maio de  1973  até  12.6.1973  -
+liberação de 3 a 7.12.1973.
+
+         II  -  Até  final liberação dos depósitos, conforme previsto
+no item anterior, ficam mantidas as condições de liberação constantes
+dos itens IV e V da Circular nº 190, de 19.10.1972.
+
+                             Brasília-DF, 12 de junho de 1973
+
+Paulo H. Pereira Lira        Luiz de Carvalho e Mello Filho
+Diretor                      Diretor
+```

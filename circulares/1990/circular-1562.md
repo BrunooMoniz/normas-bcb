@@ -1,0 +1,55 @@
+---
+titulo: "Circular Nº 1.562"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1562"
+data: 1990-01-04
+ementa: "OPERACOES COMPROMISSADAS - LIMITES OPERACIONAIS - ALTERACAO DOS CRITERIOS DE APURACAO."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 1943/92 DOU 30/07/1992 PAG 10251 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1943/92", "RESOLUÇÃO 1088/86", "CIRCULAR 1560/89"]
+referencias: ["RESOLUÇÃO 1088/86 ART/30 (REGULAMENTO).", "REVOGA CIRCULAR BCB 1560/89."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1562"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.562
+
+```
+                         CIRCULAR N. 001562
+                         ------------------
+
+ÀS
+INSTITUIÇÕES HABILITADAS À REALIZAÇÃO
+DE OPERAÇÕES COMPROMISSADAS
+
+                             ESTABELECE  NOVO CRITÉRIO PARA  APURAÇÃO
+                             DOS LIMITES OPERACIONAIS PARA A REALIZA-
+                             ÇÃO DE OPERAÇÕES COMPROMISSADAS.
+
+                   COMUNICAMOS  QUE  A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO REALIZADA EM 03.01.90, TENDO EM VISTA O DISPOSTO NO
+ARTIGO 30 DO REGULAMENTO ANEXO À RESOLUÇÃO Nº 1.088, DE 30.01.86, DE-
+CIDIU QUE:
+
+                   ART.  1º. AS INSTITUIÇÕES HABILITADAS À REALIZAÇÃO
+DE OPERAÇÕES COMPROMISSADAS DEVERÃO UTILIZAR, COMO BASE PARA O CÁLCU-
+LO  DOS RESPECTIVOS LIMITES OPERACIONAIS, O PERCENTUAL, PARA ESSE FIM
+DESTACADO, DO PATRIMÔNIO LÍQUIDO AJUSTADO APURADO SEGUNDO OS DADOS DO
+BALANÇO/BALANCETE DO MÊS IMEDIATAMENTE ANTERIOR.
+
+                   ART.  2º. ESTA CIRCULAR ENTRARÁ EM VIGOR  NA  DATA
+DE SUA PUBLICAÇÃO.
+
+                   ART.  3º. REVOGA-SE  A   CIRCULAR   Nº  1.560,  DE
+26.12.89.
+
+                             BRASÍLIA (DF), 4 DE JANEIRO DE 1990
+
+WADICO WALDIR BUCCHI                    FRANCISCO AMADEU PIRES FELIX
+PRESIDENTE                              DIRETOR
+
+ANDRÉ ROMAR FERNANDES
+DIRETOR, EM EXERCÍCIO
+```

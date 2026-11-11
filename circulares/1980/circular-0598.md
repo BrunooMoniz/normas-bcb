@@ -1,0 +1,62 @@
+---
+titulo: "Circular Nº 598"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "598"
+data: 1980-12-31
+ementa: "Atualiza os roteiros para instrução de processos de interesse das instituições subordinadas à área bancária e baixa normas complementares."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 8/1/1981, p. 422."
+atualizacoes: ["Circular BCB nº 1.958/1991 - Revogação itens II e III.", "Resolução BCB nº 157/2021 - Revogação total, a partir de 1º/12/2021."]
+normas_vinculadas: ["RESOLUÇÃO BCB 157/2021", "CARTA CIRCULAR 1203/1985", "CARTA CIRCULAR 1202/1985", "CARTA CIRCULAR 1175/1985", "CARTA CIRCULAR 1084/1984", "CARTA CIRCULAR 543/1981", "CIRCULAR 3382/2008", "CIRCULAR 2202/1992", "CIRCULAR 1958/1991", "CIRCULAR 1402/1988", "CIRCULAR 107/1967", "CIRCULAR 87/1967", "CIRCULAR 45/1966"]
+referencias: ["Revoga Circulares BCB ns. 45/1966, 87/1967 e 107/1967.", "Altera MNI 13-10, 16-17, 17-11."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=598"
+baixado_em: 2026-11-10
+---
+# Circular Nº 598
+
+```
+                         CIRCULAR N. 000598
+                         ------------------
+
+Aos
+Bancos  Comerciais,  Bancos  de  Desenvolvimento  e  Cooperativas  de
+Crédito
+
+         Comunicamos  que  a  Diretoria do Banco Central,  em  sessão
+realizada  em 31.12.80, decidiu atualizar os roteiros para  instrução
+de  processos  de  interesse  das instituições  subordinadas  à  Área
+Bancária, instituindo os Capítulos 13-10, 16-17 e 17-11 do Manual  de
+Normas e Instruções (MNI).
+
+         2.   Os   administradores  e  membros   de   outros   órgãos
+estatutários   podem,  alternativamente  à  exigência  de   atualizar
+anualmente  o formulário cadastral ora instituído, remeter  cópia  da
+última declaração de bens fornecida à Secretaria da Receita Federal.
+
+         3.  As  atualizações de que trata o item anterior devem  ser
+encaminhadas   ao   Banco  Central/Departamento  de   Organização   e
+Autorizações  Bancárias  ou ao Departamento Regional  a  que  estiver
+jurisdicionada a instituição até 30 de abril de cada ano.
+
+         4.  A  renúncia de qualquer administrador ou membro de outro
+órgão  estatutário  deverá  ser  comunicada  imediatamente  ao  Banco
+Central/Departamento de Organização e Autorizações  Bancárias  ou  ao
+Departamento Regional a que estiver jurisdicionada a instituição.
+
+         5.  Ficam revogadas as Circulares nºs  45,  87,  e  107,  de
+06.07.66, 18.04.67 e 18.12.67, respectivamente.
+
+         6.   Em   conseqüência,  encontram-se   anexas   as   folhas
+necessárias à atualização do Manual.
+
+                             Brasília-DF, 31 de dezembro de 1980
+
+                             Antonio Chagas Meirelles
+                             Diretor
+
+Obs:   o   anexo   deste  normativo  encontra-se  à  disposição   dos
+interessados na Sede do Banco Central do Brasil.
+```

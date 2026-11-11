@@ -1,0 +1,53 @@
+---
+titulo: "Circular Nº 2.030"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2030"
+data: 1991-09-04
+ementa: "DISPOE SOBRE A TRANSFERENCIA DE TITULARIDADE DE CRUZADOS NOVOS - LEI 8218, DE 29/08/91 - ADMITE A UTILIZACAO DE CRUZADOS NOVOS PERTENCENTES A TERCEIROS, MEDIANTE TRANSFERENCIA DE TITULARIDADE ENTRE PESSOAS FISICAS E JURIDICAS - ALTERACAO DO PARAGRAFO 1, ARTIGO 1 DA CIRCULAR 2005, DE 08/08/91."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2551/98 DOU 25/09/1998 PAG 51 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2551/98", "CIRCULAR 2005/91"]
+referencias: ["LEI 8024/90 ART/20.", "LEI 8218/91 ART/9 PARAG/7.", "ALTERA CIRCULAR BCB 2005/91 ART/1 PARAG/1."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2030"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.030
+
+```
+                         CIRCULAR N. 002030
+                         ------------------
+
+ÀS
+INSTITUIÇÕES DO SISTEMA FINANCEIRO NACIONAL
+
+                              DISPÕE SOBRE A TRANSFERÊNCIA DE TITULA-
+                              RIDADE  DE  CRUZADOS  NOVOS  -  LEI  Nº
+                              8.218, DE 29.08.91 - CIRCULAR Nº 2.005,
+                              DE 08.08.91.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL,  EM SESSÃO REALIZADA EM 03.09.91, COM FUNDAMENTO NO  DISPOSTO
+NO  ART. 20 DA LEI Nº 8.024, DE 12.04.90, E TENDO EM VISTA O  CONTIDO
+NO ART. 9º, PARÁGRAFO 7º DA LEI Nº 8.218, DE 29.08.91, DECIDIU:
+
+                    ART.  1º.  ALTERAR O PARÁGRAFO 1º DO ART. 1º   DA
+CIRCULAR Nº  2.005, DE 08.08.91, QUE PASSA A VIGORAR COM  A  SEGUINTE
+REDAÇÃO:
+
+"PARÁGRAFO 1º. PARA OS FINS DO DISPOSTO NOS ITENS I A V  DESTE  ARTI-
+GO,  ADMITE-SE A UTILIZAÇÃO DE CRUZADOS NOVOS PERTENCENTES A  TERCEI-
+ROS,  MEDIANTE TRANSFERÊNCIA DE TITULARIDADE DE CRUZADOS NOVOS  ENTRE
+PESSOAS  FÍSICAS,  ENTRE PESSOAS FÍSICAS E JURÍDICAS E ENTRE  PESSOAS
+JURÍDICAS."
+
+                    ART.  2º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 4 DE SETEMBRO DE 1991
+
+                              GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                              DIRETOR
+```

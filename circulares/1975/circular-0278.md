@@ -1,0 +1,36 @@
+---
+titulo: "Circular Nº 278"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "278"
+data: 1975-11-13
+ementa: "IMPOSTO SOBRE OPERACOES FINANCEIRAS (IOF) - APRESENTA MINUTA DE CIRCULAR QUE ESCLARECE QUE ALIQUOTA FIXADA NA ALINEA E DO ITEM II DA RESOLUCAO 40/66, COM A REDACAO QUE LHE FOI DADA PELA RESOLUCAO 347/75, NO CASO DE REPASSE DE RECURSOS OBTIDOS EM MOEDA ESTRANGEIRA, NO EXTERIOR, SE APLICA, EXCLUSIVAMENTE, AS OPERACOES REALIZADAS NA FORMA DAS RESOLUCOES 63/67 E 64/67."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 619/80 DOU 30/05/1980 PAG 10800 - REVOGACAO TOTAL, A PARTIR DE 16/06/1980."]
+normas_vinculadas: ["RESOLUÇÃO 619/80"]
+referencias: ["CITA RESOLUÇÃO CMN 40/66 ITEM/II AL/E.", "CITA RESOLUÇÃO CMN 63/67 64/67 347/75."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=278"
+baixado_em: 2026-11-10
+---
+# Circular Nº 278
+
+```
+                         CIRCULAR N. 000278
+                         ------------------
+
+         Comunicamos que a Diretoria do Banco Central do  Brasil,  em
+sessão  realizada  nesta  data,  decidiu  esclarecer  que,  consoante
+deliberação  do  Conselho Monetário Nacional, a  alíquota  fixada  na
+alínea  "e" do item II da Resolução nº 40, de 28.10.66, com a redação
+que  lhe  foi  dada pela Resolução nº 347, de 13.11.75,  no  caso  de
+repasse  de  recursos obtidos em moeda estrangeira, no  exterior,  se
+aplica,   exclusivamente,  às  operações  realizadas  na  forma   das
+Resoluções nºs 63 e 64, de 21 e 23.08.67, respectivamente.
+
+                             Brasília-DF, 13 de novembro de 1975
+
+Ernesto Albrecht             Fernão Carlos Botelho Bracher
+Diretor                      Diretor
+```

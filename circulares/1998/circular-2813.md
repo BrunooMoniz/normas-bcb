@@ -1,0 +1,67 @@
+---
+titulo: "Circular Nº 2.813"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2813"
+data: 1998-03-18
+ementa: "Faculta a aplicação de recursos resgatados de fundos de investimento financeiro, cujas quotas sejam de titularidade de investidores estrangeiros representando interesses coletivos, em fundos de renda fixa capital estrangeiro."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2815/98 DOU 02/04/1998 PAG 29 - ALTERACAO: ART/2 (PRORROGACAO DE PRAZO).", "CIRCULAR BCB 3081/2002 DOU 21/01/2002 PAG 26 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2034/93", "RESOLUÇÃO 2183/95", "CIRCULAR 3081/2002", "CIRCULAR 2815/98", "CARTA CIRCULAR 2793/98", "CARTA CIRCULAR 2794/98"]
+referencias: ["LEI 4595/64 ART/10.", "RESOLUÇÃO CMN 2034/93 ART/4.", "RESOLUÇÃO CMN 2183/95 ART/1.", "CITA CIRCULAR BCB 2812/98."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2813"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.813
+
+```
+                         CIRCULAR N. 002813
+                         ------------------
+
+                              Faculta  a aplicação de recursos resga-
+                              tados  de fundos de investimento finan-
+                              ceiro,  cujas  quotas sejam  de titula-
+                              ridade  de   investidores  estrangeiros
+                              representando interesses coletivos,  em
+                              fundos  de renda fixa - capital estran-
+                              geiro.
+
+               A  Diretoria Colegiada do Banco Central do Brasil,  em
+sessão realizada em 18.03.98, com base no art. 10 da Lei nº 4.595, de
+31.12.64,  e  tendo em vista o disposto nos arts. 4º da Resolução  nº
+2.034, de 17.12.93, e 1º da Resolução nº 2.183, de 21.07.95,
+
+D E C I D I U:
+
+               Art.  1º  Facultar, mediante a realização de operações
+simultâneas  de compra e de venda de moeda estrangeira, a  aplicação,
+em fundos de renda fixa - capital estrangeiro de que tratam a Resolu-
+ção nº 2.034, de 17.12.93, e a Circular nº 2.812, de 18.03.98, de re-
+cursos oriundos de resgate de quotas de fundos de investimento finan-
+ceiro mantidas por investidores estrangeiros que representem interes-
+ses coletivos.
+
+               Parágrafo  único. A  utilização  da  faculdade  de que
+trata  este artigo é admitida apenas em relação a recursos existentes
+em fundos de investimento financeiro em 17.03.98.
+
+               Art.  2º  Estabelecer  o  prazo de 60 (sessenta) dias,
+contados  da data da entrada em vigor desta Circular, para a utiliza-
+ção da faculdade de que trata o art. 1º.
+
+               Art.  3º Autorizar os Departamentos de Câmbio (DECAM),
+de Capitais Estrangeiros (FIRCE) e de Normas  do  Sistema  Financeiro
+DENOR), cada qual dentro de sua área de atuação, a adotar as  medidas
+e baixar as  normas  complementares  que  se  fizerem  necessárias  à
+execução do disposto nesta Circular.
+
+               Art.  4º  Esta  Circular entra em vigor na data de sua
+publicação.
+
+                              Brasília, 18 de março de 1998
+
+Demosthenes Madureira de Pinho Neto      Sérgio Darcy da Silva Alves
+Diretor                                  Diretor
+```

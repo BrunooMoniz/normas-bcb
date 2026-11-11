@@ -1,0 +1,47 @@
+---
+titulo: "Circular Nº 2.153"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2153"
+data: 1992-04-06
+ementa: "REGULAMENTA AS DISPOSIÇÕES DAS CIRCULARES NºS 1.742, DE 29.05.90, 1.788, DE 31.07.90, E 1.878, DE 09.01.91."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["COMUNICADO BCB 3258/93 DOU III 05/04/1993 PAG 4499 - ALTERACAO: ITEM/I AL/E AL/G.", "COMUNICADO BCB 3388/93 DOU III 02/07/1993 PAG 8886 - ALTERACAO: ITEM/I AL/E AL/G.", "CIRCULAR BCB 2358/93 DOU 19/08/1993 PAG 12179-82 - REVOGACAO TOTAL."]
+normas_vinculadas: ["CIRCULAR 2358/93", "CIRCULAR 1878/91", "CIRCULAR 1788/90", "CIRCULAR 1742/90", "RESOLUÇÃO 1718/90", "RESOLUÇÃO 1715/90"]
+referencias: ["RESOLUÇÃO CMN 1715/90 ART/6 ITEM/I ITEM/III.", "RESOLUÇÃO CMN 1718/90 ART/16.", "REGULAMENTA CIRCULAR BCB 1742/90 1788/90 1878/91."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2153"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.153
+
+```
+                         CIRCULAR Nº 002153
+                         ------------------
+ÀS
+INSTITUIÇÕES FINANCEIRAS E SOCIEDADES DE ARRENDAMENTO MERCANTIL
+
+                              REGULAMENTA AS DISPOSIÇÕES DAS CIRCULA-
+                              RES  NºS 1.742, DE 29.05.90, 1.788,  DE
+                              31.07.90, E 1.878, DE 09.01.91.
+
+                    COMUNICAMOS QUE A  DIRETORIA   DO  BANCO  CENTRAL
+DO BRASIL, EM REUNIÃO  REALIZADA  EM  02.04.92, COM  BASE NO  ART. 6º
+INCISOS I E III, DA  RESOLUÇÃO  Nº 1.715, E NO ART. 16, DA  RESOLUÇÃO
+Nº 1.718, AMBAS DE 29.05.90, DECIDIU:
+
+                    ART.  1º. AS INSTITUIÇÕES FINANCEIRAS E AS SOCIE-
+DADES  DE  ARRENDAMENTO MERCANTIL FICAM DISPENSADAS DE ENVIAR OS  DE-
+MONSTRATIVOS  DE  QUE  TRATAM AS CIRCULARES NºS 1.742,  DE  29.05.90,
+1.788,  DE 31.07.90, E 1.878, DE 09.01.91, DESDE QUE NÃO POSSUAM OPE-
+RAÇÕES DA ESPÉCIE.
+
+                    ART.  2º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 2 DE ABRIL DE 1992
+
+PEDRO LUIZ BODIN DE MORAES         GUSTAVO JORGE LABOISSIÈRE LOYOLA
+DIRETOR                            DIRETOR
+```

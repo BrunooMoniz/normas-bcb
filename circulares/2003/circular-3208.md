@@ -1,0 +1,100 @@
+---
+titulo: "Circular Nº 3.208"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "3208"
+data: 2003-10-30
+ementa: "Programa Nacional de Desburocratização - Institui a Rede de Informações de Capitais Estrangeiros e Câmbio RedeCEC."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Circular BCB nº 3.718/2014 - Revogação total."]
+normas_vinculadas: ["CIRCULAR 3718/2014"]
+referencias: ["Lei nº 4.595/1964, arts. 9º e 10."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3208"
+baixado_em: 2026-11-10
+---
+# Circular Nº 3.208
+
+```
+                         CIRCULAR N. 003208
+                         ------------------
+
+                                     Programa       Nacional       de
+                                     Desburocratização -  Institui  a
+                                     Rede  de Informações de Capitais
+                                     Estrangeiros    e    Câmbio    -
+                                     RedeCEC.
+
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada
+em  29 de outubro de 2003, com base nos artigos 9° e 10 da Lei 4.595,
+de 31 de dezembro de 1964,
+
+D E C I D I U:
+
+         Art. 1º  Instituir  a   Rede   de  Informações  de  Capitais
+Estrangeiros e Câmbio (RedeCEC),  com acesso exclusivo pela internet,
+no  endereço  eletrônico www.bcb.gov.br, cujo gestor é o Departamento
+de Capitais Estrangeiros e Câmbio (Decec).
+
+         Art. 2º  A RedeCEC tem como objetivos:
+
+         I  -   colocar à disposição das pessoas físicas e  jurídicas
+que  realizam  operações comerciais e financeiras com  o  exterior  a
+listagem  das  pendências  referentes  aos  registros  em  seu   nome
+relacionados à área de atuação do Decec que estejam na base de  dados
+do  Banco  Central do Brasil, bem como orientá-las sobre a  forma  de
+sanar   eventuais   pendências  decorrentes  do   descumprimento   da
+regulamentação;
+
+         II  -  permitir às  pessoas físicas e jurídicas que realizam
+operações comerciais e financeiras com o exterior consulta, de  forma
+individualizada ou consolidada, aos registros existentes em seu  nome
+relacionados à área de atuação do Decec que estejam na base de  dados
+do Banco Central do Brasil;
+
+         III  - estabelecer um canal oficial de comunicação direta  e
+segura com as pessoas físicas e jurídicas  que realizam operações com
+o exterior;
+
+         Art. 3º  O   acesso  à   RedeCEC   é   feito  por  meio   de
+credenciamento prévio do interessado no Sistema de Informações  Banco
+Central  -  Sisbacen, cujas instruções de acesso  estão  disponíveis,
+igualmente,  no endereço eletrônico www.bcb.gov.br.
+
+         Parágrafo  único.   Caso  o  usuário  seja  credenciado   no
+Sisbacen,  para acesso a qualquer transação/serviço, não é necessário
+fazer novo credenciamento.
+
+         Art. 4º  Estão  inicialmente  disponíveis   na   RedeCEC  os
+seguintes serviços:
+
+         I  -  pendências relativas  a  câmbio de  importação;
+
+         II -  pendências  relativas a câmbio de exportação;
+
+         III - pendências   relativas   a   registro   de   operações
+financeiras (ROF);
+
+         IV  - pendências  relativas  a  investimento direto no  País
+(RDE/IED);
+
+         V   - pendências   relativas   a  investimento  no   mercado
+financeiro e de capitais (RDE/ Portfólio).
+
+         Art. 5º  Os demais módulos de serviços serão incorporados  à
+RedeCEC   de forma gradual,  mediante divulgação na página  do  Banco
+Central do Brasil na internet.
+
+         Art. 6º  Ficam  o  Decec e o Departamento de  Tecnologia  da
+Informação  (Deinf)  autorizados a adotar as  medidas  necessárias  à
+execução do disposto nesta Circular.
+
+         Art. 7º  Esta  Circular  entra  em  vigor  na  data  de  sua
+publicação.
+
+                                     Brasília, 30 de outubro de 2003.
+
+                    Beny  Parnes         João Antonio Fleury Teixeira
+                    Diretor              Diretor
+```

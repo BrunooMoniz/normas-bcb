@@ -1,0 +1,48 @@
+---
+titulo: "Circular Nº 2.055"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2055"
+data: 1991-10-08
+ementa: "ALTERA O LIMITE DE FINANCIAMENTO E O PARÂMETRO DE CLASSIFICAÇÃO DE PEQUENAS E MÉDIAS EMPRESAS NO SEGMENTO AGROINDUSTRIAL DO PRODECER II."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2127/92 DOU 28/01/1992 PAG 1081 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1829/91", "CIRCULAR 2127/92"]
+referencias: ["RESOLUÇÃO CMN 1829/91 ART/3.", "CITA MCA 17/2/8  17/2/9/I."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2055"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.055
+
+```
+                         CIRCULAR N. 002055
+                         ------------------
+                              ALTERA  O  LIMITE DE FINANCIAMENTO E  O
+                              PARÂMETRO  DE CLASSIFICAÇÃO DE PEQUENAS
+                              E  MÉDIAS EMPRESAS NO SEGMENTO  AGROIN-
+                              DUSTRIAL DO PRODECER II.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO REALIZADA EM 08.10.91, COM BASE NO DISPOSTO NO ART.
+3º DA RESOLUÇÃO Nº 1.829, DE 28.05.91, DECIDIU:
+
+                    ART.  1º. OS FINANCIAMENTOS AO AMPARO DO SEGMENTO
+AGROINDUSTRIAL  DO PROGRAMA DE COOPERAÇÃO NIPO-BRASILEIRA PARA O  DE-
+SENVOLVIMENTO  DOS  CERRADOS  (PRODECER II) NÃO PODEM EXCEDER  A  CR$
+1.600.000.000,00  (UM BILHÃO E SEISCENTOS MILHÕES DE CRUZEIROS),  IN-
+CLUÍDO  O CAPITAL DE GIRO INICIALMENTE REQUERIDO, QUE FICA LIMITADO A
+30% (TRINTA POR CENTO) DO VALOR DOS INVESTIMENTOS FIXOS FINANCIADOS.
+
+                    ART.  2º. FICA ALTERADO PARA CR$ 1.140.000.000,00
+(UM  BILHÃO  E CENTO E QUARENTA MILHÕES DE CRUZEIROS) O PARÂMETRO  DE
+CLASSIFICAÇÃO  DE PEQUENAS E MÉDIAS EMPRESAS PREVISTO NO MCA 17-2-8 E
+17-2-9-I.
+                    ART.  3º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+                              BRASÍLIA (DF), 8 DE OUTUBRO DE 1991
+
+                              GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                              DIRETOR
+```

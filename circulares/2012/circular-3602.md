@@ -1,0 +1,55 @@
+---
+titulo: "Circular Nº 3.602"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "3602"
+data: 2012-06-25
+ementa: "Institui o Censo Anual de Capitais Estrangeiros no País."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 26/6/2012, Seção 1, p.33."
+atualizacoes: ["Circular BCB nº 3.795/2016 - Revogação total."]
+normas_vinculadas: ["CARTA CIRCULAR 3603/2013", "CARTA CIRCULAR 3559/2012", "CIRCULAR 3795/2016", "RESOLUÇÃO 2883/2001"]
+referencias: ["Lei nº 4.131/1962, arts. 55, 56, 57 e 58.", "Medida Provisória nº 2.224/2001, art. 3º.", "Resolução CMN nº 2.883/2001."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3602"
+baixado_em: 2026-11-10
+---
+# Circular Nº 3.602
+
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 20 de junho de 2012, com base no disposto nos arts. 55, 56 e 57 da Lei nº 4.131, de 3 de setembro de 1962, e tendo em vista o art. 58 da citada lei, o art. 3º da Medida Provisória nº 2.224, de 4 de setembro de 2001, e a Resolução nº 2.883, de 30 de agosto de 2001,
+
+R E S O L V E :
+
+Art. 1º  Fica instituído o Censo Anual de Capitais Estrangeiros no País.
+
+Art. 2º  As informações relativas ao Censo de que trata o art. 1º serão prestadas ao Banco Central do Brasil por meio de declaração, que terá como data-base o dia 31 de dezembro do ano anterior.
+
+§ 1º  Devem prestar a declaração:
+
+I - as pessoas jurídicas sediadas no País com participação direta de não residentes em seu capital em qualquer montante e com patrimônio líquido igual ou superior a US$100 milhões (cem milhões de dólares dos Estados Unidos da América); e
+
+II - as pessoas jurídicas sediadas no País com saldo devedor total de créditos comerciais de curto prazo (exigíveis em até 360 dias) igual ou superior a US$10 milhões (dez milhões de dólares dos Estados Unidos da América).
+
+§ 2º  Os fundos de investimento deverão informar, por meio de seus administradores, o total de suas aplicações e a respectiva participação de não residentes no patrimônio do fundo, discriminando os não residentes que possuam, individualmente, participação igual ou superior a 10% do patrimônio do fundo, respeitado o montante mínimo de US$100 milhões (cem milhões de dólares dos Estados Unidos da América) investidos no país na data-base.
+
+§ 3º  Estão dispensados de prestar a declaração:
+
+a) as pessoas físicas;
+
+b) os órgãos da administração direta da União, Estados, Distrito Federal e Municípios;
+
+c) as pessoas jurídicas devedoras de repasses de créditos externos concedidos por instituições sediadas no País; e
+
+d) as entidades sem fins lucrativos mantidas por contribuição de não residentes.
+
+Art. 3º  Os responsáveis pela prestação de informações devem manter, pelo prazo de cinco anos contados a partir da data-base da declaração, a documentação comprobatória das informações prestadas para apresentação ao Banco Central do Brasil, quando solicitada.
+
+Art. 4º  O Banco Central do Brasil resguardará a confidencialidade dos dados obtidos pela declaração e os divulgará de forma consolidada, de maneira a não identificar situações individuais.
+
+Art. 5º  Fica o Departamento Econômico (Depec) autorizado a solicitar informações adicionais necessárias à complementação do Censo Anual, a divulgar o Manual do Declarante, a fixar os prazos e a forma de entrega da declaração e a adotar as demais medidas necessárias ao cumprimento desta Circular.
+
+Art. 6º  Esta Circular entra em vigor na data de sua publicação.
+
+Carlos Hamilton Vasconcelos Araújo         Altamir Lopes
+Diretor de Política Econômica              Diretor de Administração

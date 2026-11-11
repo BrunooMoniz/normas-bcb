@@ -1,0 +1,219 @@
+---
+titulo: "Circular Nº 3.485"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "3485"
+data: 2010-02-25
+ementa: "Altera a Circular nº 3.091, de 2002, que trata do recolhimento compulsório e do encaixe obrigatório sobre recursos a prazo, e dá outras providências."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 26/2/2010, p. 28."
+atualizacoes: ["Circular BCB nº 3.499/2010 - Revogação art. 3º.", "Circular BCB nº 3.513/2010 - Nova redação art. 4º.", "Circular BCB nº 3.569/2011 - Revogação total."]
+normas_vinculadas: ["CARTA CIRCULAR 3434/2010", "CIRCULAR 3569/2011", "CIRCULAR 3513/2010", "CIRCULAR 3499/2010", "CIRCULAR 3468/2009", "CIRCULAR 3427/2008", "CIRCULAR 3262/2004", "CIRCULAR 3091/2002", "CIRCULAR 2900/1999", "RESOLUÇÃO 3444/2007", "RESOLUÇÃO 1857/1991"]
+referencias: ["Lei nº 4.595/1964 art. 10, incisos III e IV.", "Resolução CMN nº 1.857/1991.", "Cita Lei nº 7.730/1989, arts. 19 e 20.", "Cita Circular BCB nº 2.900/1999, art. 2º, §§ 1º e 3º.", "Cita Resolução CMN nº 3.444/2007.", "Altera Circular BCB 3.091/2002 - Dá nova redação: art. 4º; art. 5º, caput; art. 6º, caput; art. 6º, §§ 1º ao 4º; art. 7º e art. 9º. Inclui: art. 5º, incisos I, II e III; art. 5º, § 1º, incisos I e II; art. 5º, §§ 2º ao 5º e art. 6º-A.", "Altera Circular BCB nº 3.427/2008 - Dá nova redação ao art. 3º, §1º, inciso II. Revoga art. 2º.", "Altera Circular BCB nº 3.468/2009 - Revoga arts. 1º e 2º.", "Revoga, Circular BCB nº 3.262/2004."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3485"
+baixado_em: 2026-11-10
+---
+# Circular Nº 3.485
+
+```
+                         CIRCULAR N. 003485
+                         ------------------
+
+                                 Altera  a  Circular  nº  3.091,   de
+                                 2002,   que  trata  do  recolhimento
+                                 compulsório     e     do     encaixe
+                                 obrigatório sobre recursos a  prazo,
+                                 e dá outras providências.
+
+         A  Diretoria Colegiada do Banco Central do Brasil, em sessão
+realizada  em 24 de fevereiro de 2010, tendo em vista o  disposto  no
+art.  10,  incisos III e IV, da Lei nº 4.595, de 31  de  dezembro  de
+1964,  com a redação que lhe foi dada pelos arts. 19 e 20 da  Lei  nº
+7.730,  de 31 de janeiro de 1989, e na Resolução nº 1.857, de  15  de
+agosto de 1991,
+
+         D E C I D I U :
+
+         Art.  1º  Os arts. 4º, 5º, 6º, 7º e 9º da Circular nº 3.091,
+de 1º de março de 2002, passam a vigorar com as seguintes redações:
+
+         "Art. 4º  A exigibilidade de recolhimento compulsório  e
+         de  encaixe  obrigatório é apurada mediante a  aplicação
+         da  alíquota de 15% (quinze por cento) sobre a  base  de
+         cálculo de que trata o art. 3º desta Circular." (NR)
+
+         "Art.  5º  A exigibilidade, calculada na forma  do  art.
+         4º, será deduzida das seguintes parcelas:
+
+         I  - R$2.000.000.000,00 (dois bilhões de reais), para as
+         instituições  financeiras independentes  ou  integrantes
+         de    conglomerado   financeiro   cujo   Patrimônio   de
+         Referência   (PR)  seja  inferior  a  R$2.000.000.000,00
+         (dois bilhões de reais);
+
+         II  - R$1.500.000.000,00 (um bilhão e quinhentos milhões
+         de    reais),    para   as   instituições    financeiras
+         independentes ou integrantes de conglomerado  financeiro
+         cujo  PR  seja  igual  ou superior a  R$2.000.000.000,00
+         (dois  bilhões de reais) e inferior a R$5.000.000.000,00
+         (cinco bilhões de reais); e
+
+         III   -   zero,   para   as   instituições   financeiras
+         independentes ou integrantes de conglomerado  financeiro
+         cujo  PR  seja  igual  ou superior a  R$5.000.000.000,00
+         (cinco bilhões de reais).
+
+         §  1º   Para  fins da dedução de que trata este  artigo,
+         será   considerada  a  média  aritmética   dos   valores
+         correspondentes ao Nível I do Patrimônio de  Referência,
+         apurado  na forma estabelecida pela Resolução nº  3.444,
+         de  28 de fevereiro de 2007 (Nível I do PR), da seguinte
+         forma:
+
+         I  -  a média dos valores correspondentes ao Nível I  do
+         PR  de  julho de um ano a junho do ano seguinte vigorará
+         de  janeiro  a junho do ano subsequente, com  início  no
+         período  de cálculo cujo ajuste seja o primeiro  do  mês
+         de janeiro; e
+
+         II  - a média dos valores correspondentes ao Nível I  do
+         PR  de janeiro a dezembro do mesmo ano vigorará de julho
+         a  dezembro do ano subsequente, com início no período de
+         cálculo cujo ajuste seja o primeiro do mês de julho.
+
+         §  2º   Para  as instituições financeiras em  início  de
+         atividade, a média dos valores correspondentes ao  Nível
+         I  do PR será apurada considerando o número de meses  em
+         que  estiveram em funcionamento, até que completem  doze
+         meses.
+
+         §  3º   Na  hipótese  de não haver informação  sobre  os
+         valores  correspondentes ao Nível I do PR de determinado
+         mês  ou  período,  será utilizada, para  a  apuração  da
+         média  de  que  trata  o  § 1º deste  artigo,  a  última
+         posição disponível, em substituição às inexistentes.
+
+         §  4º   As  instituições financeiras cuja  exigibilidade
+         seja  igual  ou inferior a R$500.000,00 (quinhentos  mil
+         reais) estão isentas do cumprimento da exigibilidade  de
+         que trata esta Circular.
+
+         §   5º    As   instituições   financeiras   isentas   do
+         recolhimento  de  que  trata  esta  Circular  não  estão
+         desobrigadas de prestar informações nos termos  do  art.
+         8º." (NR)
+
+         "Art.  6º  A exigibilidade apurada vigora da sexta-feira
+         da  semana  posterior  ao  encerramento  do  período  de
+         cálculo,  ou do dia útil seguinte, se a sexta-feira  não
+         for  dia  útil, até a quinta-feira subsequente,  devendo
+         ser  cumprida em espécie, mediante recolhimento em conta
+         específica.
+
+         §  1º   O  saldo  de encerramento diário  da  respectiva
+         conta de recolhimento deve corresponder a 100% (cem  por
+         cento) da exigibilidade.
+
+         §  2º  O recolhimento da exigibilidade deve ser efetuado
+         exclusivamente   por  instituição   titular   de   conta
+         Reservas  Bancárias  ou  de  Conta  de  Liquidação,  que
+         comandará a respectiva transferência a crédito da  conta
+         de recolhimento.
+
+         §  3º   A  conta  de  recolhimento pode  ser  livremente
+         movimentada pela instituição titular, a crédito  de  sua
+         conta   Reservas  Bancárias  ou  Conta  de   Liquidação,
+         durante  o horário estabelecido para o funcionamento  do
+         Sistema  de  Transferência de Reservas  (STR)  do  Banco
+         Central do Brasil.
+
+         §  4º   A  instituição  não titular  de  conta  Reservas
+         Bancárias  nem de Conta de Liquidação pode movimentar  a
+         sua  conta  de recolhimento a crédito de conta  Reservas
+         Bancárias  de  sua  livre escolha a cada  movimentação."
+         (NR)
+
+         "Art.  7º  A instituição financeira que não observar  as
+         normas  relativas à manutenção de saldo  nas  contas  de
+         recolhimento  no Banco Central do Brasil,  relativas  ao
+         recolhimento compulsório e ao encaixe obrigatório  sobre
+         recursos   a  prazo,  incorre  no  pagamento  de   custo
+         financeiro,  na forma estabelecida na regulamentação  em
+         vigor." (NR)
+
+         "Art.   9º   A   instituição   financeira   sujeita   ao
+         recolhimento  compulsório e ao  encaixe  obrigatório  de
+         que  trata esta circular, não titular de conta  Reservas
+         Bancárias  ou de Conta de Liquidação, deverá  indicar  a
+         instituição   financeira  titular  de   conta   Reservas
+         Bancárias   à  qual  serão  encaminhadas  as  cobranças,
+         pertinentes a custos financeiros e multas, e  creditadas
+         eventuais devoluções." (NR)
+
+         Art.  2º  A Circular nº 3.091, de 2002, passa a  vigorar
+acrescida do seguinte artigo:
+
+         "Art. 6º-A  O saldo de encerramento diário da  conta  de
+         recolhimento  no  Banco  Central do Brasil,  limitado  à
+         respectiva    exigibilidade,   receberá    a    seguinte
+         remuneração,  calculada com base na Taxa Selic,  de  que
+         tratam  os  §§ 1º e 3º do art. 2º da Circular nº  2.900,
+         de 24 de junho de  1999:
+
+                                 1/252
+               R = S x [(1+Selic)     - 1], onde:
+
+         R   =   remuneração a ser creditada, expressa  com  duas
+         casas decimais, com arredondamento matemático;
+
+         S  =  saldo  de  encerramento da conta de  recolhimento,
+         limitado à respectiva exigibilidade;
+
+         Selic  = Taxa Selic anual, no formato unitário, expressa
+         com  quatro casas decimais, referente à data do saldo  a
+         ser remunerado.
+
+         §  1º A remuneração de que trata o caput é creditada  na
+         respectiva  conta de recolhimento às 16h30 do  dia  útil
+         seguinte.
+
+         §  2º Os resultados parciais de multiplicação, divisão e
+         potenciação   utilizados  na  expressão   algébrica   do
+         cálculo   da   remuneração  devem  conter   oito   casas
+         decimais, com arredondamento matemático."
+
+         Art.  3º   O inciso II do § 1º do  art. 3º  da  Circular  nº
+3.427, de 19 de dezembro de 2008, passa a vigorar com a seguinte  re-
+dação:
+
+         "Art. 3º  .............................................
+
+         § 1º  .................................................
+
+         II - podem ser objeto de  dedução somente as aquisições
+         e os depósitos interfinanceiros realizados  até  30  de
+         junho de 2010." (NR)
+
+         Art. 4º  A dedução do valor equivalente a ativos e depósitos
+interfinanceiros, na forma do art. 3º da Circular nº 3.427, de 19  de
+dezembro de 2008, poderá ser realizada até o limite de 45%  (quarenta
+e cinco por cento) da exigibilidade, observados os  prazos  definidos
+no art. 4º da mesma Circular.
+
+         Art.  5º   Ficam  revogados a Circular nº 3.262,  de  19  de
+novembro  de 2004, o art. 2º da Circular nº 3.427, de 19 de  dezembro
+de  2008,  e os arts. 1º e 2º da Circular nº 3.468, de 28 de setembro
+de 2009.
+
+         Art.  6º   Esta  circular entra em  vigor  na  data  de  sua
+publicação,  produzindo efeitos a partir do período  de  cálculo  com
+início em 29 de março de 2010 e término em 1º de abril de 2010,  cujo
+ajuste ocorrerá em 9 de abril de 2010.
+
+                                   Brasília, 24 de fevereiro de 2010.
+
+                             Aldo Mendes
+                               Diretor
+```

@@ -1,0 +1,41 @@
+---
+titulo: "Circular N° 3.812"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "3812"
+data: 2016-10-20
+ementa: "Altera a Circular nº 3.787, de 17 de março de 2016, que dispõe sobre assuntos de competência do Banco Central do Brasil relacionados à regulamentação da Lei nº 13.254, de 13 de janeiro de 2016, que trata do Regime Especial de Regularização Cambial e Tributária (RERCT)."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 21/10/2016, Seção 1, p. 19."
+atualizacoes: ["Circular BCB nº 3.831/2017 - Revogação total."]
+normas_vinculadas: ["CIRCULAR 3831/2017", "CIRCULAR 3787/2016", "RESOLUÇÃO 3854/2010"]
+referencias: ["Lei nº 4.595/1964, art. 11, inciso III.", "Resolução CMN nº 3.854/2010, art. 11.", "Decreto-Lei nº 1.060/1969, art. 1º.", "Medida Provisória nº 2.224/2001, art. 1º.", "Lei nº 13.254/2016, arts. 4º, 5º e 6º.", "Instrução Normativa SRF nº 1.627/2016.", "Cita Lei nº 13.254/2016, art. 4º, § 2º, inciso II.", "Altera Circular BCB nº 3.787/2016 - Dá nova redação ao art. 3º, caput e § 4º."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3812"
+baixado_em: 2026-11-10
+---
+# Circular N° 3.812
+
+A Diretoria Colegiada do Banco Central do Brasil, em sessão extraordinária realizada em 20 de outubro de 2016, com base no art. 11, inciso III, da Lei nº 4.595, de 31 de dezembro de 1964, e no art. 11 da Resolução nº 3.854, de 27 de maio de 2010, tendo em vista o disposto no art. 1º do Decreto-Lei nº 1.060, de 21 de outubro de 1969, no art. 1º da Medida Provisória nº 2.224, de 4 de setembro de 2001, nos arts. 4º, 5º e 6º da Lei nº 13.254, de 13 de janeiro de 2016, e na Instrução Normativa nº 1.627, de 11 de março de 2016, da Secretaria da Receita Federal do Brasil,
+
+R E S O L V E :
+
+Art. 1º  O art. 3º da Circular nº 3.787, de 17 de março de 2016, passa a vigorar com a seguinte redação:
+
+“Art. 3º  A declaração retificadora da declaração de bens e capitais no exterior relativa à data-base de 31 de dezembro de 2014 e posteriores, de que trata o art. 4º, § 2º, inciso II, da Lei nº 13.254, de 2016, deverá ser prestada ao Banco Central do Brasil até o dia 31 de dezembro de 2016, por meio do formulário de declaração de Capitais Brasileiros no Exterior (CBE), disponível no sítio do Banco Central do Brasil na internet, no endereço http://www.bcb.gov.br.
+
+..................................................................
+
+§ 4º  A declaração retificadora de CBE no âmbito do RERCT relativa a espólio, cuja sucessão esteja aberta em 31 de dezembro de 2014, deverá ser feita até o dia 31 de dezembro de 2016, em nome da pessoa falecida, durante o tempo em que pendente a partilha formal dos bens.
+
+............................................................” (NR)
+
+Art. 2º  Esta Circular entra em vigor na data de sua publicação.
+
+             Luiz Edson Feltrim            Carlos Viana de Carvalho
+             Diretor de Regulação,         Diretor de Política Econômica
+             substituto
+
+             Reinaldo Le Grazie
+             Diretor de Política Monetária

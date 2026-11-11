@@ -1,0 +1,48 @@
+---
+titulo: "Circular Nº 1.911"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1911"
+data: 1991-03-05
+ementa: "ALTERACAO DA DATA DE INICIO DA CONTAGEM DE UTILIZACOES DE EMPRESTIMO DE LIQUIDEZ E/OU OCORRENCIA DE SALDOS IRREGULARES NA CONTA RESERVAS BANCARIAS PARA EFEITO DE ENQUADRAMENTO NAS SANCOES OU PENALIDADES PREVISTAS NOS PARAGRAFOS DOIS A CINCO DO ARTIGO SETE DA RESOLUCAO 1786, DE 01/02/91."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 1914/91 DOU 18/03/1991 PAG 4859 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1786/91", "CIRCULAR 1914/91"]
+referencias: ["RESOLUÇÃO CMN 1786/91 ART/3.", "CITA RESOLUÇÃO CMN 1786/91 ART/7 PARAG/2 PARAG/3 (REGULAMENTO)."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1911"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.911
+
+```
+                         CIRCULAR N. 001911
+                         ------------------
+ÀS INSTITUIÇÕES FINANCEIRAS DO SISTEMA FINANCEIRO NACIONAL
+
+                              RESOLUÇÃO Nº 1.786, DE 1º.02.91 - ALTE-
+                              RA A DATA DE INÍCIO DA CONTAGEM DE UTI-
+                              LIZAÇÕES  DE  "EMPRÉSTIMO DE  LIQUIDEZ"
+                              E/OU  OCORRÊNCIA DE SALDOS  IRREGULARES
+                              NA "RESERVAS BANCÁRIAS", PARA EFEITO DE
+                              ENQUADRAMENTO.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM REUNIÃO REALIZADA EM 27.02.91, COM BASE NO DISPOSTO NO AR-
+TIGO 3º DA RESOLUÇÃO Nº 1.786, DE 1º.02.91, DECIDIU:
+
+                    ART.  1º. O NÚMERO DE  UTILIZAÇÕES DE "EMPRÉSTIMO
+DE LIQUIDEZ" E/OU DE OCORRÊNCIAS DE SALDO NA "RESERVA BANCÁRIA" INFE-
+RIOR  A 90% (NOVENTA POR CENTO) DA EXIGIBILIDADE DE RECOLHIMENTO COM-
+PULSÓRIO/ENCAIXE  OBRIGATÓRIO SOBRE RECURSOS À VISTA, PARA EFEITO  DA
+APLICAÇÃO DO DISPOSTO NOS PARÁGRAFOS 2º E 3º DO ART. 7º DA CITADA RE-
+SOLUÇÃO, SERÁ APURADO A PARTIR DE 18.03.91, INCLUSIVE.
+
+                    ART.  2º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+                              BRASÍLIA (DF), 05 DE MARÇO DE 1991.
+
+                              LUIS EDUARDO ALVES DE ASSIS
+                              DIRETOR
+```

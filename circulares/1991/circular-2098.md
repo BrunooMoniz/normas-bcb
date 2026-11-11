@@ -1,0 +1,76 @@
+---
+titulo: "Circular Nº 2.098"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2098"
+data: 1991-12-11
+ementa: "VALORES A ORDEM DO BANCO CENTRAL - DISPOE SOBRE O LIMITE DE DEFICIENCIA EM CRUZADOS NOVOS DE QUE TRATAM AS CIRCULARES 1663, 1687, 1724, 1736, 1759, 1814, 1841, DE 11/04/90, 20/04/90, 10/05/90, 24/05/90, 15/06/90, 12/09/90, 18/09/90 E 12/11/90 RESPECTIVAMENTE - PROPOE O ESTABELECIMENTO DE UM CRONOGRAMA CONTEMPLANDO AS 8 PARCELAS RESTANTES DE LIBERACAO."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 3081/2002 DOU 21/01/2002 PAG 26 - REVOGACAO TOTAL."]
+normas_vinculadas: ["CIRCULAR 3081/2002", "CIRCULAR 1759/90", "CIRCULAR 1841/90", "CIRCULAR 1736/90", "CIRCULAR 1724/90", "CIRCULAR 1687/90", "CIRCULAR 1663/90", "CIRCULAR 1816/90", "CIRCULAR 1814/90"]
+referencias: ["CIRCULAR BCB 1663/90 1687/90 1724/90 1736/90 1759/90 1814/90 1816/90 1841/90."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2098"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.098
+
+```
+                         CIRCULAR N. 002098
+                         ------------------
+ÀS
+INSTITUIÇÕES DO SISTEMA FINANCEIRO NACIONAL
+
+                              VALORES  À ORDEM DO BANCO CENTRAL - LI-
+                              MITE  DE DEFICIÊNCIA EM CRUZADOS  NOVOS
+                              DE QUE TRATAM AS CIRCULARES NºS. 1.663,
+                              1.687,   1.724,  1.736,  1.759,  1.814,
+                              1.816  E 1.841, DE 11.04, 20.04, 10.05,
+                              24.05,  15.06, 12.09, 18.09 E 12.11.90,
+                              RESPECTIVAMENTE, E OUTROS DISPOSITIVOS.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL,  EM  SESSÃO REALIZADA EM 11.12.91, TENDO EM VISTA O  DISPOSTO
+NAS CIRCULARES NºS. 1.663, 1.687, 1.724, 1.736, 1.759, 1.814, 1.816 E
+1.841, DE 11.04, 20.04, 10.05, 24.05, 15.06, 12.09, 18.09 E 12.11.90,
+RESPECTIVAMENTE, DECIDIU:
+
+                    ART.  1º. ESTABELECER QUE O LIMITE DE DEFICIÊNCIA
+EM CRUZADOS OBEDECERÁ ÀS SEGUINTES CONDIÇÕES:
+
+                    I  - OS  DEMONSTRATIVOS  DEVERÃO SER ENTREGUES NO
+BANCO  CENTRAL/DEPARTAMENTO DE OPERAÇÕES BANCÁRIAS OU EM SUAS  REPRE-
+SENTAÇÕES REGIONAIS, OBSERVADO O SEGUINTE CRONOGRAMA:
+
+          PERÍODO DE               BASE DE        DATA DE
+          VALIDADE                 CÁLCULO        ENTREGA
+          -------------------      --------       --------
+          16.12.91 A 14.01.92      30.11.91       13.12.91
+          15.01.92 A 14.02.92      31.12.91       14.01.92
+          17.02.92 A 13.03.92      31.01.92       14.02.92
+          16.03.92 A 14.04.92      29.02.92       13.03.92
+          15.04.92 A 14.05.92      31.03.92       14.04.92
+          15.05.92 A 12.06.92      30.04.92       14.05.92
+          15.06.92 A 14.07.92      31.05.92       12.06.92
+          15.07.92 A 14.08.92      30.06.92       14.07.92
+
+                   II  - O  LIMITE  SERÁ  ATUALIZADO DIARIAMENTE, ME-
+DIANTE  ROTINA AUTOMÁTICA, DESDE A DATA-BASE DE CÁLCULO, COM BASE  NA
+VARIAÇÃO  DA TAXA REFERENCIAL DIÁRIA (TRD), ACRESCIDA DE 6% (SEIS POR
+CENTO) AO ANO; E
+
+                  III  - O  LIMITE  SERÁ  REDUZIDO NO PRIMEIRO DIA DE
+VIGÊNCIA  EM IMPORTÂNCIA EQUIVALENTE AO PERCENTUAL OBTIDO NA  RELAÇÃO
+APURADA PELA DIVISÃO DO "TOTAL DAS CONVERSÕES REALIZADAS" PELO "TOTAL
+DOS  RECURSOS BLOQUEADOS DE CLIENTES" INFORMADOS NA TRANSAÇÃO PREN700
+DO SISTEMA DE INFORMAÇÕES DO BANCO CENTRAL - SISBACEN.
+
+                    ART.  2º. ESTA  CIRCULAR  ENTRA EM  VIGOR NA DATA
+DE SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 11 DE DEZEMBRO DE 1991.
+
+                              PEDRO LUIZ BODIN DE MORAES
+                              DIRETOR
+```

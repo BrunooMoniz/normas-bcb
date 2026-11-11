@@ -1,0 +1,47 @@
+---
+titulo: "Circular Nº 3.725"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "3725"
+data: 2014-10-30
+ementa: "Altera a Circular nº 3.489, de 18 de março de 2010, que regulamenta o aplicativo para acesso ao Sistema de Transferência de Reservas (STR) por meio da rede mundial de computadores (internet), e dispõe sobre o envio de informações relativas a recolhimentos compulsórios e direcionamentos obrigatórios em substituição à transação PRCO500 do Sistema de Informações do Banco Central (Sisbacen)."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 31/10/2014, Seção 1, p. 29."
+atualizacoes: ["Resolução BCB nº 191/2022 - Revogação total, a partir de 1º/7/2022."]
+normas_vinculadas: ["RESOLUÇÃO BCB 191/2022", "RESOLUÇÃO 2882/2001", "CARTA CIRCULAR 3677/2014", "CIRCULAR 3489/2010"]
+referencias: ["Lei nº 10.214/2001, art. 10.", "Resolução CMN nº 2.882/2001, art. 10, inciso I.", "Altera Circular BCB nº 3.489/2010 - Inclui: art. 3º, inciso I, \"c\"."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3725"
+baixado_em: 2026-11-10
+---
+# Circular Nº 3.725
+
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 30 de outubro de 2014, com base no art. 10 da Lei nº 10.214, de 27 de março de 2001, e no art. 10, inciso I, da Resolução nº 2.882, de 30 de agosto de 2001,
+
+R E S O L V E :
+
+Art. 1º  As instituições não participantes do Sistema de Transferência de Reservas (STR) devem utilizar o STR-Web em substituição à transação PRCO500, do Sistema de Informações do Banco Central (Sisbacen).
+
+Art. 2º  O art. 3º  da Circular nº 3.489, de 18 de março de 2010, passa a vigorar com a seguinte alteração:
+
+“Art. 3º  ........................................................
+
+I - ..............................................................
+
+..................................................................
+
+c) às instituições não participantes do STR obrigadas a enviar informações relativas a recolhimentos compulsórios e direcionamentos obrigatórios ao Banco Central do Brasil;
+
+............................................................” (NR)
+
+Art. 3º  As instituições não participantes do STR devem solicitar ao Departamento de Operações Bancárias e de Sistema de Pagamentos (Deban) a liberação de acesso ao aplicativo STR-Web, conforme regulamentado pela Circular nº 3.489, de 2010, para fins de recolhimento compulsório e direcionamento obrigatório.
+
+Parágrafo único.  As instituições não participantes do STR não estão sujeitas às tarifas de disponibilização do STR-Web e de operação normal no STR.
+
+Art. 4º  O Departamento de Tecnologia da Informação (Deinf) e o Deban definirão a data de início de funcionamento do STR-Web para os fins de que trata esta Circular.
+
+Art. 5º  Esta Circular entra em vigor na data de sua publicação.
+
+Aldo Luiz Mendes                       Altamir Lopes
+             Diretor de Política Monetária          Diretor de Administração

@@ -1,0 +1,47 @@
+---
+titulo: "Circular Nº 1.956"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1956"
+data: 1991-05-10
+ementa: "PLANO DE ESTABILIZACAO ECONOMICA - CREDITO AO CONSUMIDOR E CREDITO PESSOAL - CONTINGENCIAMENTO - EXCLUSAO DAS OPERACOES COM RECURSOS DA FINAME RURAL NOS FINANCIAMENTO A PESSOAS FISICAS PARA AQUISICAO DE MAQUINAS E EQUIPAMENTOS PARA O SETOR AGRICOLA."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 1977/91 DOU 27/06/1991 PAG 12484 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1715/90", "CIRCULAR 1977/91"]
+referencias: ["RESOLUÇÃO CMN 1715/90 ART/6 ITEM/I ITEM/III."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1956"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.956
+
+```
+                         CIRCULAR N. 001956
+                         ------------------
+
+AOS
+BANCOS COMERCIAIS, SOCIEDADES DE CRÉDITO, FINANCIAMENTO E INVESTIMEN-
+TO,  CAIXAS ECONÔMICAS E BANCOS MÚLTIPLOS COM CARTEIRA COMERCIAL E/OU
+CRÉDITO, FINANCIAMENTO E INVESTIMENTO
+
+                              EXCLUI DAS LIMITAÇÕES ESTABELECIDAS PE-
+                              LA  RESOLUÇÃO Nº 1.715 AS OPERAÇÕES COM
+                              RECURSOS DA FINAME/RURAL.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL,  EM  REUNIÃO  REALIZADA EM 09.05.91, COM BASE NO  ARTIGO  6º,
+ITENS I E III, DA RESOLUÇÃO Nº 1.715, DE 29.05.90, DECIDIU:
+
+                    ART.  1º. NÃO SE INCLUEM NAS LIMITAÇÕES ESTABELE-
+CIDAS  PELA RESOLUÇÃO Nº 1.715, DE 29.05.90, AS OPERAÇÕES DE  CRÉDITO
+FORMALIZADAS COM BASE EM RECURSOS DA FINAME/RURAL.
+
+                    ART.  2º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 10 DE MAIO DE 1991
+
+                              GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                              DIRETOR
+```

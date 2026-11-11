@@ -1,0 +1,50 @@
+---
+titulo: "Circular Nº 1.674"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1674"
+data: 1990-04-18
+ementa: "ELEVA O PRAZO MÁXIMO PARA FINANCIAMENTO DE AUTOMÓVEIS USADOS."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2070/91 DOU 01/11/1991 PAG 24543 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1524/88", "RESOLUÇÃO 1567/89", "CIRCULAR 2070/91"]
+referencias: ["RESOLUÇÃO CMN 1567/89 ITEM/VI.", "RESOLUÇÃO CMN 1524/88 ART/9 (REGULAMENTO).", "CITA CIRCULAR BCB 1652/90 ART/1.", "CITA RESOLUÇÃO CMN 1524/88."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1674"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.674
+
+```
+                         CIRCULAR N. 001674
+                         ------------------
+
+                             ELEVA  O PRAZO MÁXIMO PARA FINANCIAMENTO
+                             DE AUTOMÓVEIS USADOS.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL,  EM SESSÃO REALIZADA NESTA DATA, COM BASE NO DISPOSTO NO ITEM
+VI  DA RESOLUÇÃO Nº 1.567, DE 16.01.89, E TENDO EM VISTA O CONTIDO NO
+ARTIGO 9º DO REGULAMENTO ANEXO À RESOLUÇÃO Nº 1.524, DE 21.09.88, DE-
+CIDIU:
+
+                    ART.  1º. ELEVAR, PARA 18 (DEZOITO) MESES, A CON-
+TAR  DA DATA DA AQUISIÇÃO DO BEM, O PRAZO MÁXIMO PARA AS OPERAÇÕES DE
+FINANCIAMENTO PRATICADAS PELAS SOCIEDADES DE CRÉDITO, FINANCIAMENTO E
+INVESTIMENTO, QUANDO SE TRATAR DE AUTOMÓVEIS USADOS.
+
+                    ART.  2º. OS PRAZOS MÁXIMOS FIXADOS NO ARTIGO AN-
+TERIOR  E NO ARTIGO 1º DA CIRCULAR Nº 1.652, DE 05.04.90, DEVERÃO SER
+IGUALMENTE OBSERVADOS NAS OPERAÇÕES DE FINANCIAMENTO PRATICADAS PELAS
+INSTITUIÇÕES  MÚLTIPLAS DE QUE TRATA A RESOLUÇÃO Nº 1.524, BANCOS CO-
+MERCIAIS E CAIXAS ECONÔMICAS.
+
+                    ART.  3º. ESTA CIRCULAR ENTRARÁ EM VIGOR NA  DATA
+DE SUA PUBLICAÇÃO.
+
+                             BRASÍLIA (DF), 18 DE ABRIL DE 1990
+
+                             GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                             DIRETOR
+```

@@ -1,0 +1,57 @@
+---
+titulo: "Circular Nº 2.305"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2305"
+data: 1993-05-07
+ementa: "ESTABELECE NORMAS COMPLEMENTARES À RESOLUÇÃO Nº 1.979, DE 30.04.93, RELATIVAMENTE AO PRAZO PARA REMESSA DE INFORMAÇÕES E AO CÁLCULO DA MÉDIA MÓVEL AJUSTADA, PARA FINS DE CÁLCULO DA TAXA REFERENCIAL - TR."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2075/94 DOU 27/05/1994 PAG 7776 - REVOGACAO TOTAL (A PARTIR DE 30/05/1994)."]
+normas_vinculadas: ["RESOLUÇÃO 1979/93", "RESOLUÇÃO 2075/94", "CIRCULAR 2298/93", "CIRCULAR 2326/93"]
+referencias: ["RESOLUÇÃO CMN 1979/93 ART/7.", "ESCLARECE RESOLUÇÃO CMN 1979/93 ART/2 ITEM/I.", "ESCLARECE RESOLUÇÃO CMN 1979/93 ART/3 ITEM/II.", "REVOGA CIRCULAR BCB 2298/93 ART/2."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2305"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.305
+
+```
+                         CIRCULAR N. 002305
+                         ------------------
+
+                              ESTABELECE  NORMAS COMPLEMENTARES À RE-
+                              SOLUÇÃO  Nº 1.979, DE 30.04.93, RELATI-
+                              VAMENTE AO PRAZO PARA REMESSA DE INFOR-
+                              MAÇÕES  E  AO  CÁLCULO DA  MÉDIA  MÓVEL
+                              AJUSTADA,  PARA FINS DE CÁLCULO DA TAXA
+                              REFERENCIAL - TR.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO REALIZADA EM 07.05.93, COM BASE NO ART. 7º DA RESO-
+LUÇÃO Nº 1.979, DE 30.04.93, DECIDIU:
+
+                    ART.  1º. AS  INFORMAÇÕES DE QUE TRATA O ART. 2º,
+ITEM  I,  DA RESOLUÇÃO Nº 1.979, DE 30.04.93, DEVEM SER PRESTADAS  AO
+BANCO  CENTRAL DO BRASIL/DEPARTAMENTO DE ESTUDOS ESPECIAIS E  ACOMPA-
+NHAMENTO  DO SISTEMA FINANCEIRO (DEASF), ATRAVÉS DA TRANSAÇÃO PESP560
+DO  SISTEMA DE INFORMAÇÕES BANCO CENTRAL (SISBACEN), DIARIAMENTE, ATÉ
+ÀS 16:00 H (DEZESSEIS HORAS).
+
+                    ART.  2º. NO CASO  DE O DIA DE REFERÊNCIA SER DIA
+NÃO  ÚTIL,  O BANCO CENTRAL CALCULARÁ A MÉDIA  MÓVEL AJUSTADA DE  QUE
+TRATA O ART. 3º, ITEM II, DA MENCIONADA RESOLUÇÃO, COM BASE NOS DADOS
+RELATIVOS  AO  DIA  ÚTIL IMEDIATAMENTE ANTERIOR E AOS 2  (DOIS)  DIAS
+ÚTEIS IMEDIATAMENTE POSTERIORES AO DIA DE REFERÊNCIA.
+
+                    ART.  3º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DA
+SUA PUBLICAÇÃO.
+
+                    ART.  4º. FICA  REVOGADO O ART. 2º DA CIRCULAR Nº
+2.298, DE 14.04.93.
+
+                              BRASÍLIA (DF), 07 DE MAIO DE 1993
+
+                              FRANCISCO AMADEU PIRES FELIX
+                              DIRETOR
+```

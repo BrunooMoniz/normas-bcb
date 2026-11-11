@@ -1,0 +1,56 @@
+---
+titulo: "Circular Nº 1.368"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1368"
+data: 1988-10-19
+ementa: "SISTEMA DE INFORMACOES BANCO CENTRAL (SISBACEN) - DIVULGA MEDIDAS RELACIONADAS COM OS CONTROLES E RECURSOS DE ACESSO AO SISBACEN - ALTERACAO NO SISTEMA DE SEGURANCA - PROPOE QUE SEJA O DEPARTAMENTO DE PROCESSAMENTO DE DADOS (DEPRO) AUTORIZADO A IMPLANTAR, NO PRAZO MAXIMO DE 30 DIAS, ALTERACOES NO SISBACEN ADEQUANDO EXIGENCIA DE TROCA DE SENHAS A CADA TRINTA DIAS POR PARTE DOS USUARIOS, BLOQUEIO AUTOMATICO DO USUARIO OU TERMINAL, EM CASO DE SEQUENCIA EXCESSIVA DE ERROS NOS PROCEDIMENTOS DE ACESSO AO SISTEMA E IMPEDIMENTO DE CADASTRAMENTO SIMULTANEO DE UM MESMO FUNCIONARIO EM MAIS DE UMA UNIDADE DO BANCO CENTRAL."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Circular BCB nº 3.718/2014 - Revogação total."]
+normas_vinculadas: ["CIRCULAR 3718/2014"]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1368"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.368
+
+```
+                         CIRCULAR N. 001368
+                         ------------------
+
+Aos
+Órgãos  e  Instituições  Usuários do  Sistema  de  Informações  Banco
+Central - SISBACEN
+
+         Comunicamos que a Diretoria do Banco Central do  Brasil,  em
+sessão  realizada  em  12.10.88,  aprovou  as  seguintes  medidas,  a
+entrarem em vigor no prazo de 30 (trinta) dias, relacionadas  com  os
+controles  e  os  recursos de acesso ao Sistema de Informações  Banco
+Central - SISBACEN:
+
+         a)   exigência  de  troca  periódica  da  senha  de   acesso
+individual de cada usuário;
+
+         b)  bloqueio automático de usuário ou de terminal,  em  caso
+de seqüência excessiva de erros nos procedimentos de acesso;
+
+         c)  possibilidade de direcionamento da impressão de uma tela
+do terminal para impressora de escolha do próprio usuário.
+
+         2.   Especificamente  com  relação  à  alínea  "a"  do  item
+anterior,  a  Diretoria do Banco Central recomenda se enfatize  junto
+aos  usuários a responsabilidade pela preservação do sigilo da  senha
+individual  de  acesso  ao Sistema, de vez  que  sua  utilização  por
+terceiros, com ou sem o conhecimento do usuário, pode ensejar  o  uso
+indevido ou abusivo de dados e informações.
+
+         3.  O  Departamento  de  Processamento  de  Dados  do  Banco
+Central  do  Brasil divulgará oportunamente os novos procedimentos  a
+serem observados pelos usuários do SISBACEN.
+
+                             Brasília-DF, 19 de outubro de 1988
+
+                             Antenor Araken Caldas Farias
+                             Diretor
+```

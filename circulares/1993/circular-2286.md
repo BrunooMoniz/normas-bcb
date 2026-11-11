@@ -1,0 +1,64 @@
+---
+titulo: "Circular Nº 2.286"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2286"
+data: 1993-03-10
+ementa: "Dispõe sobre a remessa de informações diárias ao Banco Central do Brasil - depósitos judiciais."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Circular BCB nº 3.504/2010 - Revogação art. 2º.", "Resolução BCB nº 208/2022 - Revogação total, a partir de 1º/7/2023."]
+normas_vinculadas: ["RESOLUÇÃO BCB 292/2023", "RESOLUÇÃO BCB 208/2022", "CIRCULAR 3504/2010", "CIRCULAR 2132/1992"]
+referencias: ["Lei nº 4.595/1964, art. 37.", "Cita Circular BCB nº 2.132/1992, arts. 1º e 6º."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2286"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.286
+
+```
+                         CIRCULAR N. 002286
+                         ------------------
+
+AOS
+BANCOS MÚLTIPLOS, BANCOS COMERCIAIS, CAIXAS ECONÔMICAS, SOCIEDADES DE
+CRÉDITO IMOBILIÁRIO E ASSOCIAÇÕES DE POUPANÇA E EMPRÉSTIMO.
+
+                              DISPÕE  SOBRE A REMESSA DE  INFORMAÇÕES
+                              DIÁRIAS  AO  BANCO CENTRAL DO BRASIL  -
+                              DEPÓSITOS JUDICIAIS.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO REALIZADA EM 04.03.93, TENDO EM VISTA O DISPOSTO NO
+ART. 37, DA LEI Nº 4.595, DE 31.12.64, DECIDIU:
+
+                    ART.  1º. AS  INSTITUIÇÕES SUPRAMENCIONADAS DEVE-
+RÃO  INFORMAR DIARIAMENTE AO BANCO CENTRAL DO BRASIL, A PARTIR DA DA-
+TA-BASE  DE 15.03.93, ATÉ O TERCEIRO DIA ÚTIL SUBSEQÜENTE AO DA POSI-
+ÇÃO  A QUE SE REFERIR, JUNTAMENTE COM OS DADOS DE QUE TRATA O ART. 1º
+DA  CIRCULAR Nº 2.132, DE 06.02.92, O SALDO DA CONTA 4.1.5.50.00-7  -
+DEPÓSITOS JUDICIAIS COM REMUNERAÇÃO.
+
+                    ART.  2º.  FICA  ALTERADO  PARA   200  (DUZENTAS)
+UNIDADES  FISCAIS  DE REFERÊNCIA (UFIRS) O VALOR DA MULTA POR DIA  DE
+ATRASO  REFERIDA  NO ART. 6º DA CIRCULAR Nº 2.132, DE  06.02.92,  SEM
+PREJUÍZO  DAS DEMAIS SANÇÕES PREVISTAS NA LEGISLAÇÃO EM VIGOR,  SENDO
+QUE  A  CONVERSÃO EM CRUZEIROS SERÁ EFETUADA NA DATA DA APLICAÇÃO  DA
+MULTA.
+
+                    ART.  3º. AS INSTITUIÇÕES PODERÃO ALTERAR OS SAL-
+DOS INFORMADOS, POR SUA PRÓPRIA INICIATIVA, APENAS DENTRO DO PRAZO DE
+QUE  TRATA O ART. 1º DESTA CIRCULAR. APÓS ESSE PRAZO, APENAS MEDIANTE
+SOLICITAÇÃO  ESCRITA DIRIGIDA AO DEPARTAMENTO DE CADASTRO E  INFORMA-
+ÇÕES/DIVISÃO  DE   REGISTROS   CONTÁBEIS   E    ECONÔMICO-FINANCEIROS
+DECAD/DICON).
+
+                    ART.  4º. ESTA  CIRCULAR  ENTRA EM VIGOR NA  DATA
+DE  SUA PUBLICAÇÃO, PRODUZINDO EFEITOS A PARTIR DOS DADOS  INFORMADOS
+COM REFERÊNCIA À DATA-BASE DE 01.04.93.
+
+                              BRASÍLIA (DF), 10 DE MARÇO DE 1993
+
+GUSTAVO JORGE LABOISSIÈRE LOYOLA    LUIZ NELSON GUEDES DE CARVALHO
+PRESIDENTE                          DIRETOR
+```

@@ -1,0 +1,54 @@
+---
+titulo: "Circular Nº 1.283"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1283"
+data: 1988-01-20
+ementa: "CONTABILIZACAO DE GASTOS COM AQUISICAO DE \"PONTOS\" - RECLASSIFICACAO DA CONTA \"DIREITOS AO EXERCICIO DE ATIVIDADES FINANCEIRAS\" PARA O ATIVO PERMANTE DIFERIDO, MANTIDAS A FUNCAO E O FUNCIONAMENTO, NOS PLANOS CONTABEIS DA AREA DE MERCADO DE CAPITAIS. AS DISPOSICOES DA CIRCULAR ORIGINADA NESTE VOTO DEVERAO SER OBSERVADAS A PARTIR DO BALANCO ENCERRADO EM 31/12/87, INCLUSIVE."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 1891/92 DOU 10/01/1992 PAG 408 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1891/92"]
+referencias: ["CITA LEI 4595/64 ART/4 ITEM/XII."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1283"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.283
+
+```
+                         CIRCULAR N. 001283
+                         ------------------
+
+Aos
+Bancos  de  Investimento,  Sociedades  de  Crédito,  Financiamento  e
+Investimento,   Sociedades  de  Arrendamento  Mercantil,   Sociedades
+Corretoras e Sociedades Distribuidoras
+
+         Comunicamos que a Diretoria do Banco Central do  Brasil,  em
+sessão realizada em 20.01.88, tendo em vista o disposto no artigo 4.,
+inciso  XII,  da Lei n. 4.595, de 31.12.64, por competência  delegada
+pelo  Conselho  Monetário  Nacional, decidiu  reclassificar  a  conta
+DIREITOS AO EXERCÍCIO DE ATIVIDADES FINANCEIRAS (código 1.3.10.42.00-
+9)  para Ativo Permanente - Diferido, com a conseqüente alteração  do
+código para 1.3.20.06.00-6, mantidas a função e o funcionamento,  nos
+Planos Contábeis da Área de Mercado de Capitais.
+
+         2.  Por  outro  lado,  o  conjunto  de  notas  relativas   à
+mencionada rubrica passa a ter a seguinte redação:
+
+         a)  as  cotas  de  amortização dos  gastos  são  registradas
+mensalmente  a  débito  da conta DESPESAS ADMINISTRATIVAS,  subtítulo
+adequado e a crédito de AMORTIZAÇÕES ACUMULADAS DO DIFERIDO;
+
+         b)  a  referida amortização poderá ser procedida em  até  10
+anos.
+
+         3.  As  disposições desta Circular deverão ser observadas  a
+partir do balanço encerrado em 31.12.87, inclusive.
+
+                             Brasília-DF, 20 de janeiro de 1988
+
+Luiz Aranha Corrêa do Lago   José Tupy Caldas de Moura
+Diretor                      Diretor
+```

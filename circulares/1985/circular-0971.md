@@ -1,0 +1,59 @@
+---
+titulo: "Circular Nº 971"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "971"
+data: 1985-11-26
+ementa: "Ressalta a necessidade de se examinar os pedidos de prorrogação de dívidas pleiteados pelos cotonicultores dos municípios de Andradina, Dracena e Tupi Paulista, no Estado de São Paulo."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 27/11/1985, p. 17.348."
+atualizacoes: ["Resolução CMN nº 2.535/1998 - Revogação total."]
+normas_vinculadas: ["RESOLUÇÃO 2535/1998"]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=971"
+baixado_em: 2026-11-10
+---
+# Circular Nº 971
+
+```
+                         CIRCULAR N. 000971
+                         ------------------
+
+Às
+Instituições Financeiras do Sistema Nacional de Crédito Rural
+
+         Ressaltamos  a  necessidade  de  que  sejam  examinados  com
+urgência,  na  forma  do  MCR 6-1-12, os pedidos  de  prorrogação  de
+dívidas  assumidas  na última safra pelos produtores  de  algodão  da
+região  abrangida  pelos  municípios de  Andradina,  Dracena  e  Tupi
+Paulista, no Estado de São Paulo, observado que:
+
+         a)  sejam  contemplados  somente  os  financiamentos  rurais
+(custeio e investimento) que não puderam ser quitados com o resultado
+da colheita do algodão;
+
+         b) os pedidos de prorrogação sejam examinados caso a caso  e
+deferidos mediante comprovação de que as dificuldades do cotonicultor
+decorrem  de  aplicações  na atividade rural,  exceto  aquisições  de
+terras;
+
+         c)  o novo prazo seja estipulado com base na real capacidade
+de  pagamento  do beneficiário (MCR 6-1-2), obedecidas  as  taxas  de
+juros normais estabelecidas para o crédito rural.
+
+         2.  A  prorrogação de dívidas não deve obstar  o  acesso  do
+produtor a novo crédito para a nova safra e pode ser considerada para
+cumprimento da exigibilidade de recursos obrigatórios, observadas  as
+condições estabelecidas no MCR 18.
+
+         3.  Finalmente, observamos que não pode ser favorecido pelas
+medidas  ora  recomendadas o produtor que tenha praticado  desvio  de
+recursos,  alienação, abandono ou remoção indébita de garantias,  bem
+como qualquer outra irregularidade grave.
+
+                             Brasília-DF, 26 de novembro de 1985
+
+                             Hélio Ribeiro de Oliveira
+                             Diretor
+```

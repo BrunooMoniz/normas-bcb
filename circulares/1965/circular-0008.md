@@ -1,0 +1,184 @@
+---
+titulo: "Circular Nº 8"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "8"
+data: 1965-09-01
+ementa: "Baixa normas relativas a crédito rural, regulamentando normas sobre a liberação de recolhimento compulsório dos bancos."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Circular BCB nº 153/1971 - Revogação total, a partir de 1º/4/1971."]
+normas_vinculadas: ["CIRCULAR 153/1971", "CIRCULAR 19/1965", "CIRCULAR 15/1965", "RESOLUÇÃO 5/1965"]
+referencias: ["Cita Resolução CMN nº 5/1965.", "Cita Leis ns. 492/1937 e 3.253/1957.", "Cita Instruções SUMOC ns. 235, 247 e 273.", "Revoga Circulares Sumoc ns. 82/1963, 103/1964 e 104/1964."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=8"
+baixado_em: 2026-11-10
+---
+# Circular Nº 8
+
+```
+                         CIRCULAR N. 000008
+                         ------------------
+
+Aos
+Estabelecimentos Bancários
+
+         Para  cumprimento do disposto na Resolução nº 5, de 26.8.65,
+transmitimos os seguintes esclarecimentos e recomendações:
+
+         1.  Os  instrumentos a que se referem  as  Leis  nºs  492  e
+3.253,   mencionados  no  item  I-a-2,  nos  quais   deverá   constar
+obrigatoriamente  o fim a que se destina o crédito  e  sua  forma  de
+utilização, são:
+
+         - contrato de empréstimo com garantia de penhor rural
+
+         - cédula rural pignoratícia
+
+         - cédula rural hipotecária
+
+         - cédula rural pignoratícia e hipotecária
+
+         - nota de crédito rural.
+
+         2. As operações serão, obrigatoriamente, contabilizadas:
+
+         a)  em  "Empréstimos rurais - Resolução nº 5", subtítulo  de
+"Empréstimos  em Conta Corrente", se realizadas através  de  contrato
+com garantia de penhor rural (Lei nº 492);
+
+         b)  em  "Títulos  rurais - Resolução  nº  5",  subtítulo  de
+"Títulos  Descontados", se através dos títulos criados  pela  Lei  nº
+3.253.
+
+         3.  As notas de crédito rural só poderão ser utilizadas para
+financiamentos  até  Cr$1.000.000 (hum milhão de  cruzeiros),  e  seu
+prazo  não  poderá ser inferior a 6 (seis) meses (art. 9º da  Lei  nº
+3.253).
+
+         4.    O   ruralista   beneficiado   deverá   comprovar    ao
+Estabelecimento  bancário  financiador  a   aplicação   do   crédito,
+juntando-se ao instrumento o comprovante apresentado.
+
+         5.  Se  contratadas as operações para utilização  parcelada,
+somente  serão computadas, para efeito de liberação prevista no  item
+I,  as  parcelas  do  crédito aberto ou do  empréstimo  concedido  já
+efetivamente entregues ao produtor rural.
+
+         6.  Transcrevemos,  por conveniente, o art.  26  da  Lei  nº
+3.253:
+
+          "Os  bens constitutivos da garantia serão segurados  contra
+     todos  os  riscos a que possam estar sujeitos e forem objeto  de
+     seguro, até final liquidação da dívida, expedindo-se a apólice à
+     ordem do credor"
+
+         7.   As  operações  rurais  tratadas  somente  poderão   ser
+realizadas  com produtores que exerçam suas atividades nas  zonas  de
+ação do Estabelecimento bancário.
+
+         8.  As  operações realizadas com base no item I-b,  mediante
+desconto de títulos, deverão ser, obrigatoriamente, contabilizadas em
+"Títulos   Outros   -   Resolução  nº  5",  subtítulo   de   "Títulos
+Descontados". Quando efetuadas através de empréstimos com  caução  de
+duplicatas,  serão contabilizadas, obrigatoriamente  em  "Empréstimos
+outros  -  Resolução  nº  5",  subtítulo  de  "Empréstimos  em  Conta
+Corrente".
+
+         9.  As  duplicatas, que não poderão ser de valor superior  a
+Cr$3.300.000, deverão estar sempre acompanhadas das faturas que  lhes
+deram  origem,  com  indicação das mercadorias transacionadas,  e  os
+Estabelecimentos financiadores consignarão nas fichas de registro das
+operações  os  elementos cadastrais necessários à  caracterização  do
+sacado como produtor rural.
+
+         10.  Serão, também, aceitas para a liberação a que se refere
+o  item I-b, as duplicatas da espécie sacadas contra Cooperativas  de
+Produção Rural.
+
+         11.  Os bônus agrícolas adquiridos na forma da Resolução  nº
+5,   permanecerão   em   poder  dos  Estabelecimentos   interessados,
+contabilizados no ativo realizável em "Bônus agrícolas - Resolução nº
+5", à ordem do Banco Central.
+
+         12.  A  aquisição  de  Obrigações  Reajustáveis  do  Tesouro
+Nacional,  em função das liberações a que se refere o item  II,  será
+regulada em circular especial.
+
+         13.   Os   Bancos  enviarão,  mensalmente,  à  Gerência   de
+Operações  Bancárias - CODEC, relações em que, além de caracterizarem
+os  títulos  mencionados  no  item  11,  declarem  sua  qualidade  de
+depositários dos mesmos (mod. 3 e 4).
+
+         14.  Serão  dedutíveis as operações realizadas até  26.8.65,
+com base na Instrução nº 273 da extinta SUMOC, pelos Estabelecimentos
+Bancários, para efeito de reajustamento em 5.9.65.
+
+         15.   As  faculdades  previstas  na  Resolução  nº   5   são
+privativas dos Estabelecimentos Bancários que observarem as faixas de
+prioridade determinadas pela Instrução nº 235, da extinta SUMOC, e só
+poderão  ser utilizadas à base do crescimento dos depósitos a  partir
+de 5.8.65 e após atendido o disposto no item III, onde se fixa que  o
+recolhimento em dinheiro deverá representar, no mínimo, 75% do  total
+devido.
+
+         16.  Apesar  de reconhecer-se como de imperiosa  importância
+para  os  Estabelecimentos Bancários manterem,  permanentemente,  sua
+Carteira   de  Aplicações  preparada  para  uma  eventual  e   pronta
+desmobilização através de operação de redesconto, o enquadramento das
+operações  realizadas,  nas  faixas de  prioridade  estabelecidas  na
+Instrução   nº   235,   da  extinta  SUMOC,  fica   desvinculado   da
+obrigatoriedade de serem elas representadas exclusivamente por papéis
+redescontáveis.
+
+         17. Os Bancos nas condições do item V-a apresentarão:
+
+         a) posição de depósitos, aplicações e redescontos locais;
+
+         b) posição dos depósitos das demais dependências.
+
+         O  recolhimento sobre os depósitos da alínea "a" se  fará  à
+base  de  16% (dezesseis por cento), sendo de 25% (vinte e cinco  por
+cento) o relativo ao montante da letra "b".
+
+         18. Os Bancos nas condições do item V-b, apresentarão:
+
+         a)  posição  de depósitos, aplicações e redescontos  locais,
+referentes  às  dependências localizadas nos Estados  mencionados  no
+item V-a;
+
+         b) posição dos demais depósitos sujeitos a recolhimento.
+
+         O  recolhimento sobre os depósitos da alínea "a" se  fará  à
+base  de  16% (dezesseis por cento), sendo de 25% (vinte e cinco  por
+cento) o relativo ao montante da letra "b".
+
+         19.  Estão  sujeitas  a  juros  de  mora  de  12%  a.a.   as
+deficiências  eventualmente apresentadas, taxa essa a  ser  calculada
+sempre com base em períodos mínimos de 30 dias.
+
+         20.  As  liberações serão prontamente autorizadas à  luz  de
+pedidos expressos, em função de recolhimentos efetivados.
+
+         21.  Os  remanescentes  de isenções  oriundas  de  operações
+realizadas  na forma das Instruções nºs 247 e 273, ora canceladas,  à
+medida  dos  vencimentos mensalmente ocorridos deverão ser recolhidos
+em espécie.
+
+         22.  Junto com o balancete (em 2 vias), os Bancos remeterão,
+mensalmente, devidamente preenchidos, formulários segundo os  modelos
+anexos à presente.
+
+         23.  Ficam  revogadas as Circulares nºs 82, 103  e  104,  de
+23.9.63, 24.8.64 e 9.9.64, respectivamente.
+
+                           Rio de Janeiro-GB, 1º de setembro de 1965
+
+                           GERÊNCIA DE OPERAÇÕES BANCÁRIAS
+
+                           Germano de Brito Lyra
+                           Gerente
+
+Obs:   o   anexo   deste  normativo  encontra-se  à  disposição   dos
+interessados na Sede do Banco Central do Brasil.
+```

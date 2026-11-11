@@ -1,0 +1,80 @@
+---
+titulo: "Circular Nº 1.701"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "1701"
+data: 1990-04-30
+ementa: "PLANO DE ESTABILIZAÇÃO ECONÔMICA LEI Nº 8.024, DE 12.04.90 NORMAS OPERACIONAIS APLICÁVEIS AO SISTEMA ESPECIAL DE LIQUIDAÇÃO E DE CUSTÓDIA - SELIC."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2675/99 DOU 23/12/1999 PAG 17 (E) - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2675/99"]
+referencias: ["LEI 8024/90 ART/20.", "CITA CIRCULAR BCB 1642/90 ART/5.", "CITA CIRCULAR BCB 1662/90 1683/90."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1701"
+baixado_em: 2026-11-10
+---
+# Circular Nº 1.701
+
+```
+                         CIRCULAR N. 001701
+                         ------------------
+
+                            PLANO   DE    ESTABILIZAÇÃO    ECONÔMICA
+                            LEI Nº 8.024, DE 12.04.90 - NORMAS  OPE-
+                            RACIONAIS APLICÁVEIS AO SISTEMA ESPECIAL
+                            DE LIQUIDAÇÃO E  DE  CUSTÓDIA - SELIC.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL,  EM SESSÃO REALIZADA NESTA DATA, TENDO EM VISTA O DISPOSTO NO
+ARTIGO 20 DA LEI Nº 8.024, DE 12.04.90, DECIDIU:
+
+                    ART.  1º. AS LETRAS FINANCEIRAS DO TESOURO  (LFT)
+DENOMINADAS  EM  CRUZADOS  NOVOS QUE, NO FECHAMENTO DO  MOVIMENTO  DO
+SELIC  RELATIVO AO DIA 19.3.90, TENHAM PERMANECIDO INDISPONÍVEIS  NAS
+CONTAS  DE CUSTÓDIA, DE SUBCUSTÓDIA E DE CLIENTES, NA FORMA DO ARTIGO
+5º DA CIRCULAR Nº 1642, DE 30.3.90, PODERÃO  SER  OBJETO DE  NEGOCIA-
+ÇÕES  VISANDO  À MONTAGEM PELAS INSTITUIÇÕES FINANCEIRAS DA  SEGUINTE
+OPERAÇÃO COMPROMISSADA:
+
+                    I - O BANCO  CENTRAL COMPRARÁ A PREÇOS PREVIAMEN-
+TE  ESTABELECIDOS, COM DATA DE 19.3.90, AS LFT DE QUE TRATA O "CAPUT"
+DESTE  ARTIGO,  ATÉ O LIMITE DE 30% (TRINTA POR CENTO) DA POSIÇÃO  DE
+CUSTÓDIA  DE CADA INSTITUIÇÃO, AÍ INCLUÍDAS AS JÁ CONTEMPLADAS  PELAS
+OPERAÇÕES PREVISTAS NAS CIRCULARES NºS 1662 E 1683, DE 10 E 19.04.90,
+RESPECTIVAMENTE, PARA REVENDA NA DATA DE VENCIMENTO DO TÍTULO;
+
+                   II  -  NA SELEÇÃO DAS PROPOSTAS, SERÃO  ACOLHIDAS,
+PRIORITARIAMENTE,  AQUELAS REFERENTES A LFT CUJOS VENCIMENTOS NÃO TE-
+NHAM SIDO CONTEMPLADOS PELAS OPERAÇÕES PREVISTAS NAS CIRCULARES CITA-
+DAS NO INCISO ANTERIOR;
+
+                  III  -  O PREÇO DE REVENDA SERÁ DEFINIDO SEGUNDO  A
+FÓRMULA ABAIXO:
+
+                                                     ILFT
+                   PU       = PU    X ILFT X -------------------
+                     VOLTA      IDA                        N/365
+                                             IBTNF X (1,06)
+ONDE:
+
+                    ILFT   : ÍNDICE  ACUMULADO DAS TAXAS DE LFT REFE-
+                             RENCIAL NO PERÍODO;
+                    IBTNF  : ÍNDICE  DE VARIAÇÃO DO BTN FISCAL NO PE-
+                             RÍODO; E
+                        N  : NÚMERO  DE DIAS CORRIDOS ENTRE O  INÍCIO
+                             DA  OPERAÇÃO  E A DATA DE VENCIMENTO  DO
+                             TÍTULO.
+
+                    ART.  2º. O DEPARTAMENTO DE OPERAÇÕES DE  MERCADO
+ABERTO  -  DEMAB EXPEDIRÁ AS INSTRUÇÕES COMPLEMENTARES NECESSÁRIAS  À
+EXECUÇÃO DO DISPOSTO NESTA CIRCULAR.
+
+                    ART. 3º. ESTA CIRCULAR ENTRARÁ EM VIGOR  NA  DATA
+DE SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 30 DE ABRIL DE 1990.
+
+LUIS EDUARDO ALVES DE ASSIS          GUSTAVO JORGE LABOISSIÈRE LOYOLA
+DIRETOR                              DIRETOR
+```

@@ -1,0 +1,104 @@
+---
+titulo: "Circular Nº 3.407"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "3407"
+data: 2008-10-02
+ementa: "Dispõe sobre o cumprimento do recolhimento compulsório e do encaixe obrigatório sobre recursos a prazo de que trata a Circular nº 3.091, de 1º de março de 2002."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Circular BCB nº 3.411/2008 - Alteração: arts. 2º, caput, e 3º.", "Circular BCB nº 3.417/2008 - Alteração art. 2º, § 2º.", "Circular BCB nº 3.427/2008 - Revogação total."]
+normas_vinculadas: ["CARTA CIRCULAR 3343/2008", "CIRCULAR 3427/2008", "CIRCULAR 3421/2008", "CIRCULAR 3417/2008", "CIRCULAR 3414/2008", "CIRCULAR 3411/2008", "CIRCULAR 3091/2002", "RESOLUÇÃO 3444/2007", "RESOLUÇÃO 1857/1991"]
+referencias: ["Lei nº 4.595/1964, art. 10, incisos III e IV.", "Lei nº 7.730/1989, arts. 19 e 20.", "Resolução CMN nº 1.857/1991.", "Cita Resolução CMN nº 3.444/2007.", "Cita Circular BCB nº 3.091/2002."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3407"
+baixado_em: 2026-11-10
+---
+# Circular Nº 3.407
+
+```
+                         CIRCULAR N. 003407
+                         ------------------
+
+                                 Dispõe   sobre   o  cumprimento   do
+                                 recolhimento   compulsório   e    do
+                                 encaixe  obrigatório sobre  recursos
+                                 a  prazo de que trata a Circular  nº
+                                 3.091, de 1º de março de 2002.
+
+         A  Diretoria Colegiada do Banco Central do Brasil, em sessão
+extraordinária realizada  em 2 de outubro de 2008, tendo em  vista  o
+disposto  no  art. 10, incisos III e IV, da Lei nº 4.595,  de  31  de
+dezembro de 1964, com a redação que lhe foi dada pelos arts. 19 e  20
+da  Lei  nº 7.730, de 31 de janeiro de 1989, e na Resolução nº 1.857,
+de 15 de agosto de 1991,
+
+         D E C I D I U :
+
+         Art.  1º  O recolhimento compulsório e o encaixe obrigatório
+sobre recursos a prazo de que trata a Circular  nº 3.091,  de  1º  de
+março de 2002, podem ser efetuados com dedução do valor equivalente à
+aquisição   interbancária  de  operações  de  crédito  originadas  na
+instituição cedente e registradas na rubrica  contabil  3.1.0.00.00-0
+Classificação  das  Carteiras  de  Crédito,  do  Plano  Contábil  das
+Instituições  do  Sistema  Financeiro  Nacional (Cosif),  posição  de
+30 de setembro de 2008, nos termos desta circular.
+
+         Parágrafo único.  Na aquisição de que trata  o  caput  deste
+artigo é admitida a coobrigação do cedente, ficando  porém  vedada  a
+recompra dos créditos cedidos.
+
+         Art.  2º   A  dedução de que trata o caput do art.  1º  está
+limitada  a 40% (quarenta por cento) da exigibilidade de recolhimento
+compulsório e do encaixe obrigatório da instituição cessionária.
+
+         §   1º    Será   considerado   como   valor   de   aquisição
+interbancária  de operações de crédito para os efeitos  do  caput  do
+art.  1º  o  montante  efetivamente  pago  à  instituição  financeira
+cedente.
+
+         §  2º   A  aquisição de operações de crédito  de  uma  mesma
+instituição financeira cedente, para fins da dedução, está limitada a
+20% (vinte por cento) do limite fixado no caput.
+
+         Art.   3º   São  consideradas  elegíveis,  na  condição   de
+cedentes,  para  os  fins do disposto no art. 1º desta  circular,  as
+instituições financeiras cujo Patrimônio de Referência (PR), Nível I,
+apurado na forma estabelecida pela  Resolução  nº  3.444,  de  28  de
+fevereiro  de  2007,  relativo  ao mês de agosto de 2008, seja de até
+R$2.500.000.000,00 (dois bilhões e quinhentos milhões de reais).
+
+         Art.  4º   A  aquisição  de  operações  de  que  trata  esta
+circular  deverá ser informada ao Departamento de Operações Bancárias
+e  de Sistema de Pagamentos (Deban) do Banco Central do Brasil, pelas
+instituições  financeiras cedentes e cessionária, por  intermédio  de
+expediente firmado por detentores de competência, nos termos de  seus
+estatutos sociais.
+
+         Art.   5º   A  instituição  financeira  cessionária   poderá
+deduzir  o  valor  total  efetivamente pago à instituição  financeira
+cedente,  observado  o disposto no art. 1º desta  circular,  em  cada
+período  de cálculo, conforme definido no parágrafo único do art.  3º
+da  Circular nº 3.091, de 2002, a partir do correspondente período de
+cumprimento,  pelo  prazo  médio a decorrer ponderado  das  operações
+objeto da cessão.
+
+         Parágrafo único.  O valor das aquisições de crédito  de  que
+trata  esta  circular  deverá  ser, obrigatoriamente,  liquidado  por
+intermédio  de  Transferência Eletrônica  Disponível  no  Sistema  de
+Transferência   de   Reservas  (STR),  diretamente   da   instituição
+financeira cessionária à instituição financeira cedente.
+
+         Art.  6º   Podem  ser  objeto  desta  circular  somente   as
+aquisições realizadas até 31 de dezembro de 2008.
+
+         Art.  7º   Esta  circular entra em  vigor  na  data  de  sua
+publicação, surtindo efeitos a partir do período de cálculo de 29  de
+setembro de 2008 a 3 de outubro de 2008, cujo ajuste ocorrerá  em  10
+de outubro de 2008.
+
+                                     Brasília,  2 de outubro de 2008.
+
+                             Mario Torós
+                               Diretor
+```

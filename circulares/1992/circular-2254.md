@@ -1,0 +1,48 @@
+---
+titulo: "Circular Nº 2.254"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2254"
+data: 1992-12-09
+ementa: "DISPÕE SOBRE EXIGIBILIDADE DE APLICAÇÕES EM CRÉDITO RURAL."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2274/93 DOU 11/02/1993 PAG 1822 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1895/92", "CIRCULAR 2274/93", "CIRCULAR 2213/92"]
+referencias: ["RESOLUÇÃO CMN 1895/92 ART/2.", "ALTERA CIRCULAR BCB 2213/92 ART/7.", "CITA MCR 6/2."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2254"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.254
+
+```
+                         CIRCULAR Nº 002254
+                         ------------------
+                              DISPÕE  SOBRE EXIGIBILIDADE DE  APLICA-
+                              ÇÕES EM CRÉDITO RURAL.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO REALIZADA EM 09.12.92, COM BASE NO ART. 2º DA RESO-
+LUÇÃO Nº 1.895, DE 22.01.92, DECIDIU:
+
+                    ART.  1º. O  ART.  7º  DA  CIRCULAR Nº 2.213,  DE
+07.08.92, PASSA A VIGORAR COM A SEGUINTE REDAÇÃO:
+
+    "ART.  7º. AS INSTITUIÇÕES FINANCEIRAS INTEGRANTES DE CONGLOMERA-
+     DOS  FINANCEIROS OFICIAIS ESTADUAIS PODEM APLICAR OS RECURSOS DA
+     EXIGIBILIDADE  DO MCR 6-2 EM EMPRÉSTIMO DO GOVERNO FEDERAL (EGF)
+     COM  PRAZO  MÍNIMO DE 90 (NOVENTA) DIAS, E EM  FINANCIAMENTO  DE
+     QUALQUER  MODALIDADE DE CUSTEIO OU INVESTIMENTO CONCEITUADA COMO
+     PRIORITÁRIA  PARA O RESPECTIVO ESTADO, SEGUNDO INDICAÇÃO DA  SE-
+     CRETARIA ESTADUAL DE AGRICULTURA, INDEPENDENTEMENTE DOS DIRECIO-
+     NAMENTOS ESTABELECIDOS NESTA CIRCULAR, À EXCEÇÃO DO PREVISTO PA-
+     RA MINIPRODUTOR E PEQUENO PRODUTOR."
+
+                    ART.  2º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+                              BRASÍLIA (DF), 9 DE DEZEMBRO DE 1992
+
+                              GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                              PRESIDENTE
+```

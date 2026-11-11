@@ -1,0 +1,126 @@
+---
+titulo: "Circular Nº 3.307"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "3307"
+data: 2005-12-30
+ementa: "Altera a Seção 1 do Capítulo 5 do Título 1 do Regulamento do Mercado de Câmbio e Capitais Internacionais (RMCCI), que trata da posição de câmbio."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Circular BCB nº 3.691/2013 - Revogação total, a partir de 3/2/2014."]
+normas_vinculadas: ["RESOLUÇÃO 3265/2005", "CIRCULAR 3280/2005", "CIRCULAR 3691/2013"]
+referencias: ["Resolução CMN nº 3.265/2005, art. 36.", "Circular BCB nº 3.280/2005, art. 2º."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=3307"
+baixado_em: 2026-11-10
+---
+# Circular Nº 3.307
+
+```
+                         CIRCULAR N. 003307
+                         ------------------
+
+                                   Altera a seção 1 do capítulo 5  do
+                                   título   1   do   Regulamento   do
+                                   Mercado   de  Câmbio  e   Capitais
+                                   Internacionais (RMCCI), que  trata
+                                   da posição de câmbio.
+
+         A  Diretoria Colegiada do Banco Central do Brasil, em sessão
+realizada  em 29 de dezembro de 2005, com base no disposto no  artigo
+36 da Resolução 3.265, de 4 de março de 2005, e tendo em vista o art.
+2º da Circular 3.280, de 9 de março de 2005,
+
+D E C I D I U:
+
+         Art.  1º Dar nova redação à seção 1 do capítulo 5 do  título
+1  do  RMCCI, eliminando a exigência de depósito no Banco Central  do
+Brasil  relacionado a posição comprada de câmbio dos bancos e  caixas
+econômicas autorizados a operar no mercado de câmbio.
+
+         Art.  2º  Divulgar as  folhas necessárias à  atualização  do
+RMCCI.
+
+         Art.  3º  Esta  Circular  entra em  vigor  na  data  de  sua
+publicação.
+
+                                   São Paulo, 29 de dezembro de 2005.
+
+                                   Rodrigo Telles da Rocha Azevedo
+                                   Diretor
+
+---------------------------------------------------------------------
+REGULAMENTO DO MERCADO DE CÂMBIO E CAPITAIS INTERNACIONAIS
+TÍTULO: 1 - Mercado de Câmbio
+CAPÍTULO: 5 - Posição de Câmbio e Limite Operacional
+SEÇÃO: 1 - Posição de Câmbio
+---------------------------------------------------------------------
+1. A  posição  de  câmbio é representada pelo saldo das operações  de
+   câmbio  (compra  e  venda  de  moeda  estrangeira,  de  títulos  e
+   documentos  que  as representem e de ouro - instrumento  cambial),
+   registradas no Sisbacen.
+
+2. A   posição  de  câmbio  de  instituição  integrante  do   sistema
+   financeiro  nacional autorizada a operar no mercado  de  câmbio  é
+   apurada  diariamente pelo Sisbacen, por moeda estrangeira  e  pela
+   equivalência  em  dólares  dos  Estados  Unidos,  com   base   nos
+   registros  de contratação de câmbio efetuados no dia, consideradas
+   globalmente  todas  as moedas estrangeiras e o  conjunto  de  suas
+   dependências no País.
+
+3. Para  todos  os fins e efeitos a posição de câmbio é sensibilizada
+   na  data  do registro, no Sisbacen, da contratação da operação  de
+   câmbio, à exceção das operações interbancárias a termo, nas  quais
+   a  posição de câmbio é  sensibilizada a partir do segundo dia útil
+   anterior à sua liquidação.
+
+4. A  equivalência  em  dólares  dos Estados  Unidos  é  apurada  com
+   aplicação   das  paridades  disponíveis  no  Sisbacen,   transação
+   PTAX800,  opção  5  -  cotações para contabilidade,  do  dia  útil
+   anterior, observando-se:
+
+   a) para moedas  do  tipo  "A", deve ser utilizada  a  paridade  de
+      venda na forma: valor na moeda estrangeira/paridade;
+
+   b) para moedas  do  tipo "B" (marcadas com asterisco  na  tela  do
+      sistema),  deve  ser utilizada a paridade de compra  na  forma:
+      valor na moeda estrangeira x paridade.
+
+5. O  Sisbacen  registra,  diariamente, como  ajuste  de  posição,  o
+   resultado   das   variações   decorrentes   das   alterações   das
+   correlações  paritárias  utilizadas na  conversão  a  dólares  dos
+   Estados Unidos das posições registradas nas demais moedas.
+
+6. Não  há limite para as posições de câmbio comprada ou vendida  dos
+   bancos  e  caixas econômicas autorizados a operar  no  mercado  de
+   câmbio. (NR)
+
+7. A   partir  da  posição  de  câmbio  apurada  em  02/01/2006  fica
+   eliminada  a  exigência  de depósito no Banco  Central  do  Brasil
+   relacionado  a  posição comprada dos bancos  e  caixas  econômicas
+   autorizados  a  operar  no  mercado  de  câmbio,  efetivando-se  a
+   devolução  dos  valores  em depósito no Banco  Central  do  Brasil
+   anteriores àquela data, no dia 03/01/2006. (NR)
+
+8. Os  demais  integrantes  do sistema financeiro  nacional  têm  sua
+   posição  de  câmbio comprada limitada a US$ 500.000,00 (quinhentos
+   mil  dólares  dos Estados Unidos) e sua posição de câmbio  vendida
+   limitada a zero.
+
+9. A  ocorrência  de  excesso sobre o limite  de  posição  de  câmbio
+   comprada  atribuído  às  instituições  a  que  se  refere  o  item
+   anterior implica:
+
+   a) na primeira  ocorrência, advertência formal para  regularização
+      imediata do excesso;
+
+   b) na segunda ocorrência, revogação da autorização para operar  no
+      mercado  de  câmbio, desde que verificada dentro  do  prazo  de
+      noventa dias contados da primeira.
+
+10.Nova  ocorrência havida após o prazo de noventa dias da ocorrência
+   anterior  será objeto de nova advertência, podendo ser revogada  a
+   autorização se configurada contumácia.
+
+(NR)
+```

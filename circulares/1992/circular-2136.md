@@ -1,0 +1,65 @@
+---
+titulo: "Circular Nº 2.136"
+orgao: "Banco Central do Brasil"
+tipo: "Circular"
+numero: "2136"
+data: 1992-02-13
+ementa: "DISPÕE SOBRE A EXIGIBILIDADE DE APLICAÇÕES EM CRÉDITO RURAL."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2185/92 DOU 12/06/1992 PAG 7464 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1895/92", "CIRCULAR 2185/92", "CIRCULAR 2057/91", "CIRCULAR 2142/92"]
+referencias: ["RESOLUÇÃO CMN 1895/92 ART/2.", "ALTERA CIRCULAR BCB 2057/91 ART/1 ITEM/I.", "ALTERA CIRCULAR BCB 2057/91 ART/3 PARAGRAFO UNICO."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2136"
+baixado_em: 2026-11-10
+---
+# Circular Nº 2.136
+
+```
+                         CIRCULAR Nº 002136
+                         ------------------
+
+                              DISPÕE SOBRE A EXIGIBILIDADE DE APLICA-
+                              ÇÕES EM CRÉDITO RURAL.
+
+                    COMUNICAMOS  QUE A DIRETORIA DO BANCO CENTRAL  DO
+BRASIL, EM SESSÃO REALIZADA EM 12.02.92, COM BASE NO ART. 2º DA RESO-
+LUÇÃO Nº 1.895, DE 22.01.92, DECIDIU:
+
+                    ART.  1º. INCLUIR O CUSTEIO DA PESCA ENTRE AS FI-
+NALIDADES  DE  QUE TRATA O ART. 1º, ITEM I, DA CIRCULAR Nº 2.057,  DE
+09.10.91.
+
+                    ART.  2º. ALTERAR O PARÁGRAFO ÚNICO DO ART. 3º DA
+REFERIDA  CIRCULAR Nº 2.057, 09.10.91, QUE PASSA A VIGORAR COM A  SE-
+GUINTE REDAÇÃO:
+
+                   "PARÁGRAFO  ÚNICO. CONCEITUAM-SE COMO  FINALIDADES
+PRIORITÁRIAS:
+
+     A - O  CUSTEIO DE ALGODÃO, ARROZ, FEIJÃO, MANDIOCA, MILHO, SOJA,
+         BATATA-INGLESA,  BANANA, TOMATE, CEBOLA, CEVADA, TRIGO, TRI-
+         TICALE E SEMENTES;
+
+     B - O  CUSTEIO DA AVICULTURA, DA SUINOCULTURA E DA PECUÁRIA LEI-
+         TEIRA;
+
+     C - O EMPRÉSTIMO DO GOVERNO FEDERAL (EGF);
+
+     D - A  AQUISIÇÃO ANTECIPADA DE FERTILIZANTES, NA FORMA  ADMITIDA
+         NO  MANUAL DE CRÉDITO RURAL (MCR), DESTINADOS À FORMAÇÃO  DE
+         LAVOURAS  CUJO CUSTEIO É CONCEITUADO COMO FINALIDADE PRIORI-
+         TÁRIA;
+
+     E - O  INVESTIMENTO  PARA RECUPERAÇÃO DO SOLO,  COMPREENDENDO  A
+         AQUISIÇÃO, TRANSPORTE E APLICAÇÃO DE CALCÁRIO."
+
+                    ART.  3º. ESTA CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                            BRASÍLIA (DF), 13 DE FEVEREIRO DE 1992
+
+                            GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                            DIRETOR
+```
