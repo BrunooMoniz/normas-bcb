@@ -31,23 +31,23 @@ e as demais) estão lá, em `federal/`; aqui ficam só os atos do BCB e do CMN.
 
 | Série | No índice oficial | Publicadas | Vigentes | Revogadas | Período |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| [Comunicados](comunicados/) | 43.918 | 2 | 2 | 0 | 1990 a 1990 |
+| [Comunicados](comunicados/) | 43.918 | 22 | 22 | 0 | 1990 a 2026 |
 | [Resoluções do CMN](resolucoes-cmn/) | 5.344 | 1.232 | 464 | 768 | 1965 a 2026 |
 | [Cartas Circulares](cartas-circulares/) | 4.076 | 2 | 0 | 2 | 1968 a 1968 |
 | [Circulares](circulares/) | 4.038 | 2 | 0 | 2 | 1965 a 1965 |
 | [Atos do Presidente](atos-do-presidente/) | 1.389 | 2 | 2 | 0 | 1994 a 1994 |
-| [Instruções Normativas BCB](instrucoes-normativas-bcb/) | 785 | 2 | 2 | 0 | 2020 a 2020 |
+| [Instruções Normativas BCB](instrucoes-normativas-bcb/) | 786 | 3 | 3 | 0 | 2020 a 2026 |
 | [Atos de Diretor](atos-de-diretor/) | 706 | 2 | 2 | 0 | 1996 a 1996 |
 | [Resoluções BCB](resolucoes-bcb/) | 604 | 604 | 526 | 78 | 2020 a 2026 |
 | [Atos Normativos Conjuntos](atos-normativos-conjuntos/) | 31 | 2 | 2 | 0 | 2003 a 2003 |
 | [Resoluções Conjuntas](resolucoes-conjuntas/) | 21 | 21 | 20 | 1 | 2020 a 2026 |
-| [Decisões Conjuntas](decisoes-conjuntas/) | 20 | 2 | 2 | 0 | 1994 a 1995 |
 | [Comunicados Conjuntos](comunicados-conjuntos/) | 20 | 2 | 2 | 0 | 1990 a 1990 |
+| [Decisões Conjuntas](decisoes-conjuntas/) | 20 | 2 | 2 | 0 | 1994 a 1995 |
 | [Portarias Conjuntas](portarias-conjuntas/) | 8 | 2 | 2 | 0 | 2020 a 2021 |
-| [Instruções Normativas Conjuntas](instrucoes-normativas-conjuntas/) | 4 | 2 | 0 | 2 | 2021 a 2021 |
 | [Resoluções Coseg](resolucoes-coseg/) | 4 | 2 | 2 | 0 | 2026 a 2026 |
+| [Instruções Normativas Conjuntas](instrucoes-normativas-conjuntas/) | 4 | 2 | 0 | 2 | 2021 a 2021 |
 | [Resoluções Coremec](resolucoes-coremec/) | 1 | 1 | 1 | 0 | 2020 a 2020 |
-| **Total** | **60.969** | **1.882** | **1.029** | **853** |  |
+| **Total** | **60.970** | **1.903** | **1.050** | **853** |  |
 
 Vigentes são as que o portal não marca como revogadas nem canceladas.
 
@@ -68,14 +68,14 @@ Vigentes são as que o portal não marca como revogadas nem canceladas.
 | DIPOM | 11 |
 | PRESI, DIRAD | 10 |
 | DIFIS, DINOR | 9 |
+| DEPIN | 8 |
 | DINOR, DIORF | 8 |
-| DIREX | 5 |
-| DIORF, DINOR | 5 |
+| DEMAB | 7 |
+| DEORF | 7 |
 | DIORF, DIFIS | 5 |
-| DINOR, DIPOM | 4 |
-| DEMAB | 3 |
+| DIREX | 5 |
 
-_Números de 10/11/2026, gerados por `scripts/readme.py`._
+_Números de 11/11/2026, gerados por `scripts/readme.py`._
 <!-- acervo:fim -->
 
 A coleta completa leva cerca de um dia e segue esta ordem: resoluções, circulares, instruções normativas,
