@@ -1,0 +1,94 @@
+---
+titulo: "Instrução Normativa BCB N° 350"
+orgao: "Banco Central do Brasil"
+tipo: "Instrução Normativa BCB"
+numero: "350"
+data: 2023-02-15
+ementa: "Altera dispositivos da Instrução Normativa BCB n° 243, de 16 de março de 2022, que divulga procedimentos a serem observados para participação direta no Sistema de Pagamentos Instantâneos (SPI), para a abertura da Conta Pagamentos Instantâneos (Conta PI) e define os limites máximos de tempo para validação e para liquidação das ordens de pagamentos instantâneos, de que trata o Regulamento anexo à Resolução BCB nº 195, de 3 de março de 2022."
+revogada: false
+responsavel: "DEBAN"
+versao_texto: "texto do portal do BCB"
+versao_normativo: "1"
+publicacao: "Publicada no DOU de 16/2/2023, Seção 1, p. 67."
+normas_vinculadas: ["INSTRUÇÃO NORMATIVA BCB 243/2022", "RESOLUÇÃO 195/1971"]
+referencias: ["Portaria BCB nº 84.287/2015, Anexo (Regimento Interno do BCB), arts. 23, inciso I, \"a\", e 111, inciso V.", "Resolução BCB nº 195/2022, Regulamento anexo.", "Altera, a partir de 1º/3/2023, Instrução Normativa BCB nº 243/2022 - Dá nova redação: arts. 7º, caput, e 15. Inclui: arts. 7º, §§ 3º e 4º, e 11-A. Revoga: arts. 12 e 14."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=350"
+baixado_em: 2026-11-10
+---
+# Instrução Normativa BCB N° 350
+
+INSTRUÇÃO NORMATIVA BCB Nº 350, DE 15
+DE FEVEREIRO DE 2023
+
+Altera dispositivos da
+Instrução Normativa BCB nº 243, de 16 de março de 2022, que divulga
+procedimentos a serem observados para participação direta no Sistema de
+Pagamentos Instantâneos (SPI), para a abertura da Conta Pagamentos Instantâneos
+(Conta PI) e define os limites máximos de tempo para validação e para
+liquidação das ordens de pagamentos instantâneos, de que trata o Regulamento
+anexo à Resolução BCB nº 195, de 3 de março de 2022.
+
+O
+Chefe do Departamento de Operações Bancárias e de Sistema de Pagamentos
+(Deban), no uso das atribuições conferidas pelo art. 23, inciso I, alínea “a”,
+e pelo art. 111, inciso V, do Regimento Interno do Banco Central do Brasil,
+anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, e tendo em conta o
+disposto no Regulamento anexo à Resolução BCB nº 195, de 3 de março de 2022,
+
+R E S O L V E :
+
+Art. 1º  A Instrução Normativa BCB nº 243, de 16 de
+março de 2022, passa a vigorar com as seguintes alterações:
+
+“Art. 7º  A partir da confirmação do início do
+processo, pelo Deban, o requerente deve concluir os testes de comprovação e
+encaminhar ao Deban a declaração de aptidão para operar no ambiente de produção
+do SPI, conforme modelo apresentado no Roteiro, no prazo de 5 (cinco) meses.
+
+§ 1º  .................................................................................................................
+
+.........................................................................................................................
+
+§ 3º  A prorrogação do prazo de que trata o § 1º
+será automática, caso deferida a prorrogação do prazo para conclusão da etapa
+homologatória do processo de adesão ao arranjo Pix, conforme regulamentação do
+Decem.
+
+§ 4º  O encerramento do processo de adesão ao
+arranjo Pix implica  encerramento do
+processo para requerimento de participação direta no SPI e abertura de Conta
+PI.” (NR)
+
+“Art. 11-A.  O requerente deve providenciar o registro do
+diretor ou ocupante de cargo de administração responsável por assuntos
+relativos ao SPI no sistema de Informações sobre Entidades de Interesse do
+Banco Central (Unicad), em atendimento à regulamentação em vigor.” (NR)
+
+“Art. 15.  De posse da comunicação de que trata o art.
+13 desta Instrução Normativa, o requerente deve informar ao Decem, com
+antecedência mínima de 3 (três) dias úteis, a data e a hora previstas para o
+início das operações no ambiente de produção do SPI.” (NR)
+
+Art. 2º  Ficam revogados os arts. 12 e 14, da
+Instrução Normativa BCB nº 243, de 2022.
+
+Art. 3º  Esta Instrução Normativa entra em vigor em 1º
+de março de 2023.
+
+Rogério Antônio Lucca
+
+NOTA
+
+Por se tratar de ato
+normativo que reduz exigências, obrigações, restrições, requerimentos ou
+especificações com o objetivo de diminuir os custos regulatórios, tendo em
+vista que simplifica a comunicação entre o requerente e este Banco Central no
+processo homologatório para participação direta no SPI, fica dispensada a
+elaboração de análise de impacto regulatório (AIR), nos termos do disposto no
+art. 4º, inciso VII, do Decreto nº 10.411, de 30 de junho de 2020.
+
+Rogério
+Antônio Lucca
+
+Chefe
+do Departamento de Operações Bancárias e de Sistema de Pagamentos

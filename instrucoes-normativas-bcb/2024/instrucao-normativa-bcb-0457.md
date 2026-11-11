@@ -1,0 +1,128 @@
+---
+titulo: "Instrução Normativa BCB N° 457"
+orgao: "Banco Central do Brasil"
+tipo: "Instrução Normativa BCB"
+numero: "457"
+data: 2024-03-19
+ementa: "Altera a Instrução Normativa BCB nº 443, de 20 de dezembro de 2023, que divulga regras e calendário para pontos de controle do processo de alteração do perfil de segurança do Open Finance."
+revogada: false
+responsavel: "DESUP"
+versao_texto: "texto do portal do BCB"
+versao_normativo: "1"
+publicacao: "Publicada no DOU de 20/3/2024, Seção 1, p. 134."
+normas_vinculadas: ["INSTRUÇÃO NORMATIVA BCB 443/2023", "RESOLUÇÃO CONJUNTA 1/2020", "RESOLUÇÃO BCB 340/2023"]
+referencias: ["Resolução Conjunta BCB/CMN nº 1/2020, arts. 46, inciso II, e 51, incisos IX e XI.", "Resolução BCB nº 340/2023, Anexo (Regimento Interno do BCB), art. 23, inciso I, “a”.", "Altera Instrução Normativa BCB nº 443/2023 - Dá nova redação: art. 13, caput e incisos I e II."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=457"
+baixado_em: 2026-11-10
+---
+# Instrução Normativa BCB N° 457
+
+INSTRUÇÃO NORMATIVA BCB Nº 457,
+DE 19 de MARÇO DE 2024
+
+Altera
+a Instrução Normativa BCB nº 443, de 20 de dezembro de 2023, que divulga regras e
+calendário para pontos de controle do processo de alteração do perfil de
+segurança do **Open Finance**.
+
+Os
+Chefes do Departamento de Supervisão de Cooperativas e de Instituições Não
+Bancárias (Desuc) e do Departamento de Supervisão Bancária (Desup), no uso da
+atribuição que lhes confere o art. 23, inciso I, alínea "a", do
+Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27
+de fevereiro de 2015,com base nos artigos 46, inciso II, e
+51, incisos IX e XI, ambos da Resolução Conjunta nº 1, de 4 de maio de 2020.
+
+                        R E S O L V E M :
+
+Art. 1º  A Instrução Normativa BCB nº 443, de 20 de dezembro de
+2023, passa a vigorar com as seguintes alterações:
+
+“Art. 13.  Os tickets mencionados no art. 12:
+
+I
+- Referentes a DCR/DCMs referidos no art. 4º, devem ser classificados na
+categoria mais adequada, mas terem sua meta de atendimento redefinida para um
+prazo máximo de 1 dia útil;
+
+II
+- Não enquadráveis nos termos do art. 4º, devem ser classificados na categoria
+mais adequada, mas terem sua meta de atendimento redefinida para um prazo
+máximo de 2 dias úteis;
+
+…………………………………………………………..................................................”
+(NR)
+
+Art. 2º  Esta
+Instrução Normativa entra em vigor na data de sua publicação.
+
+Adalberto
+Felinto da Cruz Junior       Belline Santana
+
+Chefe do Departamento
+de                           Chefe do Departamento de
+
+Supervisão de Cooperativas
+e de                  Supervisão Bancária
+
+Instituições Não
+Bancárias
+
+NOTA
+
+1.                    A presente Instrução
+Normativa BCB (IN BCB) tem o intuito de modificar regras do processo de
+alteração do perfil de segurança do *Open Finance*, conforme previsto nos
+artigos 46, inciso II, e 51, incisos IX e XI, ambos da Resolução Conjunta nº 1,
+de 4 de maio de 2020.
+
+2.                    Em atendimento ao
+previsto no art. 5º da Lei nº 13.874, de 20 de setembro de 2019, o Decreto nº
+10.411, de 30 de junho de 2020, determina que as propostas de atos normativos
+de interesse geral de agentes econômicos formuladas por órgãos e entidades da
+administração pública federal direta, autárquica e fundacional, bem como por
+colegiados, por meio do órgão ou da entidade encarregada de lhe prestar apoio
+administrativo, sejam precedidas de Análise de Impacto Regulatório (AIR).
+
+3.                    No entanto, vale
+destacar que essa proposta não causa impactos significativos para o conjunto e
+instituições participantes do *Open Finance* por se tratar de aumento do
+tempo disponibilizado para tratamento dos tickets associados ao processo
+estabelecido. Nesse sentido, de acordo com o art. 4º, inciso III, do referido
+Decreto, o ato normativo ora proposto fica dispensado de elaboração de AIR por
+ser considerado de baixo impacto.
+
+4.                    Por fim, tendo em
+vista que poderão ser gerados tickets sob a égide da IN BCB nº 443, de 20 de
+dezembro de 2023, a partir de 25/03/2024, entende-se necessário que essa
+instrução normativa entre em vigor na data de sua publicação, estando
+enquadrada na hipótese de urgência justificada, de que trata o parágrafo único
+do art. 4º do Decreto nº 10.139, de 28 de novembro de 2019.
+
+À consideração de
+V.Sa.
+
+José
+Reynaldo de Almeida Furlani            Ricardo Seviere Zeni
+
+Chefe Adjunto do
+Departamento de                 Chefe Adjunto do Departamento de
+
+Supervisão de Cooperativas
+e de                       Supervisão Bancária
+
+Instituições Não Bancárias
+
+De acordo.
+
+Adalberto
+Felinto da Cruz Junior            Belline Santana
+
+Chefe do Departamento
+de                                Chefe do Departamento de
+
+Supervisão de Cooperativas
+e de                       Supervisão Bancária
+
+Instituições Não
+Bancárias

@@ -1,0 +1,244 @@
+---
+titulo: "Instrução Normativa BCB N° 94"
+orgao: "Banco Central do Brasil"
+tipo: "Instrução Normativa BCB"
+numero: "94"
+data: 2021-04-08
+ementa: "Consolida os procedimentos para remessa de informações sobre cotistas de fundos de investimento, de que trata a Resolução BCB nº 38, de 11 de novembro de 2020."
+revogada: false
+responsavel: "DESIG"
+versao_texto: "texto do portal do BCB"
+versao_normativo: "3"
+publicacao: "Publicada no DOU de 9/4/2021, Seção 1, p. 50."
+atualizacoes: ["Instrução Normativa BCB nº 152/2021 - Alteração, a partir de 1º/10/2021 - Nova redação: Anexo.", "Instrução Normativa BCB nº 527/2024 - Alteração, a partir de 1º/10/2024 - Nova redação: art. 1º, inciso I, \"a\", 1, 2, 3 e 4, e \"b\", 1, e inciso II, \"a\", 1, 2 e 3; art. 2º, parágrafo único; e Anexo. Inclusão: art. 1º, parágrafo único."]
+normas_vinculadas: ["INSTRUÇÃO NORMATIVA BCB 527/2024", "INSTRUÇÃO NORMATIVA BCB 152/2021", "INSTRUÇÃO NORMATIVA BCB 56/2020", "RESOLUÇÃO BCB 38/2020", "CARTA CIRCULAR 4040/2020", "CARTA CIRCULAR 3967/2019", "CIRCULAR 3165/2002"]
+referencias: ["Portaria BCB nº 84.287/2015, Anexo (Regimento Interno do BCB), arts. 23, inciso I, “a”, e 77, incisos III e IV.", "Resolução BCB nº 38/2020.", "Cita Circular BCB nº 3.165/2002.", "Revoga, a partir de 3/5/2021, Cartas Circulares BCB ns. 3.967/2019 e 4.040/2020.", "Revoga, a partir de 3/5/2021, Instrução Normativa BCB nº 56/2020."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=94"
+baixado_em: 2026-11-10
+---
+# Instrução Normativa BCB N° 94
+
+INSTRUÇÃO NORMATIVA BCB Nº 94, DE 8
+de ABRIL de 2021
+
+Consolida os procedimentos para remessa de informações sobre
+cotistas de fundos de investimento,
+de que trata a Resolução BCB nº 38, de 11 de novembro de 2020.
+
+O
+Chefe do Departamento de Monitoramento do Sistema Financeiro (Desig), no uso da
+atribuição que lhe confere o art. 23, inciso I, alínea “a”, do Regimento
+Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de
+fevereiro de 2015, com base no art. 77, incisos III e IV, do referido
+Regimento, e tendo em conta o disposto na Resolução BCB nº 38, de 11 de
+novembro de 2020,
+
+R E S O L V E :
+
+Art. 1º  A remessa das
+informações de que trata o art. 1º da Resolução BCB nº 38, de 11 de novembro de
+2020, deve ser realizada mensalmente, pelos administradores dos fundos de
+investimento e pelas instituições financeiras que atuem, segundo a forma
+regulamentada pela Comissão de Valores Mobiliários, como distribuidores de
+cotas de fundos por conta e ordem de clientes, por meio dos seguintes
+documentos, nos termos do anexo
+a esta Instrução Normativa BCB:
+
+I - Documento 5401 - Informações sobre Cotistas de Fundos - Dados
+enviados pelos administradores dos fundos de investimento, contendo:
+
+~~a) em relação ao fundo de investimento:~~
+
+a) em relação ao fundo de investimento, suas classes e suas
+subclasses: [(Redação dada, a partir de 1º/10/2024, pela Instrução Normativa
+BCB nº 527, de 26/9/2024.)](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=527)
+
+~~1. identificação do fundo;~~
+
+1. identificação; [(Redação dada, a partir de 1º/10/2024, pela Instrução Normativa
+BCB nº 527, de 26/9/2024.)](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=527)
+
+~~2. patrimônio líquido do fundo;~~
+
+2. patrimônio líquido; [(Redação dada, a partir de 1º/10/2024, pela Instrução Normativa
+BCB nº 527, de 26/9/2024.)](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=527)
+
+~~3. quantidade de cotas do fundo;~~
+
+3. quantidade de cotas; [(Redação dada, a partir de 1º/10/2024, pela Instrução Normativa
+BCB nº 527, de 26/9/2024.)](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=527)
+
+~~4. quantidade de cotistas do fundo;~~
+
+4. quantidade de cotistas; [(Redação dada, a partir de 1º/10/2024, pela Instrução Normativa
+BCB nº 527, de 26/9/2024.)](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=527)
+
+b) em relação aos cotistas:
+
+~~1. identificação do cotista, ou do distribuidor por
+conta e ordem, ou do depositário central se a cota for negociada em bolsa de
+valores;~~
+
+1. identificação do cotista ou do distribuidor por conta e ordem; [(Redação dada, a partir de 1º/10/2024, pela Instrução Normativa
+BCB nº 527, de 26/9/2024.)](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=527)
+
+2. classificação do cotista;
+
+3. tipo de cota;
+
+4. quantidade de cotas do cotista;
+
+5. valor das cotas;
+
+II - Documento 5402 - Informações sobre Cotistas de Fundos – Dados
+enviados pelas instituições financeiras distribuidoras de cotas de fundos,
+contendo:
+
+~~a) em relação ao fundo de investimento:~~
+
+a) em relação ao fundo de investimento, suas classes e suas
+subclasses: [(Redação dada, a partir de 1º/10/2024, pela Instrução Normativa
+BCB nº 527, de 26/9/2024.)](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=527)
+
+~~1. identificação do fundo;~~
+
+1. identificação; [(Redação dada, a partir de 1º/10/2024, pela Instrução Normativa
+BCB nº 527, de 26/9/2024.)](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=527)
+
+~~2. quantidade de cotas do fundo distribuídas por conta e
+ordem pelo distribuidor remetente da informação;~~
+
+2. quantidade de cotasdistribuídas
+por conta e ordem pelo distribuidor remetente da informação; [(Redação dada, a partir de 1º/10/2024, pela Instrução Normativa
+BCB nº 527, de 26/9/2024.)](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=527)
+
+~~3. quantidade de cotistas detentores das cotas do fundo
+distribuídas por conta e ordem pelo distribuidor remetente da informação;~~
+
+3. quantidade de cotistas detentores das
+cotas distribuídas por conta e ordem pelo distribuidor remetente da
+informação; [(Redação dada, a partir de 1º/10/2024, pela Instrução Normativa
+BCB nº 527, de 26/9/2024.)](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=527)
+
+b) em relação aos cotistas:
+
+1. identificação do cotista;
+
+2. classificação do cotista;
+
+3. tipo de cota;
+
+4. quantidade de cotas do cotista;
+
+5. valor das cotas.
+
+Parágrafo
+único.  O leiaute, as instruções de
+preenchimento, bem como os demais documentos necessários à confecção dos
+documentos de que trata esta Instrução Normativa estão disponíveis na página do
+Banco Central na Internet, no endereço eletrônico <https://www.bcb.gov.br/estabilidadefinanceira/leiautedocumentoscrd>. [(Incluído, a partir de 1º/10/2024, pela Instrução Normativa BCB nº
+527, de 26/9/2024.)](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=527)
+
+Art. 2º  As instituições
+mencionadas no art. 1º devem indicar empregado apto a responder a eventuais
+questionamentos sobre as informações fornecidas nos termos desta Instrução
+Normativa BCB.
+
+~~Parágrafo único.  A indicação referida no **caput** deve ser
+registrada no Sistema de Informações sobre Entidades de Interesse do Banco
+Central (Unicad), de que trata a Circular nº 3.165, de 4 de dezembro de 2002.~~
+
+Parágrafo único.  A
+indicação referida no *caput* deve ser registrada no Sistema de
+Informações sobre Entidades de Interesse do Banco Central – Unicad, de que
+trata a Resolução BCB nº 209, de 22 de março de 2022. [(Redação dada, a partir de 1º/10/2024, pela Instrução Normativa
+BCB nº 527, de 26/9/2024.)](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=527)
+
+Art. 3º  As instituições financeiras autorizadas a atuarem
+como distribuidoras de cotas de fundos
+de investimento por conta e ordem de clientes, mas que não exercem essa
+atividade, devem registrar a dispensa de remessa do documento 5402, informando
+a “data-base início” no menu “Documento”, opção “Dispensa” do sistema de
+Controle de Remessa de Documentos (CRD), disponível para acesso na página do
+Banco Central do Brasil na internet, no endereço eletrônico <https://www.bcb.gov.br/estabilidadefinanceira/controledocumentosif>.
+
+Parágrafo
+único.  As instituições financeiras
+referidas no **caput** que começarem a atuar
+como distribuidoras de cotas de fundos de investimento por conta e ordem de
+clientes, deverão registrar a “Data-base fim” no menu “Documento”, opção “Dispensa” do CRD.  A
+partir da data-base seguinte, essas instituições deverão iniciar a remessa do
+documento 5402.
+
+Art. 4º  Ficam revogadas:
+
+I - a Carta Circular nº 3.967, de 2 de agosto de 2019;
+
+II - a Carta Circular nº 4.040, de 29 de abril de 2020;
+
+III - a Instrução Normativa BCB nº 56, de 9 de dezembro de 2020.
+
+Art. 5º  Esta Instrução
+Normativa BCB entra em vigor em 3 de maio de 2021.
+
+Gilneu Francisco Astolfi Vivan
+
+Anexo à Instrução Normativa BCB nº 94, de 8 de abril de 2021
+
+Codificação e
+características do documento:
+
+Códigos dos Documentos: 5401 e 5402:
+
+Nomes dos
+Documentos:
+
+5401 - Informações sobre Cotistas de Fundos –
+Dados enviados pelos administradores dos fundos de investimento;
+
+5402 - Informações sobre Cotistas de Fundos –
+Dados enviados pelas instituições financeiras distribuidoras de cotas de
+fundos;
+
+Periodicidade da Remessa: mensal;
+
+~~Data-limite para Remessa: até o quinto dia útil do mês
+subsequente à data-base;~~
+
+~~Data-limite
+para Remessa: até o dia dez do mês subsequente à data-base;~~ [~~(Redação dada, a partir de 1º/10/2021, pela Instrução Normativa
+BCB nº 152, de 6/9/2021.)~~](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=152)
+
+Data-limite
+para Remessa: até o décimo segundo dia do mês subsequente à data-base; [(Redação dada, a partir de 1º/10/2024, pela Instrução Normativa
+BCB nº 527, de 26/9/2024.)](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=527)
+
+Data-base: último dia útil de cada mês;
+
+Unidade Responsável pela Curadoria: Desig;
+
+Forma de Remessa: meio eletrônico;
+
+Sistema para
+Remessa: Sistema de Transferência de Arquivos (STA), na forma regulamentada e
+disponibilizada na página desta Autarquia, no endereço <https://www.bcb.gov.br/acessoinformacao/sistematransferenciaarquivos>;
+
+Formato para Remessa: XML (eXtensible
+Markup Language);
+
+Validação da Remessa: antecipada;
+
+Esquema de Validação da Remessa: XSD (XML **Schema Definition**).
+
+Elementos
+Adicionais para Remessa: leiaute, em formato XML; modelos, em formato Excel;
+esquemas de validação XSD; arquivos-exemplo; programa validador; e instruções
+de preenchimento, disponíveis na página do Banco Central do Brasil na internet,
+no endereço  <https://www.bcb.gov.br/estabilidadefinanceira/leiautedocumentoscrd>;
+
+Indicação de
+Empregado para Responder a Questionamentos: no cabeçalho do respectivo
+documento de remessa;
+
+Endereço Eletrônico para Solução de Dúvidas sobre a Remessa e
+Preenchimento do Documento: [informacoescotistas@bcb.gov.br](mailto:informacoescotistas@bcb.gov.br).

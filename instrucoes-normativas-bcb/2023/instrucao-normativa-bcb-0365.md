@@ -1,0 +1,159 @@
+---
+titulo: "Instrução Normativa BCB N° 365"
+orgao: "Banco Central do Brasil"
+tipo: "Instrução Normativa BCB"
+numero: "365"
+data: 2023-03-28
+ementa: "Estabelece os procedimentos para submissão ao Banco Central do Brasil de plano de adequação às obrigações para o exercício das modalidades de participação no Open Finance e para comunicação no caso de seu não cumprimento."
+revogada: false
+responsavel: "DESUP"
+versao_texto: "texto do portal do BCB"
+versao_normativo: "1"
+publicacao: "Publicada no DOU de 29/3/2023, Seção 1, p. 81 ."
+normas_vinculadas: ["RESOLUÇÃO CONJUNTA 1/2020", "RESOLUÇÃO BCB 32/2020"]
+referencias: ["Portaria BCB nº 84.287/2015, Anexo (Regimento Interno do BCB), art. 23, inciso I, “a”.", "Resolução BCB nº 32/2020, arts. 9º, § 1º, inciso I, e 10-A, § 6º.", "Cita Resolução Conjunta BCB/CMN nº 1/2020, art. 6º."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=365"
+baixado_em: 2026-11-10
+---
+# Instrução Normativa BCB N° 365
+
+Cosif - Contas direcionamento microcrédito - Cta
+
+INSTRUÇÃO NORMATIVA BCB Nº 365, DE 28 DE MARÇO DE 2023
+
+Estabelece
+os procedimentos para submissão ao Banco Central do Brasil de plano de
+adequação às obrigações para o exercício das modalidades de participação no **Open Finance** e para
+comunicação no caso de seu não cumprimento.
+
+Os Chefes do
+Departamento de Supervisão de Cooperativas e de Instituições Não Bancárias
+(Desuc) e do Departamento de Supervisão Bancária (Desup), no uso da atribuição
+que lhes confere o art. 23, inciso I, alínea "a", do Regimento
+Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de
+fevereiro de 2015, e com base no§ 6º, art. 10-A, da Resolução BCB nº 32, de 29 de outubro de
+2020,
+
+R E S O L V E M :
+
+Art. 1º  As
+instituições participantes especificadas no art. 6º da Resolução Conjunta nº
+1, de 4 de maio de 2020, que não estejam aptas a cumprir, no prazo
+previsto no art. 9º, § 1º, inciso I, da Resolução BCB nº 32, de 29 de outubro
+de 2020, as obrigações para o exercício das modalidades de participação no **Open
+Finance** deverão elaborar um plano de adequação contendo:
+
+I - motivo do
+enquadramento no art. 9º, § 1º, inciso I, da Resolução BCB nº 32, de 2020;
+
+II - motivo da
+impossibilidade de cumprimento do prazo previsto no art. 9º,
+§ 1º, inciso I, da Resolução BCB nº 32, de 2020;
+
+III
+- cronograma contendo as etapas necessárias para cumprimento das obrigações
+para o exercício das modalidades de participação no Open Finance e a data para
+conclusão do plano de adequação.
+
+Parágrafo
+único.  O
+plano de adequação de que trata o **caput** deve ser submetido por meio do
+Protocolo Digital ao Departamento de Supervisão Bancária - Desup ou ao
+Departamento de Supervisão de Cooperativas e de Instituições Não Bancária -
+Desuc, conforme a responsabilidade pela supervisão da entidade.
+
+Art. 2º  No decorrer
+do processo de análise do pleito, o Banco Central do Brasil poderá:
+
+I - convocar os controladores
+e os administradores da instituição pleiteante para prestação de
+esclarecimentos e de informações adicionais; e
+
+II - solicitar
+ajustes no plano de adequação de que trata o art. 1º.
+
+Art. 3º O
+cumprimento do plano de adequação de que trata o art. 1º deve ser acompanhado
+pela auditoria interna e, caso não esteja sendo cumprido, o Banco Central do
+Brasil deverá ser comunicado em até dois dias úteis após a identificação do
+descumprimento.
+
+Parágrafo
+único.  A comunicação de que trata o **caput** deverá ser encaminhada, por
+meio do Protocolo Digital, assinada pelo Diretor responsável pelo **Open Finance**
+e pelo responsável pela Auditoria Interna, referenciando o Protocolo de
+encaminhamento do plano de adequação de que trata o art. 1º.
+
+Art. 4º  Esta Instrução
+Normativa entra em vigor em 1º de abril de 2023.
+
+Harold Paquete Espínola Filho                                     Belline
+Santana
+                        Chefe do Departamento de
+Supervisão de                Chefe do Departamento de
+                        Cooperativas
+e de Instituições Não Bancárias           Supervisão Bancária
+
+NOTA
+
+> > > > > > > Fundamenta proposta
+> > > > > > > de edição de instrução normativa que estabelece os
+> > > > > > > procedimentos para submissão ao Banco Central do Brasil de plano de adequação
+> > > > > > > às obrigações para o exercício das modalidades de participação no **Open
+> > > > > > > Finance** e para comunicação no caso de seu não cumprimento.
+
+Senhores
+Chefes do Desuc e do Desup,
+
+1.
+A
+presente Nota Técnica fundamenta proposta de edição de instrução normativa, que
+estabelece os procedimentos para submissão de plano de adequação às obrigações
+para o exercício das modalidades de participação no Open Finance, conforme
+estabelecido no §6º, art. 10-A da Resolução BCB nº 32, de 29 de outubro de
+2020, e para comunicação no caso de seu não cumprimento.
+
+2.
+Em
+atendimento ao previsto no art. 5º da Lei nº 13.874, de 20 de setembro de 2019,
+o Decreto nº 10.411, de 30 de junho de 2020, determina que as propostas de atos
+normativos de interesse geral de agentes econômicos formuladas por órgãos e
+entidades da administração pública federal direta, autárquica e fundacional,
+bem como por colegiados por meio do órgão ou da entidade encarregada de lhe
+prestar apoio administrativo, sejam precedidas de Análise de Impacto
+Regulatório (AIR).
+
+3.
+Contudo,
+cumpre observar que a Instrução Normativa em análise apenas estabelece procedimento
+para encaminhamento do plano de adequação às obrigações para o exercício das
+modalidades de participação no **Open Finance** e para comunicação no caso
+de seu não cumprimento, sem criar novas exigências regulatórias às instituições
+financeiras e demais instituições autorizadas a funcionar pelo Banco Central do
+Brasil. Nesse sentido, de acordo com o art. 4º, inciso III, do referido
+Decreto, o ato normativo ora proposto fica dispensado de elaboração de AIR por
+ser considerado de baixo impacto.
+
+À consideração de
+V.Sa.
+
+Rodrigo Monteiro                                               Ricardo
+Seviere Zeni
+                        Chefe Adjunto do
+Departamento de               Chefe Adjunto do Departamento de
+                        Supervisão de Cooperativas
+e de                     Supervisão Bancária
+                        Instituições
+Não Bancárias
+
+De
+acordo.
+
+Harold Paquete
+Espínola Filho                        Belline Santana
+                        Chefe do Departamento
+de                             Chefe Adjunto do Departamento de
+                        Supervisão de Cooperativas
+e de                   Supervisão Bancária
+                        Instituições Não
+Bancárias

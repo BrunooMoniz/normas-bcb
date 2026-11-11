@@ -1,0 +1,1051 @@
+---
+titulo: "Instrução Normativa BCB N° 63"
+orgao: "Banco Central do Brasil"
+tipo: "Instrução Normativa BCB"
+numero: "63"
+data: 2020-12-22
+ementa: "Estabelece prazos, horários e procedimentos operacionais previstos no Regulamento do Sistema Especial de Liquidação e de Custódia (Selic)."
+revogada: true
+responsavel: "DEMAB"
+versao_texto: "texto do portal do BCB"
+versao_normativo: "2"
+publicacao: "Publicada no DOU de 28/12/2020, Seção 1, p. 162-165."
+atualizacoes: ["Instrução Normativa BCB nº 113/2021 - Revogação total, a partir de 29/6/2021."]
+normas_vinculadas: ["INSTRUÇÃO NORMATIVA BCB 113/2021", "RESOLUÇÃO BCB 55/2020", "CARTA CIRCULAR 4023/2020", "CARTA CIRCULAR 3969/2019", "CARTA CIRCULAR 3962/2019", "CARTA CIRCULAR 3928/2019", "CARTA CIRCULAR 3903/2018", "CARTA CIRCULAR 3777/2016", "CARTA CIRCULAR 3662/2014", "CARTA CIRCULAR 3661/2014", "CARTA CIRCULAR 3620/2013", "CARTA CIRCULAR 3568/2012", "CARTA CIRCULAR 3467/2010"]
+referencias: ["Portaria BCB nº 84.287/2015, Anexo (Regimento Interno do BCB), art. 23, inciso I, “a”.", "Resolução BCB nº 55/2020, art. 2º.", "Cita Lei nº 12.865/2013, art. 6º, inciso III.", "Cita Instrução CVM nº 560/2015, Anexo 1, art. 1º, § 1º.", "Revoga Cartas Circulares BCB ns. 3.467/2010; 3.568/2012; 3.620/2013; 3.661/2014; 3.662/2014; 3.777/2016; 3.903/2018; 3.928/2019; 3.962/2019; 3.969/2019; e 4.023/2020."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=63"
+baixado_em: 2026-11-10
+---
+# Instrução Normativa BCB N° 63
+
+INSTRUÇÃO
+NORMATIVA BCB Nº 63, DE 22 DE DEZEMBRO DE 2020
+
+[Documento normativo revogado, a partir de 29/6/2021,
+pela instrução Normativa BCB nº 113, de 11/6/2021.](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=113)
+
+Estabelece prazos, horários e procedimentos operacionais
+previstos no Regulamento do Sistema Especial de Liquidação e de Custódia
+(Selic).
+
+O
+Chefe do Departamento de Operações do Mercado Aberto (Demab), em exercício, no
+uso da atribuição que confere o art. 23, inciso I, alínea “a”, do Regimento
+Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de
+fevereiro de 2015, e tendo em conta o disposto no art. 2º da Resolução BCB nº 55,
+de 16 de dezembro de 2020,
+
+R
+E S O L V E :
+
+**Capítulo
+I**
+
+**Disposições
+Gerais**
+
+Art.
+1º  Esta Instrução Normativa estabelece prazos, horários e procedimentos operacionais
+previstos no Regulamento do Sistema Especial de Liquidação e de Custódia
+(Selic), anexo à Resolução BCB nº 55, de 2020.
+
+**Capítulo
+II**
+
+**Dos
+horários e prazos**
+
+Art.
+2º  Os horários e os prazos previstos no Regulamento do Selic são os seguintes:
+
+I
+- art. 16, § 1º: o horário de abertura do Selic é 6h30;
+
+II
+- art. 16, § 1º: o horário de encerramento do Selic é 18h30 ou 13h, em 24 de
+dezembro, se dia útil, e no último dia útil do ano, exceto para o registro de:
+
+a)
+operações de compra e venda, definitiva ou compromissada, à vista ou a termo, e
+de operações de recompra e revenda, que não incorram em liquidação financeira
+pelo Sistema de Transferência de Reservas (STR), e de promessas de compra ou de
+venda, cujos comandos podem ser transmitidos até as 20h30, ou até as 13h30, em
+24 de dezembro, se dia útil, e no último dia útil do ano; e
+
+b)
+operações de contratação de redesconto para liquidez no Sistema de Pagamentos
+Instantâneos (SPI), cujos comandos podem ser transmitidos, além do horário
+regular, entre o horário de encerramento do STR e 19h, ou entre o horário de
+encerramento do STR e 13h30, em 24 de dezembro, se dia útil, e no último dia
+útil do ano;
+
+III
+- art. 52, inciso II: são transmitidos automaticamente pelo Selic, às 9h30, os
+comandos de compra e venda no dia da liquidação do correspondente termo;
+
+IV
+- art. 56: transmitido um comando, todos os demais requeridos para o registro e
+a liquidação da operação ou das operações associadas ou conjugadas devem ser
+transmitidos no prazo de 60 minutos;
+
+V
+- art. 59, § 1º: relativamente às operações referidas nesse artigo, o comando
+da outra parte é transmitido até uma hora e meia antes do horário de
+encerramento regular do Selic;
+
+VI - art. 70, inciso I: os duplos comandos das
+operações pendentes de liquidação por insuficiência de títulos são cancelados
+após o decurso do prazo de pendência de 60 minutos ou no horário de
+encerramento do Selic, o que ocorrer primeiro; e
+
+VII - art. 103, § 1º, inciso II: a concordância da câmara em
+liquidar revenda e recompra oriunda de operação compromissada ainda não
+liquidada no Selic é considerada revogada em algum momento compreendido entre
+11h07 e 11h12, quando o compromisso for para o mesmo dia, entre 18h07 e 18h12,
+quando o compromisso for para dia posterior e nos horários estabelecidos pela
+câmara, em 24 de dezembro, se dia útil, e no último dia útil do ano.
+
+Parágrafo
+único.  O registro de operação de compra e venda, definitiva ou compromissada,
+à vista, previsto na alínea “a”, do inciso II, do **caput,** é permitido
+somente para as operações contratadas por um participante com um cliente.
+
+Art.
+3º  O decurso do prazo de 60 minutos, referido nos incisos IV e VI do **caput**
+do art. 2º, será verificado a cada 5 minutos, a partir das 9h30, para fins de
+cancelamento dos respectivos comandos.
+
+Art. 4º  As câmaras e os
+prestadores de serviços de compensação e de liquidação devem enviar ao Demab as
+informações de que trata o art. 114 do Regulamento do Selic no próprio dia do
+evento, até 60 minutos após o horário de encerramento regular do Selic.
+
+Art.
+5º  Os horários e os prazos referidos nos arts. 2º a 4º podem ser alterados:
+
+I
+- diante da ocorrência de fatos extraordinários, a critério do Demab, caso em
+que eventual modificação será informada, no próprio dia, por meio de aviso do
+Selic a seus participantes;
+
+II
+- nos dias que houver horário especial de funcionamento das instituições
+financeiras, conforme disposto em normativo expedido pelo Banco Central do
+Brasil; e
+
+III
+- em situações excepcionais de grave indisponibilidade técnica, nas quais o
+horário de encerramento pode ser estendido para além das 23h59, caso em que as
+operações efetuadas após este horário serão registradas como se realizadas no
+dia anterior.
+
+**Capítulo III**
+
+**Dos procedimentos para inclusão, alteração e exclusão
+de participante**
+
+Art. 6º  A inclusão de participante no
+Selic deve ser solicitada pelo diretor responsável por assuntos do Selic ou por
+representante, com poderes de gestão, responsável por assuntos do Selic,
+conforme disposto no Regulamento do Selic, por meio da apresentação dos seguintes
+documentos:
+
+I - “Solicitação de
+abertura de conta-padrão”, conforme o tipo de participante;
+
+II - “Relação de pessoas
+autorizadas a representar o participante”; e
+
+III - “Formulário de
+Cadastramento do Administrador”, obrigatório apenas para participantes
+transmissores de comandos.
+
+§ 1º  A opção do participante não
+liquidante entre transmitir ou não seus próprios comandos deve ser informada no
+documento “Solicitação de abertura de conta- padrão” e qualquer alteração dessa
+escolha, pelo documento “Alteração Cadastral de Participante”.
+
+§
+2º A eleição do
+liquidante-padrão pelo participante não liquidante deve ser informada no
+documento “Solicitação de abertura de conta-padrão”.
+
+Art. 7º  Para a mudança
+do liquidante-padrão de participante não liquidante, nas hipóteses previstas no
+Regulamento do Selic, devem ser encaminhados um dos seguintes documentos:
+
+I - “Liquidante-padrão -
+Renúncia informada pelo próprio liquidante”: pelo participante que decidir não
+mais figurar como liquidante-padrão do participante não liquidante, além de
+documentação que comprove que o participante não liquidante foi informado de
+tal decisão; ou
+
+II - “Liquidante-padrão
+- Substituição informada pelo não liquidante”: pelo participante não
+liquidante, inclusive aquele sob regime de administração especial temporária,
+de intervenção, de liquidação extrajudicial ou ordinária:
+
+a)
+ao tomar
+conhecimento da decisão referida no inciso I; ou
+
+b)
+na hipótese de a
+mudança de liquidante-padrão ser iniciativa do próprio participante não
+liquidante.
+
+Art. 8º  A exclusão do
+participante, a pedido do próprio, deve ser solicitada por meio do documento “Encerramento
+de conta-padrão”.
+
+Art. 9º  A documentação de
+que trata este Capítulo pode ser obtida no sítio do Banco Central do Brasil, na
+internet, e deve ser enviada ao Demab por meio do Protocolo Digital do Banco
+Central do Brasil, conforme instruções contidas no Manual do Usuário do Selic
+(MUS).
+
+**Capítulo IV**
+
+**Dos tipos de operação, de cliente e de conta**
+
+Art.
+10.  As relações das operações, dos tipos de cliente e dos tipos de conta existentes
+no Selic estão dispostas, respectivamente nos Anexos I, II e III desta Instrução
+Normativa.
+
+Art.
+11.  As instruções para a abertura e a movimentação das contas estão contidas no
+MUS.
+
+Art.
+12.  As instituições emissoras de moeda eletrônica devem fazer uso da conta
+específica “Instituição de pagamento – Moeda Eletrônica”, código “028”.
+
+Art.
+13.  A conta de que trata o art. 12 será de custódia:
+
+I
+- de cliente individualizado de banco múltiplo com carteira comercial, de banco
+comercial e/ou de caixa econômica, quando de titularidade de instituição de
+pagamento ou de instituição autorizada a funcionar pelo Banco Central do Brasil
+prestadora de serviços de pagamento na modalidade de emissor de moeda
+eletrônica; ou
+
+II
+- própria, quando de titularidade das instituições financeiras prestadoras de
+serviços de pagamento na modalidade de emissor de moeda eletrônica.
+
+Parágrafo
+único.  Para os efeitos deste artigo, considera-se instituição de pagamento a
+pessoa jurídica descrita no art. 6º, inciso III da Lei nº 12.865, de 9 de
+outubro de 2013.
+
+**Capítulo
+V**
+
+**Da
+transmissão de comandos na Interface Operacional do Selic (IOS)**
+
+Art.
+14.  Na Interface Operacional do Selic (IOS), os comandos para o registro e a
+liquidação de operações no sistema devem ser transmitidos pelo próprio
+participante ou por seu liquidante-padrão, na hipótese de ser este o
+responsável pela transmissão dos comandos daquele.
+
+Parágrafo único.  Os
+comandos para registro e liquidação das operações são instruídos com os dados
+previstos no MUS para o preenchimento do documento "Ordem para Registro e
+Liquidação de Operação".
+
+Art.
+15.  Os dados que instruem os comandos referidos no art. 14 podem ser:
+
+I
+- imputados em tela da IOS pelo participante ou por seu liquidante-padrão,
+conforme o caso, operação por operação;
+
+II
+- transferidos para a IOS pelo participante ou por seu liquidante-padrão,
+conforme o caso, em arquivo contendo diversas operações; ou
+
+III
+- enviados para a IOS pelo responsável por ambiente de
+negociação externo ao Selic, em arquivo contendo as operações contratadas
+pelo participante no respectivo ambiente.
+
+Parágrafo
+único.  Relativamente à remessa de arquivos, para que os dados das operações
+possam ser recepcionados pela IOS faz-se necessário o estrito cumprimento das
+instruções contidas no MUS a respeito do assunto.
+
+**Capítulo
+VI**
+
+**Do
+ressarcimento de custos**
+
+Art.
+16.  O valor devido por cada participante do Selic, relativamente ao
+ressarcimento de custos, corresponde a um percentual de até 100% (cem por
+cento) do valor apurado com base nos seguintes fatores:
+
+I
+- custódia dos títulos;
+
+II
+- transmissão de comandos das operações registradas; e
+
+III
+- registro de gravames e ônus.
+
+§
+1º  A apuração considera o período compreendido entre o penúltimo dia útil do
+mês anterior ao de referência e o antepenúltimo dia útil do mês de referência.
+
+§
+2º  O percentual referido no **caput**, que vigora para todos os
+participantes do Selic, é fixado mensalmente e representa o quociente entre o
+custo orçado e a soma dos valores apurados por cada participante do Selic para
+o mês de referência.
+
+§
+3º  Os extratos dos valores devidos estão disponíveis para consulta a partir do
+primeiro dia útil do mês seguinte ao de referência.
+
+Art.
+17.  No tocante à custódia dos títulos, o valor é calculado mediante utilização
+da seguinte tabela:
+
+|  |  |  |
+| --- | --- | --- |
+| Base de cálculo | Alíquota | Adicional |
+| Até R$20.000.000,00 | 0,00050% | - |
+| De R$20.000.000,01 a R$5.000.000.000,00 | 0,00035% | R$30,00 |
+| De R$5.000.000.000,01 a R$10.000.000.000,00 | 0,00023% | R$6.030,00 |
+| Acima de R$10.000.000.000,00 | 0,00015% | R$14.030,00 |
+
+§ 1º  A tabela é aplicada sobre os títulos:
+
+I
+- do participante – custódia própria e de terceiros, exceto clientes individualizados
+– que se encontrem registrados em contas de custódia normal e especial não
+bloqueadas; e
+
+II
+- de cada cliente individualizado que se encontrem registrados em contas de
+custódia normal e especial não bloqueadas.
+
+§
+2º  A base de cálculo da tabela corresponde à média aritmética dos valores dos
+títulos, observado que:
+
+I
+- a média aritmética considera apenas os dias úteis do período;
+
+II
+- a posição de títulos de cada conta corresponde ao saldo de fechamento do dia;
+e
+
+III
+- os valores dos títulos são calculados de acordo com os preços unitários
+aceitos pelo Banco Central do Brasil em suas operações compromissadas, divulgados
+diariamente pelo Demab ou, na falta desses preços, de acordo com os valores
+nominais atualizados.
+
+Art.
+18.  Relativamente ao fator definido no inciso II do art. 16, o valor corresponde
+a R$1,00 (um real) por cada comando de operação do participante registrada no
+Selic, mesmo que transmitido por terceiro.
+
+Art.
+19.  Relativamente ao fator definido no inciso III do art. 16, o valor é atribuído
+ao participante que representa o garantido ou o usufrutuário e corresponde a
+soma:
+
+I
+- do valor de R$ 10,00 (dez reais) por cada processo de registro, aditamento ou
+retificação de gravames e ônus efetivado; e
+
+II
+- do valor obtido mediante a aplicação do percentual de 0,00001% sobre os
+títulos que se encontrem registrados em cada conta de gravames e ônus,
+calculados no período de apuração, de acordo com o disposto no § 2º do artigo 17,
+e observado o valor mínimo de R$10,00 (dez reais) por cada conta de gravames e
+ônus.
+
+Art.
+20.  A cobrança é efetuada até o décimo dia útil do mês seguinte ao de referência,
+com a transmissão dos comandos da operação, código “1069”, pelo Demab e pelo
+participante.
+
+**Capítulo
+VII**
+
+**Do
+módulo complementar Negociação Eletrônica de Títulos**
+
+**Seção
+I**
+
+**Disposições
+gerais**
+
+Art.
+21.  O módulo complementar do Selic “Negociação Eletrônica de Títulos” é uma
+plataforma eletrônica que se destina à negociação de títulos públicos federais
+registrados no sistema.
+
+Art.
+22.  Para efeito deste Capítulo, designa-se como:
+
+I
+- **dealer**: participante do Selic credenciado a operar com o Demab e com a
+Coordenação-Geral de Operações da Dívida Pública (Codip) da Secretaria do
+Tesouro Nacional;
+
+II
+- administrador do **Logon**: categoria de usuário do Sistema de Controle de
+Acesso (**Logon**) que tem permissão para habilitar supervisores e
+operadores, definindo sua abrangência de acesso ao Selic e aos seus módulos
+complementares;
+
+III
+- ordem: proposta firme efetuada por um **dealer** aos demais **dealers**
+para a realização de uma ou mais operações definitivas de compra e venda a
+termo para liquidação no dia útil subsequente no Selic;
+
+IV
+- taxa-limite: taxa mínima aceita na ordem de compra ou máxima na ordem de
+venda, informada pelo **dealer** no cadastramento da ordem; e
+
+V
+- negócio: fechamento de uma ordem de compra com uma ordem de venda, ou
+vice-versa, a uma determinada taxa, que pode envolver quantidade parcial de
+títulos de uma das ordens.
+
+Art.
+23.  O módulo dispõe das seguintes funções:
+
+I
+- Negociação: para o cadastramento de ordens de compra e de venda e o fechamento
+dos negócios; e
+
+II
+- Especificação: para a definição das contas e dos percentuais de distribuição,
+entre essas contas, da quantidade negociada em cada ordem.
+
+**Seção
+II**
+
+**Dos participantes**
+
+Art.
+24.  Apenas os **dealers** têm acesso ao módulo para fins de cadastramento
+de ordens e especificação de contas, observado que:
+
+I
+- os **dealers** podem cadastrar ordens para a realização de negócios seus
+ou de terceiros; e
+
+II
+- o público em geral pode visualizar as ordens em negociação.
+
+Art.
+25.  O acesso dos **dealers** ao módulo dá-se por meio da Rede de
+Telecomunicações para o Mercado (RTM) e é controlado pelo **Logon**.
+
+Parágrafo
+único.  O **Logon** permite que o acesso dos usuários às funções de
+negociação e especificação seja concedido de forma independente.
+
+Art.
+26.  Na utilização do módulo, é vedado ao **dealer**:
+
+I
+- contribuir, direta ou indiretamente, para criar condições artificiais de
+oferta ou demanda no mercado;
+
+II
+- incorrer em práticas não equitativas; e
+
+III
+- atuar em desacordo com as normas do Selic e com quaisquer outras disposições
+legais e regulamentares.
+
+Art.
+27.  O **dealer** deverá:
+
+I
+- monitorar os lançamentos e as operações de que participar, bem como comunicar
+imediatamente ao Demab quaisquer informações de seu conhecimento que venham a
+ou possam afetar, direta ou indiretamente, a plataforma eletrônica; e
+
+II
+- prestar informações sobre sua atuação no módulo, sempre que solicitadas pelo Demab.
+
+**Seção
+III**
+
+**Da negociação
+eletrônica**
+
+**Subseção
+I**
+
+**Dos dias
+e horários de funcionamento**
+
+Art.
+28.  A plataforma eletrônica está acessível nos mesmos dias de funcionamento do
+Selic, com exceção dos seguintes:
+
+I
+- 24 de dezembro;
+
+II
+- último dia útil do ano;
+
+III
+- Quarta-Feira de Cinzas; e
+
+IV
+- feriado no município de São Paulo.
+
+Parágrafo
+único.  A liquidação das operações a termo geradas pela plataforma seguirá as
+datas e horários regulares de funcionamento do Selic.
+
+Art.
+29.  Os horários de funcionamento do módulo Negociação são:
+
+I
+- das 10h às 17h, para negociação; e
+
+II
+- das 10h às17h30, para especificação.
+
+Parágrafo
+único.  Os horários de funcionamento podem ser alterados, a critério do Demab,
+diante da ocorrência de fatos extraordinários, caso em que a eventual
+modificação será divulgada, mediante aviso a todos os participantes do Selic.
+
+**Subseção
+II**
+
+**Dos títulos
+negociáveis**
+
+Art.
+30.  A negociação restringe-se aos títulos previamente selecionados pelo Demab.
+
+Parágrafo
+único.  Os títulos selecionados podem ser retirados de negociação em
+determinado dia, transitória ou definitivamente, a critério exclusivo do Demab.
+
+**Subseção
+III**
+
+**Do cadastramento
+das ordens**
+
+Art.
+31.  A ordem é cadastrada com os seguintes dados:
+
+I
+- código e vencimento do título;
+
+II
+- natureza da ordem, se de compra ou de venda;
+
+III
+- quantidade de títulos, que deve ser igual ou múltiplo inteiro do lote-padrão
+estipulado para o cadastramento da ordem; e
+
+IV
+- taxa-limite para negociação, que não pode ser negativa para título com
+rendimento prefixado.
+
+Parágrafo
+único.  Com a taxa-limite cadastrada, o módulo apresenta o preço unitário
+limite, calculado segundo metodologia de apreçamento de títulos públicos
+definida no Código de Regulação e Melhores Práticas para o Mercado Aberto,
+publicado pela Associação Brasileira das Entidades dos Mercados Financeiro e de
+Capitais (Anbima).
+
+Art.
+32.  Cabe ao administrador do **Logon** configurar o módulo para que as ordens
+cadastradas necessitem ou não da aprovação de outro usuário para serem
+submetidas à negociação.
+
+Parágrafo
+único.  A configuração do módulo é única por **dealer** e válida até que
+modificada pelo administrador do **Logon**.
+
+**Subseção
+IV**
+
+**Das ordens
+submetidas à negociação**
+
+Art.
+33.  Uma vez submetida à negociação, a ordem permanece nesse estado até que
+seja:
+
+I
+- negociada integralmente a quantidade da proposta;
+
+II
+- retirada pelo **dealer** responsável pelo seu cadastramento;
+
+III
+- cancelada devido à retirada de negociação, pelo Demab, do título objeto da
+ordem, conforme previsto no parágrafo único do art. 30; ou
+
+IV
+- encerrado o horário de negociação.
+
+Parágrafo
+único.  As ordens em aberto podem ser retiradas a qualquer tempo, decisão que
+pode abranger todas elas e não está sujeita à aprovação, independentemente da
+configuração prevista no art. 32.
+
+Art.
+34.  As ordens em negociação são apresentadas sem a identificação do **dealer**
+responsável pelo seu cadastramento.
+
+**Subseção
+V**
+
+**Do fechamento
+de ordens**
+
+Art.
+35.  Determinada ordem é fechada automaticamente com uma ou mais ordens de
+natureza contrária que tenham por objeto o mesmo título e apresentem taxas
+compatíveis, isto é:
+
+I
+- a ordem de compra é fechada com a ordem de venda que apresente taxa superior
+ou igual à sua taxa-limite, sendo que, em caso de fechamento múltiplo, é
+observada a ordem decrescente das taxas das ordens de venda; e
+
+II
+- a ordem de venda é fechada com a ordem de compra que apresente taxa inferior
+ou igual à sua taxa-limite, sendo que, em caso de fechamento múltiplo, é
+observada a ordem crescente das taxas das ordens de compra.
+
+Art.
+36.  O fechamento da ordem segue os seguintes critérios:
+
+I
+- nas ordens da mesma natureza, são priorizadas as que apresentem a melhor
+taxa-limite, isto é, a menor taxa de compra ou a maior taxa de venda;
+
+II
+- nas ordens da mesma natureza com taxas-limite idênticas, são priorizadas
+aquelas que estejam há mais tempo em negociação;
+
+III
+- nas ordens com taxas compatíveis de que trata o art. 35, a taxa utilizada
+para o fechamento é a taxa da ordem que estiver em negociação há mais tempo; e
+
+IV
+- nas ordens fechadas com quantidade parcial, permanecem disponíveis para
+negociação com a quantidade remanescente.
+
+Art.
+37.  Fechada a negociação, o **dealer** responsável pela compra tem
+conhecimento do **dealer** responsável pela venda e vice-versa.
+
+**Seção
+IV**
+
+**Da especificação
+das ordens**
+
+Art.
+38.  Cada ordem requer a especificação de até 10 (dez) contas, a serem
+utilizadas na liquidação das operações que lhe dizem respeito, com as seguintes
+informações sobre cada uma das contas:
+
+I
+- percentual da quantidade de títulos da ordem, que deve ser igual ou múltiplo
+inteiro do percentual informado pelo módulo;
+
+II
+- atuação do **dealer** responsável pela ordem como intermediário ou não; e
+
+III
+- em caso de intermediação, o ganho de corretagem expresso em pontos-base a
+serem adicionados à taxa de negócio, nas ordens de venda, ou dela subtraídos
+nas ordens de compra, considerando-se como ponto-base o centésimo de 1% (um por
+cento).
+
+§
+1º Na especificação podem ser utilizadas contas de custódia normal, próprias ou
+de terceiros, do **dealer** ou de outros participantes do Selic.
+
+§
+2º A atuação do **dealer** como intermediário é:
+
+I
+- opcional, quando for especificada uma de suas contas, de custódia própria de
+livre movimentação, subordinada a departamento ao qual o usuário tenha acesso;
+ou
+
+II
+- obrigatória, quando for especificada conta diversa da referida no inciso I.
+
+§
+3º  Observado o horário regulamentar, a especificação pode ser feita no momento
+do cadastramento da ordem, enquanto estiver em negociação ou após o seu
+fechamento, ainda que em quantidade parcial.
+
+Art.
+39.  Terminada a especificação de determinada ordem, o **dealer** pode
+autorizar, no horário regulamentar, a transmissão antecipada dos comandos das
+respectivas operações ao Selic para fins de registro dos termos no sistema.
+
+Parágrafo
+único.  Constatadas as duas autorizações, de compra e de venda, dos **dealers**
+responsáveis pelo negócio que deu origem às operações, os comandos são
+transmitidos para o Selic.
+
+Art.
+40.  Enquanto não for efetivada a autorização referida no art. 39, a
+especificação pode ser modificada unilateralmente no horário regulamentar,
+salvo quanto à quantidade total de títulos de determinado negócio, cuja redução
+requer anuência do outro **dealer** e conformidade com a regra do
+lote-padrão, prevista no art. 31, inciso III.
+
+Parágrafo
+único.  Considera-se desfeito o negócio sempre que a quantidade total de
+títulos tiver sido reduzida a zero.
+
+**Seção
+V**
+
+**Do registro
+das operações a termo no Selic**
+
+Art.
+41.  Cada negócio da plataforma eletrônica pode gerar diversas operações de
+compra e venda independentes, cujo total é dado pelo produto entre o número de
+contas de custódia especificadas pelo **dealer** responsável pela compra e o
+número de contas de custódia especificadas pelo **dealer** responsável pela
+venda.
+
+Art.
+42.  Para o registro ordinário do termo de cada operação referida no art. 41,
+faz-se necessário que:
+
+I
+- os dois **dealers** responsáveis pelo negócio que deu origem às operações
+tenham autorizado a transmissão dos respectivos comandos, conforme previsto no
+art. 39; e
+
+II
+- a parte, compradora ou vendedora, tenha transmitido seu comando ao Selic, na
+hipótese de o correspondente **dealer** ter atuado como intermediário.
+
+Parágrafo
+único. O comando referido no inciso II é dispensável caso a ordem tenha sido
+especificada por usuário com acesso ao departamento da conta de custódia,
+cessionária ou cedente.
+
+Art.
+43.  O registro extraordinário do termo de operação referida no art. 41 ocorre
+se:
+
+I
+- esgotado o horário regulamentar para a especificação, o **dealer** não
+tenha efetivado a autorização referida no art. 39, hipótese em que os comandos
+serão transmitidos automaticamente para o Selic e direcionados para as contas
+já especificadas ou, no caso de ordem não especificada, para a conta-padrão do **dealer**,
+com intermediação; ou
+
+II
+- encerrado o horário de funcionamento do Selic, a parte não tenha transmitido
+o comando mencionado no inciso II do art. 42, caso em que este será
+redirecionado para a conta-padrão do **dealer**.
+
+**Seção VI**
+
+**Da falha na liquidação**
+
+Art.
+44.  A não liquidação integral, no Selic, de negócio realizado e não desfeito
+na plataforma eletrônica implica a suspensão do direito de acesso do **dealer**
+ao módulo Negociação na proporção de 1(um) dia útil por cada negócio não
+liquidado.
+
+§
+1º  Para os fins do disposto no **caput**, a eventual inadimplência
+decorrente de operação a termo não liquidada no horário previsto no parágrafo
+único do art. 28:
+
+I
+- é desconsiderada sempre que a não liquidação da operação decorra do fato de
+comprador e vendedor possuírem o mesmo CNPJ ou CPF; e
+
+II
+- pode ser sanada, na hipótese de o **dealer** ter atuado como
+intermediário, com a liquidação de operação idêntica na quantidade de títulos e
+no preço unitário, mas com a substituição da parte inadimplente.
+
+§
+2º  A suspensão do direito de acesso não dispensa o **dealer** do
+cumprimento de qualquer obrigação pendente com outro **dealer** ou com o
+Selic.
+
+§
+3º  A instituição financeira que tiver seu direito de acesso à plataforma
+eletrônica suspenso manterá a qualidade de **dealer**, mas não figurará como
+**dealer** habilitado até que o direito de acesso seja retomado.
+
+Art.
+45.  O Selic não mantém mecanismo de ressarcimento de prejuízos advindos da
+utilização da plataforma eletrônica e não se responsabiliza, direta ou
+indiretamente, por quaisquer perdas ou prejuízos decorrentes da interrupção de
+funcionamento da plataforma, seja por motivos técnicos ou de força maior.
+
+**Capítulo
+VIII**
+
+**Das
+disposições transitórias**
+
+Art.
+46.  Os comandos para o registro de operação em data posterior prevista nos arts.
+132 e 133 do Regulamento do Selic devem ser transmitidos no dia útil subsequente
+àquele em que foi realizada até as 18h30, ou até as 13h em 24 de dezembro, se
+dia útil, e no último dia útil do ano em 2020, e até as 12h no primeiro
+semestre de 2021.
+
+**Capítulo
+IX**
+
+**Das
+disposições finais**
+
+Art.
+47.  Ficam revogadas:
+
+I
+- a Carta Circular nº 3.467, de 26 de agosto de 2010;
+
+II
+- a Carta Circular nº 3.568, de 19 de outubro de 2012;
+
+III
+- a Carta Circular nº 3.620, de 21 de novembro de 2013;
+
+IV
+- a Carta Circular nº 3.661, de 29 de maio de 2014;
+
+V
+- a Carta Circular nº 3.662, de 6 de junho de 2014;
+
+VI
+- a Carta Circular nº 3.777, de 12 de agosto de 2016;
+
+VII
+- a Carta Circular nº 3.903, de 24 de agosto de 2018;
+
+VIII
+- a Carta Circular nº 3.962, de 25 de julho de 2019;
+
+IX
+- a Carta Circular nº 3.928, de 14 de janeiro de 2019;
+
+X
+- a Carta Circular nº 3.969, de 20 de agosto de 2019; e
+
+XI
+- a Carta Circular nº 4.023, de 9 de abril de 2020.
+
+Art.
+ 48. Esta Instrução Normativa entra em vigor na data de sua publicação.
+
+Luiz
+Donizete Felício
+
+ANEXO I
+À INSTRUÇÃO NORMATIVA BCB Nº 63, DE 22 DE DEZEMBRO DE 2020
+
+Operações
+do Selic
+
+| Denominação | Código | Regulamento do Selic |
+| --- | --- | --- |
+| *Eventos do emissor* |  |  |
+| Evento do emissor - Emissão | 1001 | Art. 29, inciso I. |
+| Evento do emissor - Pagamento de cupom de juros | 1060 | Arts. 29, inciso II, e 31. |
+| Evento do emissor - Amortização | 1010 | Arts. 29, inciso II, e 31. |
+| Evento do emissor - Resgate | 1012 | Arts. 29, inciso II, e 31. |
+| Evento do emissor – Colocação direta ou resgate antecipado | 1070 | Arts. 29, inciso XIX, e 43. |
+| Evento do emissor – Colocação direta ou resgate antecipado para Programa Tesouro Direto | 1071 | Arts. 29, inciso XIX, e 43. |
+| Evento do emissor - Baixa | 1011 | Art. 29, inciso I. |
+| *Operações compromissadas e Recompras/revendas* |  |  |
+| Compra/venda compromissada com preço de recompra/revenda definido e sem acordo de livre movimentação | 1054 | Arts. 29, incisos IV a VII, 33, 34 e 36. |
+| Compra/venda compromissada com preço de recompra/revenda definido e com acordo de livre movimentação | 1044 | Arts. 29, incisos IV a VII, 33, 34 e 36. |
+| Compra/venda compromissada sem preço de recompra/revenda definido e sem acordo de livre movimentação | 1057 | Arts. 29, incisos IV a VII, 33, 34 e 36. |
+| Compra/venda compromissada sem preço de recompra/revenda definido e com acordo de livre movimentação | 1047 | Arts. 29, incisos IV a VII, 33, 34 e 36. |
+| Recompra/revenda com preço previamente definido | 1056 | Arts. 29, inciso IX, 33, 34 e 36. |
+| Recompra/revenda sem preço previamente definido | 1059 | Arts. 29, inciso IX, 33, 34 e 36. |
+| Recompra/revenda parcial ou recompra/revenda antecipada, total ou parcial | 1055 | Arts. 29, inciso IX, e 33, §2º. |
+| Recompra/revenda - Consolidação | 1058 | Arts. 29, inciso IX, e 35. |
+| *Operações definitivas* |  |  |
+| Compra/venda definitiva | 1052 | Art. 29, inciso III. |
+| Compra/venda definitiva - Leilão de venda do Tesouro Nacional | 1002 | Art. 29, inciso III. |
+| Compra/venda definitiva - Leilão de venda do Banco Central do Brasil | 1005 | Art. 29, inciso III. |
+| Compra/venda definitiva - Leilão de compra do Tesouro Nacional ou do Banco Central do Brasil | 1006 | Art. 29, inciso III. |
+| *Operações a termo* |  |  |
+| Termo de definitiva - Títulos em circulação | 4052 | Arts. 29, inciso VIII, e 37. |
+| Termo de definitiva - Títulos de oferta pública ainda não liquidada | 3052 | Arts. 29, inciso VIII, e 37. |
+| Termo de compromissada, com preço de recompra/revenda definido e sem acordo de livre movimentação - Títulos em circulação | 4054 | Arts. 29, inciso VIII, e 37. |
+| Termo de compromissada, com preço de recompra/revenda definido e sem acordo de livre movimentação - Títulos de oferta pública ainda não liquidada | 3054 | Arts. 29, inciso VIII, e 37. |
+| Termo de compromissada, com preço de recompra/revenda definido e com acordo de livre movimentação - Títulos em circulação | 4044 | Arts. 29, inciso VIII, e 37. |
+| Termo de compromissada, com preço de recompra/revenda definido e com acordo de livre movimentação - Títulos de oferta pública ainda não liquidada | 3044 | Arts. 29, inciso VIII, e 37. |
+| Termo de compromissada, sem preço de recompra/revenda definido e sem acordo de livre movimentação - Títulos em circulação | 4057 | Arts. 29, inciso VIII, e 37. |
+| Termo de compromissada, sem preço de recompra/revenda definido e sem acordo de livre movimentação - Títulos de oferta pública ainda não liquidada | 3057 | Arts. 29, inciso VIII, e 37. |
+| Termo de compromissada, sem preço de recompra/revenda definido e com acordo de livre movimentação - Títulos em circulação | 4047 | Arts. 29, inciso VIII, e 37. |
+| Termo de compromissada, sem preço de recompra/revenda definido e com acordo de livre movimentação - Títulos de oferta pública ainda não liquidada | 3047 | Arts. 29, inciso VIII, e 37. |
+| *Operações valorizadas* |  |  |
+| Valorização de compromissada com preço de recompra/revenda definido | 1354 | Arts. 132 e 133. |
+| Valorização de compromissada sem preço de recompra/revenda definido | 1357 | Arts. 132 e 133. |
+| *Redesconto* |  |  |
+| Redesconto STR - Contratação | 1024 | Arts. 6º, inciso V, 29, inciso IV, e 54, inciso I. |
+| Redesconto STR - Pagamento | 1026 | Arts. 6º, inciso V, 29, inciso IX, e 54, inciso I. |
+| Redesconto STR - Pagamento antecipado, total ou parcial | 1025 | Arts. 6º, inciso V, 29, inciso IX, 33, §2º e 54, inciso I. |
+| Redesconto STR- Consolidação | 1028 | Arts. 6º, inciso V, 29, inciso IX, 35 e 54, inciso I. |
+| Redesconto SPI - Contratação | 1009 | Arts. 6º, inciso V, 29, inciso IV, e 63, inciso III. |
+| Redesconto SPI - Pagamento | 1016 | Arts. 6º, inciso V, 29, inciso IX, e 63, inciso III. |
+| Redesconto SPI - Pagamento parcial | 1015 | Arts. 6º, inciso V, 29, inciso IX, e 63, inciso III. |
+| *Repasses financeiros* |  |  |
+| Repasse financeiro - Imposto de Renda | 1066 | Arts. 29, inciso X, e 42. |
+| Repasse financeiro - Imposto sobre operações de Crédito, Câmbio e Seguro, ou relativas a Títulos e Valores Mobiliários (IOF) | 1067 | Arts. 29, inciso X, e 42. |
+| Repasse financeiro - Cupom de juros ou amortização | 1068 | Arts. 29, inciso X, e 42. |
+| Repasse financeiro - Ressarcimento do custo Selic | 1069 | Arts. 29, inciso XVII, e 129. |
+| *Transferências de/para câmara* |  |  |
+| Transferência de títulos de/para câmara - Sem financeiro | 1023 | Art. 89. |
+| Transferência de títulos de/para câmara - Liberação ou constituição condicionada de garantia | 1033 | Arts. 89, 91 e 92. |
+| Transferência de títulos de/para câmara - Liquidação de leilão/pagamento de redesconto/contratação de redesconto | 1043 | Arts. 89 e 93 a 101. |
+| Transferência de títulos de/para câmara - Recomposição do patrimônio especial | 1053 | Arts. 89 e 105. |
+| *Transferências decorrentes de gravames e ônus* |  |  |
+| Transferência de títulos sem financeiro – Gravames e ônus | 1014 | Arts. 29, inciso XV, e 115 a 126 |
+| *Transferências sem financeiro* |  |  |
+| Transferência de títulos sem financeiro – Herança/ meação/legado/doação/dissolução de sociedade conjugal ou união estável | 1061 | Arts. 29, inciso XVIII, e 43. |
+| Transferência de títulos sem financeiro - Uso exclusivo do administrador do Selic | 1062 | Art. 29, §2º. |
+| Transferência de títulos sem financeiro - Sem alteração de propriedade | 1063 | Arts. 29, inciso XI, e 43. |
+| Transferência de títulos sem financeiro - Incorporação/ fusão/cisão/extinção | 1064 | Arts. 29, inciso XII, e 43. |
+| Transferência de títulos sem financeiro - Integralização/ resgate de cotas de fundos | 1065 | Arts. 29, inciso XIII, e 43. |
+| *Vinculações/Desvinculações* |  |  |
+| Vinculação de títulos | 1013 | Arts. 29, inciso XIV, e 44. |
+| Desvinculação de títulos | 1003 | Arts. 29, inciso XIV, e 44. |
+| *Outras operações/comandos de cancelamento* | | |
+| Cessão fiduciária de títulos | 1021 | Art. 125, §2º, inciso I. |
+| Desmembramento de títulos | 1073 | Arts. 29, inciso XVI, e 45. |
+| Remembramento de títulos | 1074 | Arts. 29, inciso XVI, e 45. |
+| Cancelamento de comando, a critério do participante | 1400 | Art. 58. |
+| Cancelamento do compromisso de recompra/revenda | 1456 | Art. 29, incisos VI e VII. |
+| Cancelamento da liquidação automática de termo | 3400 | Arts. 29, inciso VIII, 37 e 52, inciso II. |
+
+ANEXO II
+À INSTRUÇÃO NORMATIVA BCB Nº 63, DE 22 DE DEZEMBRO DE 2020
+
+Tipos de
+cliente no Selic
+
+| **Denominação** | **Código** |
+| --- | --- |
+| Clube de investimento | 027 |
+| Consórcio | 013 |
+| Entidade aberta de previdência | 018 |
+| Entidade fechada de previdência | 020 |
+| FGTS | 022 |
+| Fundo regulamentado pela CVM | 025 |
+| Fundo/programa do extramercado | 026 |
+| Não residente – Banco Central  *(Instrução CVM nº 560, de 27/3/2015, Anexo 1, art. 1º, § 1º, inciso I)* | 061 |
+| Não residente – Governo ou entidade governamental  *(Instrução CVM nº 560, de 27/3/2015, Anexo 1, art. 1º, § 1º, inciso II)* | 062 |
+| Não residente – Fundo soberano ou companhia de investimento controlada por fundo soberano  *(Instrução CVM nº 560, de 27/3/2015, Anexo 1, art. 1º, § 1º, inciso III)* | 063 |
+| Não residente – Organismo multilateral  *(Instrução CVM nº 560, de 27/3/2015, Anexo 1, art. 1º, § 1º, inciso IV)* | 064 |
+| Não residente – Banco, custodiante, associação de poupança e empréstimo e similares  *(Instrução CVM nº 560, de 27/3/2015, Anexo 1, art. 1º, § 1º, inciso V)* | 065 |
+| Não residente – Companhia seguradora  *(Instrução CVM nº 560, de 27/3/2015, Anexo 1, art. 1º, § 1º, inciso VI)* | 066 |
+| Não residente – Corretora, distribuidora e outros intermediários  *(Instrução CVM nº 560, de 27/3/2015, Anexo 1, art. 1º, § 1º, inciso VII)* | 067 |
+| Não residente – Entidade de previdência  *(Instrução CVM nº 560, de 27/3/2015, Anexo 1, art. 1º, § 1º, inciso VIII)* | 068 |
+| Não residente – Instituição sem fins lucrativos  *(Instrução CVM nº 560, de 27/3/2015, Anexo 1, art. 1º, § 1º, inciso IX)* | 069 |
+| Não residente – Fundo ou entidade de investimento coletivo, com administração discricionária ou regulado por órgão reconhecido pela CVM  *(Instrução CVM nº 560, de 27/3/2015, Anexo 1, art. 1º, § 1º, inciso X, alíneas “a” e “b”)* | 070 |
+| Não residente – Demais fundos ou entidades de investimento coletivo  *(Instrução CVM nº 560, de 27/3/2015, Anexo 1, art. 1º, § 1º, inciso XI)* | 071 |
+| Não residente – *Trust* ou veículo fiduciário  *(Instrução CVM nº 560, de 27/3/2015, Anexo 1, art. 1º, § 1º, inciso XII)* | 072 |
+| Não residente – Sociedade com títulos ao portador  *(Instrução CVM nº 560, de 27/3/2015, Anexo 1, art. 1º, § 1º, inciso XIII)* | 073 |
+| Não residente – Demais pessoas jurídicas financeiras constituídas no exterior *(Instrução CVM nº 560, de 27/3/2015, Anexo 1, art. 1º, § 1º, inciso XIV)* | 074 |
+| Não residente – Demais pessoas jurídicas não financeiras constituídas no exterior *(Instrução CVM nº 560, de 27/3/2015, Anexo 1, art. 1º, § 1º, inciso XIV)* | 075 |
+| Não residente – Pessoa física residente no exterior  *(Instrução CVM nº 560, de 27/3/2015, Anexo 1, art. 1º, § 1º, inciso XV)* | 076 |
+| Sociedade corretora de câmbio | 077 |
+| Sociedade de arrendamento mercantil | 078 |
+| Operadora de plano de assistência à saúde | 028 |
+| Pessoa física | 029 |
+| Pessoa física – Tesouro Direto | 054 |
+| Pessoa jurídica financeira – Vinculação/desvinculação (transitória) | 031 |
+| Pessoa jurídica não financeira | 033 |
+| Plano de benefício previdenciário | 059 |
+| Regime próprio de previdência social do servidor público | 035 |
+| Resseguradora | 036 |
+| Resseguradora admitida | 037 |
+| Seguradora de saúde | 038 |
+| Sociedade de capitalização | 045 |
+| Sociedade seguradora | 051 |
+| Demais fundos | 023 |
+| Demais investidores institucionais | 016 |
+| (Uso exclusivo do administrador do Selic) | 005 |
+| (Uso exclusivo do administrador do Selic) | 040 |
+| (Uso exclusivo do administrador do Selic) | 048 |
+| (Uso exclusivo do administrador do Selic) | 055 |
+
+Obs.: O cadastramento dos
+clientes com códigos 005, 022, 026, 040, 048, 054 e 055 é realizado
+exclusivamente pelo administrador do Selic.
+
+ANEXO
+III À INSTRUÇÃO NORMATIVA BCB Nº 63, DE 22 DE DEZEMBRO DE 2020
+
+Tipos de
+Conta no Selic
+
+|  |  |
+| --- | --- |
+|  |  |
+| **Denominação** | **Código** |
+| Custódia normal – Cessão fiduciária | 026 |
+| Custódia normal – Compulsório depósito a prazo | 004 |
+| Custódia normal – Consorciado contemplado | 008 |
+| Custódia normal – Depósito exigibilidade adicional | 010 |
+| Custódia normal – Direcionamento de poupança | 007 |
+| Custódia normal – Garantia | 009 |
+| Custódia normal – Garantia suplementar de em-préstimo em moeda estrangeira (3.622) | 011 |
+| Custódia normal – Garantia suplementar de em-préstimo em moeda estrangeira (3.672) | 012 |
+| Custódia normal – Garantia suplementar de em-préstimo em moeda estrangeira (3.689) | 024 |
+| Custódia normal – Gravames e ônus | 033 |
+| Custódia normal – Instituição de pagamento – Moeda eletrônica | 028 |
+| Custódia normal – Livre movimentação | 001 |
+| Custódia normal – Livre movimentação – Até o vencimento | 002 |
+| Custódia normal – Livre movimentação – Dispo-nível para venda | 003 |
+| Custódia normal – Por conta e ordem - Sisbajud | 031 |
+| Custódia normal – Poupança vinculada | 006 |
+| Custódia especial Selic - Aumento/constituição de capital | 015 |
+| Custódia especial Selic – Patrimônio especial | 017 |
+| Custódia especial Selic – Por conta e ordem | 014 |
+| Custódia especial Selic – Reenquadramento de capital | 016 |
+| Custódia especial Tesouro Nacional – Garantia | 030 |
+| Custódia especial câmara – Depósito | 018 |
+| Custódia especial câmara – Fundo mutualizado | 020 |
+| Custódia especial câmara – Garantia | 019 |
+| Custódia especial interveniente – Cessão fiduciá-ria alocação | 027 |
+| Custódia especial interveniente – Cessão fiduciá-ria garantia | 025 |
+| Custódia especial interveniente – Gravames e ônus | 034 |
+| Custódia especial interveniente – Patrimônio de afetação | 032 |
+| Custódia especial órgão regulador – Ativos garantidores | 013 |
+| Corretagem | 022 |
+| Emissão e baixa | 023 |
+| Liquidação | 021 |
