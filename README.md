@@ -41,8 +41,8 @@ e as demais) estão lá, em `federal/`; aqui ficam só os atos do BCB e do CMN.
 | [Resoluções BCB](resolucoes-bcb/) | 604 | 604 | 526 | 78 | 2020 a 2026 |
 | [Atos Normativos Conjuntos](atos-normativos-conjuntos/) | 31 | 2 | 2 | 0 | 2003 a 2003 |
 | [Resoluções Conjuntas](resolucoes-conjuntas/) | 21 | 21 | 20 | 1 | 2020 a 2026 |
-| [Decisões Conjuntas](decisoes-conjuntas/) | 20 | 2 | 2 | 0 | 1994 a 1995 |
 | [Comunicados Conjuntos](comunicados-conjuntos/) | 20 | 2 | 2 | 0 | 1990 a 1990 |
+| [Decisões Conjuntas](decisoes-conjuntas/) | 20 | 2 | 2 | 0 | 1994 a 1995 |
 | [Portarias Conjuntas](portarias-conjuntas/) | 8 | 2 | 2 | 0 | 2020 a 2021 |
 | [Resoluções Coseg](resolucoes-coseg/) | 4 | 2 | 2 | 0 | 2026 a 2026 |
 | [Instruções Normativas Conjuntas](instrucoes-normativas-conjuntas/) | 4 | 2 | 0 | 2 | 2021 a 2021 |
