@@ -1,0 +1,157 @@
+---
+titulo: "Resolução Nº 4.009"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "4009"
+data: 2011-09-14
+ementa: "Altera a Resolução nº 3.759, de 9 de julho de 2009, para estender o prazo de contratação das operações, alocar os limites passíveis de subvenção econômica pela União em financiamentos concedidos pelo Banco Nacional de Desenvolvimento Econômico e Social (BNDES) e pela Financiadora de Estudos e Projetos (Finep), ampliar a relação de beneficiários dessas operações, entre outras alterações."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 15/9/2011, Seção 1, p. 21."
+atualizacoes: ["Resolução CMN nº 4.962/2021 - Revogação total, a partir de 1º/11/2021."]
+normas_vinculadas: ["RESOLUÇÃO CMN 4962/2021", "RESOLUÇÃO 3759/2009"]
+referencias: ["Lei nº 4.595/1964, arts. 4º, inciso VI; e 9º.", "Lei nº 12.096/2009, art. 1º.", "Altera Resolução CMN nº 3.759/2009 - Dá nova redação a: art. 1º, II; art. 1º, V; art. 1º, V, \"a\"; art. 1º, V, \"f\"; art. 1º, VIII; art. 1º-A, I; art. 1º-A, II; art. 1º-A, V; art. 1º-A, VIII. Inclui: art. 1º-A, I, \"a\" e \"b\"; art. 1º-A, V, \"a\" e \"b\"."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4009"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 4.009
+
+```
+                        RESOLUCAO N. 004009
+                        -------------------
+
+                                 Altera  a Resolução nº 3.759,  de  9
+                                 de  julho  de 2009, para estender  o
+                                 prazo  de contratação das operações,
+                                 alocar   os  limites  passíveis   de
+                                 subvenção  econômica pela  União  em
+                                 financiamentos    concedidos    pelo
+                                 Banco  Nacional  de  Desenvolvimento
+                                 Econômico  e Social (BNDES)  e  pela
+                                 Financiadora de Estudos  e  Projetos
+                                 (Finep),   ampliar  a   relação   de
+                                 beneficiários   dessas    operações,
+                                 entre outras alterações.
+
+         O  Banco  Central do Brasil, na forma do art. 9º da  Lei  nº
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  Conselho
+Monetário  Nacional,  em sessão extraordinária  realizada  em  13  de
+setembro de 2011, com base no art. 4º, inciso VI, da Lei nº 4.595, de
+1964, no art. 1º da Lei nº 12.096, de 24 de novembro de 2009,
+
+         R E S O L V E U :
+
+         Art.  1º  O art. 1º da Resolução nº 3.759, de 9 de julho  de
+2009, passa a vigorar com a seguinte redação:
+
+         "Art. 1º  ..............................................
+
+         ........................................................
+
+         II   -   recursos   (total  e  fonte):   o   total   dos
+         financiamentos   a  serem  subvencionados   pela   União
+         obedecerá ao limite de R$206.000.000.000,00 (duzentos  e
+         seis bilhões de reais) com recursos do BNDES;
+         ........................................................
+
+         V - ....................................................
+
+         a)  até R$57.300.000.000,00 (cinquenta e sete bilhões  e
+         trezentos  milhões  de reais) para os financiamentos  de
+         que  trata a alínea "a" do inciso I, com taxas de  juros
+         de  sete  por  cento ao ano, para operações  contratadas
+         até  30 de junho de 2010; de oito por cento ao ano, para
+         operações contratadas a partir de 1º de julho de 2010  e
+         até  31  de  março de 2011; e de dez por cento  ao  ano,
+         para  operações contratadas a partir de 1º de  abril  de
+         2011,  observado o prazo de reembolso de até  noventa  e
+         seis  meses,  incluídos três ou seis meses  de  carência
+         para o principal;
+
+         ........................................................
+
+         f)   até  R$1.900.000.000,00  (um  bilhão  e  novecentos
+         milhões de reais) para os financiamentos de que trata  a
+         alínea  "f"  do  inciso I, com taxas de  juros  de  três
+         inteiros  e  cinco  décimos  por  cento  ao  ano,   para
+         operações  contratadas até 31 de março  de  2011;  e  de
+         quatro  por  cento ao ano, para operações contratadas  a
+         partir  de  1º de abril de 2011, observado  o  prazo  de
+         reembolso  de  até  cento e vinte meses,  incluídos  até
+         trinta e seis meses de carência para o principal;
+
+         ........................................................
+
+         VIII  -  prazo  de contratação: até 31  de  dezembro  de
+         2012." (NR)
+
+         Art.  2º   O art. 1º-A da Resolução nº 3.759, de 9 de  julho
+de 2009, passa a vigorar com a seguinte redação:
+
+         "Art. 1º-A  ............................................
+
+         ........................................................
+
+         I  - beneficiários e itens financiáveis, respeitadas  as
+         exigências da Finep:
+
+         a)  sociedades  nacionais  e estrangeiras,  com  sede  e
+         administração   no   Brasil,  empresários   individuais,
+         associações   e  fundações  que  pretendam   desenvolver
+         projetos   de  inovação  de  natureza  tecnológica   que
+         busquem  o  desenvolvimento  de  produtos  ou  processos
+         novos  ou  significativamente  aprimorados  (pelo  menos
+         para   o   mercado   nacional)  e  que  envolvam   risco
+         tecnológico e oportunidades de mercado;
+
+         b)  sociedades  nacionais  e estrangeiras,  com  sede  e
+         administração   no   Brasil,  empresários   individuais,
+         associações  e  fundações  que pretendam  desenvolver  a
+         capacidade   para   empreender  projetos   de   inovação
+         tecnológica  em  caráter sistemático,  que  resultem  em
+         ampliação   da   capacidade   inovativa,   compreendendo
+         investimentos    em   capitais   tangíveis,    incluindo
+         infraestrutura física, e em capitais intangíveis;
+
+         II   -   recursos   (total  e  fonte):   o   total   dos
+         financiamentos  passíveis de serem  subvencionados  pela
+         União  obedecerá  ao limite de R$3.000.000.000,00  (três
+         bilhões de reais), com recursos da Finep;
+
+         ........................................................
+
+         V  -  distribuição do total de recursos de que  trata  o
+         inciso  II deste artigo, encargo financeiro e  prazo  de
+         reembolso por item financiável:
+
+         a)   até  R$1.500.000.000,00  (um  bilhão  e  quinhentos
+         milhões de reais) para os financiamentos de que trata  a
+         alínea "a" do inciso I deste artigo, com taxas de  juros
+         de  três inteiros e cinco décimos por cento ao ano, para
+         operações  contratadas até 31 de março  de  2011;  e  de
+         quatro  por  cento ao ano, para operações contratadas  a
+         partir  de  1º de abril de 2011, observado  o  prazo  de
+         reembolso  de  até  cento e vinte meses,  incluídos  até
+         trinta e seis meses de carência para o principal;
+
+         b)   até  R$1.500.000.000,00  (um  bilhão  e  quinhentos
+         milhões de reais) para os financiamentos de que trata  a
+         alínea  "b" do inciso I deste artigo, com taxa de  juros
+         de  cinco  por  cento  ao  ano,  observado  o  prazo  de
+         reembolso  de  até noventa e seis meses,  incluídos  até
+         vinte e quatro meses de carência para o principal;
+
+         ........................................................
+
+         VIII  -  prazo  de contratação: até 31  de  dezembro  de
+         2012." (NR)
+
+         Art.  3º   Esta  Resolução entra em vigor  na  data  de  sua
+publicação.
+
+                                    Brasília, 14 de setembro de 2011.
+
+                      Alexandre Antonio Tombini
+                     Presidente do Banco Central
+```

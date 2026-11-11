@@ -1,0 +1,56 @@
+---
+titulo: "Resolução Nº 1.751"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1751"
+data: 1990-09-21
+ementa: "SUSPENDE DA EXIGÊNCIA DE PRAZOS MÍNIMOS O PAGAMENTO DE IMPORTAÇÕES BRASILEIRAS."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 1798/91 DOU 28/02/1991 PAG 3759 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1798/91"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 8056/90 ART/2 PARAG/2.", "LEI 4595/64 ART/4 ITEM/V ITEM/XXXI.", "CITA RESOLUÇÃO CMN 1537/88."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1751"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.751
+
+```
+                        RESOLUCAO N. 001751
+                        -------------------
+
+                              SUSPENDE DA EXIGÊNCIA DE PRAZOS MÍNIMOS
+                              O PAGAMENTO DE IMPORTAÇÕES BRASILEIRAS.
+
+                    O BANCO CENTRAL DO BRASIL, NA FORMA DO ART. 9º DA
+LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE A PRESIDENTE DO CONSELHO
+MONETÁRIO  NACIONAL, POR ATO DE 20.09.90, COM BASE NO PARÁGRAFO 2º DO
+ART. 2º DA  LEI Nº 8.056, DE 28.06.90, "AD REFERENDUM" DAQUELE CONSE-
+LHO, E TENDO EM VISTA O DISPOSTO NO ART. 4º, INCISOS V E XXXI DA MEN-
+CIONADA LEI Nº 4.595,
+
+R E S O L V E U:
+
+                    ART.  1º. SUSPENDER A  EXIGÊNCIA DOS PRAZOS MÍNI-
+MOS, DE QUE TRATA A RESOLUÇÃO Nº 1.537, DE 30.11.88, PARA O PAGAMENTO
+DE  IMPORTAÇÕES QUE SE REALIZEM AO AMPARO DE GUIAS DE IMPORTAÇÃO - OU
+DOCUMENTO EQUIVALENTE - EMITIDAS A PARTIR DA DATA DE INÍCIO DE VIGÊN-
+CIA DESTA RESOLUÇÃO.
+
+                    PARÁGRAFO  ÚNICO. O DISPOSTO  NESTE  ARTIGO APLI-
+CA-SE  EXCLUSIVAMENTE A IMPORTAÇÕES EM QUE A CELEBRAÇÃO DO RESPECTIVO
+CONTRATO DE CÂMBIO, EM PAGAMENTO AO EXTERIOR, OCORRA ATÉ 31.03.91.
+
+                    ART.  2º. AUTORIZAR O BANCO CENTRAL DO BRASIL E O
+DEPARTAMENTO  DE COMÉRCIO EXTERIOR (DECEX) A ADOTAR AS MEDIDAS NECES-
+SÁRIAS AO CUMPRIMENTO DO DISPOSTO NESTA RESOLUÇÃO.
+
+                    ART.  3º. DELIBERAR QUE ESTA RESOLUÇÃO  ENTRA  EM
+VIGOR NA DATA DE SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 21 DE SETEMBRO DE 1990
+
+                              IBRAHIM ERIS
+                              PRESIDENTE
+```

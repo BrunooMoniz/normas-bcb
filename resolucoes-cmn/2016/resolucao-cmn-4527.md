@@ -1,0 +1,52 @@
+---
+titulo: "Resolução N° 4.527"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "4527"
+data: 2016-09-29
+ementa: "Altera o Regulamento anexo à Resolução nº 3.339, de 26 de janeiro de 2006, que disciplina as operações compromissadas envolvendo títulos de renda fixa."
+revogada: false
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 3/10/2016, Seção 1, p. 19."
+normas_vinculadas: ["RESOLUÇÃO 3339/2006", "RESOLUÇÃO 2845/2001", "RESOLUÇÃO 2107/1994"]
+referencias: ["Lei nº 4.595/1964, arts. 4º, incisos VI e VIII;  e 9º.", "Cita Resoluções CMN ns. 2.107/1994 e 2.845/2001.", "Altera o Regulamento anexo à Resolução CMN nº 3.339/2006 - Dá nova redação a: art. 2º, inciso XXII, e art. 12, caput. Inclui: art. 2º, inciso XXIII, e art. 12, §§1º, 2º, 3º. Revoga: art. 2º, § 4º; art. 12, parágrafo único; e art. 17, incisos I e II."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4527"
+baixado_em: 2026-11-10
+---
+# Resolução N° 4.527
+
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão realizada em 29 de setembro de 2016, com base no art. 4º, incisos VI e VIII, da referida Lei,
+
+R E S O L V E U :
+
+Art. 1º  Os arts. 2º e 12 do Regulamento anexo à Resolução nº 3.339, de 26 de janeiro de 2006, passam a vigorar com a seguinte redação:
+
+“Art.  2º ........................................................
+
+..................................................................
+
+XXII - obrigações emitidas pela **International Finance Corporation** (IFC), nos termos da Resolução nº 2.845, de 29 de junho de 2001; e
+
+XXIII - letras de arrendamento mercantil.
+
+...........................................................” (NR)
+
+“Art. 12.  É vedada a realização, a prorrogação ou a renovação de operações compromissadas com títulos de emissão ou aceite de instituições ligadas, conforme definição constante do art. 1º, § 1º, da Resolução nº 2.107, de 31 de agosto de 1994, ou de instituições integrantes do mesmo conglomerado prudencial, nos termos do Plano Contábil das Instituições do Sistema Financeiro Nacional (Cosif).
+
+§ 1º  Admite-se, até 31 de dezembro de 2017, a realização, a prorrogação ou a renovação de operações compromissadas com base em títulos cuja emissão ou aceite tenha ocorrido até 29 de setembro de 2016, observadas as seguintes condições:
+
+I - prazo máximo de doze meses; e
+
+II - manutenção do saldo contábil relativo ao total de operações em montante igual ou inferior a 110% (cento e dez por cento) do saldo contábil total apurado na data-base de 31 de agosto de 2016.
+
+§ 2º  A partir de 1º maio de 2017, o montante de que trata o inciso II do § 1º será de 50% (cinquenta por cento) do saldo contábil total apurado na data-base de 31 de agosto de 2016.
+
+§ 3º  As operações compromissadas de que trata este artigo devem observar as disposições da Resolução nº 2.107, de 1994, e regulamentação posterior.” (NR)
+
+Art. 2º  Esta Resolução entra em vigor na data de sua publicação.
+
+Art. 3º  Ficam revogados o § 4º do art. 2º e os incisos I e II do art. 17 do Regulamento anexo à Resolução nº 3.339, de 26 de janeiro de 2006.
+
+                              Ilan Goldfajn
+                  Presidente do Banco Central do Brasil

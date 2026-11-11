@@ -1,0 +1,130 @@
+---
+titulo: "Resolução Nº 1.480"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1480"
+data: 1988-05-10
+ementa: "Dispõe sobre medidas de apoio destinadas a contemplar os produtores rurais prejudicados pela estiagem, em microrregiões dos Estados da Região Sul do País, na safra de 1987/1988."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 11/5/1988, p. 8.297."
+atualizacoes: ["Resolução CMN nº 2.535/1998 - Revogação total."]
+normas_vinculadas: ["RESOLUÇÃO 2535/1998", "RESOLUÇÃO 1506/1988", "RESOLUÇÃO 1471/1988"]
+referencias: ["Lei nº 4.595/1964, art. 4º, VI; art. 9º.", "Lei nº 4.829/1965, arts. 4º e 14.", "Cita Resolução CMN nº 1.471/1988, item VIII, \"a\"."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1480"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.480
+
+```
+                        RESOLUCAO N. 001480
+                        -------------------
+
+         O  BANCO CENTRAL DO BRASIL, na forma do artigo 9. da Lei  n.
+4.595,  de 31.12.64, torna público que o CONSELHO MONETÁRIO NACIONAL,
+em  sessão  realizada em 28.04.88, tendo em vista as  disposições  do
+artigo 4., inciso VI, da citada Lei, e dos artigos 4. e 14 da Lei  n.
+4.829, de 05.11.65,
+
+R E S O L V E U:
+
+         I  - Estabelecer as seguintes medidas de apoio destinadas  a
+contemplar  os  produtores rurais comprovadamente  prejudicados  pela
+estiagem que assolou determinadas microrregiões dos Estados da Região
+Sul do País, na safra de verão 1987/88:
+
+         a)  autorizar  a concessão de financiamento para  manutenção
+familiar   dos  miniprodutores  e  pequenos  produtores  rurais   que
+comprovadamente  não  tenham  sido  beneficiados  com  a  parcela  de
+manutenção  indenizável pelo PROAGRO (MCR 19-7-18) ou cujas  lavouras
+tenham tido perda total e não se disponham a obter crédito de custeio
+para  a  safra  de inverno de 1988, em virtude da impossibilidade  de
+plantio,  por quaisquer motivos, inclusive relativos às recomendações
+das  Comissões  Regionais  de Pesquisa do  Trigo  (CRPT),  tais  como
+"pousio"  e "rotação de culturas". Esse crédito deverá ser  concedido
+sob as seguintes condições:
+
+         -  limite: até Cz$ 71.567,00 (setenta e um mil, quinhentos e
+sessenta e sete cruzados), respeitado o limite de Cz$ 8.946,00  (oito
+mil,  novecentos e quarenta e seis cruzados) por pessoa  (mutuário  e
+dependentes);
+
+         - época de formalização: até 31.05.88;
+
+         -  prazo: até 18 (dezoito) meses, ajustando-se o esquema  de
+pagamento em função das expectativas de receitas futuras;
+
+         -  encargos financeiros: juros de 7% a.a. (sete por cento ao
+ano)  e correção monetária igual à do valor das Obrigações do Tesouro
+Nacional (OTN);
+
+         b)  prorrogar  os  vencimentos dos saldos remanescentes  dos
+créditos  de custeio, após o recolhimento de receitas e de  cobertura
+do  PROAGRO,  se for o caso, pelo prazo de até 2 (dois) anos,  com  1
+(um), no mínimo, de carência;
+
+         c)  prorrogar o vencimento da parcela de investimento,  cuja
+amortização  dar-se-ia com o resultado da safra objeto de frustração,
+para  pagamento  quando  da primeira safra  posterior  ao  vencimento
+original da operação;
+
+         d)  permitir o deferimento de crédito destinado  ao  custeio
+das lavouras de feijão e milho, nas microrregiões em que os órgãos de
+pesquisa  recomendem  o  plantio mais cedo, observadas  as  seguintes
+condições:
+
+         -  VBC: observar os valores básicos de custeio (em OTN),  as
+faixas  de  produtividade  e  o número e  valor  de  cada  liberação,
+constantes do Documento n. 2-1 do Manual de Crédito Rural (MCR);
+
+         -  época de liberação do VBC: observar as recomendações  dos
+srgãos de pesquisa;
+
+         -  limite  de  financiamento: no caso de lavoura  de  milho,
+observar  a  elevação para 100%, independentemente  da  categoria  do
+beneficiário;
+
+         e)  elevar os limites de financiamento dos médios e  grandes
+produtores  para 90% (noventa por cento) e 80% (oitenta  por  cento),
+respectivamente,  nos  créditos destinados a  custeios  da  safra  de
+inverno de 1988;
+
+         f)  permitir que, observadas as recomendações das  CRPT,  as
+operações  de custeio de trigo, safra de inverno de 1988, contratadas
+com  os produtores comprovadamente prejudicados pela estiagem,  sejam
+excluídas  da limitação de área fixada pelo item VIII-a da  Resolução
+n. 1.471, de 25.03.88;
+
+         g) desconsiderar eventual indenização do PROAGRO relativa  à
+safra em questão, para efeito de cobrança de adicional progressivo do
+programa.
+
+         II   -   Recomendar  ainda  à  rede  bancária  as  seguintes
+providências:
+
+         a)  envidar esforços visando a acelerar o processamento  dos
+pedidos de cobertura do PROAGRO;
+
+         b)  efetuar  a  transferência de operações  contratadas  com
+recursos  próprios livres (MCR 37) para satisfação das exigibilidades
+dos recursos (MCR 18), de conformidade com as normas em vigor.
+
+         III   -   Condicionar   a  concessão  dos   benefícios   ora
+estabelecidos à comprovação do prejuízo, mediante rigoroso  exame  de
+cada caso, por parte das instituições financeiras, com base nos dados
+de  perícia do PROAGRO, nos laudos de fiscalização realizada à  época
+da  colheita  e,  à  falta  desses  elementos,  através  de  vistoria
+especial.
+
+         IV  -  Delegar competência ao Banco Central para expedir  as
+normas que se tornem necessárias à execução desta Resolução.
+
+         V  - Estabelecer que esta Resolução entrará em vigor na data
+de sua publicação.
+
+                             Brasília-DF, 10 de maio de 1988
+
+                             Elmo de Araujo Camões
+                             Presidente
+```

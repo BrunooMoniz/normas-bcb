@@ -1,0 +1,46 @@
+---
+titulo: "Resolução Nº 1.560"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1560"
+data: 1988-12-23
+ementa: "OPERACOES VEDADAS - PREVISTAS NO ITEM QUARTO, ALINEA \"A\" DA CIRCULAR 30, DE 28/03/66. EXCLUSAO DA VEDACAO DA SUBSCRICAO DE DEBENTURES COM BASE NA RESOLUCAO 1455, DE 27/01/88. TAIS VEDACOES NAO ALCANCAM AS OPERACOES ENVOLVENDO INSTITUICOES FINANCEIRAS E NAO FINANCEIRAS CONTROLADAS POR UMA MESMA HOLDING, MAS SEM VINCULO SOCIETARIO ACIONARIO DIRETO ENTRE SI."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2927/2002 DOU 21/01/2002 PAG 25 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2927/2002"]
+referencias: ["LEI 4595/64 ART/4 ITEM/VI ITEM/VIII.", "LEI 4595/64 ART/9.", "LEI 4728/65 ART/29.", "CITA RESOLUÇÃO CMN 1455/88.", "CITA CIRCULAR BCB 30/66 ITEM/IV AL/A."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1560"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.560
+
+```
+                        RESOLUCAO N. 001560
+                        -------------------
+
+         O  BANCO CENTRAL DO BRASIL, na forma do artigo 9. da Lei  n.
+4.595,  de  31.12.64,  torna público que  o  Presidente  do  CONSELHO
+MONETÁRIO  NACIONAL, por ato de 22.12.88, com base no  artigo  2.  do
+Decreto  n.  94.303, de 01.05.87, "ad referendum"  daquele  Conselho,
+tendo  em  vista  o  disposto no artigo 4., incisos  VI  e  VIII,  da
+referida Lei, e artigo 29 da Lei n. 4.728, de 14.07.65,
+
+R E S O L V E U:
+
+         I  -  Que  a  vedação  prevista no item 4,  alínea  "a",  da
+Circular n. 30, de 28.03.66, não se aplica aos casos de subscrição de
+debêntures efetivada na forma da Resolução n. 1.455, de 27.01.88.
+
+         II  -  O  Banco  Central poderá adotar as  medidas  julgadas
+necessárias à execução desta Resolução.
+
+         III  -  Esta  Resolução  entrará em vigor  na  data  de  sua
+publicação.
+
+                             Brasília-DF, 23 de dezembro de 1988
+
+                             Elmo de Araujo Camões
+                             Presidente
+```

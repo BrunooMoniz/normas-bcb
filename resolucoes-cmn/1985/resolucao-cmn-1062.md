@@ -1,0 +1,71 @@
+---
+titulo: "Resolução Nº 1.062"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1062"
+data: 1985-11-27
+ementa: "INDICE NACIONAL DE PRECOS AO CONSUMIDOR AMPLO (IPCA) - SUBSTITUICAO DO INDICE NACIONAL DE PRECOS AO CONSUMIDOR (INPC) - ALTERACAO NO CALCULO DA CORRECAO MONETARIA E DA CORRECAO CAMBIAL - O VALOR NOMINAL DAS ORTN A VIGORAR A PARTIR DO DIA PRIMEIRO DE CADA MES SERA DETERMINADO PELO IPCA, OBSERVADO NO MES IMEDIATAMENTE ANTERIOR E SERA CALCULADO PELA FUNDACAO INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATISTICA (IBGE). REVOGACAO DA RESOLUCAO 1047, DE 29/08/85."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2927/2002 DOU 21/01/2002 PAG 25 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1047/85", "RESOLUÇÃO 2927/2002"]
+referencias: ["LEI 4595/64 ART/4 ITEM/V ITEM/VII ITEM/XXXI.", "LEI 4595/64 ART/9.", "DEC 83323/79 ART/1 PARAG/2.", "DEC 85776/81 ART/1.", "LEI 4728/65 ART/2 ITEM/V.", "LEI 4728/65 ART/28 ART/29.", "LEI 6423/77 ART/1 PARAG/1 AL/C.", "DL 13/66.", "DL 14/66.", "REVOGA RESOLUÇÃO CMN 1047/85."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1062"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.062
+
+```
+                        RESOLUCAO N. 001062
+                        -------------------
+
+         O  BANCO  CENTRAL DO BRASIL, na forma do art. 9. da  Lei  n.
+4.595,  de  31.12.64,  torna público que  o  Presidente  do  CONSELHO
+MONETÁRIO  NACIONAL,  por  ato de 27.11.85,  com  base  no  art.  1.,
+Parágrafo  2., do Decreto n. 83.323, de 11.04.79, com a  redação  que
+lhe  foi  dada  pelo art. 1. do Decreto n. 85.776, de  26.02.81,  "ad
+referendum" daquele Conselho, tendo em vista o disposto no  art.  4.,
+incisos V, VII e XXXI, da referida Lei, nos arts. 2., inciso V, 28  e
+29  da  Lei  n. 4.728, de 14.07.65, no art. 1., Parágrafo 1.,  alínea
+"c", da Lei n. 6.423, de 17.06.77, bem como nos Decretos-leis n.s 13,
+de 18.07.66, e 14, de 29.07.66,
+
+R E S O L V E U:
+
+         I  -  O valor nominal das Obrigações Reajustáveis do Tesouro
+Nacional,  a vigorar a partir do dia 1. de cada mês, será determinado
+pela  variação  do  Índice  Nacional de Preços  ao  Consumidor  Amplo
+(IPCA),  observada no mês imediatamente anterior.  Esse  índice  será
+calculado   pela  Fundação  Instituto  Brasileiro  de   Geografia   e
+Estatística (IBGE).
+
+         II  -  A  variação  cambial, medida no período  compreendido
+entre  o  dia  15  de  um  mês e o dia 15 do  mês  subseqüente,  será
+determinada pela variação do índice referido no item I, observada  no
+mês em que se iniciar o período.
+
+         III  -  O  critério  para a variação de  que  trata  o  item
+anterior  será aplicado à variação da cotação do Cruzeiro em  relação
+ao Dólar dos Estados Unidos.
+
+         IV  -  A  cada semana o Banco Central divulgará as taxas  de
+câmbio diárias a vigorarem na semana imediatamente seguinte.
+
+         V  -  O critério fixado no item I será aplicado aos cálculos
+dos  valores nominais das Obrigações Reajustáveis do Tesouro Nacional
+a  vigorarem  a  partir  de  1.  de dezembro  do  corrente  ano  e  o
+estabelecido no item II terá como base o período de 30 (trinta)  dias
+que se encerra em 15 de dezembro próximo.
+
+         VI  -  O  Banco  Central poderá adotar as  medidas  julgadas
+necessárias à execução desta Resolução.
+
+         VII  -  Esta  Resolução  entra  em  vigor  na  data  de  sua
+publicação, ficando revogada a Resolução n. 1.047, de 29.08.85.
+
+                             Brasília-DF, 27 de novembro de 1985
+
+                             Fernão Carlos Botelho Bracher
+                             Presidente
+```

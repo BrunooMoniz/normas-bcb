@@ -1,0 +1,61 @@
+---
+titulo: "Resolução Nº 3.935"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3935"
+data: 2010-12-16
+ementa: "Altera o art. 9º-J da Resolução nº 2.827, de 30 de março de 2001, prorrogando o prazo para contratações de operações de crédito no âmbito do Programa Caminho da Escola."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 17/12/2010, p. 1 (Ed. Extra)."
+atualizacoes: ["Resolução CMN nº 4.005/2011 - Revogação total."]
+normas_vinculadas: ["RESOLUÇÃO 4005/2011", "RESOLUÇÃO 3696/2009", "RESOLUÇÃO 2827/2001"]
+referencias: ["Lei nº 4.595/1964 arts. 4º, incisos VI e VIII, e 9º.", "Cita Resolução CMN nº 3.696/2009.", "Altera Resolução CMN nº 2.827/2001 - Dá nova redação ao art. 9º-J."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3935"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.935
+
+```
+                        RESOLUCAO N. 003935
+                        -------------------
+
+                                 Altera  o art. 9º-J da Resolução  nº
+                                 2.827,  de  30  de  março  de  2001,
+                                 prorrogando     o     prazo     para
+                                 contratações    de   operações    de
+                                 crédito   no   âmbito  do   Programa
+                                 Caminho da Escola.
+
+         O  Banco  Central do Brasil, na forma do art. 9º da  Lei  nº
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  Conselho
+Monetário Nacional, em sessão realizada em  16 de dezembro  de  2010,
+com base no art. 4º, incisos VI e VIII, da Lei nº 4.595, de 1964,
+
+         R E S O L V E U :
+
+         Art. 1º  Fica alterado o caput do art. 9º-J da Resolução  nº
+2.827,  de 30 de março de 2001, com a redação dada pela Resolução  nº
+3.696,  de  26 de março de 2009, que passa a vigorar com  a  seguinte
+redação:
+
+         "Art.  9º-J   Fica  autorizada a  contratação  de  novas
+         operações  de crédito, até 31 de dezembro  de  2011,  no
+         valor   global   de  até  R$900.000.000,00   (novecentos
+         milhões  de  reais), destinadas à aquisição de  veículos
+         específicos  para  o  transporte de alunos  da  educação
+         básica  das  escolas públicas dos estados e  municípios,
+         no  âmbito  do  Programa Caminho da  Escola,  instituído
+         pelo  Poder  Executivo Federal, por  meio  de  linha  de
+         financiamento   do  Banco  Nacional  de  Desenvolvimento
+         Econômico e Social (BNDES)." (NR)
+
+         Art.  2º   Esta  Resolução entra em vigor  na  data  de  sua
+publicação.
+
+                                    Brasília, 16 de dezembro de 2010.
+
+                    Henrique de Campos Meirelles
+                             Presidente
+```

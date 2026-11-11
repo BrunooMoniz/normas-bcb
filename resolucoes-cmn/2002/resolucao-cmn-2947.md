@@ -1,0 +1,154 @@
+---
+titulo: "Resolução Nº 2.947"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "2947"
+data: 2002-03-27
+ementa: "Dispõe sobre alterações nas condições operacionais da linha de crédito destinada ao financiamento de despesas de colheita de café do período agrícola 2001/2002, ao amparo de recursos do Fundo de Defesa da Economia Cafeeira (Funcafé)."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Resolução CMN nº 2.957/2002 DOU 29/4/2002 p. 21 - Alteração: art. 2º.", "Resolução CMN nº 3.067/2003 DOU 28/2/2003 p. 35 - Revogação total."]
+normas_vinculadas: ["RESOLUÇÃO 2870/2001", "RESOLUÇÃO 2948/2002", "RESOLUÇÃO 2956/2002", "RESOLUÇÃO 2957/2002", "RESOLUÇÃO 2965/2002", "RESOLUÇÃO 2991/2002", "RESOLUÇÃO 3016/2002", "RESOLUÇÃO 3027/2002", "RESOLUÇÃO 3048/2002", "RESOLUÇÃO 3067/2003"]
+referencias: ["Lei nº 4.595/1964, art. 4º, VI; art. 9º.", "Lei nº 4.829/1965, arts. 4º e 14.", "Lei nº 10.186/2001, art. 6º.", "Cita Medida Provisória nº 2.179-36/2001, art. 1º.", "Revoga Resolução CMN nº 2.870/2001."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=2947"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 2.947
+
+```
+                        RESOLUCAO N. 002947
+                        -------------------
+
+                                   Dispõe   sobre   alterações    nas
+                                   condições  operacionais  da  linha
+                                   de      crédito    destinada    ao
+                                   financiamento   de   despesas   de
+                                   colheita   de  café   do   período
+                                   agrícola  2001/2002, ao amparo  de
+                                   recursos  do  Fundo de  Defesa  da
+                                   Economia Cafeeira (Funcafé).
+
+         O BANCO CENTRAL DO BRASIL, na forma do art. 9º da Lei 4.595,
+de  31  de  dezembro de 1964, torna público que o CONSELHO  MONETÁRIO
+NACIONAL, em sessão realizada em 27 de março de 2002, tendo em  vista
+as  disposições dos arts. 4º, inciso VI, da referida lei, 4º e 14  da
+Lei  4.829, de 5 de novembro de 1965, e 6º da Lei 10.186,  de  12  de
+fevereiro de 2001,
+
+R E S O L V E U:
+
+          Art.  1º  Estabelecer  que os financiamentos  da  linha  de
+crédito  destinada a cobrir despesas de colheita de café  do  período
+agrícola  2001/2002,  ao amparo de recursos do  Fundo  de  Defesa  da
+Economia  Cafeeira  (Funcafé), ficam sujeitos às seguintes  condições
+especiais:
+
+           I   -   beneficiários:  cafeicultores,  em  financiamentos
+contratados diretamente ou repassados por suas cooperativas;
+
+         II - itens financiáveis: todos aqueles inerentes ao processo
+de   colheita   (aplicação  de  herbicidas,  arruação,   a   colheita
+propriamente dita, transporte para o terreiro, secagem, mão-de-obra e
+materiais para as várias etapas);
+
+         III - limite de crédito: até R$600,00 (seiscentos Reais) por
+hectare  de cafezal, não podendo o financiamento exceder R$100.000,00
+(cem mil Reais) por produtor, ainda que em mais de uma propriedade;
+
+          IV  -  encargos financeiros: taxa efetiva de juros de  9,5%
+a.a. (nove inteiros e cinco décimos por cento ao ano);
+
+          V  - liberação do crédito: em uma só parcela, observados os
+seguintes períodos:
+
+          a)  no  Estado  do  Espírito Santo,  exceto  para  lavouras
+localizadas em regiões de montanhas: de abril a junho de 2002;
+
+         b) nos demais estados e para lavouras localizadas em regiões
+de montanhas do Estado do Espírito Santo: de maio a agosto de 2002;
+
+          c)  nas  regiões de microclimas específicos do Norte  e  do
+Nordeste: de agosto a novembro de 2002;
+
+         VI - condições de reembolso: em duas parcelas, de acordo com
+o seguinte cronograma:
+
+          a) a primeira, correspondendo a 40% (quarenta por cento) do
+saldo  devedor do financiamento, terá vencimento fixado para sessenta
+dias contados da data prevista, pelo mutuário, para o término de  sua
+colheita;
+
+          b)  o saldo devedor remanescente terá o vencimento pactuado
+para  trinta dias contados da data fixada para vencimento da primeira
+parcela, respeitadas as seguintes datas-limite:
+
+           1.  no  Estado  do  Espírito  Santo,  exceto  no  caso  de
+financiamentos  relativos  a  lavouras  localizadas  em  regiões   de
+montanhas: 30 de setembro de 2002;
+
+          2. nos demais estados e no caso de financiamentos relativos
+a  lavouras localizadas em regiões de montanhas no Estado do Espírito
+Santo: 29 de novembro de 2002;
+
+          3.  nas  regiões de microclimas específicos do Norte  e  do
+Nordeste: 31 de janeiro de 2003;
+
+         VII - garantias: as usuais para o crédito rural;
+
+           VIII   -   montante   de  recursos:  até  R$500.000.000,00
+(quinhentos  milhões  de  Reais), de acordo com  as  disponibilidades
+orçamentário-financeiras  do  Funcafé  à  época  da  contratação  dos
+financiamentos;
+
+           IX   -   agentes  financeiros:  instituições   financeiras
+credenciadas para aplicar recursos do Fundo;
+
+          X  -  remuneração dos agentes financeiros: comissão de 5,5%
+a.a.  (cinco  inteiros e cinco décimos por cento ao  ano),  calculada
+sobre  o  saldo  devedor  da  operação e deduzida  das  parcelas   de
+financiamento na data de seus respectivos vencimentos, respeitados os
+prazos originalmente pactuados;
+
+         XI - risco operacional: dos agentes financeiros.
+
+          Art.  2º  Os recursos do Funcafé devem ser remunerados  com
+observância dos seguintes encargos financeiros:
+
+          I  - enquanto não aplicados nas finalidades previstas nesta
+resolução:  a  mesma remuneração de que trata o  art.  1º  da  Medida
+Provisória nº 2.179-36, de 24 de agosto de 2001;
+
+          II  -  uma  vez  aplicados  nas condições  previstas  nesta
+resolução: taxa efetiva de juros de 9,5% a.a. (nove inteiros e  cinco
+décimos por cento ao ano), deduzida a comissão do agente financeiro;
+
+         III - no período compreendido entre a data de vencimento das
+parcelas  do  financiamento  e a data de reembolso  dos  recursos  ao
+Fundo: a mesma remuneração estabelecida no inciso I, calculada  sobre
+os valores a serem reembolsados.
+
+          Art.  3º  O  reembolso dos recursos  ao  Funcafé  deve  ser
+efetuado  até  o  dia  10 do mês subseqüente  ao  do  vencimento  das
+parcelas  dos financiamentos, independentemente  do  recebimento  dos
+mutuários.
+
+          Art. 4º Fica a Secretaria de Produção e Comercialização, do
+Ministério  da Agricultura e do Abastecimento, em articulação  com  a
+Secretaria  de  Acompanhamento Econômico, do Ministério  da  Fazenda,
+autorizada  a  adotar as providências complementares que  se  fizerem
+necessárias ao cumprimento do disposto nesta resolução, incumbindo-se
+a  primeira,  na condição de responsável pela gestão dos recursos  do
+Funcafé, de formalizar o relacionamento com os agentes financeiros.
+
+          Art.  5º  Esta  resolução entra em vigor  na  data  de  sua
+publicação.
+
+          Art.  6º Fica revogada a Resolução 2.870, de 3 de julho  de
+2001.
+
+                                   Brasília, 27 de março de 2002
+
+                                   Arminio Fraga Neto
+                                   Presidente
+```

@@ -1,0 +1,84 @@
+---
+titulo: "Resolução Nº 3.643"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3643"
+data: 2008-11-26
+ementa: "Institui linha especial de crédito para o financiamento da aquisição de Cédula de Produto Rural (CPR) com recursos do Fundo de Defesa da Economia Cafeeira (Funcafé)."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Resolução CMN nº 3.720/2009 - Alteração art. 1º, inciso VII.", "Resolução CMN nº 3.800/2009 - Alteração art. 1º, incisos I, II, III e VII.", "Resolução CMN nº 3.822/2009 - Alteração art. 1º, inciso VII.", "Resolução CMN nº 3.995/2011 - Revogação total, a partir de 1º/9/2011."]
+normas_vinculadas: ["RESOLUÇÃO 3995/2011", "RESOLUÇÃO 3822/2009", "RESOLUÇÃO 3800/2009", "RESOLUÇÃO 3720/2009"]
+referencias: ["Lei nº 4.595/1964, arts. 4º, inciso VI, e 9º.", "Lei nº 4.829/1965, arts. 4º e 14.", "Lei nº 11.775/2008, art. 53, § 1º."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3643"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.643
+
+```
+                        RESOLUCAO N. 003643
+                        -------------------
+
+                                 Institui  linha especial de  crédito
+                                 para  o  financiamento da  aquisição
+                                 de  Cédula  de Produto  Rural  (CPR)
+                                 com  recursos do Fundo de Defesa  da
+                                 Economia Cafeeira (Funcafé).
+
+         O  Banco  Central do Brasil, na forma do art. 9º da  Lei  nº
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  Conselho
+Monetário  Nacional, em sessão realizada em 26 de novembro  de  2008,
+tendo  em  vista as disposições dos arts. 4º, inciso VI,  da  Lei  nº
+4.595, de 1964, 4º e 14 da Lei nº 4.829, de 5 de novembro de 1965,  e
+§ 1° do art. 53 da Lei nº 11.775, de 17 de setembro de 2008,
+
+         R E S O L V E U :
+
+         Art.  1º  Fica criada linha especial de crédito amparada  em
+recursos   do  Fundo  de  Defesa  da  Economia  Cafeeira   (Funcafé),
+observadas as seguintes condições:
+
+         I  -  objetivo:  financiar a liquidação de dívidas  de  café
+vinculadas à Cédula do Produto Rural (CPR), física ou financeira, com
+vencimentos  contratuais  previstos  até  31  de  dezembro  de  2007,
+inclusive   aquelas   com  vencimento  até  2007  substituídas   para
+vencimento   em  2008,  emitidas  por  produtores  rurais   ou   suas
+cooperativas;
+
+         II  -  prazo de reembolso: até 4 (quatro) anos, sendo que  a
+primeira parcela deverá ter vencimento até 31 de outubro de 2009;
+
+         III  -  encargos  financeiros: 7,5% a.a.  (sete  inteiros  e
+cinco décimos por cento ao ano);
+
+         IV - risco da operação: integral dos agentes financeiros;
+
+         V  - spread bancário: até 4,5% a.a. (quatro inteiros e cinco
+décimos por cento ao ano);
+
+         VI  -  total de recursos: até R$100.000.000,00 (cem  milhões
+de reais);
+
+         VII - prazo para contratação: até 27 de março de 2009; e
+
+         VIII  -  limite  de  crédito por mutuário: até  R$400.000,00
+(quatrocentos mil reais), deduzido eventual valor que o  mutuário  já
+tenha  comprometido com financiamento destinado a custeio e  colheita
+de café.
+
+         Parágrafo  único.  Para efeito de comprometimento  anual  do
+limite  de  que  trata o inciso VIII do caput, o  valor  da  operação
+contratada com base nesta resolução será dividido pelo número de anos
+definidos  como  prazo de reembolso do respectivo  financiamento,  de
+modo  que  o impacto seja distribuído de forma homogênea ao longo  do
+período de vigência da operação.
+
+         Art.  2°   Esta  resolução entra em vigor  na  data  de  sua
+publicação.
+
+                                    Brasília, 26 de novembro de 2008.
+
+                    Henrique de Campos Meirelles
+                             Presidente
+```

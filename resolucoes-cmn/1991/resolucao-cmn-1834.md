@@ -1,0 +1,62 @@
+---
+titulo: "Resolução Nº 1.834"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1834"
+data: 1991-06-26
+ementa: "Faculta a captação de recursos no exterior, com estabelecimento de vínculo a exportações."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Resolução CMN nº 3.844/2010 DOU 26/3/2010 p. 36 - Revogação total."]
+normas_vinculadas: ["RESOLUÇÃO 2770/2000", "RESOLUÇÃO 3844/2010", "CIRCULAR 3271/2004", "CIRCULAR 1979/1991", "CIRCULAR 2438/1994", "CIRCULAR 2490/1994", "CIRCULAR 2538/1995", "CIRCULAR 3027/2001", "CARTA CIRCULAR 2185/1991", "CARTA CIRCULAR 2191/1991", "CARTA CIRCULAR 2620/1996"]
+referencias: ["Lei nº 4.595/1964, art. 4º, V e XXXI; art. 9º.", "Cita Lei nº 6.404/1976, art. 116; art. 243, § 2º."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1834"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.834
+
+```
+                        RESOLUCAO N. 001834
+                        -------------------
+
+                              FACULTA A CAPTAÇÃO DE RECURSOS NO EXTE-
+                              RIOR,  COM ESTABELECIMENTO DE VÍNCULO A
+                              EXPORTAÇÕES.
+
+                    O BANCO CENTRAL DO BRASIL, NA FORMA DO ART. 9º DA
+LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE O CONSELHO MONETÁRIO NA-
+CIONAL,  EM SESSÃO REALIZADA EM 26.06.91, TENDO EM VISTA AS  DISPOSI-
+ÇÕES DO ART. 4º, INCISOS V E XXXI, DA MENCIONADA LEI,
+
+R E S O L V E U:
+
+                    ART.  1º. FACULTAR A CAPTAÇÃO DE RECURSOS NO MER-
+CADO  EXTERNO, COM O ESTABELECIMENTO DE VÍNCULO A EXPORTAÇÕES DA PRÓ-
+PRIA TOMADORA, DE SUA CONTROLADORA, DE SUAS CONTROLADAS, OU DE OUTRAS
+EMPRESAS QUE TENHAM A MESMA CONTROLADORA.
+
+                    PARÁGRAFO  ÚNICO. PARA OS EFEITOS  DESTA  RESOLU-
+ÇÃO, APLICAM-SE, NAS DEFINIÇÕES DE CONTROLADORA E CONTROLADA, OS CON-
+CEITOS CONSTANTES DOS ARTS. 116 E 243, PARÁGRAFO 2º, DA LEI Nº 6.404,
+DE 15.12.76.
+
+                    ART.  2º. ESTABELECER QUE AS  FORMAS  E NÍVEIS DE
+VINCULAÇÃO  E AS CONDIÇÕES GERAIS DAS OPERAÇÕES SERÃO DEFINIDAS  PELO
+BANCO  CENTRAL DO BRASIL, QUE PODERÁ, INCLUSIVE, INSTITUIR REGIME ES-
+PECIAL  DE  DEPÓSITO EM MOEDA ESTRANGEIRA, NO EXTERIOR, VINCULADO  AO
+RECEBIMENTO DO VALOR DAS EXPORTAÇÕES.
+
+                    ART.  3º. DELEGAR COMPETÊNCIA AO BANCO CENTRAL DO
+BRASIL PARA EXPEDIR AS NORMAS COMPLEMENTARES E ADOTAR AS MEDIDAS JUL-
+GADAS  NECESSÁRIAS  À EXECUÇÃO DO DISPOSTO NESTA RESOLUÇÃO,  PODENDO,
+INCLUSIVE, ALTERAR O UNIVERSO DE EMPRESAS REFERIDO NO ART. 1º.
+
+                    ART.  4º. ESTA RESOLUÇÃO ENTRA EM VIGOR  NA  DATA
+DE SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 26 DE JUNHO DE 1991
+
+                              FRANCISCO ROBERTO ANDRÉ GROS
+                              PRESIDENTE
+```

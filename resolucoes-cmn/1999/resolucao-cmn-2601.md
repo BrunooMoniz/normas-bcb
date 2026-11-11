@@ -1,0 +1,162 @@
+---
+titulo: "Resolução Nº 2.601"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "2601"
+data: 1999-03-30
+ementa: "Dispõe sobre financiamento destinado à aquisição de Cédulas de Produto Rural (CPR), ao amparo de Recursos Obrigatórios (MCR 6-2)."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2792/2000 DOU 01/12/2000 PAG 16 (E) - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2477/98", "RESOLUÇÃO 2792/2000", "RESOLUÇÃO 2469/98", "RESOLUÇÃO 2510/98"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/VI.", "LEI 4829/65 ART/4 ART/14.", "CITA MCR 6/2, 3/4.", "ALTERA RESOLUÇÃO CMN 2510/98 (PRORROGACAO DE PRAZO).", "REVOGA RESOLUÇÃO CMN 2469/98 2477/98."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=2601"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 2.601
+
+```
+                        RESOLUCAO N. 002601
+                        -------------------
+
+                                    Dispõe sobre financiamento desti-
+                                    nado  à  aquisição  de Cédulas de
+                                    Produto Rural (CPR), ao amparo de
+                                    Recursos Obrigatórios (MCR 6-2).
+
+         O  BANCO CENTRAL DO  BRASIL, na forma  do art. 9º  da Lei nº
+4.595, de  31  de dezembro  de  1964, torna  público  que  o CONSELHO
+MONETÁRIO NACIONAL, em sessão realizada em 25 de março de 1999, tendo
+em vista as disposições dos arts. 4º, inciso  VI, da citada Lei, e 4º
+e 14 da Lei nº 4.829, de 5 de novembro de 1965,
+
+R E S O L V E U:
+
+         Art. 1º Autorizar, a  interesse  da Política  de Garantia de
+Preços Mínimos (PGPM), a concessão de financiamento, ao amparo de Re-
+cursos Obrigatórios (MCR  6-2), destinado  à aquisição de  Cédulas de
+Produto Rural (CPR) representativas  da venda antecipada  de trigo da
+safra de inverno  de  1999  (crédito  de  comercialização - MCR 3-4),
+observadas as seguintes condições:
+
+         I - beneficiários: empresas  que  utilizam  o  produto  como
+matéria-prima para beneficiamento ou industrialização;
+
+         II - garantias: obrigatoriamente, as CPR objeto de financia-
+mento e, subsidiariamente,  outras, a critério  da instituição finan-
+ceira;
+
+         III - prazos:
+
+         a)  contratação: até 30 de novembro de 1999;
+
+         b)  vencimento: até  trinta dias após  a data  de entrega do
+produto, prevista na CPR.
+
+         Parágrafo  único. O financiamento fica  restrito à aquisição
+de CPR com as seguintes características:
+
+         I - emitente sem vínculo societário com o adquirente, exceto
+no caso de  operações em que  figurem apenas  produtores rurais, suas
+associações, cooperativas singulares e centrais;
+
+         II - representativa  de produto não  vinculado a garantia de
+financiamento destinado a custeio de safra;
+
+         III - contemplando  preço  do  produto por  ela representado
+igual ou superior ao respectivo preço mínimo;
+
+         IV - promessa de  entrega do produto  até 29 de fevereiro de
+2000;
+
+         V - ausência  de  cláusula estipulando  as possibilidades de
+recompra pelo emissor ou de liquidação financeira;
+
+         VI - registrada  em sistema de registro  e de liquidação fi-
+nanceira administrado pela Central de Custódia e de Liquidação Finan-
+ceira de Títulos - CETIP.
+
+         Art. 2º É devida, se de interesse do beneficiário, a conces-
+são de Empréstimos  do Governo Federal  Sem Opção  de Venda (EGF/SOV)
+para liquidação de financiamento destinado à aquisição de CPR, de que
+trata esta  Resolução, observadas  as seguintes  condições e,  no que
+couber, as normas da PGPM vigentes à época da contratação:
+
+         I - limite de crédito: o montante do saldo devedor do finan-
+ciamento destinado à aquisição de CPR;
+
+         II - prazo de vencimento: até 31 de julho de 2000.
+
+         Parágrafo único. Podem ser estabelecidas amortizações inter-
+mediárias, a critério da instituição financeira.
+
+         Art. 3º Autorizar, a  interesse da PGPM,  a concessão de fi-
+nanciamento, ao amparo de Recursos  Obrigatórios (MCR 6-2), destinado
+à aquisição de  CPR representativa da  venda antecipada  de caroço de
+algodão da  safra 1998/1999  e 1999,  observadas as  condições gerais
+desta Resolução e os seguintes prazos para:
+
+         I - contratação: até 30 de junho de 1999;
+
+         II - promessa de  entrega  do produto: até 31  de outubro de
+1999;
+
+         III - vencimento do EGF/SOV destinado à liquidação do finan-
+ciamento para aquisição da CPR:
+
+         a) relativo a produto da região Centro-Oeste ou do Estado de
+Minas Gerais: até 30 de março de 2000;
+
+         b) nos demais casos: 31 de janeiro de 2000.
+
+         Art. 4º Ficam alterados os seguintes prazos de financiamento
+para aquisição de CPR ao amparo da Resolução nº 2.510, de 17 de junho
+de 1998:
+
+         I - algodão, da  região  Centro-Oeste ou do  Estado de Minas
+Gerais:
+
+         a) prazo de contratação: até 30 de junho de 1999;
+
+         b) promessa  de  entrega do  produto: até  31 de  outubro de
+1999;
+
+         c) prazo  de vencimento do EGF/SOV destinado à liquidação do
+financiamento para aquisição da CPR: até 30 de março de 2000;
+
+         II - arroz e milho:
+
+         a) prazo de contratação: até 31 de maio de 1999;
+
+         b) prazo de entrega do produto: até 31 de julho de 1999;
+
+         c) prazo  de vencimento do EGF/SOV destinado à liquidação do
+financiamento para aquisição da CPR: até 31 de janeiro de 2000.
+
+         Art. 5º Fica autorizada a utilização de um único instrumento
+de crédito para a formalização do financiamento destinado à aquisição
+de CPR e do EGF/SOV para liquidação daquela operação.
+
+         Art. 6º O saldo das aplicações de cada instituição financei-
+ra, em financiamentos destinados à aquisição de CPR, não pode exceder
+a 5% (cinco por cento) dos  respectivos Recursos Obrigatórios (MCR 6-
+2).
+
+         Art. 7º Ficam as Secretarias de Acompanhamento Econômico, do
+Ministério da Fazenda, e de Política Agrícola, do Ministério da Agri-
+cultura e do Abastecimento, autorizadas a  proceder, em conjunto, aos
+ajustes de natureza operacional que se  fizerem necessários, os quais
+serão divulgados pelo Banco Central do Brasil.
+
+         Art. 8º Esta  Resolução entra em vigor na data de sua publi-
+cação.
+
+         Art. 9º Ficam  revogadas as  Resoluções nºs 2.469,  de 19 de
+fevereiro de 1998, e 2.477, de 26 de março de 1998.
+
+                       Brasília, 30 de março de 1999
+
+                       Arminio Fraga Neto
+                       Presidente
+```

@@ -1,0 +1,167 @@
+---
+titulo: "Resolução Nº 3.703"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3703"
+data: 2009-03-26
+ementa: "Altera normas do Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf)."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Resolução CMN nº 4.367/2014 - Revogação total."]
+normas_vinculadas: ["RESOLUÇÃO 4367/2014"]
+referencias: ["Lei nº 4.595/1964, arts. 4º, inciso VI, e 9º.", "Lei nº 4.829/1965, arts. 4º e 14.", "Altera MCR 10-2-3, 10-11-1-\"c\", 10-12-1, 10-18-1."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3703"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.703
+
+```
+                        RESOLUCAO N. 003703
+                        -------------------
+
+                                 Altera  normas do Programa  Nacional
+                                 de   Fortalecimento  da  Agricultura
+                                 Familiar (Pronaf).
+
+         O  Banco  Central do Brasil, na forma do art. 9º da  Lei  nº
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  Conselho
+Monetário Nacional, em sessão realizada em 26 de março de 2009, tendo
+em  vista as disposições dos arts. 4º, inciso VI, da Lei nº 4.595, de
+1964, e 14 da Lei nº 4.829, de 5 de novembro de 1965,
+
+         R E S O L V E U:
+
+         Art.  1°   O  item 3 da Seção 2 do Capítulo 10 do Manual  de
+Crédito Rural (MCR) passa a vigorar com a seguinte redação:
+
+          "3  .................................................
+
+          a)  30% (trinta por cento), a renda bruta proveniente
+         das   seguintes  atividades:  gado  de  corte,  milho,
+         feijão, arroz, trigo e mandioca;
+
+          b)   50%   (cinquenta  por  cento),  a  renda   bruta
+         proveniente  das  seguintes atividades  intensivas  em
+         capital:       ovinocaprinocultura,      piscicultura,
+         sericicultura,   fruticultura   e   a   renda    bruta
+         proveniente da produção de café e de cana-de-açúcar;
+
+          c) 70% (setenta por cento), a renda bruta proveniente
+         das   atividades   de  turismo  rural,  agroindústrias
+         familiares,   olericultura,   floricultura,   pecuária
+         leiteira, avicultura não integrada e suinocultura  não
+         integrada;
+
+          d) 90% (noventa por cento), a renda bruta proveniente
+         das    atividades   de   avicultura   e   suinocultura
+         integradas ou em parceria com a agroindústria." (NR)
+
+         Art.  2°  A alínea "c" do item 1 da Seção 11 do Capítulo  10
+do MCR passa a vigorar com a seguinte redação:
+
+         "c)  limites:  independentes daqueles  definidos  para
+         outros  financiamentos ao amparo do Pronaf, de  acordo
+         com  o  projeto  técnico  e o  estudo  de  viabilidade
+         econômico-financeira do empreendimento:
+
+         I - .................................................
+
+         II  -  pessoa  física (contrato coletivo): R$50.000,00
+         (cinquenta  mil reais), observado o limite  individual
+         de R$5.000,00 (cinco mil reais) por beneficiário;
+
+         III  -  associações: R$2.000.000,00 (dois  milhões  de
+         reais),  observado o limite individual  de  R$5.000,00
+         (cinco   mil  reais)  por  associado  relacionado   na
+         Declaração de Aptidão ao Pronaf - DAP emitida  para  a
+         associação;
+
+         IV  -  cooperativas: R$5.000.000,00 (cinco milhões  de
+         reais),  observado o limite individual  de  R$5.000,00
+         (cinco  mil  reais) por cooperado relacionado  na  DAP
+         emitida para a cooperativa;
+
+         V  - cooperativa central: R$10.000.000,00 (dez milhões
+         de  reais), quando se tratar de financiamento  visando
+         ao   atendimento  a,  no  mínimo,  duas   cooperativas
+         singulares  a  ela  filiadas,  observados  os  limites
+         previstos  no  inciso  IV deste artigo,  relativo  aos
+         produtos   entregue  por  estas,  bem   como   a   sua
+         armazenagem,  conservação  e  venda,  desde   que   os
+         produtos  não  tenham  sido  objeto  de  financiamento
+         concedido  às cooperativas singulares ao amparo  desta
+         linha." (NR)
+
+         Art.  3°   O  item 1 da Seção 12 do Capítulo  10  do  MCR
+passa a vigorar com as seguintes alterações:
+
+         "1 - ................................................
+
+         a)  beneficiários: agricultores familiares filiados  a
+         cooperativas de produção de produtores rurais que:
+
+         I  -  tenham,  no mínimo, 90% (noventa por  cento)  de
+         seus  sócios  ativos classificados  como  agricultores
+         familiares;
+
+         II  - comprovem ao emitente da DAP que têm, no mínimo,
+         70%  (setenta  por  cento) de seus  associados  ativos
+         enquadrados como agricultores familiares do  Pronaf  e
+         que,  no projeto técnico, no mínimo, 55% (cinquenta  e
+         cinco  por  cento) da matéria-prima  a  beneficiar  ou
+         industrializar  seja  de  produção   própria   ou   de
+         associados    enquadrados    no    Pronaf,    mediante
+         apresentação de relação escrita com número da  DAP  de
+         cada   um,   para  os  financiamentos  destinados   ao
+         processamento  e  à  industrialização   de   leite   e
+         derivados;
+
+         III  - tenham patrimônio líquido mínimo de R$50.000,00
+         (cinquenta  mil  reais)  e máximo  de  R$50.000.000,00
+         (cinquenta milhões de reais);
+
+         IV  -  tenham  1  (um)  ano  de  autorização  para   o
+         funcionamento.
+
+         b) ..................................................
+
+         c) limites:
+
+         I  -  individual: até R$5.000,00 (cinco mil reais) por
+         beneficiário,  independente  daqueles  definidos  para
+         outros financiamentos ao amparo do Pronaf;
+
+         II   -  por  cooperativa:  até  R$5.000.000,00  (cinco
+         milhões de reais), respeitado o limite individual  por
+         cooperado participante do projeto financiado.
+
+         .....................................................
+
+         g)  para obtenção do financiamento, a cooperativa deve
+         apresentar  ao  agente  financeiro  a  DAP,   conforme
+         definido  pelo Ministério do Desenvolvimento  Agrário,
+         observado o disposto no inciso II deste item." (NR)
+
+         Art.  4º   O  item 1 da Seção 18 do Capítulo  10  do  MCR
+passa a vigorar com as seguintes alterações:
+
+         "1-..................................................
+
+         .....................................................
+
+         b)  finalidades: propostas ou projetos de investimento
+         para   produção   de  milho,  feijão,  arroz,   trigo,
+         mandioca,  olerícolas, frutas, leite,  café,  gado  de
+         corte, suinocultura, avicultura, caprinos e ovinos;
+
+         ..............................................." (NR)
+
+         Art.  5°   Esta  resolução entra em vigor  na  data  de  sua
+         publicação.
+
+                                       Brasília, 26 de março de 2009.
+
+                    Henrique de Campos Meirelles
+                             Presidente
+```

@@ -1,0 +1,53 @@
+---
+titulo: "Resolução Nº 4.076"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "4076"
+data: 2012-05-04
+ementa: "Institui linha especial de crédito para produtores rurais afetados pela seca ou estiagem na área de atuação da Superintendência do Desenvolvimento do Nordeste (Sudene)."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 8/5/2012, Seção 1, p. 14."
+atualizacoes: ["Resolução CMN nº 4.082/2012 - Alteração: art. 1º, VII.", "Resolução CMN nº 4.165/2012 - Alteração: art. 1º, VIII.", "Resolução CMN nº 4.903/2021 - Revogação total, a partir de 1º/5/2021."]
+normas_vinculadas: ["RESOLUÇÃO 4165/2012", "RESOLUÇÃO 4082/2012", "RESOLUÇÃO CMN 4903/2021"]
+referencias: ["Lei nº 4.595/1964, art. 4º, VI; art. 9º.", "Lei nº 4.829/1965, art. 4º; art. 14.", "Lei nº 10.177/2001, art. 8º-A.", "MP nº 565/2012."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4076"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 4.076
+
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão extraordinária realizada em 4 de maio de 2012, tendo em vista as disposições do art. 4º, inciso VI, da Lei nº 4.595, de 1964, dos arts. 4º e 14 da Lei nº 4.829, de 5 de novembro de 1965, e do art. 8º-A da Lei nº 10.177, de 12 de janeiro de 2001, com a redação dadapela Medida Provisória nº 565, de 24 de abril de 2012,
+
+R E S O L V E U :
+
+Art. 1º  Fica instituída a linha especial de crédito para produtores rurais afetados pela seca ou estiagem na área de atuação da Superintendência do Desenvolvimento do Nordeste (Sudene), a ser operacionalizada com recursos do Fundo Constitucional de Financiamento do Nordeste (FNE), observadas as disposições aplicáveis às operações desse Fundo que não conflitarem com as seguintes condições especiais:
+
+I - objetivos: promover a recuperação ou preservação das atividades de produtores rurais afetados pela seca ou estiagem na área de atuação da Sudene, em municípios comdecretação de situação de emergência ou de estado de calamidade pública pelos citados eventos climáticos, reconhecida pelo Ministério da Integração Nacional a partir de 1º de dezembro de 2011;
+
+II - beneficiários: produtores rurais (pessoas físicas ou jurídicas), cooperativas e associações de produtores rurais;
+
+III - finalidades:
+
+a) investimentos, preferencialmente aqueles que possam contribuir para convivência sustentável do produtor rural com os períodos de seca ou estiagem;
+
+b) custeio ou capital de giro, isolado ou associado ao investimento;
+
+IV - itens financiáveis: bens e serviços necessários à viabilização do projeto ou da proposta simplificada;
+
+V - limite de financiamento: até R$100.000,00 (cem mil reais) por beneficiário;
+
+VI - encargos financeiros: taxa efetiva de juros de 3,5% a.a. (três inteiros e cinco décimos por cento ao ano);
+
+VII - reembolso: estabelecido com base no cronograma físico-financeiro do projeto ou da proposta simplificada, conforme o caso, e na capacidade de pagamento do beneficiário, respeitados os seguintes prazos: até 8 (oito) anos, incluídos até 3 (três) anos de carência;
+
+VIII - prazo de contratação: até 30 de dezembro de 2012;
+
+IX - garantias: as usuais do crédito rural.
+
+Art. 2º  Fica vedada a contratação da linha de crédito de que trata esta Resolução por agricultores familiares enquadrados no Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf), bem como a contratação de financiamento para aquisição de animais isoladamente.
+
+Art. 3º  Esta Resolução entra em vigor na data de sua publicação.
+
+                      Alexandre Antonio Tombini
+                Presidente do Banco Central do Brasil

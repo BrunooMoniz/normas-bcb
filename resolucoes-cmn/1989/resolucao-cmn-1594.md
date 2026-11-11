@@ -1,0 +1,47 @@
+---
+titulo: "Resolução Nº 1.594"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1594"
+data: 1989-03-29
+ementa: "ADIANTAMENTO A COOPERADOS - AMPLIACAO, DE 60 DIAS PARA 120 DIAS, DO PRAZO ESTABELECIDO PELA RESOLUCAO 1574, DE 25/01/89, DOS CREDITO DESTINADOS A ADIANTAMENTOS A COOPERADOS, VINCULADOS RESPECIFICAMENTE A COBERTURA DE HORTIFRUTIGRANJEIROS, E DE LEITE."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2927/2002 DOU 21/01/2002 PAG 25 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2927/2002"]
+referencias: ["LEI 4595/64 ART/9.    LEI 4595/64 ART/4 ITEM/VI.", "LEI 4829/65 ART/4 ART/14.   CITA RESOLUÇÃO CMN 1574/89."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1594"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.594
+
+```
+                        RESOLUCAO N. 001594
+                        -------------------
+
+         O  BANCO CENTRAL DO BRASIL, na forma do artigo 9. da Lei  n.
+4.595,  de 31.12.64, torna público que o CONSELHO MONETÁRIO NACIONAL,
+em  sessão  realizada nesta data, tendo em vista  as  disposições  do
+artigo  4., inciso VI, da citada Lei, dos artigos 4. e 14 da  Lei  n.
+4.829, de 05.11.65,
+
+R E S O L V E U:
+
+         I   -   Determinar  que  o  prazo  de  60  (sessenta)   dias
+estabelecido pela Resolução n. 1.574, de 25.01.89, para  os  créditos
+destinados a adiantamentos a cooperados, vinculados especificamente à
+cobertura de hortifrutigranjeiros e de leite, fica ampliado para  120
+(cento e vinte) dias.
+
+         II  -  Delegar competência ao Banco Central para  baixar  as
+instruções complementares necessárias à execução desta Resolução.
+
+         III  -  Estabelecer que esta Resolução entrará em  vigor  na
+data de sua publicação.
+
+                             Brasília-DF, 29 de março de 1989
+
+                             Wadico Waldir Bucchi
+                             Presidente em exercício
+```

@@ -1,0 +1,277 @@
+---
+titulo: "Resolução Nº 3.028"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3028"
+data: 2002-10-24
+ementa: "Dispõe sobre direcionamento dos Recursos Obrigatórios (MCR 6-2) do crédito rural."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 3083/2003 DOU 26/06/2003 PAG 19 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2996/2002", "RESOLUÇÃO 3083/2003", "RESOLUÇÃO 3066/2003"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/VI.", "LEI 4829/65 ART/4 ART/14.", "CITA RESOLUÇÃO CMN 3012/2002.", "CITA MCR 6/2, 3/4/2/6.", "ALTERA RESOLUÇÃO CMN 2996/2002 ART/3.", "ALTERA MCR 3/2."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3028"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.028
+
+```
+                        RESOLUCAO N. 003028
+                        -------------------
+
+                                          Dispõe sobre direcionamento
+                                          dos  Recursos  Obrigatórios
+                                          (MCR 6-2) do crédito rural.
+
+         O BANCO CENTRAL DO BRASIL, na forma do art. 9º da Lei 4.595,
+de  31  de  dezembro de 1964, torna público que o CONSELHO  MONETÁRIO
+NACIONAL,  em  sessão realizada em 24 de outubro de  2002,  tendo  em
+vista as disposições dos arts. 4º, inciso VI, da referida lei, e 4º e
+14 da Lei 4.829, de 5 de novembro de 1965,
+
+R E S O L V E U:
+
+          Art. 1º  Autorizar a inclusão do café entre os produtos que
+podem ser:
+
+         I - beneficiados com o desconto de Duplicata Rural (DR) e de
+Nota Promissória Rural (NPR), dentro do limite adicional de 5% (cinco
+por cento) das exigibilidades do MCR 6-2;
+
+         II - amparados com a modalidade de custeio alongado.
+
+         Art.  2º  Em conseqüência do disposto no art. 1º, inciso  I,
+fica  alterado o art. 3º da Resolução 2.996, de 3 de julho  de  2002,
+com a redação dada pela Resolução 3.012, de 28 de agosto de 2002, que
+passa a vigorar com a seguinte redação:
+
+         "Art.   3º    Até   5%  (cinco  por  cento)   dos   Recursos
+    Obrigatórios  (MCR  6-2)  podem ser aplicados   em  operações  de
+    desconto  (MCR  3-4-2-"b")  e em créditos  de  custeio  agrícola,
+    independentemente  de limites por tomador/produto.
+
+         Parágrafo  único.   O limite de que trata este  artigo  pode
+    ser  elevado  para  10%  (dez  por  cento)   desde  que  o  valor
+    adicional seja aplicado na comercialização:
+
+         I  -  de algodão, arroz e trigo e o vencimento das operações
+    não exceda 30 de setembro de cada ano;
+
+         II - de café, frutas, camarão, milho e suínos, com vencimen-
+    to em qualquer época do ano." (NR)
+
+          Art.  3º   Encontram-se  anexas  as  folhas  necessárias  à
+atualização do Manual de Crédito Rural (MCR).
+
+         Art.  4º   Esta  resolução entra em vigor  na  data  de  sua
+publicação.
+
+                                   Brasília, 24 de outubro de 2002
+
+                                   Arminio Fraga Neto
+                                   Presidente
+
+TITULO  : CRÉDITO RURAL
+CAPÍTULO: Operações - 3
+SEÇÃO   : Créditos de Custeio - 2
+---------------------------------------------------------------------
+
+1 - O custeio classifica-se como:
+ a) custeio agrícola;
+ b) custeio pecuário;
+ c) custeio de beneficiamento ou industrialização.
+
+2 - O crédito de custeio pode destinar-se ao atendimento das despesas
+normais:
+ a)  do  ciclo  produtivo de lavouras periódicas, da  entressafra  de
+   lavouras   permanentes  ou  da  extração  de   produtos   vegetais
+   espontâneos,  incluindo  o  beneficiamento  primário  da  produção
+   obtida e seu armazenamento no imóvel rural ou em cooperativa;
+ b) de exploração pecuária;
+ c) de beneficiamento ou industrialização de produtos agropecuários.
+
+3 - Para efeitos de crédito de custeio, a apicultura, a avicultura, a
+ piscicultura   e   a   sericicultura  são  consideradas   exploração
+ pecuária.
+
+4  -  O  montante  de  créditos  de custeio  ao  amparo  de  recursos
+ controlados, para cada tomador, não acumulativo, em cada safra e  em
+ todo  o  Sistema Nacional de Crédito Rural (SNCR), fica sujeito  aos
+ seguintes limites e critérios:
+ a)  R$400.000,00  (quatrocentos  mil  reais),  quando  destinados  a
+   algodão;
+ b)  R$300.000,00 (trezentos mil reais), quando destinados a lavouras
+   irrigadas de arroz, feijão, mandioca, milho, sorgo ou trigo;
+ c)  R$250.000,00 (duzentos e cinqüenta mil reais), quando destinados
+   a milho;
+ d)  R$200.000,00 (duzentos mil reais), quando destinados a soja  nas
+   regiões Centro-Oeste e Norte, no Sul do Maranhão, no Sul do  Piauí
+   e na Bahia-Sul;
+ e) R$150.000,00 (cento e cinqüenta mil reais), quando destinados a:
+   I - amendoim, arroz, feijão, mandioca, sorgo ou trigo;
+   II - soja, nas demais regiões;
+   III - frutíferas;
+ f) R$100.000,00 (cem mil reais), quando destinados a café;
+ g)  R$60.000,00  (sessenta mil reais), quando  destinados  a  outras
+   operações de custeio agrícola ou pecuário.
+
+5  -  No caso de atividades exploradas sucessivamente, cujos períodos
+ de    safra   não   são   claramente   definidos   (hortigranjeiros,
+ suinocultura, avicultura, etc.), os limites estabelecidos para  cada
+ beneficiário   devem  ser  considerados  por  períodos   trimestrais
+ (janeiro/março, abril/junho, julho/setembro e outubro/dezembro).
+
+6  - Quando se tratar de custeio de lavouras irrigadas ou safrinha de
+ girassol, de milheto, de milho, de soja e de sorgo na região Centro-
+ Sul  do  País, ao amparo de recursos controlados, pode ser concedido
+ novo  crédito  ao produtor, independentemente do montante  utilizado
+ na safra de verão precedente.
+
+7  -  As  operações  ao  amparo de Recursos  Obrigatórios  (MCR  6-2)
+ destinadas ao financiamento de despesas de custeio da avicultura  de
+ corte  e  da  suinocultura exploradas sob regime de  parceria  ficam
+ limitadas  ao  valor do orçamento, plano ou projeto ou ao  resultado
+ da  multiplicação do número de parceiros criadores participantes  do
+ empreendimento assistido pelos valores abaixo, conforme  o  caso,  o
+ que for menor:
+ a) avicultura:
+   I -  R$22.500,00 (vinte e dois mil e quinhentos reais), quando  se
+     tratar de custeio de perus;
+   II  -  R$15.000,00 (quinze mil reais), quando se tratar de custeio
+     das demais aves;
+ b) suinocultura: R$22.500,00 (vinte e dois mil e quinhentos reais).
+
+8  -  O  saldo  das  aplicações  de cada  instituição  financeira  em
+ operações  destinadas ao financiamento  de despesas  de  custeio  da
+ avicultura  de  corte  e da suinocultura exploradas  sob  regime  de
+ parceria  não  pode  exceder  10% (dez por  cento)  dos  respectivos
+ Recursos Obrigatórios (MCR 6-2).
+
+9 -           O beneficiário pode obter financiamentos, ao amparo  de
+recursos controlados, para mais de um produto, desde que:
+ a) respeitado o limite de cada produto;
+ b)  o valor dos financiamentos não ultrapasse o limite fixado para o
+   produto que representar o maior aporte financeiro.
+
+10 -  Os  valores  dos  financiamentos de custeio de  milho  não  são
+    computados  para fins do limite previsto na alínea  "b"  do  item
+    anterior.
+
+11 - A liberação de recursos em créditos de custeio pode ser efetuada
+ em uma única parcela.
+
+12   -  Os  créditos  de  custeio  agrícola  devem  ser  formalizados
+ exclusivamente com base em orçamento, plano ou projeto.
+
+13 - O orçamento pode incluir verbas para:
+ a)  atendimento de pequenas despesas conceituadas como investimento,
+   desde  que  possam ser liquidadas com o produto da  exploração  no
+   mesmo  ciclo  (reparos  ou  reformas de  bens  de  produção  e  de
+   instalações,   aquisição  de  animais  de  serviço,  desmatamento,
+   destoca e similares);
+ b)  manutenção  do  beneficiário e de sua família, salvo  quando  se
+   tratar  de  grande  produtor (aquisição de  animais  destinados  à
+   produção   necessária  à  subsistência,  compra  de  medicamentos,
+   agasalhos,  roupas e utilidades domésticas, construção ou  reforma
+   de  instalações sanitárias e outros gastos indispensáveis ao  bem-
+   estar familiar).
+
+14  - A parcela do orçamento destinada à manutenção do produtor e  de
+ sua  família  não  pode  exceder o correspondente  a  R$100,00  (cem
+ reais) por mês, ficando limitada ainda a:
+ a)  15%  (quinze  por cento) do montante do crédito,  quando  houver
+   pagamento de mão-de-obra a terceiros;
+ b)  30%  (trinta por cento) da produção estimada, quando não  houver
+   pagamento de mão-de-obra.
+
+15  -  Admite-se  que  a cooperativa de crédito rural,  com  recursos
+ próprios,  conceda  a  pequeno  produtor  financiamento  isolado  de
+ custeio,  para compra de medicamentos, agasalhos, roupas, utilidades
+ domésticas  e satisfação de outros gastos fundamentais ao  bem-estar
+ familiar.
+
+16  -  As  despesas  de assistência técnica podem  ser  integralmente
+ financiadas como parcela adicional ao limite de financiamento.
+
+17  -  É  vedado o deferimento de crédito para atender despesas cujas
+ épocas  ou  ciclos de realização já tenham decorrido,  admitindo-se,
+ porém, considerar como recursos próprios os gastos já realizados.
+
+18   -   A   concessão  de  financiamento  para  custeio  de  lavoura
+ subseqüente, em áreas propiciadoras de duas ou mais safras  por  ano
+ agrícola,   não  deve  ser  condicionada  à  liquidação  do   débito
+ referente  ao  ciclo anterior, salvo se o tempo  entre  as  culturas
+ sucessivas   for  suficiente  ao  processo  de  comercialização   da
+ colheita.
+
+19 - O orçamento de custeio pecuário pode incluir verbas para limpeza
+ e   restauração  de  pastagens,  fenação,  silagem  e  formação   de
+ forragens  periódicas de ciclo não superior a 2  (dois)  anos,  para
+ consumo de rebanho próprio.
+
+20 - O crédito para custeio de beneficiamento ou industrialização:
+ a)  pode  ser  concedido  isoladamente ou como extensão  do  custeio
+   agrícola ou pecuário;
+ b)  só  pode  ser  deferido a cooperativa quando mais da  metade  da
+   matéria-prima  a  beneficiar  ou industrializar  for  de  produção
+   própria ou de associados.
+
+21 - O crédito de custeio pode ter como prazos máximos:
+ a) custeio agrícola: 2 (dois) anos;
+ b) custeio pecuário: 1 (um) ano;
+ c) custeio de beneficiamento ou industrialização: 2 (dois) anos.
+
+22   -   O   prazo  do  crédito  de  custeio  de  beneficiamento   ou
+ industrialização não pode ultrapassar 180 (cento e oitenta) dias  do
+ término  do  período de utilização nem o início da  safra  seguinte,
+ salvo em casos especiais, sob expressa justificativa.
+
+23  - O vencimento do crédito de custeio agrícola deve ser fixado por
+ prazo  não  superior a 90 (noventa) dias após o término da colheita,
+ ressalvado o disposto no item seguinte.
+
+24 - As operações destinadas ao financiamento de custeio dos produtos
+ a  seguir indicados, formalizadas ao amparo de recursos controlados,
+ devem ser pactuadas com previsão de reembolso:
+ a)  aveia,  café, canola, cevada, trigo e triticale:  em  5  (cinco)
+   parcelas  mensais,  iguais e sucessivas, vencendo  a  primeira  60
+   (sessenta) dias após a data prevista para a colheita;          (*)
+ b) algodão, arroz, milho e sorgo:
+   I -  no caso de lavouras colhidas até o final do mês de maio: em 5
+     (cinco)  parcelas  mensais,  iguais  e  sucessivas,  vencendo  a
+     primeira no mês de julho;
+   II  -  no  caso de lavouras colhidas no mês de junho: em 5 (cinco)
+     parcelas  mensais, iguais e sucessivas, vencendo a  primeira  60
+     (sessenta) dias após a data prevista para a colheita;
+   III  -  no  caso  de  lavouras colhidas no  segundo  semestre:  em
+     parcelas  mensais, iguais e sucessivas, vencendo a  primeira  60
+     (sessenta) dias após a data prevista para a colheita e a  última
+     em janeiro do ano subseqüente;
+ c)  soja:  em  parcelas  mensais, iguais e  sucessivas,  vencendo  a
+   primeira  60 (sessenta) dias após a data prevista para a  colheita
+   e a última:
+   I -   em  outubro,  no  caso  de  lavouras  colhidas  no  primeiro
+     semestre;
+   II  -  em janeiro do ano subseqüente, no caso de lavouras colhidas
+     no segundo semestre.
+
+25  -  O  penhor do financiamento de custeio deve vincular somente  a
+ produção  prevista para a área financiada, de forma  a  permitir  ao
+ produtor a obtenção de Empréstimos do Governo Federal (EGF)  para  a
+ produção  da mesma safra colhida em área não financiada, respeitados
+ os limites fixados para cada produto.
+
+26  -  Para  a  concessão de crédito de custeio devem ser  observadas
+ ainda,  quando for o caso, as normas especiais contidas no documento
+ 4  deste  manual, as quais prevalecem sobre as desta seção,  se  com
+ elas conflitantes.
+
+27  -  A instituição financeira deve exigir do proponente, no momento
+ da  formalização do crédito, declaração minuciosa, sob as  penas  da
+ lei,   a   respeito  do  montante  de  crédito  obtido   em   outras
+ instituições ao amparo dos recursos controlados do crédito rural.
+
+---------------------------------------------------------------------
+Obs.: retransmitida em função de retificação no art. 2º.
+```

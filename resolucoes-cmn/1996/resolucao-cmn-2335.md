@@ -1,0 +1,163 @@
+---
+titulo: "Resolução Nº 2.335"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "2335"
+data: 1996-11-13
+ementa: "Altera disposições da Resolução nº 2.121, de 30.11.94, que regulamenta a Taxa de Juros de Longo Prazo (TJLP)."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2587/98 DOU 31/12/1998 PAG 25 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2587/98", "RESOLUÇÃO 2161/95", "RESOLUÇÃO 2121/94"]
+referencias: ["LEI 4595/64 ART/9.", "MP 1471-25/96.", "ALTERA RESOLUÇÃO CMN 2121/94 ART/2 PARAG/2 ITEM/II.", "ALTERA RESOLUÇÃO CMN 2121/94 ART/4.", "ALTERA RESOLUÇÃO CMN 2121/94 ART/6 ITEM/I ITEM/II.", "REVOGA RESOLUÇÃO CMN 2161/95."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=2335"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 2.335
+
+```
+                        RESOLUCAO N. 002335
+                        -------------------
+
+                              Altera   disposições  da  Resolução  nº
+                              2.121,  de 30.11.94, que regulamenta  a
+                              Taxa de Juros de Longo Prazo (TJLP).
+
+               O  BANCO CENTRAL DO BRASIL, na forma do art. 9º da Lei
+nº  4.595, de 31.12.64, torna público que o Conselho Monetário Nacio-
+nal,  em  sessão realizada em 12.11.96, tendo em vista o disposto  na
+Medida Provisória nº 1.471-25, de 24.10.96,
+
+R E S O L V E U:
+
+               Art.  1º  Alterar o inciso II do art. 2º da  Resolução
+nº 2.121, de 30.11.94, que passa a vigorar com a seguinte redação:
+
+     "II - Títulos da Dívida Pública Mobiliária Interna Federal:
+
+           Notas  do Tesouro Nacional - NTN, série "D"; Outros  títu-
+           los, a critério do Banco Central do Brasil.".
+
+               Art.  2º   Alterar o  parágrafo 2º  do  art.   2º   da
+Resolução  nº 2.121, de 30.11.94, que passa a  vigorar com a seguinte
+redação:
+
+     "Parágrafo 2º Somente poderão integrar a base de cálculo da TJLP
+os  Títulos  da Dívida Externa com prazo de resgate mínimo de 1  (um)
+ano  e os Títulos da Dívida Pública Interna Federal com prazo de res-
+gate igual ou superior a 6 (seis) meses.".
+
+               Art.  3º  Alterar  o  art 4º  da  Resolução  nº 2.121,
+de 30.11.94, que passa a vigorar com a seguinte redação:
+
+     "Art. 4º O período de apuração da TJLP será trimestral, com iní-
+cio no dia 16 (dezesseis) do quarto mês anterior ao início de sua vi-
+gência e final no dia 15 (quinze) do mês imediatamente anterior, con-
+sideradas  para os Títulos da Dívida Pública Mobiliária Interna Fede-
+ral, as ofertas públicas liquidadas no período.".
+
+               Art.  4º  Alterar  os incisos I e II do art. 6º da Re-
+solução nº 2.121, de 30.11.94, que passa a vigorar com a seguinte re-
+dação:
+
+     "I  - cálculo da rentabilidade média anual dos Títulos da Dívida
+Pública Externa:
+
+                        n
+                        S  (TYDEij)
+                 K     j=1
+                 S  (( --------------- ) . (SDPi) . (1/PMRi))
+                i=1           N
+     a) MTYDE = -------------------------------------------------
+                            S ((SDPi) . (1/PMRi))
+
+                       MTYDE        2
+     b) TDE = ((1+ ---------------- )   - 1 ) . 100
+                      2 x 100
+
+          onde:
+
+          MTYDE = taxa  média de rentabilidade dos Títulos da  Dívida
+                  Pública Externa, em moeda estrangeira;
+
+           TYDE = "Yield to maturity" do Título, expressa ao ano;
+
+            SDP = saldo  devedor de principal do Título, no início do
+                  período de apuração;
+
+            PMR = prazo médio restante do Título;
+
+              j = dia observado;
+
+              n = número de dias com cotações disponíveis;
+
+              K = Títulos  da  Dívida Pública Externa componentes  da
+                  base de cálculo da TJLP;
+
+            TDE = taxa  média de rentabilidade dos Títulos da  Dívida
+                  Pública Externa, em moeda nacional, tomando em con-
+                  ta a taxa de câmbio de paridade;
+
+              S = somatório.
+
+      II - cálculo da rentabilidade media anual dos Títulos da Dívida
+Pública Mobiliária Interna Federal:
+
+       n                 DCi/360           360/DCi
+       S ((((1 + JRi/100)    .  (1 + AVNi))       -1) . 100.PRi.Vi)
+      i=1
+TDI = --------------------------------------------------------------
+                            n
+                            S PRi.Vi
+                           i=1
+
+          onde:
+
+            TDI = taxa  média de rentabilidade dos Títulos da  Dívida
+                  Pública Mobiliária Interna Federal;
+
+            JRi = juros reais médios, expressos ao ano, observados no
+                  "i-ésimo" leilão ocorrido dentro do período de apu-
+                  ração da TJLP;
+
+              n = número  de ofertas públicas de Títulos Públicos Fe-
+                  derais  de  longo prazo consideradas no período  de
+                  apuração da TJLP;
+
+            DCi = número  de  dias   entre  a  data   da   liquidação
+                  "i-ésima" oferta pública e a  data final do período
+                  de apuração da TJLP, inclusive;
+
+            PRi = prazo, em dias,  entre o dia seguinte ao término do
+                  período de  apuração e o do vencimento do "i-ésimo"
+                  Título;
+
+             Vi = volume colocado da oferta pública de Títulos Públi-
+                  cos Federais;
+
+           AVNi = atualização  do valor nominal do Título "i", obser-
+                  vada  no  período  de apuração, tomando  em  conta,
+                  quando pertinente, a taxa de câmbio de paridade;
+
+              S = somatório.".
+
+               Art.  5º  Fica  o Banco Central do Brasil autorizado a
+adotar  as medidas que julgar necessárias para implementação do  dis-
+posto nesta Resolução.
+
+               Art.  6º  Esta Resolução entra em vigor na data de sua
+publicação.
+
+               Art.  7º  Fica  revogada  a  Resolução  nº   2.161, de
+31.05.95.
+
+                              Brasília, 13 de novembro de 1996
+
+                              Gustavo Jorge Laboissière Loyola
+                              Presidente
+
+----------------------------------
+Obs.: Retransmitida em virtude de alteração no art. 4º, na definição
+      do "PRi".
+```

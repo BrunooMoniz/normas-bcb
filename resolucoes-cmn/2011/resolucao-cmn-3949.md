@@ -1,0 +1,135 @@
+---
+titulo: "Resolução Nº 3.949"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3949"
+data: 2011-02-11
+ementa: "Institui linha emergencial de crédito de custeio para financiamento das unidades familiares de produção enquadradas no Pronaf, autoriza a contratação de operação de investimento ao amparo do Pronaf Mais Alimentos e dispensa o pagamento dos juros para efeito da renegociação de que trata a Seção 5 do Capítulo 10 do Manual de Crédito Rural (MCR), em favor dos agricultores familiares atingidos pelo excesso de chuvas no estado do Rio de Janeiro."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 14/2/2011, Seção 1, p. 19."
+atualizacoes: ["Resolução CMN nº 4.999/2022 - Revogação total, a partir de 2/5/2022."]
+normas_vinculadas: ["RESOLUÇÃO CMN 4999/2022"]
+referencias: ["Lei nº 4.595/1964, arts. 4º, inciso VI, e 9º.", "Lei nº 4.829/1965, arts. 4º e 14.", "Cita 10-18-1.", "Inclui MCR 10-5-19."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3949"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.949
+
+```
+                        RESOLUCAO N. 003949
+                        -------------------
+
+                                 Institui   linha   emergencial    de
+                                 crédito     de     custeio      para
+                                 financiamento      das      unidades
+                                 familiares  de produção  enquadradas
+                                 no Pronaf, autoriza a contratação de
+                                 operação  de investimento ao  amparo
+                                 do  Pronaf Mais Alimentos e dispensa
+                                 o  pagamento  dos juros para  efeito
+                                 da  renegociação  de  que  trata   a
+                                 Seção 5 do Capítulo 10 do Manual  de
+                                 Crédito  Rural (MCR), em  favor  dos
+                                 agricultores  familiares   atingidos
+                                 pelo excesso de chuvas no estado  do
+                                 Rio de Janeiro.
+
+         O  Banco  Central do Brasil, na forma do art. 9º da  Lei  nº
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  Conselho
+Monetário  Nacional,  em sessão extraordinária  realizada  em  11  de
+fevereiro de 2011, tendo em vista as disposições dos arts. 4º, inciso
+VI,  da  Lei  nº  4.595, de 1964, 4º e 14 da Lei nº 4.829,  de  5  de
+novembro de 1965,
+
+         R E S O L V E U:
+
+         Art.  1º  Fica instituída linha emergencial de crédito  para
+financiamento  das  unidades familiares de  produção  enquadradas  no
+Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf),
+observadas as normas gerais de crédito rural e as seguintes condições
+especiais:
+
+         I  -  beneficiários:  agricultores  familiares  que  tiveram
+perda  de renda, comprovada por laudo técnico individual ou coletivo,
+em   decorrência  de  excesso  de  chuvas  ou  enxurradas,   e   suas
+consequências,  ocorrido nos municípios no estado do Rio  de  Janeiro
+que  tenham decretado, entre os dias 26 de novembro de 2010 e  31  de
+janeiro  de  2011,  em  função das citadas intempéries,  situação  de
+emergência  ou  estado de calamidade pública, com  reconhecimento  do
+governo estadual;
+
+         II  - finalidades: custeio de atividades agropecuárias e não
+agropecuárias  desenvolvidas no estabelecimento  rural  ou  em  áreas
+comunitárias rurais próximas, de atividades que sejam compatíveis com
+o  melhor  emprego  da  mão  de obra familiar  no  meio  rural,  como
+implantação, ampliação ou modernização da infraestrutura de  produção
+e  prestação  de  serviços agropecuários e não  agropecuários,  e  de
+qualquer demanda que possa gerar renda para a família, observados  as
+propostas  ou  planos  simples  específicos,  facultado  ao  mutuário
+utilizar  o  financiamento  em todas ou  em  algumas  das  atividades
+listadas na proposta simplificada de crédito;
+
+         III  -  limite: até R$2.000,00 (dois mil reais) por  unidade
+familiar,  em  operação única, independente dos limites estabelecidos
+para outras modalidades de crédito no âmbito do Pronaf;
+
+         IV  -  encargos financeiros: taxa efetiva de juros  de  0,5%
+a.a. (cinco décimos por cento ao ano);
+
+         V - prazo de reembolso: até 2 (dois) anos;
+
+         VI  -  remuneração da instituição financeira: 6% a.a.  (seis
+por cento ao ano) sobre os saldos devedores;
+
+         VII  -  fonte e volume de recursos: Orçamento Geral da União
+(OGU)  -  Operações  Oficiais de Crédito (OOC):  até  R$13.000.000,00
+(treze milhões de reais);
+
+         VIII - período de contratação: até 30 de dezembro de 2011;
+
+         IX - risco da operação: da União.
+
+         Art.  2º   Fica  autorizada,  excepcionalmente,  até  30  de
+ dezembro  de 2011, a concessão de crédito rural ao amparo  da  linha
+ de  crédito Pronaf Mais Alimentos, de que trata o item 1 da Seção 18
+ do  Capítulo  10  do  Manual  de Crédito Rural  (MCR),  também  para
+ investimentos  em  projetos  de  reconstrução  e  revitalização  das
+ unidades  familiares  de  produção  que  tiveram  perda  de   renda,
+ comprovada  por laudo técnico individual ou coletivo, em decorrência
+ de  excesso de chuvas ou enxurradas, e suas consequências,  ocorrido
+ nos  municípios  do estado do Rio de Janeiro, que tenham  decretado,
+ em  função das citadas intempéries, entre os dias 26 de novembro  de
+ 2010  e  31 de janeiro de 2011, situação de emergência ou estado  de
+ calamidade pública, com reconhecimento do governo estadual.
+
+         Art. 3º  A Seção 5 do Capítulo 10 do Manual de Crédito Rural
+ (MCR) passa a vigorar acrescida do seguinte item 19:
+
+            "19  -  Fica dispensada, até 31 de dezembro de  2011,
+             a  exigência  de que trata a alínea "c"  do  item  8
+             para as operações renegociadas, na forma do item  8,
+             por  agricultores  familiares que tiveram  perda  de
+             renda,  comprovada por laudo técnico  individual  ou
+             coletivo,  em  decorrência de excesso de  chuvas  ou
+             enxurradas,  e  suas  consequências,  ocorrido   nos
+             municípios  do estado do Rio de Janeiro  que  tenham
+             decretado, em função das citadas intempéries,  entre
+             os  dias  26 de novembro de 2010 e 31 de janeiro  de
+             2011,   situação   de  emergência   ou   estado   de
+             calamidade  pública, com reconhecimento  do  governo
+             estadual." ( NR)
+
+         Art.  4º   Esta  resolução entra em vigor  na  data  de  sua
+publicação.
+
+                                   Brasília, 11 de fevereiro de 2011.
+
+                      Alexandre Antonio Tombini
+                             Presidente
+
+---------------------------------------------------------------------
+Obs.: Republicada para substituição da palavra contração por  contra-
+      tação, citada na ementa.
+```

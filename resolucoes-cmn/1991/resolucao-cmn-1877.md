@@ -1,0 +1,150 @@
+---
+titulo: "Resolução Nº 1.877"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1877"
+data: 1991-10-22
+ementa: "Altera dispositivos dos regulamentos que disciplinam a constituição, o funcionamento e a administração de sociedades de investimento - capital estrangeiro, fundos de investimento – capital estrangeiro e carteiras de títulos e valores mobiliários mantidas no país por entidades mencionadas no art. 2º do Decreto- Lei nº 2.285, de 23.07.86."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 23/10/1991, p. 23.307. "
+atualizacoes: ["Resolução CMN nº 4.962/2021 - Revogação total, a partir de 1º/11/2021."]
+normas_vinculadas: ["RESOLUÇÃO CMN 4962/2021", "RESOLUÇÃO 1832/1991", "RESOLUÇÃO 1658/1989", "RESOLUÇÃO 1289/1987", "CIRCULAR 2182/1992"]
+referencias: ["Lei nº 4.595/1964, art. 9º.", "Lei nº 8.056/1990, art. 2º, § 2º.", "Lei nº 8.201/1991.", "Leis ns. 4.728/1965e 6.385/1976.", "Decretos-lei ns. 1.986/1982 e 2.285/1986.", "Resolução CMN nº 1.832/1991.", "Altera Resolução CMN nº 1.289/1987- Dá nova redação ao Regulamento Anexo I: art. 45, renumera parágrafo único como § 4º; Regulamento Anexo II, art. 42, renumera § 1º como § 5º, e § 2º como § 4º. Inclui: Regulamento Anexo I, art. 45, §§ 1º, 2º e 3º; Regulamento Anexo I, art. 49, parágrafo único; Regulamento Anexo II, art. 42, §§ 1º, 2º e 3º; Regulamento Anexo II, art. 44, parágrafo único; Regulamento Anexo III, art. 29, parágrafo único. Revoga: Regulamento Anexo I, art. 30; Regulamento Anexo II, art. 32; Regulamento Anexo III, art. 27.", "Cita Resolução CMN nº 1.658/1989, item III."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1877"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.877
+
+```
+                        RESOLUCAO N. 001877
+                        -------------------
+
+                              ALTERA  DISPOSITIVOS  DOS  REGULAMENTOS
+                              QUE  DISCIPLINAM A CONSTITUIÇÃO, O FUN-
+                              CIONAMENTO  E A ADMINISTRAÇÃO DE SOCIE-
+                              DADES DE INVESTIMENTO - CAPITAL ESTRAN-
+                              GEIRO, FUNDOS DE INVESTIMENTO - CAPITAL
+                              ESTRANGEIRO  E  CARTEIRAS DE TÍTULOS  E
+                              VALORES  MOBILIÁRIOS  MANTIDAS NO  PAÍS
+                              POR ENTIDADES MENCIONADAS NO ART. 2º DO
+                              DECRETO-LEI Nº 2.285, DE 23.07.86.
+
+                    O BANCO CENTRAL DO BRASIL, NA FORMA DO ART. 9º DA
+LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE O PRESIDENTE DO CONSELHO
+MONETÁRIO  NACIONAL, POR ATO DE 18.10.91, COM BASE NO PARÁGRAFO 2º DO
+ART. 2º DA LEI Nº 8.056, DE 28.06.90, E NA LEI Nº 8.201, DE 29.06.91,
+"AD  REFERENDUM"  DAQUELE CONSELHO, E TENDO EM VISTA O  DISPOSTO  NAS
+LEIS  NºS 4.728, DE 14.07.65, E 6.385, DE 07.12.76, NOS  DECRETOS-LEI
+NºS  1.986,  DE  28.12.82, E 2.285, DE 23.07.86, E  NA  RESOLUÇÃO  Nº
+1.832, DE 31.05.91,
+
+R E S O L V E U:
+
+                   ART.  1º. ACRESCENTAR  OS  SEGUINTES  DISPOSITIVOS
+AOS  REGULAMENTOS  ANEXOS  I,  II  E III À  RESOLUÇÃO  Nº  1.289,  DE
+20.03.87, QUE DISCIPLINAM, RESPECTIVAMENTE, A CONSTITUIÇÃO, O FUNCIO-
+NAMENTO E A ADMINISTRAÇÃO DE SOCIEDADES DE INVESTIMENTO - CAPITAL ES-
+TRANGEIRO,  FUNDOS DE INVESTIMENTO - CAPITAL ESTRANGEIRO E  CARTEIRAS
+DE  TÍTULOS E VALORES MOBILIÁRIOS MANTIDAS NO PAÍS POR ENTIDADES MEN-
+CIONADAS NO ART. 2º DO DECRETO-LEI Nº 2.285, DE 23.07.86:
+
+                    I  - PARÁGRAFOS 1º, 2º E 3º AO ART. 45 DO REGULA-
+MENTO ANEXO I, PASSANDO O PARÁGRAFO ÚNICO A SER 4º:
+
+                   "ART. 45. .......................................
+
+                    PARÁGRAFO 1º. NÃO ESTARÁ SUJEITA AOS CRITÉRIOS DE
+DIVERSIFICAÇÃO  DE QUE TRATA ESTE ARTIGO A SOCIEDADE QUE, PREVIAMENTE
+E  NOS TERMOS DA RESOLUÇÃO Nº 1.832, DE 31.05.91, E NORMAS COMPLEMEN-
+TARES  BAIXADAS  PELA COMISSÃO DE VALORES MOBILIÁRIOS, COMPROVAR  QUE
+TODOS  OS SEUS ACIONISTAS SÃO INVESTIDORES INSTITUCIONAIS, TAIS  COMO
+FUNDOS  DE  PENSÃO, CARTEIRAS PRÓPRIAS DE  INSTITUIÇÕES  FINANCEIRAS,
+COMPANHIAS  SEGURADORAS E FUNDOS MÚTUOS DE INVESTIMENTO  CONSTITUÍDOS
+NO EXTERIOR.
+
+                    PARÁGRAFO  2º. OCORRENDO A HIPÓTESE DE QUE  TRATA
+O  PARÁGRAFO 1º DESTE ARTIGO, QUALQUER ALTERAÇÃO  NA RELAÇÃO DE ACIO-
+NISTAS DA SOCIEDADE DEVERÁ SER IMEDIATAMENTE COMUNICADA À COMISSÃO DE
+VALORES  MOBILIÁRIOS,  ACOMPANHADA,  NO CASO DE INGRESSO  DE  NOVO(S)
+ACIONISTA(S),  DA QUALIFICAÇÃO RESPECTIVA, NOS TERMOS DAS NORMAS BAI-
+XADAS PELA REFERIDA COMISSÃO.
+
+                    PARÁGRAFO 3º. A INOBSERVÂNCIA DO DISPOSTO NOS PA-
+RÁGRAFOS  1º E 2º DESTE ARTIGO ACARRETARÁ, RELATIVAMENTE À SOCIEDADE,
+A  PERDA AUTOMÁTICA E DEFINITIVA DO DIREITO AO TRATAMENTO DE  EXCEÇÃO
+DE QUE TRATA O PARÁGRAFO 1º ANTERIOR."
+
+                   II  -  PARÁGRAFO ÚNICO AO ART. 49  DO  REGULAMENTO
+ANEXO I:
+
+                   "ART. 49. .......................................
+
+                    PARÁGRAFO  ÚNICO. EXCETUAM-SE  DO  DISPOSTO NESTE
+ARTIGO  OS CASOS EM QUE HOUVER PRÉVIA E EXPRESSA ANUÊNCIA DE TODOS OS
+ACIONISTAS DA SOCIEDADE."
+
+                  III  - PARÁGRAFOS 1º, 2º E 3º AO ART. 42 DO REGULA-
+MENTO  ANEXO  II, MODIFICADO PELO ITEM III DA RESOLUÇÃO Nº 1.658,  DE
+26.10.89, PASSANDO O PARÁGRAFO 1º A SER 5º E O PARÁGRAFO 2º A SER 4º:
+
+                   "ART. 42. .......................................
+
+                    PARÁGRAFO 1º. NÃO ESTARÁ SUJEITO AOS CRITÉRIOS DE
+DIVERSIFICAÇÃO  DE  QUE TRATA ESTE ARTIGO O FUNDO QUE, PREVIAMENTE  E
+NOS  TERMOS DA RESOLUÇÃO Nº 1.832, DE 31.05.91, E NORMAS COMPLEMENTA-
+RES  BAIXADAS PELA COMISSÃO DE VALORES MOBILIÁRIOS, COMPROVAR QUE TO-
+DOS  OS  SEUS CONDÔMINOS SÃO INVESTIDORES INSTITUCIONAIS,  TAIS  COMO
+FUNDOS  DE  PENSÃO, CARTEIRAS PRÓPRIAS DE  INSTITUIÇÕES  FINANCEIRAS,
+COMPANHIAS  SEGURADORAS E FUNDOS MÚTUOS DE INVESTIMENTO  CONSTITUÍDOS
+NO EXTERIOR.
+
+                    PARÁGRAFO  2º. OCORRENDO A HIPÓTESE DE QUE  TRATA
+O PARÁGRAFO 1º DESTE  ARTIGO, QUALQUER  ALTERAÇÃO  NA RELAÇÃO DE QUO-
+TISTAS DO FUNDO DEVERÁ SER IMEDIATAMENTE COMUNICADA À COMISSÃO DE VA-
+LORES MOBILIÁRIOS, ACOMPANHADA, NO CASO DE INGRESSO DE NOVO(S) CONDÔ-
+MINO(S),  DA QUALIFICAÇÃO RESPECTIVA, NOS TERMOS DAS NORMAS  BAIXADAS
+PELA REFERIDA COMISSÃO.
+
+                    PARÁGRAFO 3º. A INOBSERVÂNCIA DO DISPOSTO NOS PA-
+RÁGRAFOS  1º E 2º DESTE ARTIGO ACARRETARÁ, RELATIVAMENTE AO FUNDO,  A
+PERDA  AUTOMÁTICA E DEFINITIVA DO DIREITO AO TRATAMENTO DE EXCEÇÃO DE
+QUE TRATA O PARÁGRAFO 1º ANTERIOR."
+
+                   IV  -  PARÁGRAFO ÚNICO AO ART. 44  DO  REGULAMENTO
+ANEXO II:
+
+                   "ART. 44. .......................................
+
+                    PARÁGRAFO  ÚNICO. EXCETUAM-SE DO DISPOSTO NO ITEM
+VII, ALÍNEA "C", DESTE ARTIGO OS CASOS EM QUE HOUVER PRÉVIA E EXPRES-
+SA ANUÊNCIA DE TODOS OS CONDÔMINOS DO FUNDO."
+
+                    V  - PARÁGRAFO ÚNICO AO ART.  29  DO  REGULAMENTO
+ANEXO III:
+
+                   "ART. 29. .......................................
+
+                    PARÁGRAFO ÚNICO. EXCETUAM-SE  DO DISPOSTO NO ITEM
+VII DESTE ARTIGO OS CASOS EM QUE HOUVER PRÉVIA E EXPRESSA ANUÊNCIA DE
+TODOS  OS PARTICIPANTES DA ENTIDADE AUTORIZADA A CONSTITUIR, NO PAÍS,
+CARTEIRA DE TÍTULOS E VALORES  MOBILIÁRIOS  NA FORMA DESTE REGULAMEN-
+TO."
+
+                   ART.  2º. REVOGAR OS ARTS. 30 DO REGULAMENTO ANEXO
+I, 32 DO REGULAMENTO ANEXO II E 27 DO REGULAMENTO ANEXO III À RESOLU-
+ÇÃO Nº 1.289, DE 20.03.87.
+
+                   ART.  3º. A COMISSÃO DE VALORES MOBILIÁRIOS PODERÁ
+BAIXAR  AS  NORMAS E ADOTAR AS MEDIDAS QUE SE FIZEREM  NECESSÁRIAS  À
+EXECUÇÃO DO DISPOSTO NESTA RESOLUÇÃO.
+
+                   ART.  4º. ESTA RESOLUÇÃO ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                            BRASÍLIA (DF), 22 DE OUTUBRO DE 1991
+
+                            FRANCISCO ROBERTO ANDRÉ GROS
+                            PRESIDENTE
+```

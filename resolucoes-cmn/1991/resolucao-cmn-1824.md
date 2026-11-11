@@ -1,0 +1,181 @@
+---
+titulo: "Resolução Nº 1.824"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1824"
+data: 1991-05-14
+ementa: "DIVULGA CONDIÇÕES PARA FINANCIAMENTOS DE CUSTEIO DE TRIGO, TRITICALE E CEVADA - SAFRA 1991."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2535/98 DOU 27/08/1998 PAG 31 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2535/98", "RESOLUÇÃO 1817/91", "RESOLUÇÃO 1821/91"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 8056/90 ART/2 PARAG/2.", "LEI 8127/90.", "LEI 4595/64 ART/4 ITEM/VI.", "LEI 4829/65 ART/4 ART/14.", "ALTERA RESOLUÇÃO CMN 1817/91 1821/91."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1824"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.824
+
+```
+                        RESOLUCAO N. 001824
+                        -------------------
+
+                              DIVULGA  CONDIÇÕES PARA  FINANCIAMENTOS
+                              DE CUSTEIO DE TRIGO, TRITICALE E CEVADA
+                              - SAFRA 1991.
+
+                    O BANCO CENTRAL DO BRASIL, NA FORMA DO ART. 9º DA
+LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE A PRESIDENTE DO CONSELHO
+MONETÁRIO  NACIONAL, POR ATO DE 06.05.91, COM BASE NO PARÁGRAFO 2º DO
+ART. 2º DA LEI Nº 8.056, DE 28.06.90, E NA LEI Nº 8.127, DE 20.12.90,
+"AD  REFERENDUM" DAQUELE CONSELHO, E TENDO EM VISTA AS DISPOSIÇÕES DO
+ART.  4º,  INCISO VI, DA CITADA LEI Nº 4.595, E DOS ARTS. 4º E 14  DA
+LEI Nº 4.829, DE 05.11.65,
+
+R E S O L V E U:
+
+                    ART.  1º. FICAM  ELEVADOS  OS  VALORES BÁSICOS DE
+CUSTEIO  (VBC)  PARA AS LAVOURAS DE TRIGO, TRITICALE E CEVADA,  SAFRA
+DE  INVERNO  1991, DIVULGADOS PELAS RESOLUÇÕES NºS 1.817 E 1.821,  DE
+15.04.91 E 24.04.91, CONFORME FOLHAS ANEXAS.
+
+                    ART.  2º. OS CRÉDITOS JÁ FORMALIZADOS COM BASE NO
+VBC  ANTERIOR PODEM SER COMPLEMENTADOS, ADMITINDO-SE AMPARAR NO PROA-
+GRO  OS NOVOS VALORES CONTRATADOS, MEDIANTE COMPLEMENTAÇÃO DO ADICIO-
+NAL  NO ATO DA FORMALIZAÇÃO DOS ADITIVOS OU, SE AINDA NÃO LIBERADA  A
+PRIMEIRA PARCELA DO CRÉDITO, NO ATO DA LIBERAÇÃO.
+
+                    ART.  3º. FICA  AUTORIZADA A OPÇÃO  ENTRE O VBC E
+ORÇAMENTO PRÓPRIO, INDEPENDENTEMENTE DO PORTE DO PRODUTOR OU COOPERA-
+TIVA, QUANDO NÃO SE TRATAR DE OPERAÇÃO AMPARADA EM RECURSOS DA EXIGI-
+BILIDADE DO MCR 6-2.
+
+                    ART. 4º. NA HIPÓTESE DE OPÇÃO POR ORÇAMENTO:
+
+                    I  - O ADICIONAL  DO PROAGRO INCIDIRÁ SOBRE O VA-
+LOR ENQUADRADO ATÉ O LIMITE DO VBC;
+
+                   II  - A EVENTUAL COBERTURA DO PROAGRO SERÁ APURADA
+NA FORMA REGULAMENTAR E REDUZIDA PROPORCIONALMENTE AO VALOR DO VBC;
+
+                  III - O DISPOSTO NOS ITENS ANTERIORES NÃO SE APLICA
+A  OPERAÇÕES  JÁ  CONTRATADAS   COM BASE NA RESOLUÇÃO  Nº  1.817,  DE
+15.04.91.
+
+                    ART.  5º. ESTA  RESOLUÇÃO  ENTRA EM VIGOR NA DATA
+DE SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 14 DE MAIO DE 1991.
+
+                              GUSTAVO JORGE LABOISSIÈRE LOYOLA
+                              PRESIDENTE, EM EXERCÍCIO
+
+          ANEXO À RESOLUÇÃO Nº 1.824, DE 14 DE MAIO DE 1991
+
+      VALOR BÁSICO DE CUSTEIO (VBC) E CALENDÁRIO DE LIBERAÇÕES
+                             SAFRA 1991
+                        FOLHA I - (PARTE 1/2)
+===================================================================
+                                 PRODUTIVIDADE    VALOR  BÁSICO  DE
+PRODUTO/ÁREA DE     NÍVEL   DE        DE            CUSTEIO  (VBC)
+ABRANGÊNCIA         REFERÊNCIA   REFERÊNCIA       -----------------
+                                    (KG/HA)               CR$/HA
+-------------------------------------------------------------------
+TRIGO DE SEQUEIRO
+ESTADOS: PR, SP E MS     1            1.100               23.640,00
+                         2            1.620               39.960,00
+
+ESTADOS: RS E SC         1            1.100               23.640,00
+                         2            1.620               39.960,00
+-------------------------------------------------------------------
+TRIGO IRRIGADO
+TODO TERRITÓRIO          3            3.000               59.640,00
+NACIONAL
+-------------------------------------------------------------------
+TRITICALE
+ESTADOS: PR,SP E MS      1            1.100               21.276,00
+                         2            1.620               35.964,00
+
+ESTADOS: RS E SC         1            1.100               21.276,00
+                         2            1.620               35.964,00
+-------------------------------------------------------------------
+SEMENTE DE TRIGO E
+TRITICALE
+                         1            1.100               25.058,40
+                         2            1.620               43.556,40
+                         3            3.000               65.007,60
+===================================================================
+OBS: REAJUSTE DE 20%
+
+                        FOLHA I - (PARTE 2/2)
+                             LIBERAÇÕES
+===================================================================
+PRODUTO/ÁREA DE          1A.               2A.             3A.
+ABRANGÊNCIA      NIV --------------- --------------- --------------
+                 REF CR$/HA A PARTIR CR$/HA A PARTIR CR$/HA A PARTIR
+                               DE               DE              DE
+-------------------------------------------------------------------
+TRIGO DE SEQUEIRO
+ESTADOS: PR, SP E 1  16.548,00 MAR    4.728,00 MAI    2.364,00 JUL
+MS
+                  2  21.978,00 MAR   13.986,00 MAI    3.996,00 JUL
+
+ESTADOS: RS E SC  1  16.548,00 ABR    4.728,00 JUL    2.364,00 SET
+                  2  21.978,00 ABR   13.986,00 JUL    3.996,00 SET
+------------------------------------------------------------------
+TRIGO IRRIGADO
+TODO TERRITÓRIO   3  32.802,00 MAR   20.874,00 MAI    5.964,00 JUL
+NACIONAL
+------------------------------------------------------------------
+TRITICALE
+ESTADOS: PR,SP E  1  14.893,20 MAR    4.255,20 MAI    2.127,60 JUL
+MS
+                  2  19.780,20 MAR   12.587,40 MAI    3.596,40 JUL
+
+ESTADOS: RS E SC  1  14.893,20 ABR    4.255,20 JUL    2.127,60 SET
+                  2  19.780,20 ABR   12.587,40 JUL    3.596,40 SET
+------------------------------------------------------------------
+SEMENTE DE TRIGO E
+TRITICALE
+                  1  16.548,00 (1)    5.673,60 (1)    2.836,80 (1)
+                  2  21.978,00 (1)   16.783,20 (1)    4.795,20 (1)
+                  3  32.802,00 (1)   25.048,80 (1)    7.156,80 (1)
+====================================================================
+(1) QUANTO  À  ÉPOCA DE LIBERAÇÃO, OBSERVAR O CALENDÁRIO RELATIVO  AO
+    GRÃO COMUM.
+
+      VALOR BÁSICO DE CUSTEIO (VBC) E CALENDÁRIO DE LIBERAÇÕES
+                             SAFRA 1991
+                       FOLHA II - (PARTE 1/2)
+================================================================
+                        FAIXAS DE
+                      PRODUTIVIDADE          VALOR  BÁSICO  DE
+PRODUTO/ÁREA DE          (KG/HA)               CUSTEIO  (VBC)
+                   -------------------       -----------------
+ABRANGÊNCIA          DE          ATÉ               CR$/HA
+----------------------------------------------------------------
+CEVADA
+REGIÕES SUL, SUDES-
+TE E CENTRO-OESTE     -          1.200             19.088,64
+                     1.201       1.600             23.300,99
+                     1.601       2.000             31.647,49
+                   ACIMA DE      2.000             35.642,05
+====================================================================
+OBS: REAJUSTE DE 20%
+
+                       FOLHA II - (PARTE 2/2)
+                             LIBERAÇÕES
+====================================================================
+PRODUTO/ÁREA               1A.            2A.             3A.
+DE ABRANGÊNCIA      --------------- --------------- ---------------
+                    CR$/HA A PARTIR CR$/HA A PARTIR CR$/HA A PARTIR
+                               DE              DE              DE
+-------------------------------------------------------------------
+CEVADA                70%              20%              10%
+REGIÕES SUL, SUDES-
+TE E CENTRO-OESTE  13.362,05   ABR  3.817,73   JUL   1.908,86  SET
+                   16.310,69        4.660,20         2.330,10
+                   22.153,24        6.329,50         3.164,75
+                   24.949,44        7.128,41         3.564,20
+====================================================================
+```

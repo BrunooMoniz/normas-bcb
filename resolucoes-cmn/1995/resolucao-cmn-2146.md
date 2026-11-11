@@ -1,0 +1,166 @@
+---
+titulo: "Resolução Nº 2.146"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "2146"
+data: 1995-03-02
+ementa: "Dispõe sobre normas operacionais de Empréstimo do Governo Federal EGF safra 1994/95."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2535/98 DOU 27/08/1998 PAG 31 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2164/95", "RESOLUÇÃO 2535/98", "RESOLUÇÃO 2157/95"]
+referencias: ["LEI 4595/64 ART/4 ITEM/VI.", "LEI 4595/64 ART/9.", "LEI 4829/65 ART/4 ART/14.", "CITA LEI 8427/92.", "CITA MCR 6/2."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=2146"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 2.146
+
+```
+                        RESOLUCAO N. 002146
+                        -------------------
+
+                              Dispõe sobre normas operacionais de Em-
+                              préstimo do Governo Federal - EGF - sa-
+                              fra 1994/95.
+
+               O  BANCO CENTRAL DO BRASIL, na forma do art. 9º da Lei
+nº  4.595, de 31.12.64, torna público que o Conselho Monetário Nacio-
+nal,  em sessão realizada em 22.02.95, tendo em vista as  disposições
+do art. 4º, inciso VI, da citada Lei nº 4.595, e dos arts. 4º e 14 da
+Lei nº 4.829, de 05.11.65,
+
+R E S O L V E U:
+
+               Art.  1º  Aprovar a concessão de Empréstimo do Governo
+Federal  - EGF para produtos da safra de verão 1994/1995,  observadas
+as seguintes condições especiais:
+
+               I  - beneficiários:  produtores rurais e suas coopera-
+tivas  e associações, beneficiadores, indústrias e exportadores,  ob-
+servando-se que:
+
+               a)  no caso de beneficiadores, indústrias e exportado-
+res  serão concedidos EGF somente na modalidade EGF/SOV, ressalvada a
+hipótese prevista na alínea seguinte;
+
+               b)  as  indústrias   e   exportadores  podem  realizar
+EGF/COV  de soja depositada na região Centro-Oeste, ficando estabele-
+cido que os recursos liberados devem ser destinados exclusivamente ao
+pagamento  de operações de crédito de custeio rural com  equivalência
+em produto, de responsabilidade de produtores ou cooperativas;
+
+              II  - remuneração:  os  EGF estão sujeitos às remunera-
+ções vigentes para o crédito rural, ficando estabelecido ainda que:
+
+               a)  os  encargos  financeiros das operações realizadas
+para  absorção  através de AGF ficam limitados aos previstos  para  o
+crédito rural com recursos da exigibilidade (MCR 6-2), assegurando-se
+às  operações com equivalência em produto aqueles pactuados no finan-
+ciamento de custeio;
+
+               b)  aplicam-se às operações com beneficiadores, indús-
+trias  e  exportadores os mesmos encargos financeiros incidentes  nos
+créditos concedidos aos "demais produtores";
+
+             III - prazos de amortização:
+
+               a)  EGF/SOV:  até  31.01.96, podendo ser estabelecidas
+amortizações intermediárias, a critério do financiador;
+
+               b)  EGF/COV: vencimento em 31.01.96, devendo o instru-
+mento  de crédito conter cláusula em que o mutuário autorize o finan-
+ciador,  após  decorridos 120 (cento e vinte) dias da contratação  do
+EGF/COV, a adotar as seguintes medidas visando assegurar a liquidação
+do  empréstimo em caso de venda do estoque vinculado ou a amortização
+de parcela de dívida correspondente à quantidade do produto vendido:
+
+               1.  aquisição  por  intermédio da Política de Garantia
+de Preços Mínimos - PGPM;
+
+               2.  vendas via Prêmio de Liquidação de EGF, conforme a
+Lei nº 8.427, de 27.05.92;
+
+               3.  vendas  por  intermédio  do  financiador, ouvido o
+Grupo Executivo Interministerial de Abastecimento (GEIA);
+
+               4.  a  adoção dessas medidas deve resultar na liquida-
+ção  do  débito, se vendido todo o estoque vinculado ao  EGF/COV,  ou
+amortização de parcela de dívida correspondente ao volume vendido;
+
+              IV  - EGF  Especial:  Os  financiamentos de EGF/COV não
+liquidados  até o vencimento devem ser transformados em EGF Especial,
+com vencimento automaticamente prorrogado por mais 1 (um) ano, a con-
+tar do vencimento original do empréstimo, atendidas as seguintes con-
+dições:
+
+               a)  os  saldos devedores objeto da transformação devem
+ser transferidos para rubricas contábeis específicas;
+
+               b) seja facultado ao mutuário liquidar o financiamento
+do  produto ainda vinculado ao EGF Especial, pelo saldo da conta grá-
+fica;
+
+               c)  as  tarifas  de armazenagem e sobretaxa incidentes
+sobre os estoques vinculados a EGF Especial, após 45 (quarenta e cin-
+co)  dias do vencimento original do EGF, serão divulgadas pela Compa-
+nhia  Nacional de Abastecimento (CONAB).  Esgotados os meios de regu-
+larização das perdas quantitativas e qualitativas apuradas, inclusive
+judiciais,  fique assegurado ao agente financeiro o ressarcimento dos
+valores  não indenizados pelo armazenador em decorrência da sobretaxa
+fixada;
+
+               V - remuneração de armazenagem e sobretaxa:
+
+               a)  as  despesas  de  armazenagem e de sobretaxa devem
+ser levadas a débito da conta gráfica do EGF, cujo produto esteja de-
+positado em armazém administrado pelo próprio mutuário, de acordo com
+as  tabelas  constantes do contrato de armazenagem e de prestação  de
+serviço com a CONAB ou com o Banco do Brasil S.A., conforme o caso;
+
+               b)  a sobretaxa paga aos armazenadores deve ser calcu-
+lada  com  base no saldo da conta gráfica do EGF até 45  (quarenta  e
+cinco)  dias após o vencimento original do empréstimo. Decorrido esse
+prazo  e  havendo prorrogação do vencimento da operação, a  sobretaxa
+incidente  sobre  os  estoques vinculados ao empréstimo passa  a  ser
+aquela divulgada pela CONAB;
+
+              VI  - armazenamento: a concessão de EGF/COV fica condi-
+cionada  à utilização de armazéns credenciados e que tiverem  firmado
+contrato de depósito e de prestação de serviços correlatos com  a CO-
+NAB, sendo assegurada a AGF Indireta de produtos depositados em arma-
+zéns  descredenciados, desde que o EGF correspondente tenha sido rea-
+lizado no período em que o armazém estava credenciado;
+
+            VII  - substituição de garantia: os produtos vinculados a
+EGF  podem ser substituídos por títulos representativos da venda des-
+ses bens, desde que o prazo seja compatível com o vencimento do EGF.
+
+               Art.  2º  Estabelecer, para os efeitos do artigo ante-
+rior,  que as aquisições indiretas se realizem de acordo com a quali-
+dade  e quantidade constantes do certificado oficial de classificação
+e  do  comprovante de depósito que serviram de base à contratação  do
+EGF, exceto se, no curso normal da operação, for constatada alteração
+desses parâmetros, ressalvado o direito de pedido de nova classifica-
+ção  pela CONAB, em articulação com o financiador e mantida a respon-
+sabilidade contratual do armazenador.
+
+               Art.  3º  Fica  a  Secretaria de Política Agrícola, do
+Ministério da Agricultura, do Abastecimento e da Reforma Agrária, ou-
+vida  a Secretaria de Acompanhamento Econômico, do Ministério da  Fa-
+zenda, autorizada a adotar as medidas adicionais indispensáveis à im-
+plementação das medidas previstas nesta Resolução.
+
+               Art.  4º  Fica  a CONAB autorizada a liberar armazena-
+gem  em condições especiais, em conjunto com o financiador,  devendo,
+para  tanto, estabelecer normas específicas com a finalidade de mini-
+mizar riscos.
+
+               Art.  5º  Esta Resolução entra em vigor na data de sua
+publicação.
+
+                              Brasília, 2 de março de 1995
+
+                              Persio Arida
+                              Presidente
+```

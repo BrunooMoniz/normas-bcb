@@ -1,0 +1,117 @@
+---
+titulo: "Resolução Nº 887"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "887"
+data: 1983-12-27
+ementa: "INSTITUICAO DO IMPOSTO DE EXPORTACAO, EM SUBSTITUICAO A QUOTA DE CONTRIBUICAO CAMBIAL - FIXACAO DE ALIQUOTAS INCIDENTES NA EXPORTACAO DE CACAU EM AMENDOA E SEUS DERIVADOS - REVOGACAO DAS RESOLUCOES 223, DE 30/05/72 E 316, DE 09/01/75."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 900/84 DOU 05/04/1984 PAG 4927 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 900/84", "RESOLUÇÃO 223/72", "RESOLUÇÃO 316/75"]
+referencias: ["LEI 4595/64 ART/4 ITEM/V ITEM/XXXI.", "LEI 4595/64 ART/9.", "DL 1578/77.", "REVOGA RESOLUÇÃO CMN 223/72 316/75."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=887"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 887
+
+```
+                        RESOLUCAO N. 000887
+                        -------------------
+
+         O  BANCO CENTRAL DO BRASIL, na forma do artigo 9. da Lei  n.
+4.595,  de 31.12.64, torna público que o CONSELHO MONETÁRIO NACIONAL,
+em  sessão realizada nesta data, tendo em vista o disposto no  artigo
+4., incisos V e XXXI, da mencionada Lei e no Decreto-lei n. 1.578, de
+11.10.77,
+
+R E S O L V E U:
+
+         I  -  Ficam sujeitos ao imposto de exportação o cacau e seus
+derivados (itens 18.01.00.00 a 18.06.01.00 da Nomenclatura Brasileira
+de Mercadorias - NBM), exportados ao amparo de guias de exportação ou
+documentos  equivalentes emitidos ou formalizados  pela  Carteira  de
+Comércio  Exterior  do  Banco do Brasil S.A.  -  CACEX  a  partir  de
+01.04.84, como segue:
+
+    NBM                      PRODUTO                     ALÍQUOTA (%)
+    ---                      -------                     ------------
+
+18.01.00.00   Cacau em amêndoa, inteiro ou  partido,  cru
+              ou torrado ................................      10
+
+18.02.00.00   Cascas, películas e outros desperdícios  ou
+              resíduos de cacau .........................      10
+
+18.03.00.00   Cacau em massa ou em pães (pasta de cacau),
+              mesmo desengordurado ......................      10
+
+18.04.00.00   Manteiga de cacau, inclusive a gordura e  o
+              óleo de cacau .............................      10
+
+18.05.00.00   Cacau em pó, sem açúcar ...................      10
+
+18.06.01.00   Cacau em pó, açucarado,  que  contenha  até
+              50% (cinqüenta por cento) de torta de cacau
+              como matéria-prima ........................       5
+
+         II  -  A  base  de  cálculo  do  imposto  será  o  valor  da
+mercadoria efetivamente embarcada, considerado para tal fim  o  preço
+FOB constante da guia de exportação ou documento equivalente.
+
+         III  - Para fins de determinação de contravalor em cruzeiros
+da  base de cálculo do imposto, será utilizada a taxa cambial vigente
+na  data  do embarque da mercadoria, aplicando-se, para conversão  da
+moeda  estrangeira  a  cruzeiros, taxa de câmbio  fixada  pelo  Banco
+Central para compra da moeda naquela data.
+
+         IV  - Para os efeitos do item anterior, entende-se como data
+de embarque da mercadoria:
+
+         a)   a   data   de   emissão   do  respectivo   conhecimento
+internacional de transporte, nos casos de produtos exportados por via
+aérea ou marítima;
+
+         b)  a data de desembaraço do produto na repartição fiscal da
+localidade  de  fronteira, nos casos de produtos exportados  por  via
+terrestre.
+
+         V  -  A  CACEX  fará  constar nas correspondentes  guias  de
+exportação,  ou  documentos equivalentes, a alíquota  do  imposto  de
+exportação incidente.
+
+         VI  -  O  pagamento do imposto será efetuado pelo exportador
+na forma e no momento fixados pelo Ministro da Fazenda.
+
+         VII  -  Poderá  a  empresa exportadora ter  suspenso  o  seu
+registro  de  exportador e, se for o caso, de importador,  perante  a
+CACEX,  quando se verificar o inadimplemento da obrigação  tributária
+no   prazo   e   na   forma   fixados  pelo  Ministro   da   Fazenda,
+independentemente da cobrança do imposto, multa e acréscimos legais.
+
+         VIII   -  A  suspensão  prevista  no  item  anterior  poderá
+perdurar até que ocorra a extinção do crédito tributário relativo  ao
+imposto.
+
+         IX   -   Ressalvada  a  competência  do  Conselho  Monetário
+Nacional e observado o disposto no Decreto-lei n. 1.578, de 11.10.77,
+os casos omissos serão resolvidos pelo Ministro da Fazenda.
+
+         X  -  O  Ministro  da  Fazenda poderá baixar  as  instruções
+necessárias à execução do disposto nesta Resolução.
+
+         XI  -  Ficam  revogadas, a partir de 01.04.84, as Resoluções
+n.s  223  e  316,  de  30.05.72  e 09.01.75,  respectivamente,  cujas
+disposições, no entanto, prevalecerão para as exportações de cacau  e
+seus  derivados realizadas ao amparo de guias de exportação  emitidas
+pela CACEX até 31.03.84.
+
+         XII  -  Esta  Resolução  entrará em vigor  na  data  de  sua
+publicação.
+
+                             Brasília-DF, 27 de dezembro de 1983
+
+                             Affonso Celso Pastore
+                             Presidente
+```

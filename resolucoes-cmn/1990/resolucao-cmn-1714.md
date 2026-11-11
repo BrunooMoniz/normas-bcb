@@ -1,0 +1,54 @@
+---
+titulo: "Resolução Nº 1.714"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1714"
+data: 1990-05-29
+ementa: "REVOGA A COMPULSORIEDADE DE AQUISIÇÃO DE LETRAS HIPOTECÁRIAS DE EMISSÃO DA CAIXA ECONÔMICA FEDERAL POR PARTE DAS SOCIEDADES DE CRÉDITO IMOBILIÁRIO E DAS CAIXAS ECONÔMICAS ESTADUAIS."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 1980/93 DOU 30/04/1993 PAG 5783 (EDICAO EXTRA) - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1980/93", "RESOLUÇÃO 1611/89"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/VI.", "DL 2291/86 ART/7.", "REVOGA RESOLUÇÃO CMN 1611/89."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1714"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.714
+
+```
+                        RESOLUCAO N. 001714
+                        -------------------
+
+                              REVOGA  A COMPULSORIEDADE DE  AQUISIÇÃO
+                              DE  LETRAS  HIPOTECÁRIAS DE EMISSÃO  DA
+                              CAIXA  ECONÔMICA FEDERAL POR PARTE  DAS
+                              SOCIEDADES DE CRÉDITO IMOBILIÁRIO E DAS
+                              CAIXAS ECONÔMICAS ESTADUAIS.
+
+                    O BANCO CENTRAL DO BRASIL, NA FORMA DO ART. 9º DA
+LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE O CONSELHO MONETÁRIO NA-
+CIONAL, EM SESSÃO REALIZADA NESTA DATA, TENDO  EM VISTA O DISPOSTO NO
+ART.  4º,  INCISO VI, DA REFERIDA LEI E NO ART. 7º DO DECRETO-LEI  Nº
+2.291, DE 21.11.86,
+
+R E S O L V E U:
+
+                    ART.  1º. FICA REVOGADA A RESOLUÇÃO Nº 1.611,  DE
+23.06.89,  QUE TRATA DA AQUISIÇÃO COMPULSÓRIA DE LETRAS  HIPOTECÁRIAS
+DE  EMISSÃO  DA CAIXA ECONÔMICA FEDERAL POR PARTE DAS  SOCIEDADES  DE
+CRÉDITO IMOBILIÁRIO E DAS CAIXAS ECONÔMICAS ESTADUAIS.
+
+                    ART.  2º. AS LETRAS  HIPOTECÁRIAS  ADQUIRIDAS  NA
+FORMA DA MENCIONADA RESOLUÇÃO CONTINUARÃO A SER COMPUTADAS PARA EFEI-
+TO DO ATENDIMENTO DO LIMITE DE DIRECIONAMENTO OBRIGATÓRIO DE RECURSOS
+PARA FINANCIAMENTOS HABITACIONAIS.
+
+                    ART.  3º. ESTA RESOLUÇÃO ENTRARÁ EM VIGOR NA DATA
+DE SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 29 DE MAIO DE 1990
+
+                              IBRAHIM ERIS
+                              PRESIDENTE
+```

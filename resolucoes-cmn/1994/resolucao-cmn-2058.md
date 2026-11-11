@@ -1,0 +1,60 @@
+---
+titulo: "Resolução Nº 2.058"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "2058"
+data: 1994-03-23
+ementa: "RESOLUÇÃO Nº 2.008, DE 28.07.93 MARGEM DECORRENTE DA BAIXA DAS OPERAÇÕES INCLUÍDAS NO PROGRAMA DE REFINANCIAMENTO INSTITUÍDO PELA LEI Nº 8.727, DE 05.11.93 IMPOSSIBILIDADE DE UTILIZAÇÃO."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2461/97 DOU 29/12/1997 PAG 31546 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2461/97", "CIRCULAR 2442/94"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/VI ITEM/VIII.", "CITA LEI 8727/93.", "CITA RESOLUÇÃO CMN 2008/93 ART/1."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=2058"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 2.058
+
+```
+                        RESOLUCAO N. 002058
+                        -------------------
+
+                              RESOLUÇÃO  Nº 2.008, DE 28.07.93 - MAR-
+                              GEM  DECORRENTE DA BAIXA DAS  OPERAÇÕES
+                              INCLUÍDAS NO PROGRAMA DE REFINANCIAMEN-
+                              TO  INSTITUÍDO  PELA LEI Nº  8.727,  DE
+                              05.11.93  - IMPOSSIBILIDADE DE UTILIZA-
+                              ÇÃO.
+
+               O  BANCO CENTRAL DO BRASIL, NA FORMA DO ART. 9º DA LEI
+Nº  4.595, DE 31.12.64, TORNA PÚBLICO QUE O CONSELHO MONETÁRIO NACIO-
+NAL,  EM SESSÃO REALIZADA EM 23.03.94, TENDO EM VISTA AS  DISPOSIÇÕES
+DO ART. 4º, INCISOS VI E VIII, DA MENCIONADA LEI,
+
+R E S O L V E U:
+
+               ART.  1º  ESTABELECER QUE  AS INSTITUIÇÕES FINANCEIRAS
+OFICIAIS  ESTADUAIS DEVERÃO DEDUZIR DO LIMITE DE QUE TRATA O ART.  1º
+DA  RESOLUÇÃO Nº 2.008, DE 28.07.93, OS SALDOS DAS OPERAÇÕES  CONTIN-
+GENCIADAS  INCLUÍDAS  NO PROGRAMA DE REFINANCIAMENTO INSTITUÍDO  PELA
+LEI Nº 8.727, DE 05.11.93.
+
+               ART.  2º  ESTABELECER QUE OS SALDOS DAS OPERAÇÕES CON-
+TINGENCIADAS TRANSFERIDAS À UNIÃO PELAS INSTITUIÇÕES FINANCEIRAS OFI-
+CIAIS FEDERAIS, CONFORME O PARÁGRAFO 3º, "IN FINE", DO ART. 1º DA RE-
+FERIDA  LEI Nº 8.727, DE 05.11.93, SERÃO COMPUTADOS PARA  VERIFICAÇÃO
+DO  LIMITE  DE QUE TRATA O CITADO ART. 1º DA RESOLUÇÃO Nº  2.008,  DE
+28.07.93.
+
+               ART.  3º  AUTORIZAR O BANCO CENTRAL DO BRASIL A ADOTAR
+AS MEDIDAS JULGADAS NECESSÁRIAS AO CUMPRIMENTO DESTA RESOLUÇÃO.
+
+               ART.  4º  ESTA RESOLUÇÃO ENTRA EM VIGOR NA DATA DE SUA
+PUBLICAÇÃO.
+
+                              BRASÍLIA, 23 DE MARÇO DE 1994
+
+                              PEDRO SAMPAIO MALAN
+                              PRESIDENTE
+```

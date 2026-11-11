@@ -1,0 +1,86 @@
+---
+titulo: "Resolução Nº 2.275"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "2275"
+data: 1996-04-30
+ementa: "Dispõe sobre a aplicação de penalidades para as irregularidades apuradas nos fluxos de capitais com o exterior."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2883/2001 DOU 31/08/2001 PAG 84 (E) - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2883/2001", "CIRCULAR 2692/96", "CIRCULAR 3039/2001", "CIRCULAR 3055/2001"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4131/62 ART/58.", "LEI 9069/95.", "CITA LEI 8981/95 ART/84.", "CITA LEI 4131/62 ART/5 ART/6 ART/21 ART/57."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=2275"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 2.275
+
+```
+                        RESOLUCAO N. 002275
+                        -------------------
+
+                              Dispõe sobre a aplicação de penalidades
+                              para  as  irregularidades apuradas  nos
+                              fluxos de capitais com o exterior.
+
+               O  BANCO CENTRAL DO BRASIL, na forma do art. 9º da Lei
+nº  4.595, de 31.12.64, torna público que o CONSELHO MONETÁRIO NACIO-
+NAL,  em sessão realizada em 30.04.96, com base no art. 58 da Lei  nº
+4.131,  de  03.09.62,  com  a  redação dada pela  Lei  nº  9.069,  de
+29.06.95,
+
+R E S O L V E U:
+
+               Art.  1º  Sujeitam-se a aplicação de multas pelo Banco
+Central  do Brasil, nos valores indicados, as seguintes infringências
+à Lei nº 4.131/62:
+
+               I  - R$50.000,00  (cinqüenta  mil  reais),  quando  da
+ocorrência de:
+
+               a)  descumprimento do prazo  para  requerimento de re-
+gistro (Lei nº 4.131/62, art. 5.);
+
+               b)  ausência de destaque em balanço  das empresas, in-
+clusive sociedades anônimas, dos investimentos, obrigações e créditos
+pertencentes  a pessoas físicas ou jurídicas residentes, domiciliadas
+ou com  sede no exterior (Lei nº 4.131/62, art. 21).
+
+               II  - R$100.000,00 (cem mil reais),  quando  da  ocor-
+rência de:
+
+               a)  falsidade das informações prestadas ou  omissão de
+informações ao Banco Central do Brasil (Lei nº 4.131/62, art. 6º);
+
+               b) falta de resposta, no prazo estabelecido pelo Banco
+Central  do Brasil, a questionário sobre censo de capitais estrangei-
+ros (Lei nº 4.131/62, art. 57).
+
+               Art.  2º  O valor da multa estabelecido no art. 1º de-
+verá  ser recolhido ao Banco Central do Brasil no prazo de 5  (cinco)
+dias  úteis  contados da data de recebimento do aviso,  consoante  as
+instruções nele contidas.
+
+               Parágrafo  único.  O recolhimento fora do prazo fixado
+no  "caput" deste artigo acarretará acréscimos no valor a ser pago de
+acordo com o que estabelece o art. 84 da Lei nº 8.981, de 20.01.95.
+
+               Art.  3º  O disposto nesta Resolução não  elide outras
+responsabilidades que possam  ser imputadas à empresa ou a seus admi-
+nistradores,  nos termos da legislação em vigor, em função de  apura-
+ções que, a qualquer tempo, venham a ser efetuadas pelo Banco Central
+do Brasil.
+
+               Art.  4º  Fica o Banco  Central do Brasil autorizado a
+adotar  as  medidas e a baixar  normas complementares que se  fizerem
+necessárias à regulamentação e execução do disposto nesta Resolução.
+
+               Art.  5º  Esta Resolução entra em vigor na data de sua
+publicação.
+
+                              Brasília, 30 de abril de 1996
+
+                              Gustavo Jorge Laboissière Loyola
+                              Presidente
+```

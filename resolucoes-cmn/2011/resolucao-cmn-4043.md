@@ -1,0 +1,61 @@
+---
+titulo: "Resolução Nº 4.043"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "4043"
+data: 2011-12-15
+ementa: "Altera a redação do art. 13 da Resolução nº 2.238, de 31 de janeiro de 1996, e dá outras providências."
+revogada: false
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 19/12/2011 , Seção 1 , p . 648."
+normas_vinculadas: ["RESOLUÇÃO 2238/1996"]
+referencias: ["Lei nº 4.595/1964, art. 9º.", "Lei nº 9.138/1995, art. 10.", "Altera Resolução CMN nº 2.238/1996 - Dá nova redação ao art. 13, parágrafo único, inciso I, \"a\" e \"b\"."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4043"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 4.043
+
+```
+                        RESOLUCAO N. 004043
+                        -------------------
+
+                                 Altera  a  redação  do  art.  13  da
+                                 Resolução  nº  2.238,   de   31   de
+                                 janeiro   de  1996,  e   dá   outras
+                                 providências.
+
+          O  Banco Central do Brasil, na forma do art. 9º da  Lei  nº
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  Conselho
+Monetário Nacional, em sessão realizada em 15  de dezembro  de  2011,
+tendo  em vista as disposições do art. 10 da Lei nº 9.138, de  29  de
+novembro de 1995,
+
+         R E S O L V E U :
+
+         Art. 1º  Ficam alteradas as alíneas "a" e "b" do inciso I do
+parágrafo único do art. 13 da Resolução nº 2.238, de 31 de janeiro de
+1996, que passam a vigorar com a seguinte redação:
+
+         "Art. 13.  .............................................
+
+         Parágrafo único. .......................................
+
+         I -.....................................................
+
+         a)  cinquenta  por  cento de Notas do  Tesouro  Nacional
+         Série  F  (NTN-F), com vencimentos em 1º de  janeiro  de
+         2017 e 1º de janeiro de 2021; e
+
+         b)  cinquenta  por  cento de Notas do  Tesouro  Nacional
+         Série  B  (NTN-B), com vencimentos em 15  de  agosto  de
+         2018 e 15 de agosto de 2022." (NR)
+
+         Art.  2º   Esta  Resolução entra em vigor  na  data  de  sua
+publicação.
+
+                                    Brasília, 15 de dezembro de 2011.
+
+                      Alexandre Antonio Tombini
+                Presidente do Banco Central do Brasil
+```

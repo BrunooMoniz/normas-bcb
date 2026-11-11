@@ -1,0 +1,52 @@
+---
+titulo: "Resolução N° 4.638"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "4638"
+data: 2018-02-22
+ementa: "Altera a Resolução nº 4.593, de 28 de agosto de 2017, que dispõe sobre o registro e o depósito centralizado de ativos financeiros e valores mobiliários por parte de instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil, bem como sobre a prestação de serviços de custódia de ativos financeiros."
+revogada: false
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 26/2/2018, Seção 1, p. 47."
+normas_vinculadas: ["RESOLUÇÃO 4593/2017"]
+referencias: ["Lei nº 4.595/1964, arts. 4º, inciso VIII, e 9º.", "Lei nº 4.728/1965, arts. 2º, incisos II e III, e 10, inciso VIII.", "Lei nº 12.810/2013, art. 26-A.", "Altera Resolução CMN nº 4.593/2017 - Dá nova redação: art. 3º, § 1º, inciso IV; art. 3º, § 1º, inciso V, \"d\"; art. 16. Inclui art. 3º, § 1º, inciso VI."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4638"
+baixado_em: 2026-11-10
+---
+# Resolução N° 4.638
+
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão realizada em 22 de fevereiro de 2018, com base nos arts. 4º, inciso VIII, da referida Lei, e 2º, incisos II e III, e 10, inciso VIII, da Lei nº 4.728, de 14 de julho de 1965, e 26-A da Lei nº 12.810, de 15 de maio de 2013,
+
+R E S O L V E U :
+
+Art. 1º  A Resolução nº 4.593, de 28 de agosto de 2017, passa a vigorar com as seguintes alterações:
+
+“Art. 3º  ........................................................
+
+§ 1º  ............................................................
+
+..................................................................
+
+IV - os Recibos de Depósito Bancário (RDBs) emitidos até 180 dias após a data de entrada em vigor desta Resolução;
+
+V - ..............................................................
+
+..................................................................
+
+d) R$1.000,00 (mil reais), caso a emissão ocorra a partir de 721 dias após a data de entrada em vigor desta Resolução; e
+
+VI - os títulos de crédito representativos de operações de crédito das instituições mencionadas no art. 1º.
+
+............................................................” (NR)
+
+“Art. 16.  Esta Resolução entra em vigor:
+
+I - 360 dias após a data de sua publicação, em relação aos arts. 4º, 8º e 9º; e
+
+II - 180 dias após a data de sua publicação, em relação aos demais dispositivos.” (NR)
+
+Art. 2º  Esta Resolução entra em vigor na data de sua publicação.
+
+                    Ilan Goldfajn
+                     Presidente do Banco Central do Brasil

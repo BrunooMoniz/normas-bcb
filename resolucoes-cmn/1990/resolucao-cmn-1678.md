@@ -1,0 +1,62 @@
+---
+titulo: "Resolução Nº 1.678"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1678"
+data: 1990-01-26
+ementa: "DIVULGA OS VALORES BÁSICOS DE CUSTEIO (VBC) PARA DIVERSOS PRODUTOS DAS SAFRAS DA SECA 1990 E DA REGIÃO NORDESTE, RORAIMA E PARÁ."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2535/98 DOU 27/08/1998 PAG 31 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2535/98"]
+referencias: ["LEI 4595/64 ART/9.", "DEC 94303/87 ART/2.", "LEI 4595/64 ART/4 ITEM/VI.", "LEI 4829/65 ART/4 ART/14."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1678"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.678
+
+```
+                        RESOLUCAO N. 001678
+                        -------------------
+
+                             DIVULGA  OS  VALORES BÁSICOS DE  CUSTEIO
+                             (VBC)  PARA DIVERSOS PRODUTOS DAS SAFRAS
+                             DA  SECA 1990 E DA REGIÃO NORDESTE,  RO-
+                             RAIMA E PARÁ.
+
+                   O  BANCO CENTRAL DO BRASIL,  NA FORMA DO ARTIGO 9º
+DA  LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE O PRESIDENTE DO CON-
+SELHO  MONETÁRIO NACIONAL, POR ATO DE 19.01.90, COM BASE NO ARTIGO
+2º DO DECRETO Nº 94.303, DE 01.05.87,  "AD REFERENDUM"   DAQUELE CON-
+SELHO,  TENDO EM VISTA AS DISPOSIÇÕES DO ARTIGO 4º, INCISO VI, DA CI-
+TADA LEI, E DOS ARTIGOS 4º E 14 DA LEI Nº 4.829, DE 05.11.65,
+
+R E S O L V E U :
+
+                   ART.  1º. APROVAR OS VALORES  BÁSICOS  DE  CUSTEIO
+(VBC),  CONVERTIDOS EM BÔNUS DO TESOURO NACIONAL (BTN), PARA DIVERSOS
+PRODUTOS  DAS SEGUINTES  SAFRAS, CONFORME  FOLHAS  ANEXAS, DESTINADAS
+À ATUALIZAÇÃO DO MANUAL DE CRÉDITO RURAL (MCR):
+
+                   I - SAFRA 1990 - REGIÃO NORDESTE, TERRITÓRIO FE-
+DERAL DE RORAIMA E ALGODÃO HERBÁCEO PARA O ESTADO DO PARÁ;
+
+                  II - SAFRA DA SECA 1990.
+
+                   ART. 2º. DELEGAR COMPETÊNCIA  AO   BANCO   CENTRAL
+PARA  EXPEDIR AS NORMAS QUE SE TORNEM NECESSÁRIAS  À  EXECUÇÃO  DESTA
+RESOLUÇÃO.
+
+                   ART. 3º. ESTABELECER QUE ESTA RESOLUÇÃO  ENTRA  EM
+VIGOR NA DATA DE SUA PUBLICAÇÃO.
+
+                             BRASÍLIA (DF), 26 DE JANEIRO DE 1990
+
+                             WADICO WALDIR BUCCHI
+                             PRESIDENTE
+
+OBS.:  OS  ANEXOS  A  QUE SE REFERE ESTA  RESOLUÇÃO  SE  ENCONTRAM  À
+DISPOSIÇÃO  DOS INTERESSADOS  NAS UNIDADES CENTRAIS E REGIONAIS DESTE
+BANCO CENTRAL.
+```

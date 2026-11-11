@@ -1,0 +1,74 @@
+---
+titulo: "Resolução Nº 2.391"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "2391"
+data: 1997-05-22
+ementa: "Dispõe sobre a emissão de valores mobiliários representativos de dívida realizada por sociedades controladas direta ou indiretamente por estados, municípios e pelo Distrito Federal."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Resolução CMN nº 4.635/2018 - Revogação total."]
+normas_vinculadas: ["RESOLUÇÃO 4635/2018"]
+referencias: ["Lei nº 4.595/1964, arts. 4º, inciso VI, 9º e 10, inciso VI.", "Lei nº 6.385/1976, arts. 3º e 4º, inciso VIII.", "Revoga Decisão-Conjunta BCB/CVM nº 4/1996."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=2391"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 2.391
+
+```
+                        RESOLUCAO N. 002391
+                        -------------------
+
+                              Dispõe sobre a emissão de valores mobi-
+                              liários  representativos de dívida rea-
+                              lizada por sociedades controladas dire-
+                              ta  ou indiretamente por estados, muni-
+                              cípios e pelo Distrito Federal.
+
+               O  BANCO CENTRAL DO BRASIL, na forma do art. 9º da Lei
+nº  4.595, de 31.12.64, torna público que o CONSELHO MONETÁRIO NACIO-
+NAL,  em sessão realizada em 22.05.97, tendo em vista o disposto  nos
+arts.  4º, inciso VI, e 10, inciso VI, da mencionada Lei e nos  arts.
+3º e 4º, inciso VIII, da Lei nº 6.385, de 07.12.76,
+
+R E S O L V E U:
+
+               Art.  1º  A  emissão  privada  de  valores mobiliários
+representativos de dívida realizada por sociedades controladas direta
+ou  indiretamente por estados, municípios e pelo Distrito Federal de-
+pende de prévia anuência da Comissão de Valores Mobiliários.
+
+               Parágrafo  único. A sociedade emissora deverá informar
+à Comissão de Valores Mobiliários as condições de emissão dos valores
+mobiliários,  a  qual  deverá se manifestar no prazo de  30  (trinta)
+dias.
+
+               Art.  2º  Quando  a  emissão, pública  ou  privada, de
+valores  mobiliários  representativos  de dívida contar com garantias
+prestadas  por parte de estados, municípios ou pelo Distrito Federal,
+ou,  ainda,  acarretar comprometimento futuro de recursos  orcamentá-
+rios,  a Comissão de Valores Mobiliários, previamente à  manifestação
+referida  no art. 1º ou a concessão de registro,  ouvirá o Banco Cen-
+tral do Brasil quanto ao atendimento as disposições das Resoluções do
+Senado  Federal sobre endividamento público, o qual se pronunciará no
+prazo de 10 (dez) dias.
+
+               Art.  3º  Ficam  a Comissão de Valores Mobiliários e o
+Banco  Central do Brasil, cada qual dentro de sua esfera de competên-
+cia,  autorizados a adotar as medidas e a baixar as normas complemen-
+tares que se fizerem necessárias à execução do disposto nesta Resolu-
+ção.
+
+               Art.  4º  Esta Resolução entra em vigor na data de sua
+publicação.
+
+               Art.  5º  Fica  revogada  a  Decisão-Conjunta nº 4, de
+23.07.96,  do Banco Central do Brasil e da Comissão de Valores  Mobi-
+liários.
+
+                              Brasília, 22 de maio de 1997
+
+                              Gustavo Jorge Laboissière Loyola
+                              Presidente
+```

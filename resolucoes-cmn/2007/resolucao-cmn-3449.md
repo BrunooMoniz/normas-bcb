@@ -1,0 +1,53 @@
+---
+titulo: "Resolução Nº 3.449"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3449"
+data: 2007-03-29
+ementa: "Dispõe sobre despesas imputáveis ao Programa de Garantia da Atividade Agropecuária - \"Proagro Mais\" relativas à remuneração dos agentes na safra 2006/2007."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Resolução CMN nº 3.556/2008 - Revogação total."]
+normas_vinculadas: ["RESOLUÇÃO 3556/2008"]
+referencias: ["Lei nº 4.595/1964, arts. 4º, inciso VI, e 9º.", "Lei nº 4.829/1965, arts. 4º e 14.", "Lei nº 5.969/1973, art. 3º.", "Decreto nº 175/1991, art. 5º."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3449"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.449
+
+```
+                        RESOLUCAO N. 003449
+                        -------------------
+
+                                 Dispõe sobre despesas imputáveis  ao
+                                 Programa  de  Garantia da  Atividade
+                                 Agropecuária   -   "Proagro    Mais"
+                                 relativas à remuneração dos  agentes
+                                 na safra 2006/2007.
+
+         O  BANCO  CENTRAL DO BRASIL, na forma do art. 9º da  Lei  nº
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  CONSELHO
+MONETÁRIO NACIONAL, em sessão realizada em 29 de março de 2007, tendo
+em  vista as disposições dos arts. 4º, inciso VI, da referida lei, 4º
+e  14  da Lei nº 4.829, de 5 de novembro de 1965, 3º da Lei nº 5.969,
+de  11 de dezembro de 1973, e 5º do Decreto nº 175, de 10 de julho de
+1991,
+
+         R E S O L V E U :
+
+         Art.  1º   É  imputável ao Programa de Garantia da Atividade
+Agropecuária  -  "Proagro Mais" despesa relativa  à  remuneração  dos
+agentes do programa pelo trabalho na montagem e análise dos processos
+de  indenização, no valor de R$ 80,00 (oitenta reais) por  pedido  de
+cobertura   deferido  ou  indeferido,  relativamente   às   operações
+enquadradas no programa na safra 2006/2007.
+
+         Art.  2º   Esta  resolução entra em vigor  na  data  de  sua
+publicação.
+
+                                          Brasília, 29 de março 2007.
+
+                    Henrique de Campos Meirelles
+                             Presidente
+```

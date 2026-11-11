@@ -1,0 +1,61 @@
+---
+titulo: "Resolução Nº 1.986"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1986"
+data: 1993-06-28
+ementa: "ESTABELECE PRAZO MÍNIMO DE AMORTIZAÇÃO DAS OPERAÇÕES DE EMPRÉSTIMOS EXTERNOS PARA EFEITO DE RESTITUIÇÃO, REDUÇÃO OU ISENÇÃO DO IMPOSTO DE RENDA."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2770/2000 DOU 31/08/2000 PAG 13 (E) - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1803/91", "RESOLUÇÃO 2770/2000"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 8646/93 ART/1 PARAG/2.", "DL 1215/72 ART/1.", "REVOGA RESOLUÇÃO CMN 1803/91."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1986"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.986
+
+```
+                        RESOLUCAO N. 001986
+                        -------------------
+
+                              ESTABELECE  PRAZO MÍNIMO DE AMORTIZAÇÃO
+                              DAS  OPERAÇÕES DE EMPRÉSTIMOS  EXTERNOS
+                              PARA  EFEITO DE RESTITUIÇÃO, REDUÇÃO OU
+                              ISENÇÃO DO IMPOSTO DE RENDA.
+
+                    O  BANCO CENTRAL DO BRASIL, NA FORMA DO ART.  9º,
+DA  LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE O PRESIDENTE DO CON-
+SELHO  MONETÁRIO NACIONAL, POR ATO DE 28.06.93, COM BASE NO ART.  1º,
+PARÁGRAFO  2º, DA LEI Nº 8.646, DE 07.04.93, "AD REFERENDUM"  DAQUELE
+CONSELHO,  E  TENDO EM VISTA O DISPOSTO NO ART. 1º DO DECRETO-LEI  Nº
+1.215, DE 04.05.72,
+
+R E S O L V E U:
+
+                    ART.  1º. AMPLIAR DE 60 (SESSENTA) MESES PARA  96
+(NOVENTA  E SEIS) MESES O PRAZO MÉDIO DE AMORTIZAÇÃO DAS OPERAÇÕES DE
+EMPRÉSTIMOS  EXTERNOS, VINCULADOS OU NÃO À AQUISIÇÃO DE BENS, QUE VE-
+NHAM A SER CONTRAÍDOS NO EXTERIOR A PARTIR DESTA DATA, PARA EFEITO DE
+RESTITUIÇÃO,  REDUÇÃO OU ISENÇÃO  DO IMPOSTO DE RENDA, NA FORMA  PRE-
+VISTA NO DECRETO-LEI Nº 1.215, DE 04.05.72.
+
+                    ART.  2º. ESTABELECER QUE AS PRESTAÇÕES DO  PRIN-
+CIPAL  SERÃO DISTRIBUÍDAS NO TEMPO, DE TAL FORMA QUE, EM QUALQUER MO-
+MENTO, DURANTE A VIGÊNCIA DA DÍVIDA, A RELAÇÃO ENTRE O TOTAL JÁ AMOR-
+TIZADO  E O VALOR DO EMPRÉSTIMO NÃO SEJA SUPERIOR À PROPORÇÃO ENTRE O
+PRAZO  JÁ  DECORRIDO DESDE O INÍCIO DA EFETIVAÇÃO DA DÍVIDA E  O  SEU
+PRAZO TOTAL.
+
+                    ART.  3º. ESTA RESOLUÇÃO  ENTRA EM  VIGOR NA DATA
+DE SUA PUBLICAÇÃO.
+
+                    ART.  4º. REVOGAR, EM  CONSEQÜÊNCIA,  A RESOLUÇÃO
+Nº 1.803, DE 27.03.91.
+
+                              BRASÍLIA (DF), 28 DE JUNHO DE 1993
+
+                              PAULO CESAR XIMENES ALVES FERREIRA
+                              PRESIDENTE
+```

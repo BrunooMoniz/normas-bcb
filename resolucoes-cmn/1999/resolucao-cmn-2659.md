@@ -1,0 +1,122 @@
+---
+titulo: "Resolução Nº 2.659"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "2659"
+data: 1999-10-28
+ementa: "Dispõe sobre a previsão de multa de mora em contratos de arrendamento mercantil."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 29/10/1999, Ed. Extra, p. 16."
+atualizacoes: ["Resolução CMN nº 4.977/2021 - Revogação total, a partir de 1º/1/2022."]
+normas_vinculadas: ["RESOLUÇÃO CMN 4977/2021", "RESOLUÇÃO 2309/1996"]
+referencias: ["Lei nº 4.595/1964, art. 9º.", "Leis ns. 6.099/1974 e 7.132/1983.", "Altera Regulamento anexo à Resolução CMN nº 2.309/1996 - Dá nova redação ao art. 7º, inciso XI."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=2659"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 2.659
+
+```
+                        RESOLUCAO N. 002659
+                        -------------------
+
+                                           Dispõe sobre a previsão de
+                                           multa de mora em contratos
+                                           de arrendamento mercantil.
+
+         O  BANCO CENTRAL DO  BRASIL, na forma  do art. 9º  da Lei nº
+4.595, de  31  de dezembro  de  1964, torna  público  que  o CONSELHO
+MONETÁRIO NACIONAL, em  sessão realizada em  28 de  outubro  de 1999,
+com base no disposto na Lei nº 6.099, de  12 de setembro de 1974, com
+as alterações introduzidas  pela Lei  nº 7.132, de  26 de  outubro de
+1983,
+
+R E S O L V E U:
+
+         Art. 1º Alterar o inciso XI do art. 7º do Regulamento  anexo
+à Resolução nº 2.309,  de 28 de  agosto de 1996,  passando o referido
+artigo a vigorar com a seguinte redação:
+
+         "Art.  7º Os contratos  de arrendamento  mercantil devem ser
+    formalizados  por instrumento público ou particular, contendo, no
+    mínimo, as especificações abaixo relacionadas:
+
+         I - a  descrição dos bens que constituem o objeto do contra-
+    to,  com todas as características que permitam sua perfeita iden-
+    tificação;
+
+         II - o prazo de arrendamento;
+
+         III - o  valor das contraprestações ou  a fórmula de cálculo
+    das contraprestações, bem como o critério para seu reajuste;
+
+         IV - a  forma de pagamento das contraprestações por períodos
+    determinados, não  superiores a um  semestre, salvo  no  caso  de
+    operações que beneficiem atividades rurais,  quando  o  pagamento
+    pode ser fixado por períodos não superiores a um ano;
+
+         V - as  condições para o exercício por parte da arrendatária
+    do  direito de optar  pela renovação do  contrato, pela devolução
+    dos bens ou pela aquisição dos bens arrendados;
+
+         VI - a concessão à arrendatária de opções de compra dos bens
+    arrendados,  devendo ser estabelecido o  preço para seu exercício
+    ou critério utilizável na sua fixação;
+
+         VII - as despesas e os encargos adicionais, inclusive despe-
+    despesas de assistência técnica, manutenção e serviços  inerentes
+    à operacionalidade dos bens arrendados, admitindo-se, ainda, para
+    o arrendamento mercantil financeiro:
+
+         a) a  previsão de a arrendatária pagar valor residual garan-
+    tido  em  qualquer  momento durante a vigência  do  contrato, não
+    caracterizando o pagamento do valor residual garantido o  exercí-
+    cio da opção de compra;
+
+         b) o reajuste do preço estabelecido para a opção de compra e
+    o valor residual garantido;
+
+         VIII - as condições  para  eventual  substituição  dos  bens
+    arrendados, inclusive na ocorrência de sinistro,  por  outros  da
+    mesma natureza, que melhor atendam às conveniências da arrendatá-
+    ria, devendo  a substituição ser formalizada  por  intermédio  de
+    aditivo contratual;
+
+         IX - as demais responsabilidades que vierem a ser convencio-
+    nadas, em decorrência de:
+
+         a) uso indevido ou impróprio dos bens arrendados;
+
+         b) seguro previsto para cobertura de risco dos bens arrenda-
+    dos;
+
+         c) danos causados a terceiros pelo uso dos bens;
+
+         d) ônus advindos de vícios dos bens arrendados;
+
+         X - a faculdade de a arrendadora vistoriar os bens objeto de
+    arrendamento e de exigir da arrendatária a adoção de providências
+    indispensáveis à preservação da integridade dos referidos bens;
+
+         XI - as obrigações da arrendatária, nas hipóteses de:
+
+         a)  inadimplemento, limitada a multa de mora  a 2% (dois por
+    cento) do valor em atraso;
+
+         b)  destruição,  perecimento  ou  desaparecimento  dos  bens
+    arrendados;
+
+         XII - a  faculdade de a  arrendatária transferir a terceiros
+    no  País, desde que haja anuência expressa da entidade arrendado-
+    ra, os seus direitos e obrigações decorrentes do contrato, com ou
+    sem co-responsabilidade solidária.".
+
+          Art. 2º Esta Resolução entra em vigor na data de sua publi-
+    cação.
+
+                        Brasília, 28 de outubro de 1999
+
+                        Arminio Fraga Neto
+                        Presidente
+```

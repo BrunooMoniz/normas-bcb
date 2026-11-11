@@ -1,0 +1,104 @@
+---
+titulo: "Resolução Nº 3.648"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3648"
+data: 2008-11-26
+ementa: "Altera condições do Pronaf: Crédito de investimento coletivo e Linha de Crédito de Custeio do Beneficiamento, Industrialização de Agroindústrias Familiares e de Comercialização da Agricultura Familiar."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Resolução CMN nº 4.367/2014 - Revogação total."]
+normas_vinculadas: ["RESOLUÇÃO 4367/2014"]
+referencias: ["Lei nº 4.595/1964, arts. 4º, inciso VI, e 9º.", "Lei nº 4.829/1965, arts. 4º e 14.", "Altera MCR 10-5-4, 10-5-5, 10-11-1-\"c\"."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3648"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.648
+
+```
+                        RESOLUCAO N. 003648
+                        -------------------
+
+                                 Altera  condições do Pronaf: Crédito
+                                 de  investimento coletivo e Linha de
+                                 Crédito      de      Custeio      do
+                                 Beneficiamento, Industrialização  de
+                                 Agroindústrias   Familiares   e   de
+                                 Comercialização    da    Agricultura
+                                 Familiar.
+
+         O  Banco  Central do Brasil, na forma do art. 9º da  Lei  nº
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  Conselho
+Monetário  Nacional, em sessão realizada em 26 de novembro  de  2008,
+tendo  em  vista as disposições dos arts. 4º, inciso VI, da  referida
+lei, 4º e 14 da Lei nº 4.829, de 5 de novembro de 1965,
+
+         R E S O L V E U :
+
+         Art.  1º   O  item 4 da Seção 5 do Capítulo 10 do Manual  de
+Crédito Rural (MCR) passa a vigorar com a seguinte redação:
+
+         "4 - ..................................................
+
+         .......................................................
+
+         f)  para  operações coletivas, a taxa efetiva  de  juros
+         será  de  4%  a.a. (quatro por cento ao ano),  observado
+         que:
+
+         I  -  o  valor  individual por agricultor,  obtido  pelo
+         critério  de  proporcionalidade  de  participação,  fica
+         limitado    a    R$18.000,00    (dezoito   mil   reais),
+         independentemente  dos  limites  definidos  para  outros
+         financiamentos ao amparo do Pronaf;
+
+         II   -   o   valor   por  operação   fica   limitado   a
+         R$10.000.000,00 (dez milhões de reais).
+
+         ................................................." (NR)
+
+         Art.  2º  O item 5 da Seção 5 do Capítulo 10 do MCR passa  a
+vigorar com a seguinte redação:
+
+         "5 - ..................................................
+
+         .......................................................
+
+         e)  os  créditos de investimento coletivo  previstos  na
+         alínea "f" do item 10-5-4." (NR)
+
+         Art.  3º  A alínea "c" do item 1 da Seção 11 do Capítulo  10
+do MCR passa a vigorar com seguinte redação:
+
+         "c) ...................................................
+
+         .......................................................
+
+         II  -  R$2.000.000,00 (dois milhões de reais) por pessoa
+         física  (contrato  coletivo)  ou  pessoa  jurídica,   de
+         acordo  com  o projeto técnico e o estudo de viabilidade
+         econômico-financeira do empreendimento,  e  observado  o
+         limite  individual de R$5.000,00 (cinco mil  reais)  por
+         sócio,   associado  ou  cooperado  relacionado  na   DAP
+         emitida  para  a  cooperativa  singular,  associação  ou
+         outra forma associativa;
+
+         III   -  R$10.000.000,00  (dez  milhões  de  reais)  por
+         cooperativa  central, quando se tratar de  financiamento
+         visando ao atendimento às cooperativas singulares a  ela
+         filiadas,  relativo  aos produtos entregues  por  estas,
+         bem   como  a  sua  armazenagem,  conservação  e  venda,
+         observado o disposto no inciso anterior e desde  que  os
+         produtos   não   tenham  sido  objeto  de  financiamento
+         concedido  às  cooperativas singulares ao  amparo  desta
+         linha." (NR)
+
+         Art.  4°   Esta  resolução entra em vigor  na  data  de  sua
+publicação.
+
+                                    Brasília, 26 de novembro de 2008.
+
+                    Henrique de Campos Meirelles
+                             Presidente
+```

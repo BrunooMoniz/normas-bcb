@@ -1,0 +1,63 @@
+---
+titulo: "Resolução Nº 1.847"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1847"
+data: 1991-07-31
+ementa: "DISPÕE SOBRE OS ENCARGOS FINANCEIROS APLICÁVEIS ÀS OPERAÇÕES REGIDAS PELAS RESOLUÇÕES NºS 1.131 E 1.132, DE 15.05.86, E PELA CIRCULAR Nº 1.062, DE 27.08.86."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2535/98 DOU 27/08/1998 PAG 31 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2535/98"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/VI ITEM/IX ITEM/XVII.", "LEI 4829/65 ART/4 ART/14.", "CITA RESOLUÇÃO CMN 1131/86 ITEM/I.", "CITA RESOLUÇÃO CMN 1132/86 ITEM/II.", "CITA CIRCULAR BCB 1062/86."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1847"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.847
+
+```
+                        RESOLUCAO N. 001847
+                        -------------------
+
+                              DISPÕE  SOBRE  OS ENCARGOS  FINANCEIROS
+                              APLICÁVEIS  ÀS OPERAÇÕES REGIDAS  PELAS
+                              RESOLUÇÕES   NºS  1.131  E  1.132,   DE
+                              15.05.86,  E PELA CIRCULAR Nº 1.062, DE
+                              27.08.86.
+
+                    O BANCO CENTRAL DO BRASIL, NA FORMA DO ART. 9º DA
+LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE O CONSELHO MONETÁRIO NA-
+CIONAL,  EM SESSÃO REALIZADA EM 31.07.91, TENDO EM VISTA AS  DISPOSI-
+ÇÕES DO ART. 4º, INCISOS VI, IX E XVII, DA CITADA LEI, E DOS ARTS. 4º
+E 14 DA LEI Nº 4.829, DE 05.11.65,
+
+R E S O L V E U:
+
+                    ART.  1º. O BANCO  CENTRAL DO BRASIL NÃO MAIS DI-
+VULGARÁ  TAXAS DE JUROS PARA EFEITO DO ITEM I DA RESOLUÇÃO Nº 1.131 E
+DO ITEM II DA RESOLUÇÃO Nº 1.132, AMBAS DE 15.05.86, TENDO EM VISTA A
+INVIABILIDADE TÉCNICA DE SUA APURAÇÃO.
+
+                    ART.  2º. EM CONSEQÜÊNCIA,  OS ENCARGOS FINANCEI-
+ROS DAS OPERAÇÕES AINDA REGIDAS PELAS CITADAS RESOLUÇÕES NºS. 1.131 E
+1.132  E  PELA CIRCULAR Nº 1.062, DE 27.08.86, DEVEM  SER  LIVREMENTE
+AJUSTADOS, MEDIANTE NEGOCIAÇÃO ENTRE FINANCIADO E FINANCIADOR.
+
+                    ART. 3º. INDEPENDENTEMENTE DO AJUSTE DE QUE TRATA
+O  ARTIGO ANTERIOR, NÃO HAVERÁ EQUALIZAÇÃO DE JUROS E DE CORREÇÃO MO-
+NETÁRIA  EM OPERAÇÕES LASTREADAS COM RECURSOS DAS OPERAÇÕES  OFICIAIS
+DE CRÉDITO.
+
+                    ART.  4º. FICA DELEGADA COMPETÊNCIA AO BANCO CEN-
+TRAL DO BRASIL PARA BAIXAR AS NORMAS QUE SE TORNEM NECESSÁRIAS À EXE-
+CUÇÃO DESTA RESOLUÇÃO.
+
+                    ART.  5º. ESTA RESOLUÇÃO ENTRA EM VIGOR  NA  DATA
+DE SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 31 DE JULHO DE 1991
+
+                              FRANCISCO ROBERTO ANDRÉ GROS
+                              PRESIDENTE
+```

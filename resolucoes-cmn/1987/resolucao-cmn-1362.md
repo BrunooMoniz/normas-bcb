@@ -1,0 +1,274 @@
+---
+titulo: "Resolução Nº 1.362"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1362"
+data: 1987-07-30
+ementa: "ENTIDADES FECHADAS DE PREVIDENCIA PRIVADA - ALTERACAO DA COMPOSICAO DAS APLICACOES DE RECURSOS - PROPOSTA DE ALTERACAO E CONSOLIDACAO DAS NORMAS EM VIGOR - REVOGACAO DA RESOLUCAO 794, DE 11/01/83, 1168, DE 11/08/86 E 1279, DE 20/03/87."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 1512/88 DOU 09/09/1988 PAG 17344 - ALTERACAO: ITEM/I INC/1 AL/A.", "RESOLUÇÃO CMN 1579/89 DOU 13/02/1989 PAG 2218 - ALTERACAO: ITEM/I INC/1 AL/A AL/D; ITEM/I INC/2 AL/D.", "RESOLUÇÃO CMN 1612/89 DOU 26/06/1989 PAG 10303 - ALTERACAO: ITEM/I.", "RESOLUÇÃO CMN 1677/90 DOU 18/01/1990 PAG 1293 - ALTERACAO: ITEM/I SUBITEM/1 SUBITEM/2 AL/C.", "RESOLUÇÃO CMN 1860/91 DOU 30/08/1991 PAG 18113 - ALTERACAO: ITEM/I AL/C SUBITEM/1 SUBITEM/2.", "RESOLUÇÃO CMN 1893/92 DOU 10/01/1992 PAG 409/10 - ALTERACAO: ITEM/II AL/A.", "RESOLUÇÃO CMN 1896/92 DOU 31/01/1992 PAG 1252 - ALTERACAO: ITEM/I SUBITEM/1 AL/F INC/3; ITEM/I SUBITEM/2 AL/F INC/2.", "RESOLUÇÃO CMN 2038/93 DOU 24/12/1993 PAG 20544 - ALTERACAO: ITEM/I CAPUT SUBITEM/1 AL/A AL/B AL/C; ALTERACAO: ITEM/I SUBITEM/2 AL/A AL/B; REVOGACAO: ITEM/I SUBITEM/2 AL/C.", "RESOLUÇÃO CMN 2109/94 DOU 21/09/1994 PAG 14267-9 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1896/92", "RESOLUÇÃO 1503/88", "RESOLUÇÃO 1893/92", "RESOLUÇÃO 794/83", "RESOLUÇÃO 1831/91", "RESOLUÇÃO 2109/94", "RESOLUÇÃO 1168/86", "RESOLUÇÃO 1512/88", "RESOLUÇÃO 1860/91", "RESOLUÇÃO 1579/89", "RESOLUÇÃO 1279/87", "RESOLUÇÃO 1677/90", "RESOLUÇÃO 2038/93", "RESOLUÇÃO 1808/91", "RESOLUÇÃO 1985/93", "RESOLUÇÃO 1612/89", "RESOLUÇÃO 1858/91", "RESOLUÇÃO 409/10", "CIRCULAR 2084/91", "CIRCULAR 1876/90", "CARTA CIRCULAR 1707/87"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 6435/77 ART/40.", "CITA DL 2288/86.", "CITA LEI 6435/77 ART/45.", "REVOGA RESOLUÇÃO CMN 794/83 1168/86 1279/87."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1362"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.362
+
+```
+                        RESOLUCAO N. 001362
+                        -------------------
+
+         O  BANCO  CENTRAL DO BRASIL, na forma do art. 9. da  Lei  n.
+4.595,  de 31.12.64, torna público que o CONSELHO MONETÁRIO NACIONAL,
+em sessão realizada nesta data, tendo em vista as disposições do art.
+40 da Lei n. 6.435, de 15.07.77,
+
+R E S O L V E U:
+
+         I  -  Os  recursos garantidores das reservas  das  entidades
+fechadas  de  previdência  privada, constituídas  de  acordo  com  os
+critérios  fixados  pelo  Conselho  de  Previdência  Complementar   e
+destinadas  à  cobertura  de riscos expirados  e  não  expirados,  de
+benefícios   concedidos  e  a  conceder,   bem   como   os   recursos
+correspondentes  às  demais  reservas,  fundos  e  provisões,   serão
+aplicados conforme as diretrizes desta Resolução e nos limites abaixo
+estabelecidos:
+
+         1.   Entidades   que  tenham  por  patrocinadoras   empresas
+públicas,  sociedades  de  economia  mista,  federais  ou  estaduais,
+autarquias,   inclusive   as  de  natureza  especial,   e   fundações
+instituídas pelo Poder Público:
+
+         a)  30%  (trinta  por cento), no mínimo,  em  obrigações  do
+Fundo  Nacional  de  Desenvolvimento instituído pelo  Decreto-lei  n.
+2.288, de 23.07.86, com prazo de 10 (dez) anos;
+
+         b)  25%  (vinte e cinco por cento), no mínimo, em  ações  de
+emissão  de companhias abertas, observado que pelo menos 75% (setenta
+e  cinco por cento) dessas aplicações deverão estar representados por
+títulos  de  emissão de companhias abertas controladas  por  capitais
+privados nacionais;
+
+         c)  17%  (dezessete  por cento), no máximo,  em  empréstimos
+e/ou  financiamentos aos participantes, a custos  não  inferiores  ao
+mínimo  previsto nos respectivos planos atuariais, observado o máximo
+de   7%  (sete  por  cento)  em  se  tratando  de  empréstimos   e/ou
+financiamentos simples;
+
+         d)  20%  (vinte  por cento), no máximo, em  imóveis  de  uso
+próprio  ou imóveis urbanos que não sejam de uso próprio. No caso  de
+terrenos  que  se  destinem à produção de unidades  habitacionais,  a
+aplicação somente será permitida se o empreendimento for iniciado  no
+prazo  máximo de 24 (vinte e quatro) meses, com recursos próprios  ou
+do Sistema Financeiro da Habitação;
+
+         e)  os  recursos remanescentes, quando houver, deverão estar
+aplicados, isolada ou cumulativamente, em:
+
+         1.  Títulos  da  Dívida Pública Federal, Títulos  da  Dívida
+Publica Estadual e Letras do Banco Central;
+
+         2.  Títulos da Dívida Pública dos Municípios, Obrigações  da
+Eletrobrás,  título de emissão ou coobrigação do  Banco  Nacional  de
+Desenvolvimento Econômico e Social e Títulos da Dívida Agrária;
+
+         3.  depósito  a  prazo, com ou sem emissão  de  certificado,
+debêntures,  letras  de  câmbio de aceite de sociedades  de  crédito,
+financiamento  e investimento, cédulas pignoratícias  de  debêntures,
+cédulas hipotecárias, letras imobiliárias e letras hipotecárias;
+
+         4. quotas de fundos mútuos de investimento;
+
+         5. operações definidas na Resolução n. 1.088, de 30.01.86;
+
+         6.  outras  modalidades  de  investimento  autorizadas  pelo
+Banco   Central   ou  pela  Comissão  de  Valores  Mobiliários,   nas
+respectivas  áreas de competência, em conjunto com  a  Secretaria  de
+Previdência  Complementar do Ministério da Previdência e  Assistência
+Social;
+
+         7. disponibilidades.
+
+         2. demais entidades:
+
+         a)   30%   (trinta  por  cento),  no  mínimo,   isolada   ou
+cumulativamente,  em obrigações do Fundo Nacional de  Desenvolvimento
+instituído  pelo Decreto-lei n. 2.288, de 23.07.86, com prazo  de  10
+(dez)  anos,  Títulos da Dívida Pública Federal,  Títulos  da  Dívida
+Pública  Estadual,  títulos de emissão ou coobrigação  de  bancos  de
+desenvolvimento,  Títulos da Dívida Agrária, cédulas  hipotecárias  e
+letras hipotecárias;
+
+         b)  25%  (vinte e cinco por cento), no mínimo, em  ações  de
+companhias abertas, observado que pelo menos 75% (setenta e cinco por
+cento)  dessas aplicações deverão estar representados por títulos  de
+emissão  de  companhias  abertas controladas  por  capitais  privados
+nacionais;
+
+         c)  17%  (dezessete  por cento), no máximo,  em  empréstimos
+e/ou  financiamentos aos participantes, a custos  não  inferiores  ao
+mínimo  previsto nos respectivos planos atuariais, observado o máximo
+de   7%  (sete  por  cento)  em  se  tratando  de  empréstimos   e/ou
+financiamentos simples;
+
+         d)  20%  (vinte  por cento), no máximo, em  imóveis  de  uso
+próprio  ou imóveis urbanos que não sejam de uso próprio. No caso  de
+terrenos  que  se  destinem à produção de unidades  habitacionais,  a
+aplicação somente será permitida se o empreendimento for iniciado  no
+prazo  máximo de 24 (vinte e quatro) meses, com recursos próprios  ou
+do Sistema Financeiro da Habitação;
+
+         e)  os  recursos remanescentes, quando houver, deverão estar
+aplicados, isolada ou cumulativamente, em:
+
+         1. Letras do Banco Central;
+
+         2.  Títulos da Dívida Pública dos Municípios, Obrigações  da
+Eletrobrás  e títulos de emissão ou coobrigação do Banco Nacional  de
+Desenvolvimento Econômico e Social;
+
+         3.  depósitos  a  prazo, com ou sem emissão de  certificado,
+debêntures,  letras  de  câmbio de aceite de sociedades  de  crédito,
+financiamento e investimento, cédulas pignoratícias de debêntures,  e
+letras imobiliárias;
+
+         4. quotas de fundos mútuos de investimento;
+
+         5. operações definidas na Resolução n. 1.088, de 30.01.86;
+
+         6.  outras  modalidades  de  investimento  autorizadas  pelo
+Banco   Central   ou  pela  Comissão  de  Valores  Mobiliários,   nas
+respectivas  áreas de competência, em conjunto com  a  Secretaria  de
+Previdência  Complementar do Ministério da Previdência e  Assistência
+Social;
+
+         7. disponibilidades.
+
+         II  -  Às  aplicações referidas no item anterior observarão,
+ainda, os seguintes critérios:
+
+         a)  as aplicações em ações de emissão de uma única sociedade
+não  poderão  exceder 4% (quatro por cento) do montante dos  recursos
+mencionados no item I e não poderão representar mais que 8% (oito por
+cento)  do capital votante ou 20% (vinte por cento) do capital  total
+dessa;
+
+         b)  as  aplicações  em debêntures de um mesmo  emitente  não
+poderão  exceder  4%  (quatro por cento)  do  montante  dos  recursos
+mencionados no item I;
+
+         c)  as  aplicações  em  quotas de um mesmo  fundo  mútuo  de
+investimento não poderão exceder 10% (dez por cento) do montante  dos
+recursos mencionados no item I;
+
+         d)  não  poderá haver concentração superior a 10%  (dez  por
+cento)  do montante dos recursos mencionados no item I em títulos  de
+emissão  ou  coobrigação de uma mesma instituição  financeira  ou  de
+responsabilidade de um mesmo Estado ou Município;
+
+         e)  não  serão consideradas, na determinação dos limites  de
+diversificação  ora estabelecidos, as ações recebidas em  bonificação
+ou  resultantes da conversão de debêntures e as ações  ou  debêntures
+conversíveis  provenientes do exercício do  direito  de  preferência,
+desde  que  o  excesso seja eliminado no prazo  de  6  (seis)  meses,
+prorrogável,   por  igual  período,  a  critério  da  Secretaria   de
+Previdência  Complementar do Ministério da Previdência e  Assistência
+Social. O extravasamento dos limites em virtude da desvalorização dos
+títulos deverá igualmente ser regularizado no prazo aqui fixado.
+
+         III  -  Admitir-se-á a aplicação em ações ou  debêntures  de
+emissão  das próprias companhias patrocinadoras e/ou de suas  ligadas
+ou  controladas,  desde  que  registradas  como  companhias  abertas,
+observado,   ainda,  que  o  total  das  aplicações  nesses   valores
+mobiliários não poderá exceder os limites de contratação previstos no
+item anterior.
+
+         IV  -  As insuficiências das reservas destinadas à cobertura
+de benefícios a conceder sob a forma de renda, aludidas no art. 45 da
+Lei  n.  6.435,  de  15.07.77, somadas  às  aplicações  em  ações  ou
+debêntures   de  emissão  da  companhia  patrocinadora  não   poderão
+ultrapassar  10%  (dez por cento) do patrimônio líquido  contábil  da
+patrocinadora.  No  caso  de grupo de companhias  patrocinadoras,  as
+insuficiências  não poderão ultrapassar 10% (dez por  cento)  de  seu
+patrimônio líquido consolidado. Para resguardo da entidade fechada de
+previdência privada,  a(s) companhia(s)  patrocinadora(s)  deverá(ão)
+manter  garantias  devidamente  constituídas  em  seus   ativos   com
+caução,  penhor, hipoteca ou outra modalidade aceita pela  Secretaria
+de   Previdência   Complementar  do  Ministério  da   Previdência   e
+Assistência Social, acrescidas da rentabilidade adequada à manutenção
+do plano de benefícios.
+
+         V  -  As  companhias  patrocinadoras que  se  utilizarem  da
+faculdade prevista no mencionado art. 45 da Lei n. 6.435, na forma do
+item  IV  desta Resolução, serão auditadas, anualmente,  por  auditor
+independente registrado na Comissão de Valores Mobiliários, devendo o
+parecer respectivo ser divulgado juntamente com o Balanço Geral  e  a
+Demonstração do Resultado do Exercício.
+
+         VI  -  É vedado às entidades fechadas de previdência privada
+atuar   como   instituição  financeira,  concedendo  empréstimos   ou
+financiamentos a pessoas físicas ou jurídicas, ou abrindo crédito sob
+qualquer  modalidade,  ressalvadas  as  aplicações  e  financiamentos
+previstos  nesta  Resolução  e  os casos  específicos  de  planos  de
+benefícios e programas de assistência de natureza social e financeira
+destinados   a  seus  participantes,  devidamente  autorizados   pela
+Secretaria de Previdência Complementar do Ministério da Previdência e
+Assistência Social.
+
+         VII  - É vedado, ainda, às entidades fechadas de previdência
+privada, com base nos recursos mencionados no item I ou utilizando-se
+desses:
+
+         a)   prestar  fiança,  aval,  aceite  ou  coobrigar-se   sob
+qualquer outra forma;
+
+         b)  negociar com duplicatas e notas promissórias  ou  outros
+títulos de crédito que não os previstos nesta Resolução;
+
+         c) efetuar aplicação no exterior.
+
+         VIII  -  Os  títulos e valores mobiliários  integrantes  das
+carteiras  das entidades fechadas de previdência privada não  poderão
+ser  objeto de locação, empréstimo, penhor ou caução, salvo nos casos
+expressamente  autorizados pelo Banco Central  ou  pelo  Comissão  de
+Valores  Mobiliários,  nas  respectivas  áreas  de  competência,   em
+conjunto  com a Secretaria de Previdência Complementar do  Ministério
+da Previdência e Assistência Social.
+
+         IX  -  Os  títulos  e  valores mobiliários  integrantes  das
+carteiras  das  entidades  fechadas  de  previdência  privada   serão
+obrigatoriamente   custodiados   em   banco   comercial,   banco   de
+investimento,  bolsa  de valores ou entidade autorizada  à  prestação
+desse  serviço  pela  Comissão de Valores Mobiliários.  Os  recursos,
+quando  em  espécie,  permanecerão  depositados  em  estabelecimentos
+bancários comerciais.
+
+         X   -   O  Banco  Central  e  a  Secretaria  de  Previdência
+Complementar do Ministério da Previdência e Assistência Social  ficam
+autorizados  a  baixar as normas e adotar as medidas que  se  fizerem
+necessárias ao cumprimento do disposto nesta Resolução, inclusive com
+relação  ao  prazo de subscrição de obrigações do Fundo  Nacional  de
+Desenvolvimento.
+
+         XI  -  A  adaptação  ao  percentual mínimo  estipulado  para
+aplicação  em  obrigações do Fundo Nacional  de  Desenvolvimento  por
+parte das entidades patrocinadas por empresas públicas, sociedades de
+economia  mista, federais ou estaduais, autarquias, inclusive  as  de
+natureza especial, e fundações instituídas pelo Poder Público  deverá
+ocorrer  até 31.08.87. Para efeito da adaptação aqui referida,  serão
+considerados  os Títulos da Dívida Pública Federal e  os  Títulos  da
+Dívida  Pública  Estadual  em  carteira, adquiridos  anteriormente  a
+31.12.86,  devendo esses ser substituídos pelas obrigações  do  Fundo
+Nacional de Desenvolvimento por ocasião de seu vencimento.
+
+         XII  -  Esta  Resolução  entrará em vigor  na  data  de  sua
+publicação,  ficando revogadas as Resoluções n.s  794,  de  11.01.83,
+1.168, de 11.08.86, e 1.279, de 20.03.87.
+
+                             Brasília-DF, 30 de julho de 1987
+
+                             Fernando Milliet de Oliveira
+                             Presidente
+```

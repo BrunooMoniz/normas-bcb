@@ -1,0 +1,57 @@
+---
+titulo: "Resolução Nº 1.741"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1741"
+data: 1990-08-30
+ementa: "PROGRAMA FEDERAL DE DESREGULAMENTAÇÃO ALTERA PROCEDIMENTOS RELATIVOS ÀS CARTEIRAS DE DESENVOLVIMENTO DOS BANCOS COMERCIAIS ESTADUAIS."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2099/94 DOU 18/08/1994 PAG 12481 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2099/94", "RESOLUÇÃO 394/76", "CARTA CIRCULAR 2230/91"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/VIII ITEM/XII.", "CITA RESOLUÇÃO CMN 1524/88.", "REVOGA RESOLUÇÃO CMN 394/76 ART/33 ART/34 (REGULAMENTO)."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1741"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.741
+
+```
+                        RESOLUCAO Nº 001741
+                        -------------------
+
+                              PROGRAMA FEDERAL DE DESREGULAMENTAÇÃO -
+                              ALTERA PROCEDIMENTOS RELATIVOS ÀS  CAR-
+                              TEIRAS DE  DESENVOLVIMENTO  DOS  BANCOS
+                              COMERCIAIS ESTADUAIS.
+
+                    O BANCO CENTRAL DO BRASIL, NA FORMA DO ART. 9º DA
+LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE O CONSELHO MONETÁRIO NA-
+CIONAL, EM SESSÃO REALIZADA EM 29.08.90, TENDO EM VISTA O DISPOSTO NO
+ART. 4º, INCISOS VIII E XII, DA MENCIONADA LEI,
+
+R E S O L V E U:
+
+                    ART. 1º. ESTABELECER QUE OS BANCOS COMERCIAIS ES-
+TADUAIS   SOMENTE PODERÃO OPERAR COM  CARTEIRA DE DESENVOLVIMENTO  SE
+ORGANIZADOS  SOB  A  FORMA  PREVISTA  PELA  RESOLUÇÃO  Nº  1.524,  DE
+21.09.88.
+                    ART. 2º. CONCEDER  O  PRAZO DE 1 (UM) ANO, A CON-
+TAR  DA DATA DE PUBLICAÇÃO DESTA RESOLUÇÃO, PARA QUE OS BANCOS COMER-
+CIAIS  ESTADUAIS COM CARTEIRA DE DESENVOLVIMENTO EM FUNCIONAMENTO  SE
+ADAPTEM ÀS DISPOSIÇÕES DESTA  RESOLUÇÃO.
+
+                    ART.  3º. DELEGAR COMPETÊNCIA AO  BANCO   CENTRAL
+DO  BRASIL  PARA ADOTAR AS MEDIDAS NECESSÁRIAS À EXECUÇÃO DO DISPOSTO
+NESTA RESOLUÇÃO.
+                    ART.  4º. DETERMINAR QUE ESTA RESOLUÇÃO ENTRA  EM
+VIGOR NA DATA DE SUA PUBLICAÇÃO.
+
+                    ART.  5º. REVOGAR  OS ARTIGOS 33 E 34 DO  REGULA-
+MENTO ANEXO À RESOLUÇÃO Nº 394, DE 03.11.76.
+
+                              BRASÍLIA (DF), 30 DE AGOSTO DE 1990
+
+                              IBRAHIM ERIS
+                              PRESIDENTE
+```

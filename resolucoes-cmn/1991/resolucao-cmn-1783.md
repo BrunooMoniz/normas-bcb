@@ -1,0 +1,52 @@
+---
+titulo: "Resolução Nº 1.783"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1783"
+data: 1991-01-14
+ementa: "AUTORIZA A CONTRATAÇÃO DE FINANCIAMENTOS PARA ESTOCAGEM DE SEMENTES DE TRIGO E TRITICALE."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2299/96 DOU 04/07/1996 PAG 12288 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2299/96"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/VI.", "LEI 4829/65 ART/4 ART/14."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1783"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.783
+
+```
+                        RESOLUCAO N. 001783
+                        -------------------
+
+                              AUTORIZA  A CONTRATAÇÃO DE FINANCIAMEN-
+                              TOS PARA ESTOCAGEM DE SEMENTES DE TRIGO
+                              E TRITICALE.
+
+                    O BANCO CENTRAL DO BRASIL, NA FORMA DO ART. 9º DA
+LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE O CONSELHO MONETÁRIO NA-
+CIONAL,  EM SESSÃO DE 31.10.90, TENDO EM VISTA AS DISPOSIÇÕES DO ART.
+4º,  INCISO VI, DA CITADA LEI E DOS ARTS. 4º E 14 DA LEI Nº 4.829, DE
+05.11.65,
+
+R E S O L V E U:
+
+                    ART.  1º. PERMITIR  ÀS  INSTITUIÇÕES  FINANCEIRAS
+INTEGRANTES  DO SISTEMA NACIONAL DE CRÉDITO RURAL (SNCR) A  CONCESSÃO
+DE  FINANCIAMENTOS A PRODUTORES DE SEMENTES DE TRIGO E TRITICALE, NOS
+MOLDES DAS OPERAÇÕES DE EMPRÉSTIMOS DO  GOVERNO  FEDERAL  (EGF),  SEM
+OPÇÃO DE VENDA, PARA ESTOCAGEM DA PRODUÇÃO NACIONAL DAQUELES INSUMOS,
+OBSERVADAS  AS NORMAS ESPECÍFICAS EXPEDIDAS PELA EXTINTA COMPANHIA DE
+FINANCIAMENTO  DA PRODUÇÃO (CFP) E PELA COMPANHIA NACIONAL DE ABASTE-
+CIMENTO (CNA).
+
+                    ART.  2º. ESTA RESOLUÇÃO  ENTRA  EM VIGOR NA DATA
+DE SUA PUBLICAÇÃO, SEM PREJUÍZO DAS OPERAÇÕES JÁ CONTRATADAS COM BASE
+NA DECISÃO DO CONSELHO MONETÁRIO NACIONAL.
+
+                              BRASÍLIA (DF), 14 DE JANEIRO DE 1991
+
+                              IBRAHIM ERIS
+                              PRESIDENTE
+```

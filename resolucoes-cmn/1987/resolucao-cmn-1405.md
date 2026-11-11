@@ -1,0 +1,67 @@
+---
+titulo: "Resolução Nº 1.405"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1405"
+data: 1987-10-29
+ementa: "MEDIDAS EMERGENCIAIS DE AMPARO A LAVOURA CACAUEIRA - DETERMINA A PRORROGACAO DOS SALDOS DEVEDORES DE CREDITO RURAL DE CUSTEIO (SAFRA 1987 / 1988) E INVESTIMENTO RELATIVOS AS LAVOURAS DE CANA DOS ESTADOS DA BAHIA E DO ESPIRITO SANTO ATINGIDAS PELA ESTIAGEM, MEDIANTE EXAME DE CADA CASO."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2535/98 DOU 27/08/1998 PAG 31 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2535/98", "RESOLUÇÃO 1431/87"]
+referencias: ["LEI 4595/64 ART/4 ITEM/VI.    LEI 4595/64 ART/9.", "LEI 4829/65 ART/4 ART/14.   CITA RESOLUÇÃO CMN 1267/87."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1405"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.405
+
+```
+                        RESOLUCAO N. 001405
+                        -------------------
+
+         O  BANCO  CENTRAL DO BRASIL, na forma do art. 9. da  Lei  n.
+4.595,  de 31.12.64, torna público que o CONSELHO MONETÁRIO NACIONAL,
+em sessão realizada nesta data, tendo em vista as disposições do art.
+4., inciso VI, da citada Lei, e dos arts. 4. e 14 da Lei n. 4.829, de
+05.11.65,
+
+R E S O L V E U:
+
+         I  -  Determinar  a  prorrogação  dos  saldos  devedores  de
+crédito  rural de custeio (safra 1987/1988) e investimento  relativos
+às  lavouras  de  cacau  dos Estados da Bahia  e  do  Espírito  Santo
+atingidas  pela  estiagem, mediante exame de cada caso,  da  seguinte
+forma:
+
+         a)  custeio  agrícola: prorrogação por até 4 (quatro)  anos,
+sendo 1 (um) de carência;
+
+         b)  investimento: as parcelas vencidas ou vincendas em  1987
+e  1988  serão  repactuadas para pagamento até  1  (um)  ano  após  o
+vencimento  final  da dívida, às mesmas condições ora  vigentes  para
+essas operações.
+
+         II  - Recomendar às instituições financeiras integrantes  do
+Sistema Nacional de Crédito Rural prioridade absoluta na concessão de
+crédito  de  custeio  e investimento agrícola para  cacau  nas  áreas
+prejudicadas,   quando  houver  evidência  do  restabelecimento   das
+condições   climáticas  e  recomendação  dos  órgãos  de  assistência
+técnica.
+
+         III - Assegurar aos miniprodutores e pequenos produtores  os
+créditos  de  manutenção  de  que trata  a  Resolução  n.  1.267,  de
+11.03.87,  a  serem  concedidos  diretamente  ou  através   de   suas
+cooperativas.
+
+         IV  -  Delegar  competência ao Banco  Central  para  expedir
+normas que se tornem necessárias à execução desta Resolução.
+
+         V  -  Esta  Resolução  entrará  em  vigor  na  data  de  sua
+publicação.
+
+                             Brasília-DF, 29 de outubro de 1987
+
+                             Fernando Milliet de Oliveira
+                             Presidente
+```

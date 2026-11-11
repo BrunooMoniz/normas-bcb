@@ -1,0 +1,111 @@
+---
+titulo: "Resolução Nº 3.612"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3612"
+data: 2008-09-30
+ementa: "Altera dispositivos das Resoluções ns. 3.572, 3.573, 3.574, 3.575, 3.577, 3.578, 3.579 e 3.580, todas de 29 de maio de 2008."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Resolução CMN nº 3.636/2008 - Revogação total."]
+normas_vinculadas: ["RESOLUÇÃO 3636/2008", "RESOLUÇÃO 3580/2008", "RESOLUÇÃO 3579/2008", "RESOLUÇÃO 3578/2008", "RESOLUÇÃO 3577/2008", "RESOLUÇÃO 3575/2008", "RESOLUÇÃO 3574/2008", "RESOLUÇÃO 3573/2008", "RESOLUÇÃO 3572/2008"]
+referencias: ["Lei nº 4.595/1964, arts. 4º, inciso VI; e 9º.", "Lei nº 4.829/1965, arts. 4º e 14.", "Lei nº 10.186/2001, art. 5º.", "Lei nº 11.775/2008, art. 41.", "Cita Lei nº 11.775/2008, arts. 4º, 10 e 23.", "Altera Resolução CMN nº 3.572/2008 - Prorroga para 14/11/2008 prazo de que trata art. 1º, inciso I.", "Altera Resolução CMN nº 3.573/2008 - Prorroga para 14/11/2008 prazo de que trata art. 1º, inciso I.", "Altera Resolução CMN nº 3.574/2008 - Prorroga para 14/11/2008 prazo de que tratam art. 1º, incisos I e II.", "Altera Resolução CMN n° 3.575/2008 - Prorroga para 14/11/2008 prazo de que tratam art. 1º, inciso I, e art. 2º, inciso IV, “a”.", "Altera Resolução CMN n° 3.577/2008 - Prorroga para 14/11/2008 prazo de que trata art. 1º, inciso I.", "Altera Resolução CMN n° 3.578/2008 - Prorroga para 14/11/2008 prazo de que tratam art. 1º, inciso I, e art. 4º, inciso V, “a”.", "Altera Resolução CMN n° 3.579/2008 - Prorroga para 14/11/2008 prazo de que tratam art. 1º, inciso I, e art. 2º, inciso I.", "Altera Resolução CMN n° 3.580/2008 - Prorroga para 14/11/2008 prazo de que tratam art. 1º, inciso I, e art. 2º, inciso II, “a”."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3612"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.612
+
+```
+                        RESOLUCAO N. 003612
+                        -------------------
+
+                                 Altera  dispositivos das  Resoluções
+                                 ns.   3.572,  3.573,  3.574,  3.575,
+                                 3.577,  3.578, 3.579 e 3.580,  todas
+                                 de 29 de maio de 2008.
+
+         O  BANCO  CENTRAL DO BRASIL, na forma do art. 9º da  Lei  nº
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  CONSELHO
+MONETÁRIO  NACIONAL, em sessão realizada em 30 de setembro  de  2008,
+tendo  em  vista as disposições dos arts. 4º, inciso VI, da  referida
+Lei, 4º e 14 da Lei nº 4.829, de 5 de novembro de 1965, 5º da Lei  nº
+10.186,  de 12 de fevereiro de 2001 e 41 da Lei nº 11.775, de  17  de
+setembro de 2008,
+
+         R E S O L V E U:
+
+         Art.  1º   Fica autorizada a prorrogação para 14 de novembro
+de 2008 dos prazos para os mutuários manifestarem interesse em aderir
+ao processo de renegociação de suas dívidas de que tratam:
+
+         I  -  o inciso I do art. 1° da Resolução nº 3.572, de 29  de
+         maio de 2008;
+
+         II  - o inciso I do art. 1° da Resolução nº 3.573, de 29  de
+         maio de 2008;
+
+         III  - a alínea "a" do inciso IV do art. 2º da Resolução  n°
+         3.575, de 29 de maio de 2008;
+
+         IV  - o inciso I do art. 1° da Resolução n° 3.577, de 29  de
+         maio de 2008;
+
+         V  -  o  inciso I do art. 1° e a alínea "a" do inciso  V  do
+         art.  4º,  ambos da Resolução n° 3.578, de  29  de  maio  de
+         2008;
+
+         VI  - o inciso I do art. 1º da Resolução n° 3.580, de 29  de
+         maio de 2008.
+
+         Parágrafo  único.  O prazo de que trata o  caput  também  se
+aplica à alínea "a" do inciso II do art. 2º da Resolução nº 3.580, de
+2008, para os mutuários solicitarem a individualização das operações.
+
+         Art.  2º   Fica autorizada a prorrogação para 14 de novembro
+de  2008  do  prazo previsto no inciso I do art. 1º da  Resolução  nº
+3.574, de 29 de maio de 2008, para os mutuários das operações de  que
+trata  o  art.  4º  da  Lei nº 11.775, de 17  de  setembro  de  2008,
+adimplirem-se e, assim, habilitarem-se ao benefício ali assegurado.
+
+         Art.  3º   Fica autorizada a prorrogação para 14 de novembro
+de  2008  do  prazo previsto no inciso II do art. 1º da Resolução  nº
+3.574,  de  29  de  maio  de  2008, para  os  mutuários  manifestarem
+interesse  em liquidar as parcelas de juros vencidas ou em  contratar
+nova  operação de crédito nas condições estabelecidas no art.  2º  da
+referida Resolução.
+
+         Art.  4º   Fica autorizada a prorrogação para 14 de novembro
+de  2008  do  prazo previsto no inciso I do art. 1º da  Resolução  nº
+3.575,  de  29  de  maio  de  2008, para  os  mutuários  manifestarem
+interesse  na  substituição das taxas de juros na forma  prevista  no
+art. 10 da Lei nº 11.775, de 2008.
+
+         Art.  5º   Fica autorizada a prorrogação para 14 de novembro
+de  2008  do  prazo previsto no inciso I do art. 1º da  Resolução  nº
+3.579, de 29 de maio de 2008, para os mutuários formalizarem junto às
+instituições  financeiras o pedido de individualização das  operações
+de que trata o caput do art. 1º da referida Resolução.
+
+         Art.  6º   Fica autorizada a prorrogação para 14 de novembro
+de  2008  do  prazo previsto no inciso I do art. 2º da  Resolução  nº
+3.579,   de  2008,  para  os  mutuários  manifestarem  interesse   na
+liquidação  das  operações, nos termos dos incisos I  a  III,  ou  na
+renegociação, nos termos do inciso IV, todos do art.  23  da  Lei  nº
+11.775, de 2008.
+
+         Art.  7º   Os prazos para adesão à renegociação das  dívidas
+rurais  de  que tratam as Resoluções ns. 3.572, 3.573, 3.574,  3.575,
+3.577,  3.578,  3.579  e  3.580, todas de 2008,  ora  ampliados,  não
+implicam  prorrogação da data de vencimento prevista nos  respectivos
+contratos  ou  dos  demais prazos definidos pelo  Conselho  Monetário
+Nacional.
+
+         Art.  8º   Esta  Resolução entra em vigor  na  data  de  sua
+publicação.
+
+                                    Brasília, 30 de setembro de 2008.
+
+                    Henrique de Campos Meirelles
+                             Presidente
+```

@@ -1,0 +1,124 @@
+---
+titulo: "Resolução Nº 3.057"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3057"
+data: 2002-12-19
+ementa: "Dispõe sobre a certificação de empregados das instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 3158/2003 DOU 18/12/2002 PAG 22 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2838/2001", "RESOLUÇÃO 3158/2003", "CIRCULAR 3170/2002"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/VIII.", "LEI 4728/65 6099/74 7132/83.", "CITA RESOLUÇÃO CMN 2838/2001 ART/2 ITEM/I.", "REVOGA RESOLUÇÃO CMN 2838/2001 ART/4."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3057"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.057
+
+```
+                        RESOLUCAO N. 003057
+                        -------------------
+                                   Dispõe  sobre  a  certificação  de
+                                   empregados     das    instituições
+                                   financeiras  e demais instituições
+                                   autorizadas   a   funcionar   pelo
+                                   Banco Central do Brasil.
+
+         O BANCO CENTRAL DO BRASIL, na forma do art. 9º da Lei 4.595,
+de  31  de  dezembro de 1964, torna público que o CONSELHO  MONETÁRIO
+NACIONAL, em sessão realizada em 19 de dezembro de 2002, com base  no
+art.  4º, inciso VIII, da referida lei, na Lei 4.728, de 14 de  julho
+de 1965, e na Lei 6.099, de 12 de setembro de 1974, com as alterações
+introduzidas pela Lei 7.132, de 26 de outubro de 1983,
+
+R E S O L V E U:
+
+          Art.  1º   Estabelecer que os empregados  das  instituições
+financeiras e demais instituições autorizadas a funcionar pelo  Banco
+Central  do  Brasil,  para  exercerem,  na  própria  instituição,  as
+atividades de distribuição e mediação de títulos, valores mobiliários
+e  derivativos, devem ser considerados aptos em exame de certificação
+organizado por entidade de reconhecida capacidade técnica.
+
+          § 1º  Os empregados que tenham sido julgados aptos em exame
+de  certificação  organizado nos termos do  art.  2º,  inciso  I,  da
+Resolução  2.838, de 30 de maio de 2001, são considerados habilitados
+para  os  efeitos  desta resolução, sem prejuízo do  atendimento  das
+demais condições ora estabelecidas.
+
+          §  2º   O cumprimento da formalidade prevista neste  artigo
+deve  ser  providenciado dentro do prazo de quatro anos,  contados  a
+partir de 1. de janeiro de 2003, observado o cronograma abaixo, a ser
+atendido  com  base no quantitativo dos mencionados  empregados,  por
+instituição, ao final do ano correspondente:
+
+          I  -  25% (vinte e cinco por cento), no mínimo, até  31  de
+dezembro de 2003;
+
+          II  -  50%  (cinqüenta por cento), no  mínimo,  até  31  de
+dezembro de 2004;
+
+          III - 75% (setenta e cinco por cento), no mínimo, até 31 de
+dezembro de 2005;
+
+         IV - 100% (cem por cento), até 31 de dezembro de 2006.
+
+         Art. 2º  A formalidade prevista no art. 1º deve ser renovada
+em  periodicidade  não superior a cinco anos,  contados  da  data  da
+última habilitação.
+
+          Parágrafo  único.   Na  hipótese de o  empregado  passar  a
+exercer   atividade  diferente  daquela  para  a  qual   tenha   sido
+considerado  apto, na própria instituição ou em outra, a  habilitação
+para   o   exercício  da  nova  atividade,  se  exigida,   deve   ser
+providenciada  no  prazo de um ano, contado da  data  da  mudança  de
+atividade.
+
+          Art. 3º  Em se tratando de pessoa que tenha deixado de  ser
+empregado  de  qualquer das instituições referidas  no  art.  1º  por
+período  igual  ou  superior  a um ano, a manutenção  da  habilitação
+respectiva  fica sujeita à renovação da formalidade prevista  naquele
+artigo em periodicidade não superior a dois anos, contados da data do
+término do vínculo empregatício.
+
+         § 1º  Quando do retorno da pessoa à condição de empregado de
+qualquer  das  instituições referidas no  art.  1º,  a  renovação  da
+habilitação respectiva deverá ser providenciada em conformidade com o
+disposto no art. 2º.
+
+          §  2º   A renovação de habilitação nos termos previstos  no
+caput  aplica-se à hipótese de empregado que tenha passado a  exercer
+atividade  diferente,  na própria instituição  ou  em  outra,  e  que
+pretenda manter a habilitação anterior, devendo o prazo de dois anos,
+nesse caso, ser contado da data da última habilitação correspondente,
+sem  prejuízo da observância do disposto no art. 2º relativamente  ao
+exercício da nova atividade.
+
+          Art.  4º  As disposições desta resolução não se aplicam  às
+cooperativas   de   crédito   e   às   sociedades   de   crédito   ao
+microempreendedor.
+
+         Art. 5º  Fica o Banco Central do Brasil autorizado a:
+
+          I - incluir outras atividades entre aquelas relacionadas no
+art. 1º, caput;
+
+          II  -  admitir, a seu critério, a realização de  exames  de
+certificação por tipo de mercado ou conjunto de atividades;
+
+           III  -  adotar  as  demais  medidas  e  baixar  as  normas
+complementares  que  se fizerem necessárias à  execução  do  disposto
+nesta resolução.
+
+          Art.  6º   Esta  resolução entra em vigor na  data  de  sua
+publicação.
+
+          Art. 7º  Fica revogado o art. 4º da Resolução 2.838, de  30
+de maio de 2001.
+
+                                    Brasília, 19 de dezembro de 2002.
+
+                                   Arminio Fraga Neto
+                                   Presidente
+```

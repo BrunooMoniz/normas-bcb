@@ -1,0 +1,136 @@
+---
+titulo: "Resolução Nº 3.625"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3625"
+data: 2008-10-30
+ementa: "Eleva, para o período de 1º de novembro de 2008 a 30 de junho de 2009, a exigibilidade de aplicação em crédito rural de que trata o MCR 6-4, amplia a possibilidade de financiamento de CPR com recursos dessa fonte e reduz o encaixe obrigatório."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Resolução CMN nº 3.746/2009 - Revogação total, a partir de 1º/7/2009."]
+normas_vinculadas: ["CIRCULAR 3423/2008", "CIRCULAR 2900/1999", "RESOLUÇÃO 3746/2009", "RESOLUÇÃO 3705/2009"]
+referencias: ["Lei nº 4.595/1964, arts. 4º, inciso VI, e 9º.", "Lei nº 4.829/1965, arts. 4º; 14; 15, inciso I; e 21.", "Lei nº 8.171/1991, art. 81, inciso III.", "Cita Circular BCB nº 2.900/1999.", "Altera MCR 6-4-2, 6-4-6, 6-4-7, 6-4-21."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3625"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.625
+
+```
+                        RESOLUCAO N. 003625
+                        -------------------
+
+                                 Eleva,  para  o  período  de  1º  de
+                                 novembro  de 2008 a 30 de  junho  de
+                                 2009,  a  exigibilidade de aplicação
+                                 em  crédito rural de que trata o MCR
+                                 6-4,   amplia  a  possibilidade   de
+                                 financiamento  de CPR  com  recursos
+                                 dessa   fonte  e  reduz  o   encaixe
+                                 obrigatório.
+
+         O  BANCO  CENTRAL DO BRASIL, na forma do art. 9º da  Lei  nº
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  CONSELHO
+MONETÁRIO  NACIONAL, em sessão realizada em 30 de  outubro  de  2008,
+tendo  em  vista as disposições dos arts. 4º, inciso VI, da  referida
+lei,  4º,  14, 15, inciso I, 21 da Lei nº 4.829, de 5 de novembro  de
+1965, e 81, inciso III, da Lei nº 8.171, de 17 de janeiro de 1991,
+
+         R E S O L V E U :
+
+         Art.  1º   Fica  elevada  a exigibilidade  de  aplicação  em
+crédito rural das instituições financeiras sujeitas ao cumprimento da
+exigibilidade  da  poupança rural, de que trata o  MCR  6-4,  para  o
+período  de  cumprimento de 1° de novembro de 2008 a 30 de  junho  de
+2009,  de  65%  (sessenta e cinco por cento) para  70%  (setenta  por
+cento), bem como ampliada a possibilidade de financiamento de Cédulas
+de  Produto Rural (CPR) com recursos dessa fonte e reduzido o encaixe
+obrigatório, nos  períodos  de  cálculo  compreendidos  entre  27  de
+outubro de 2008 e 26 de junho de 2009, de 20% (vinte por cento)  para
+15% (quinze por cento).
+
+         Parágrafo único.  Em conseqüência, os itens 6-4-2, 6-4-6, 6-
+4-7 e 6-4-21 do Manual de Crédito Rural (MCR) passam a vigorar com  a
+seguinte redação:
+
+         I - MCR 6-4-2:
+
+         "2  - Exigibilidade dos recursos da poupança rural é  a
+         obrigação  de a instituição financeira manter  aplicado
+         em  operações  de crédito rural valor correspondente  a
+         65%  (sessenta  e cinco por cento) da média  aritmética
+         do  Valor  Sujeito  a Recolhimento (VSR)  relativo  aos
+         depósitos  da  poupança rural apurados  no  período  de
+         cálculo,    considerando   para    cumprimento    dessa
+         exigência:
+         a)  os  saldos  médios diários das operações  relativos
+         aos dias úteis;
+         b)    as    condições   estabelecidas   neste   manual,
+         particularmente  no que diz respeito à observância  das
+         regras:
+         I - dos limites de financiamento;
+         II - do direcionamento dos recursos;
+         III  - das modalidades de crédito com previsão expressa
+         para  utilização da fonte de recursos de que trata esta
+         seção;
+         c)  excepcionalmente para o período de  cumprimento  de
+         1/11/2008  a  30/6/2009,  a exigibilidade  prevista  no
+         caput  deste  item fica elevada para 70%  (setenta  por
+         cento)  da  média aritmética do VSR apurado no  período
+         de cálculo de 1/10/2008 a 31/5/2009." (NR)
+
+         II - MCR 6-4-6:
+
+         "6  -  Os recursos da exigibilidade da poupança  rural,
+         observado  o  disposto nos itens  7  e  12,  devem  ser
+         aplicados:
+         a) em operações de crédito rural;
+         b) na aquisição de Cédulas de Produto Rural (CPR);
+         c)     na     comercialização,    beneficiamento     ou
+         industrialização de produtos de origem agropecuária  ou
+         de insumos utilizados naquela atividade." (NR)
+
+         III - MCR 6-4-7:
+
+         "7  -  Os  recursos da exigibilidade estão sujeitos  ao
+         seguinte direcionamento:
+         a)  no  mínimo  60%  (sessenta  por  cento)  devem  ser
+         aplicados  nas  operações previstas na  alínea  "a"  do
+         item anterior;
+         b)  até  40%  (quarenta por cento) podem ser  aplicados
+         nas  operações previstas nas alíneas "b" e "c" do  item
+         anterior." (NR)
+
+         IV - MCR 6-4-21:
+
+         "21  -  Os  recursos captados em depósitos da  poupança
+         rural    ficam    sujeitos,    ainda,    ao    seguinte
+         direcionamento:
+         a)  20%  (vinte  por cento), em encaixe obrigatório  no
+         Banco  Central  do Brasil, exclusivamente  em  espécie,
+         por  iniciativa  da instituição financeira,  que  serão
+         acrescidos  de  encargos financeiros correspondentes  à
+         remuneração  básica  dos depósitos  de  poupança  e  de
+         juros  de  0,5% a.m. (cinco décimos por cento ao  mês),
+         observado  que,  excepcionalmente  para  os períodos de
+         cálculo compreendidos  entre  27/10/2008  e  26/6/2009,
+         esse percentual fica estabelecido em  15%  (quinze  por
+         cento);
+         b)   10%   (dez  por  cento),  em  encaixe  obrigatório
+         adicional  no  Banco Central do Brasil,  exclusivamente
+         em  espécie,  por iniciativa da instituição financeira,
+         que  serão remunerados pela Taxa Selic, de que trata  a
+         Circular   nº   2.900,  de  24/6/1999,   e   alterações
+         posteriores;
+         c)  até  5%  (cinco por cento), em operações permitidas
+         às   referidas   instituições,   de   acordo   com    a
+         regulamentação em vigor." (NR)
+
+         Art.  2º   Esta  resolução entra em vigor  na  data  de  sua
+publicação.
+
+                                     Brasília, 30 de outubro de 2008.
+
+                    Henrique de Campos Meirelles
+                             Presidente
+```

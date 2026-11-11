@@ -1,0 +1,70 @@
+---
+titulo: "Resolução Nº 1.937"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1937"
+data: 1992-06-30
+ementa: "b"
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2535/98 DOU 27/08/1998 PAG 31 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2535/98", "RESOLUÇÃO 1953/92"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/VI.", "LEI 4829/65 ART/4 ART/14.", "CITA RESOLUÇÃO CMN 1799/91 1800/91.", "CITA RESOLUÇÃO CMN 1926/92 ART/1 PARAGRAFO UNICO."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1937"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.937
+
+```
+                        RESOLUCAO N. 001937
+                        -------------------
+                                                                   b
+
+                              ESTABELECE ENCARGOS FINANCEIROS PARA AS
+                              OPERAÇÕES DE CRÉDITO RURAL E AGROINDUS-
+                              TRIAL CONTRATADAS COM RECURSOS DAS OPE-
+                              RAÇÕES OFICIAIS DE CRÉDITO.
+
+                    O BANCO CENTRAL DO BRASIL, NA FORMA DO ART. 9º DA
+LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE O CONSELHO MONETÁRIO NA-
+CIONAL,  EM SESSÃO REALIZADA EM 30.06.92, TENDO EM VISTA AS  DISPOSI-
+ÇÕES  DO ART. 4º, INCISO VI, DA CITADA LEI E DOS ARTS. 4º E 14 DA LEI
+Nº 4.829, DE 05.11.65,
+
+R E S O L V E U:
+
+                    ART.  1º. OS  FINANCIAMENTOS  DE  CRÉDITO RURAL E
+AGROINDUSTRIAL  FORMALIZADOS  A PARTIR DE 15.01.89, COM RECURSOS  DAS
+OPERAÇÕES  OFICIAIS DE CRÉDITO, FICAM SUJEITOS, NO PRIMEIRO E SEGUNDO
+SEMESTRES DE 1992, A JUROS DE 9% A.A. (NOVE POR CENTO AO ANO), OBSER-
+VADAS  AS  DISPOSIÇÕES  DAS RESOLUÇÕES NºS 1.799 E  1.800,  AMBAS  DE
+27.02.91.
+
+                    PARÁGRAFO  ÚNICO. O  DISPOSTO NESTE ARTIGO NÃO SE
+APLICA AOS FINANCIAMENTOS:
+
+     A - FORMALIZADOS  COM RECURSOS DO PROGRAMA NACIONAL DE ASSISTÊN-
+         CIA  À AGROINDÚSTRIA (PRONAGRI), PROGRAMA NACIONAL DE DESEN-
+         VOLVIMENTO  AGROINDUSTRIAL (PNDA)  E  PROGRAMA  NACIONAL  DE
+         DESENVOLVIMENTO RURAL (PNDR);
+
+     B - DESTINADOS  À AQUISIÇÃO DE CORRETIVOS DE SOLO POR PRODUTORES
+         DE  ALIMENTOS NO CERRADO NORDESTINO E SUAS COOPERATIVAS E  À
+         CAPITALIZAÇÃO DE COOPERATIVAS AGRÍCOLAS DE PEQUENOS PRODUTO-
+         RES,  QUE  FICAM SUJEITOS, NO SEGUNDO SEMESTRE DE 1992,  AOS
+         ENCARGOS  FINANCEIROS ESTIPULADOS NO PARÁGRAFO ÚNICO DO ART.
+         1º DA RESOLUÇÃO Nº 1.926, DE 13.05.92.
+
+                    ART.  2º. FICA DELEGADA COMPETÊNCIA AO BANCO CEN-
+TRAL  DO BRASIL PARA ADOTAR AS MEDIDAS E BAIXAR AS NORMAS NECESSÁRIAS
+À EXECUÇÃO DESTA RESOLUÇÃO.
+
+                    ART.  3º. ESTA  RESOLUÇÃO  ENTRA EM VIGOR NA DATA
+DE SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 30 DE JUNHO DE 1992
+
+                              FRANCISCO ROBERTO ANDRÉ GROS
+                              PRESIDENTE
+```

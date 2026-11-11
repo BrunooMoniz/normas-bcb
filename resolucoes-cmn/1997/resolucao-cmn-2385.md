@@ -1,0 +1,94 @@
+---
+titulo: "Resolução Nº 2.385"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "2385"
+data: 1997-05-22
+ementa: "Dispõe sobre a exclusão, para efeito da verificação do atendimento ao limite de aplicação de recursos no Ativo Permanente, das cotas patrimoniais da Central de Custódia e de Liquidação de Títulos (CETIP) e dos títulos patrimoniais de bolsas de valores e de bolsas de mercadorias e de futuros."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2481/98 DOU 27/03/1998 PAG 15 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2481/98", "RESOLUÇÃO 2283/96"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/VIII ITEM/XI.", "ALTERA RESOLUÇÃO CMN 2283/96 ART/3."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=2385"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 2.385
+
+```
+                        RESOLUCAO N. 002385
+                        -------------------
+
+                              Dispõe sobre a exclusão, para efeito da
+                              verificação do atendimento ao limite de
+                              aplicação  de recursos no Ativo  Perma-
+                              nente,  das   cotas   patrimoniais   da
+                              Central de Custódia e de Liquidação  de
+                              Títulos (CETIP)  e dos títulos patrimo-
+                              niais  de bolsas de valores e de bolsas
+                              de mercadorias e de futuros.
+
+               O  BANCO CENTRAL DO BRASIL, na forma do art. 9º da Lei
+nº  4.595, de 31.12.64, torna público que o CONSELHO MONETÁRIO NACIO-
+NAL,  em  sessão realizada em 22.05.97, tendo em vista o disposto  no
+art. 4º, incisos VIII e XI da citada Lei,
+
+R E S O L V E U:
+
+               Art.  1º Excluir, para efeito da verificação do  aten-
+dimento ao respectivo limite de aplicação de recursos no Ativo Perma-
+nente, tanto desse grupo como do patrimônio líquido ajustado na forma
+da regulamentação em vigor (PLA), os valores correspondentes às cotas
+patrimoniais  da Central de Custódia e de Liquidação de Títulos  (CE-
+TIP)  e dos títulos patrimoniais de bolsas de valores e de bolsas  de
+mercadorias e de futuros de titularidade das instituições financeiras
+e  demais instituições autorizadas a funcionar pelo Banco Central  do
+Brasil  às quais facultada a realização de operações nos mercados por
+aquelas administrados.
+
+               Art.  2º  Alterar, em conseqüência, o art. 3º da Reso-
+lução nº 2.283, de 05.06.96, que passa a vigorar com a seguinte reda-
+ção:
+
+     "Art.  3º  O  total  dos  recursos aplicados no Ativo Permanente
+     não  pode ultrapassar 90% (noventa por cento) do valor do patri-
+     mônio líquido ajustado na forma da regulamentação em vigor (PLA)
+     das instituições financeiras e demais instituições autorizadas a
+     funcionar pelo Banco Central do Brasil.
+
+     "Parágrafo  1º  Para  efeito  da  verificação  do atendimento ao
+     limite previsto neste artigo, não são computados:
+
+     I - os diferimentos autorizados em regulamentação específica;
+
+     II  - as  participações  acionarias adquiridas no âmbito do Pro-
+     grama Nacional de Desestatização (PND), quando de caráter perma-
+     nente, durante o prazo de 3 (três) anos contados da data da rea-
+     lização do leilão em que efetuada a aquisição;
+
+     III  - os  valores  correspondentes às operações de arrendamento
+     mercantil.
+
+     "Parágrafo  2º  Ficam igualmente excluídos, para efeito da veri-
+     ficação  do  atendimento  do limite previsto neste artigo, tanto
+     do  Ativo Permanente como do PLA, os valores correspondentes  às
+     cotas patrimoniais da Central de Custódia e de Liquidação de Tí-
+     tulos  (CETIP) e dos títulos patrimoniais de bolsas de valores e
+     de bolsas de mercadorias e de futuros de titularidade das insti-
+     tuições  às quais facultada a realização de operações nos merca-
+     dos por aquelas administrados.
+
+     "Parágrafo  3º   Admite-se  que  eventual excesso verificado  em
+     07.06.96,  decorrente de aplicações de recursos em cotas e títu-
+     los patrimoniais referidos no parágrafo anterior, seja regulari-
+     zado até 30.06.97.".
+
+               Art.  3º  Esta Resolução entra em vigor na data de sua
+publicação.
+
+                              Brasília, 22 de maio de 1997
+
+                              Gustavo Jorge Laboissière Loyola
+                              Presidente
+```

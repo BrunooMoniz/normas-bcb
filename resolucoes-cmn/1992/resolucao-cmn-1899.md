@@ -1,0 +1,62 @@
+---
+titulo: "Resolução Nº 1.899"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1899"
+data: 1992-02-29
+ementa: "DISPÕE SOBRE A ATUALIZAÇÃO DE PARCELAS A DESEMBOLSAR EM OPERAÇÕES AGROINDUSTRIAIS E DE INVESTIMENTOS RURAIS."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 1952/92 DOU 10/08/1992 PAG 10849 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1952/92"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/VI.", "LEI 4829/65 ART/4 ART/14."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1899"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.899
+
+```
+                        RESOLUCAO N. 001899
+                        -------------------
+
+                              DISPÕE  SOBRE A ATUALIZAÇÃO DE PARCELAS
+                              A  DESEMBOLSAR EM OPERAÇÕES  AGROINDUS-
+                              TRIAIS E DE INVESTIMENTOS RURAIS.
+
+                    O BANCO CENTRAL DO BRASIL, NA FORMA DO ART. 9º DA
+LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE O CONSELHO MONETÁRIO NA-
+CIONAL,  EM SESSÃO REALIZADA EM 29.01.92, TENDO EM VISTA AS  DISPOSI-
+ÇÕES  DO ART. 4º, INCISO VI, DA REFERIDA LEI, E DOS ARTS. 4º E 14  DA
+LEI Nº 4.829, DE 05.11.65,
+
+R E S O L V E U:
+
+                    ART.  1º. AS PARCELAS  DE  FINANCIAMENTOS AGROIN-
+DUSTRIAIS E DE INVESTIMENTOS RURAIS, CONCEDIDOS COM RECURSOS DE QUAL-
+QUER ORIGEM, PODEM SER ATUALIZADAS DESDE A DATA DE ELABORAÇÃO DO PRO-
+JETO ATÉ A DATA DE DESEMBOLSO.
+
+                    PARÁGRAFO  1º.  O DISPOSTO  NESTE ARTIGO  NÃO  SE
+APLICA ÀS PARCELAS DE CRÉDITO JÁ LIBERADAS.
+
+                    PARÁGRAFO 2º. A ATUALIZAÇÃO DE QUE SE TRATA  FICA
+SUBORDINADA À EVOLUÇÃO DOS CUSTOS EFETIVAMENTE COMPROVADA.
+
+                    ART.  2º. EM OPERAÇÕES  DE REPASSE OU REFINANCIA-
+MENTO,  OS CRITÉRIOS DE ATUALIZAÇÃO DOS DESEMBOLSOS DEVIDOS PELO GES-
+TOR  DOS  RECURSOS AO AGENTE FINANCEIRO OU COOPERATIVA SÃO  AJUSTADOS
+ENTRE AS PARTES.
+
+                    ART.  3º. FICA DELEGADA COMPETÊNCIA AO BANCO CEN-
+TRAL DO BRASIL PARA  BAIXAR NORMAS COMPLEMENTARES E ADOTAR AS MEDIDAS
+NECESSÁRIAS À EXECUÇÃO DESTA RESOLUÇÃO.
+
+                    ART.  4º. ESTA RESOLUÇÃO ENTRA  EM VIGOR  NA DATA
+DE SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 29 DE JANEIRO DE 1992
+
+                              FRANCISCO ROBERTO ANDRÉ GROS
+                              PRESIDENTE
+```

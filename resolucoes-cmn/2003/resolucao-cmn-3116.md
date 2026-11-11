@@ -1,0 +1,135 @@
+---
+titulo: "Resolução Nº 3.116"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3116"
+data: 2003-07-31
+ementa: "Dispõe sobre a aplicação de recursos das entidades fechadas de previdência complementar."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 3121/2003 DOU 26/09/2003 PAG 16 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 3121/2003", "RESOLUÇÃO 3002/2002"]
+referencias: ["LEI 4595/64 ART/9.", "LEI/COMPLEMENTAR 109/2001 ART/9 PARAG/1.", "CITA RESOLUÇÃO CMN 2829/2001 ART/56 (REGULAMENTO).", "REVOGA RESOLUÇÃO CMN 3002/2002."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3116"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.116
+
+```
+                        RESOLUCAO N. 003116
+                        -------------------
+
+                                   Dispõe   sobre   a  aplicação   de
+                                   recursos  das  entidades  fechadas
+                                   de previdência complementar.
+
+         O BANCO CENTRAL DO BRASIL, na forma do art. 9º da Lei 4.595,
+de  31  de  dezembro de 1964, torna público que o CONSELHO  MONETÁRIO
+NACIONAL, em sessão realizada em 31 de julho de 2003, tendo em  vista
+o  disposto no art. 9º, § 1º, da Lei Complementar 109, de 29 de  maio
+de 2001,
+
+R E S O L V E U:
+
+          Art.  1º  Estabelecer que, constatado, a qualquer tempo,  o
+descumprimento  dos  limites estabelecidos  no  Regulamento  anexo  à
+Resolução 2.829, de 30 de março de 2001, e alterações posteriores,  a
+Secretaria  de Previdência Complementar do Ministério da  Previdência
+Social,  a seu critério, convocará representantes legais da  entidade
+fechada de previdência complementar e, caso entendido necessário,  de
+seus  patrocinadores, para informarem acerca das  medidas  que  serão
+adotadas com vistas à regularização da situação.
+
+         § 1º  O comparecimento dos representantes legais da entidade
+ou  de  seus patrocinadores deverá ser formalizado mediante lavratura
+de   termo   específico  por  parte  da  Secretaria  de   Previdência
+Complementar do Ministério da Previdência Social.
+
+          §  2º  A critério da Secretaria de Previdência Complementar
+do  Ministério da Previdência Social, as medidas referidas  no  caput
+poderão ser requeridas por meio de correspondência.
+
+          Art. 2º  Deverá ser apresentado à Secretaria de Previdência
+Complementar do Ministério da Previdência Social, em prazo  por  essa
+fixado,  não superior a sessenta dias, contado da lavratura do  termo
+de  comparecimento  ou  da  data  do recebimento  da  correspondência
+referida  no  art.  1º, § 2º, para aprovação, plano de  enquadramento
+referendado   pela  diretoria  executiva  da  entidade   fechada   de
+previdência complementar e por seu conselho deliberativo, contendo as
+medidas  previstas para o enquadramento e o respectivo cronograma  de
+execução.
+
+          Parágrafo  único.   O  plano de  enquadramento  deve  estar
+acompanhado de:
+
+          I  - nota técnica atuarial atestando que a distribuição dos
+compromissos  atuariais  não será objeto  de  falta  de  liquidez  em
+decorrência do plano proposto;
+
+          II - avaliação do cenário macroeconômico de curto, médio  e
+longo  prazos,  indicando a forma de análise dos  setores  objeto  de
+investimento cujo limite de aplicação foi descumprido.
+
+          Art.  3º   Para fins de avaliação e aprovação do  plano  de
+enquadramento  apresentado  pela  entidade  fechada  de   previdência
+complementar,  deverão  ser consideradas as informações  contidas  na
+política   de   investimentos  aprovada  pelo   respectivo   conselho
+deliberativo.
+
+          Art.  4º  Aprovado o plano de enquadramento pela Secretaria
+de  Previdência Complementar do Ministério da Previdência Social, nos
+termos  dos  arts.  2º e 3º, as informações nele contidas  devem  ser
+disponibilizadas  pela  entidade fechada de previdência  complementar
+aos  participantes  e  assistidos por meio  eletrônico  ou  impresso,
+conforme modelo a ser estabelecido por aquela Secretaria.
+
+          Art. 5º  Para efeito da verificação do cumprimento do plano
+de  enquadramento aprovado nos termos dos arts. 2º e 3º,  a  entidade
+fechada   de   previdência  complementar  deverá  enviar   relatórios
+semestrais à Secretaria de Previdência Complementar do Ministério  da
+Previdência  Social,  acompanhados de parecer do respectivo  conselho
+fiscal, atestando as providências adotadas.
+
+         Parágrafo único.  A pessoa jurídica contratada pela entidade
+para a prestação do serviço de auditoria independente fica incumbida,
+adicionalmente  às  atribuições referidas no art. 56  do  Regulamento
+anexo à Resolução 2.829, de 2001, de atestar, em seu relatório anual,
+as  providências  adotadas  relativamente  à  execução  do  plano  de
+enquadramento.
+
+          Art.  6º  As entidades fechadas de previdência complementar
+que  apresentaram,  até a data da entrada em vigor  desta  resolução,
+planos   de  enquadramento  relativos  à  aplicação  dos  respectivos
+recursos  terão prazo, até 31 de dezembro de 2005, para se  adequarem
+aos limites cujo descumprimento tenha sido objeto dos planos.
+
+          §  1º   Para  fins  da adequação referida neste  artigo,  a
+entidade  deverá  remeter  relatórios  semestrais  à  Secretaria   de
+Previdência   Complementar  do  Ministério  da  Previdência   Social,
+acompanhados  de parecer do respectivo conselho fiscal, atestando  as
+providências adotadas.
+
+          §  2º   A pessoa jurídica contratada pela entidade  para  a
+prestação  do  serviço  de  auditoria  independente  fica  incumbida,
+adicionalmente  às  atribuições referidas no art. 56  do  Regulamento
+anexo à Resolução 2.829, de 2001, de atestar, em seu relatório anual,
+as  providências  adotadas relativamente à adequação  referida  neste
+artigo.
+
+          Art.  7º   A  Secretaria  de  Previdência  Complementar  do
+Ministério da Previdência Social poderá adotar as medidas e baixar as
+normas  que  se  fizerem  necessárias à execução  do  disposto  nesta
+resolução.
+
+          Art.  8º   Esta  resolução entra em vigor na  data  de  sua
+publicação.
+
+          Art. 9º  Fica revogada a Resolução 3.002, de 24 de julho de
+2002.
+
+                                       Brasília, 31 de julho de 2003.
+
+                                   Henrique de Campos Meirelles
+                                   Presidente
+```

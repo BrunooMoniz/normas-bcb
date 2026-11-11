@@ -1,0 +1,76 @@
+---
+titulo: "Resolução Nº 4.026"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "4026"
+data: 2011-10-27
+ementa: "Altera o Regulamento anexo à Resolução nº 3.308, de 31 de agosto de 2005, que dispõe sobre a aplicação dos recursos das reservas, das provisões e dos fundos das sociedades seguradoras, das sociedades de capitalização e das entidades abertas de previdência complementar, bem como a aceitação dos ativos correspondentes como garantidores dos respectivos recursos, na forma da legislação e da regulamentação em vigor."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 28/10/2011, Seção 1, p. 14."
+atualizacoes: ["Resolução CMN nº 4.444/2015 - Revogação total, a partir de 22/5/2016."]
+normas_vinculadas: ["RESOLUÇÃO 4444/2015", "RESOLUÇÃO 3308/2005"]
+referencias: ["Lei nº 4.595/1964, art. 9º.", "Lei nº 10.185/2001, art. 1º, § 5º.", "Lei Complementar nº 109/2001, art. 9º, § 1º.", "Lei Complementar nº 126/2007, art. 17.", "Decreto-lei nº 73/1966, art. 28.", "Decreto-lei nº 261/1967, art. 4º.", "Cita Resolução CMN nº 3.557/2008.", "Altera Regulamento anexo à Resolução CMN nº 3.308/2005 - Inclui art. 4º, II, \"p\""]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4026"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 4.026
+
+```
+                        RESOLUCAO N. 004026
+                        -------------------
+
+                                 Altera   o   Regulamento   anexo   à
+                                 Resolução nº 3.308, de 31 de  agosto
+                                 de   2005,   que  dispõe   sobre   a
+                                 aplicação    dos    recursos     das
+                                 reservas,   das  provisões   e   dos
+                                 fundos  das  sociedades seguradoras,
+                                 das  sociedades  de capitalização  e
+                                 das     entidades     abertas     de
+                                 previdência complementar,  bem  como
+                                 a      aceitação     dos      ativos
+                                 correspondentes  como   garantidores
+                                 dos  respectivos recursos, na  forma
+                                 da  legislação  e da  regulamentação
+                                 em vigor.
+
+         O  Banco  Central do Brasil, na forma do art. 9º da  Lei  nº
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  Conselho
+Monetário  Nacional, em sessão realizada em 27 de  outubro  de  2011,
+tendo em vista o disposto nos arts. 28 do Decreto-lei nº 73, de 21 de
+novembro  de  1966, 4º do Decreto-lei nº 261, de 28 de  fevereiro  de
+1967,  1º, § 5º, da Lei nº 10.185, de 12 de fevereiro de 2001, 9º,  §
+1º,  da  Lei Complementar nº 109, de 29 de maio de 2001, e 17 da  Lei
+Complementar nº 126, de 15 de janeiro de 2007,
+
+         R E S O L V E U :
+
+         Art.  1º   O  inciso  II do art. 4º do Regulamento  anexo  à
+Resolução  nº  3.308,  de  31 de agosto  de  2005,  passa  a  vigorar
+acrescido da alínea "p" a seguir:
+
+         "Art. 4º  ..............................................
+
+         ........................................................
+
+         II - ...................................................
+
+         ........................................................
+
+         p) letras financeiras." (NR)
+
+         Art.   2º   As  alterações  promovidas  por  esta  Resolução
+estendem-se  à  aplicação dos recursos das provisões técnicas  e  dos
+fundos  dos  resseguradores locais, regulamentada pela  Resolução  nº
+3.557, de 27 de março de 2008.
+
+         Art.  3º   Esta  Resolução entra em vigor  na  data  de  sua
+publicação.
+
+                                     Brasília, 27 de outubro de 2011.
+
+                      Alexandre Antonio Tombini
+                Presidente do Banco Central do Brasil
+```

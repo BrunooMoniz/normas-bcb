@@ -1,0 +1,67 @@
+---
+titulo: "Resolução Nº 1.695"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1695"
+data: 1990-03-29
+ementa: "PLANO DE ESTABILIZAÇÃO ECONÔMICA MEDIDA PROVISÓRIA Nº 168, DE 15.03.90 RESOLUÇÃO Nº 1.694, DE 26.03.90 ALTERAÇÕES."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2560/98 DOU 06/11/1998 PAG 24 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2560/98", "RESOLUÇÃO 1694/90"]
+referencias: ["LEI 4595/64 ART/9.", "DEC 94303/87 ART/2.", "LEI 4595/64 ART/4 ITEM/XVII.", "LEI 4595/64 ART/11 ITEM/V.", "MP 168/90 ART/17 ART/20.", "ALTERA RESOLUÇÃO CMN 1694/90 ART/1 PARAG/1.", "ALTERA RESOLUÇÃO CMN 1694/90 ART/4 CAPUT.", "CITA MP 168/90 ART/9."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1695"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.695
+
+```
+                        RESOLUCAO N. 001695
+                        -------------------
+
+                              PLANO  DE ESTABILIZAÇÃO ECONÔMICA - ME-
+                              DIDA  PROVISÓRIA Nº 168, DE 15.03.90  -
+                              RESOLUÇÃO Nº 1.694, DE 26.03.90 - ALTE-
+                              RAÇÕES.
+
+                    O  BANCO CENTRAL DO BRASIL, NA FORMA DO ARTIGO 9º
+DA  LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE A PRESIDENTE DO CON-
+SELHO  MONETÁRIO NACIONAL, POR ATO DE 29.03.90, COM BASE NO ARTIGO 2º
+DO DECRETO Nº 94.303, DE 01.05.87, "AD REFERENDUM" DAQUELE COLEGIADO,
+TENDO  EM VISTA O DISPOSTO NOS ARTIGOS 4º, INCISO XVII, E 11,  INCISO
+V, DA REFERIDA LEI E NOS ARTIGOS 17 E 20 DA MEDIDA PROVISÓRIA Nº 168,
+DE 15.03.90,
+
+R E S O L V E U :
+
+                    ART.  1º.  ALTERAR O § 1º DO ARTIGO 1º E  O ARTI-
+GO   4º  DA  RESOLUÇÃO   Nº 1.694,  DE 26.03.90, QUE PASSAM A VIGORAR
+COM A SEGUINTE REDAÇÃO:
+
+                    "ART. 1º.  ......................................
+
+                    §  1º.  O  VALOR  DOS TÍTULOS  PRIVADOS REFERIDOS
+NESTE  ARTIGO SERÁ DETERMINADO PELA CURVA DE RENTABILIDADE DO  TÍTULO
+NA  DATA DO VENCIMENTO DA OPERAÇÃO COMPROMISSADA OU PELO VALOR DA ÚL-
+TIMA NEGOCIAÇÃO, O QUE FOR MENOR.
+
+                    ART.  4º.  AS LETRAS DO BANCO CENTRAL DO BRASIL -
+LBC CORRESPONDENTES À PARCELA NÃO CONVERTIDA EM CRUZEIROS PODERÃO SER
+NEGOCIADAS  EXCLUSIVAMENTE  PELO SEU VALOR DE EMISSÃO E PARA FINS  DO
+RECOLHIMENTO  JUNTO AO BANCO CENTRAL, CONFORME DISPÕE O ARTIGO 9º  DA
+MEDIDA  PROVISÓRIA Nº 168, DOS RECURSOS DE CLIENTES DE OPERAÇÕES COM-
+PROMISSADAS,  REGISTRADAS NO SISTEMA DE REGISTRO E DE LIQUIDAÇÃO  FI-
+NANCEIRA DE TÍTULOS OU NO SISTEMA NACIONAL DE DEBÊNTURES E LASTREADAS
+EM TÍTULOS PRIVADOS, NÃO CONVERTIDOS EM CRUZEIROS.
+
+                    PARÁGRAFO ÚNICO ...............................".
+
+                    ART. 2º.  ESTA RESOLUÇÃO ENTRARÁ EM VIGOR NA DATA
+DE SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 29 DE MARÇO DE 1990
+
+                              IBRAHIM ERIS
+                              PRESIDENTE
+```

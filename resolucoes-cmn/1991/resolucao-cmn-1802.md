@@ -1,0 +1,61 @@
+---
+titulo: "Resolução Nº 1.802"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1802"
+data: 1991-03-14
+ementa: "PROGRAMA FEDERAL DE DESREGULAMENTAÇÃO DECRETO Nº 99.179, DE 15.03.90 RESOLUÇÃO Nº 1.788, DE 15.02.91 - DEVOLUÇÃO AOS RESPECTIVOS CORRENTISTAS DE CHEQUES DESTINADOS AO PAGAMENTO DE CONTAS A CONCESSIONÁRIAS DE SERVIÇOS PÚBLICOS."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2303/96 DOU 26/07/1996 PAG 13932 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1788/91", "RESOLUÇÃO 2303/96"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/VIII.", "LEI 7357/85 ART/69.", "DEC 99179/90.", "REVOGA RESOLUÇÃO CMN 1788/91."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1802"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.802
+
+```
+                        RESOLUCAO N. 001802
+                        -------------------
+
+                              PROGRAMA FEDERAL DE DESREGULAMENTAÇÃO -
+                              DECRETO  Nº 99.179, DE 15.03.90 - RESO-
+                              LUÇÃO Nº 1.788, DE 15.02.91 - DEVOLUÇÃO
+                              AOS RESPECTIVOS CORRENTISTAS DE CHEQUES
+                              DESTINADOS  AO  PAGAMENTO  DE  CONTAS A
+                              CONCESSIONÁRIAS DE SERVIÇOS PÚBLICOS.
+
+                    O  BANCO CENTRAL DO BRASIL, NA FORMA DO ARTIGO 9º
+DA  LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE O CONSELHO MONETÁRIO
+NACIONAL,  EM SESSÃO DE 27.02.91, TENDO EM VISTA O DISPOSTO NO ARTIGO
+4º,  INCISO VIII, DA REFERIDA LEI E NO ARTIGO 69 DA LEI Nº 7.357,  DE
+02.09.85,
+
+R E S O L V E U:
+
+                    ART. 1º. ESTABELECER A OBRIGATORIEDADE DE AS INS-
+TITUIÇÕES FINANCEIRAS BANCÁRIAS MANTEREM À DISPOSIÇÃO DE SEUS CORREN-
+TISTAS OS CHEQUES POR ELES EMITIDOS, PELO PRAZO DE 60 (SESSENTA) DIAS
+APÓS A LIQUIDAÇÃO.
+
+                    PARÁGRAFO  ÚNICO.  NOS CASOS DE MICROFILMAGEM,  O
+FORNECIMENTO  DE CÓPIAS AOS CORRENTISTAS DE CHEQUES EMITIDOS EM  NOME
+DE  CONCESSIONÁRIAS DE SERVIÇOS PÚBLICOS PARA PAGAMENTO DE CONTAS  DE
+ÁGUA,  LUZ, GÁS E TELEFONE TAMBÉM DEVE SER FEITO GRATUITAMENTE, DESDE
+QUE SOLICITADO NO PRAZO DE 60 (SESSENTA) DIAS APÓS A SUA LIQUIDAÇÃO.
+                    ART. 2º. ESTA RESOLUÇÃO ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                    ART.  3º. FICA REVOGADA A RESOLUÇÃO Nº 1.788,  DE
+15.02.91.
+
+                              BRASÍLIA (DF), 14 DE MARÇO DE 1991
+
+                              IBRAHIM ERIS
+                              PRESIDENTE
+
+OBS.: ALTERADA A DATA DA RESOLUÇÃO Nº 1.788, CONSTANTE DO ART. 3º
+      PARA 15.02.91.
+```

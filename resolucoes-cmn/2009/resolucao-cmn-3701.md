@@ -1,0 +1,151 @@
+---
+titulo: "Resolução Nº 3.701"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3701"
+data: 2009-03-26
+ementa: "Consolida as normas sobre a linha especial de crédito para pagamento de até 40% do valor de prestações de operações dos programas de investimento agropecuário no âmbito do BNDES, de que trata a Resolução nº 3.639, de 2008, autoriza a inclusão da poupança rural como fonte suplementar de recursos e dá outras providências."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Resolução CMN nº 3.713/2009 - Revogação: art. 2º.", "Resolução CMN nº 4.999/2022 - Revogação total, a partir de 2/5/2022."]
+normas_vinculadas: ["RESOLUÇÃO CMN 4999/2022", "RESOLUÇÃO 3713/2009", "RESOLUÇÃO 3676/2009", "RESOLUÇÃO 3666/2008", "RESOLUÇÃO 3639/2008", "RESOLUÇÃO 3588/2008", "RESOLUÇÃO 3575/2008"]
+referencias: ["Lei nº 4.595/1964, arts. 4º, inciso VI, e 9º.", "Lei nº 4.829/1965, arts. 4º e 14.", "Cita Resolução CMN nº 3.575/2008, art. 2º.", "Cita Resoluções CMN ns. 3.588/2008; 3.666/2008; 3.676/2009.", "Revoga Resolução CMN nº 3.639/2008."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3701"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.701
+
+```
+                        RESOLUCAO N. 003701
+                        -------------------
+
+                                 Consolida  as normas sobre  a  linha
+                                 especial  de crédito para  pagamento
+                                 de  até  40%  do valor de prestações
+                                 de   operações   dos  programas   de
+                                 investimento agropecuário no  âmbito
+                                 do  BNDES,  de que trata a Resolução
+                                 nº   3.639,  de  2008,  autoriza   a
+                                 inclusão  da  poupança  rural   como
+                                 fonte suplementar de recursos  e  dá
+                                 outras providências.
+
+         O  Banco  Central do Brasil, na forma do art. 9º da  Lei  nº
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  Conselho
+Monetário  Nacional, em sessão realizada em 26 de março de 2009,  com
+base  nos art. 4º, inciso VI, da Lei nº 4.595, de 1964, e 4º e 14  da
+Lei nº 4.829, de 5 de novembro de 1965,
+
+         R E S O L V E U:
+
+         Art.  1º   Ficam consolidadas nesta Resolução as disposições
+afetas à linha especial de crédito destinada ao pagamento de até  40%
+das  prestações de operações de investimento agropecuário  no  âmbito
+dos programas do Banco Nacional de Desenvolvimento Econômico e Social
+(BNDES) de que trata a Resolução n° 3.639, de 26 de novembro de 2008,
+com as alterações introduzidas pelas Resoluções ns. 3.666 e 3.676, de
+17  de dezembro de 2008 e 29 de janeiro de 2009, respectivamente, que
+passam a vigorar da seguinte forma:
+
+         I   -   finalidade:   permitir   a   liquidação   do   valor
+correspondente  a até quarenta por cento da prestação com  vencimento
+em   2008,   ainda  não  amortizada,  referente  aos   programas   de
+investimento    agropecuários   coordenados   pelo   Ministério    da
+Agricultura, Pecuária e Abastecimento e operacionalizados pelo BNDES,
+inclusive o Finame Agrícola Especial, na Região Centro-Oeste;
+
+         II  -  beneficiários: produtores rurais e suas  cooperativas
+que   renegociaram   ou  vierem  a  renegociar  suas   operações   de
+investimento  com  recursos  do BNDES,  nos  termos  do  art.  2º  da
+Resolução nº 3.575, de 29 de maio de 2008, e suas alterações, e cujos
+bens  ou  projetos  objetos do financiamento estejam  localizados  na
+Região Centro-Oeste;
+
+         III  - fonte de recursos: os administrados pelo BNDES  e  da
+Poupança Rural;
+
+         IV - agentes financeiros operadores:
+
+         a)  nas operações lastreadas em recursos administrados  pelo
+BNDES: o BNDES e os seus agentes financeiros credenciados;
+
+         b)   nas  operações  com  recursos  da  Poupança  Rural:  as
+instituições financeiras autorizadas a captar depósitos  em  poupança
+rural;
+
+         V - risco das operações: integral dos agentes financeiros;
+
+         VI - volume de recursos:
+
+         a)  até  R$500.000.000,00  (quinhentos  milhões  de  reais),
+quando decorrentes dos recursos administrados pelo BNDES;
+
+         b)  até  R$40.000.000,00 (quarenta milhões de reais), quando
+se  tratar  de recursos captados em depósitos de poupança rural  pelo
+Banco do Brasil S.A.; e
+
+         c)   até   R$10.000.000,00  (dez  milhões  de  reais),   por
+instituição, quando originários de captação em poupança  rural  pelas
+demais  instituições financeiras autorizadas a captar essa modalidade
+de depósito;
+
+         VII  - limite de financiamento: o valor correspondente a até
+quarenta  por  cento da prestação de 2008, prevista  anteriormente  à
+renegociação  e  ainda não amortizada, dos programas de  investimento
+agropecuários coordenados pelo Ministério da Agricultura, Pecuária  e
+Abastecimento  (Mapa)  e operacionalizados pelo  BNDES,  inclusive  o
+Finame Agrícola Especial;
+
+         VIII   -   prazo  de  financiamento:  até  três  anos,   com
+amortização  anual,  sendo  a  primeira  amortização  em  2009,   com
+vencimento definido para o dia 15 do mês em que o produtor obtiver  a
+maior receita da atividade;
+
+         IX   -   encargos  financeiros:  taxa  de  juros  atualmente
+praticada em cada um dos programas a que se refere o inciso  I  deste
+artigo,  acrescidas  de 0,25 pontos percentuais,  inclusive  para  os
+programas  extintos,  incorporados ou não pelos programas  em  vigor,
+sendo  que o referido acréscimo não se aplica às operações do  Finame
+Agrícola Especial, que terá a taxa de juros de dez inteiros e vinte e
+cinco centésimos por cento ao ano;
+
+         X  - garantias: a critério dos agentes financeiros, admitido
+o penhor das safras 2008/2009, 2009/2010 e 2010/2011;
+
+         XI - remuneração dos operadores:
+
+         a)   operações  amparadas  em  recursos  administrados  pelo
+BNDES: um por cento ao ano para o BNDES e três por cento ao ano  para
+os agentes financeiros;
+
+         b)  operações  lastreadas  em recursos  da  poupança  rural:
+compensação  da  exigibilidade de aplicação em operações  de  crédito
+rural com recursos da poupança rural, mediante utilização de fator de
+ponderação de 1,3 (um inteiro e três décimos), a vigorar  até  30  de
+junho  de  2009, e, a partir de julho de 2009, definido pelo Conselho
+Monetário  Nacional  (CMN)  em  função  da  taxa  média  aplicada  às
+operações contratadas com base nesta resolução;
+
+         XII  -  prazo para contratação e formalização das operações:
+até 15 de maio de 2009;
+         Art.  2º  Os recursos a que se refere a alínea "a" do inciso
+VI   do   art.   1º   deverão  ser  deduzidos  das   disponibilidades
+estabelecidas na Resolução CMN nº 3.588, de 30 de junho de 2008, para
+a  safra  2008/2009, do Programa de Estímulo à Produção  Agropecuária
+Sustentável  (Produsa),  até  R$150.000.000,00  (cento  e   cinquenta
+milhões de reais), e do Programa de Modernização da Frota de Tratores
+Agrícolas e Implementos Associados e Colheitadeiras (Moderfrota), até
+R$350.000.000,00 (trezentos e cinquenta milhões de reais).
+
+         Art.  3º   Esta  resolução entra em vigor  na  data  de  sua
+publicação.
+
+         Art.  4°   Fica  revogada a Resolução n°  3.639,  de  26  de
+novembro de 2008.
+
+                                       Brasília, 26 de março de 2009.
+
+                    Henrique de Campos Meirelles
+                             Presidente
+```

@@ -1,0 +1,58 @@
+---
+titulo: "Resolução Nº 1.989"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1989"
+data: 1993-06-30
+ementa: "PROMOVE A LIBERAÇÃO DOS DEPÓSITOS REGISTRADOS EM MOEDAS ESTRANGEIRAS SOB A RESOLUÇÃO Nº 229, DE 01.09.72, E A CIRCULAR Nº 600, DE 22.01.81."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2770/2000 DOU 31/08/2000 PAG 13 (E) - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2770/2000"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/V ITEM/XXXI.", "CITA RESOLUÇÃO CMN 229/72.", "CITA CIRCULAR BCB 600/81."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1989"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.989
+
+```
+                        RESOLUCAO N. 001989
+                        -------------------
+
+                              PROMOVE  A LIBERAÇÃO DOS DEPÓSITOS  RE-
+                              GISTRADOS  EM MOEDAS ESTRANGEIRAS SOB A
+                              RESOLUÇÃO Nº 229, DE 01.09.72, E A CIR-
+                              CULAR Nº 600, DE 22.01.81.
+
+                    O BANCO CENTRAL DO BRASIL, NA FORMA DO ART. 9º DA
+LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE O CONSELHO MONETÁRIO NA-
+CIONAL,  EM SESSÃO REALIZADA EM 29.06.93, TENDO EM VISTA AS  DISPOSI-
+ÇÕES DO ART. 4º, INCISOS V E XXXI, DA MENCIONADA LEI Nº 4.595,
+
+R E S O L V E U:
+
+                    ART.  1º. PERMITIR QUE  OS VALORES DEPOSITADOS EM
+MOEDAS  ESTRANGEIRAS JUNTO AO BANCO CENTRAL DO BRASIL SOB A RESOLUÇÃO
+Nº  229, DE 01.09.72, E A CIRCULAR Nº 600, DE 22.01.81, SEJAM LIBERA-
+DOS PARA UTILIZAÇÃO, NO PAÍS, NA FORMA DA REGULAMENTAÇÃO ESPECÍFICA.
+
+                    ART.  2º. A CONTRATAÇÃO DAS OPERAÇÕES  DE  CÂMBIO
+COM  O  BANCO CENTRAL DO BRASIL, COM VISTAS ÀS LIBERAÇÕES DE  QUE  SE
+TRATA, SERÁ REALIZADA À TAXA CAMBIAL DE COMPRA ESTIPULADA PARA A MOE-
+DA DO DEPÓSITO  E  DISPONÍVEL NO SISTEMA DE INFORMAÇÕES BANCO CENTRAL
+(SISBACEN)  - TRANSAÇÃO PTAX 800, OPÇÃO 5 -  COTAÇÕES PARA CONTABILI-
+DADE,  COM  VALIDADE PARA O DIA ÚTIL PRECEDENTE AO DA  CELEBRAÇÃO  DO
+RESPECTIVO CONTRATO DE CÂMBIO.
+
+                    ART.  3º. O BANCO CENTRAL DO BRASIL PODERÁ ADOTAR
+AS MEDIDAS NECESSÁRIAS AO CUMPRIMENTO DO DISPOSTO NESTA RESOLUÇÃO.
+
+                    ART. 4º. ESTA RESOLUÇÃO ENTRA EM VIGOR NA DATA DE
+SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 30 DE JUNHO DE 1993
+
+                              PAULO CESAR XIMENES ALVES FERREIRA
+                              PRESIDENTE
+```

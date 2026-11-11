@@ -1,0 +1,134 @@
+---
+titulo: "Resolução Nº 3.311"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3311"
+data: 2005-08-31
+ementa: "Altera as Resoluções 3.265 e 3.266, ambas de 4 de março de 2005."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 3568/2008 DOU 02/06/2008 PAG 40 - REVOGACAO TOTAL (A PARTIR DE 01/07/2008)."]
+normas_vinculadas: ["RESOLUÇÃO 3265/2005", "RESOLUÇÃO 3356/2006", "RESOLUÇÃO 3568/2008", "RESOLUÇÃO 3389/2006", "RESOLUÇÃO 3266/2005", "CIRCULAR 3291/2005"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/V ITEM/VIII ITEM/XXXI.", "CITA LEI 4131/62 4390/64.", "ALTERA RESOLUÇÃO CMN 3265/2005 ART/3.", "ALTERA RESOLUÇÃO CMN 3266/2005 (INCLUI ART/14-A ART/32-A ART/32-BART/35-A).", "ALTERA RESOLUÇÃO CMN 3266/2005 ART/9.", "REVOGA RESOLUÇÃO CMN 3265/2005 ART/34 PARAG/4 (A PARTIR DE 19/09/2005).", "REVOGA RESOLUÇÃO CMN 3266/2005 ART/17 ITEM/II AL/B(A PARTIR DE 19/09/2005)."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3311"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.311
+
+```
+                        RESOLUCAO N. 003311
+                        -------------------
+
+                                   Altera   as  Resoluções  3.265   e
+                                   3.266,  ambas  de 4  de  março  de
+                                   2005.
+
+         O BANCO CENTRAL DO BRASIL, na forma do art. 9º da Lei 4.595,
+de  31  de  dezembro de 1964, torna público que o CONSELHO  MONETÁRIO
+NACIONAL,  em sessão realizada em 31 de agosto de 2005, com  base  no
+art. 4º, incisos V, VIII e XXXI, da referida Lei,
+
+R E S O L V E U:
+
+          Art. 1º   Dar nova redação ao artigo 3º da Resolução 3.265,
+de 4 de março de 2005, que passa a vigorar com a seguinte redação:
+
+         "Art 3º    Os agentes do Mercado de Câmbio podem realizar as
+seguintes operações:
+
+          I  -  bancos, exceto de desenvolvimento: todas as operações
+previstas para o Mercado de Câmbio;
+
+           II  -  bancos  de  desenvolvimento  e  caixas  econômicas:
+operações específicas autorizadas;
+
+          III  - sociedades de crédito, financiamento e investimento,
+sociedades corretoras de câmbio ou de títulos e valores mobiliários e
+sociedades distribuidoras de títulos e valores mobiliários: compra ou
+venda  de  moeda  estrangeira em cheques vinculados a  transferências
+unilaterais e de moeda estrangeira em espécie, cheques e  cheques  de
+viagem  relativos  a viagens internacionais, bem  como  operações  no
+mercado  interbancário, arbitragens no País  e,  por  meio  de  banco
+autorizado a operar no Mercado de Câmbio, arbitragem com o exterior;
+
+          IV  -  agências  de  turismo:  compra  ou  venda  de  moeda
+estrangeira  em  espécie, cheques e cheques  de  viagem  relativos  a
+viagens internacionais;
+
+          V  - meios de hospedagem de turismo: exclusivamente compra,
+de  residentes  ou domiciliados no exterior, de moeda estrangeira  em
+espécie, cheques e cheques de viagem relativos a turismo no País."
+
+         Art. 2º  Incluir, na Resolução 3.265, de 4 de março de 2005,
+os  artigos 14-A,  32-A,  32-B e 35-A, com a seguinte redação:
+
+           "Art.14-A  Pode  o Banco Central do Brasil  condicionar  a
+regularização  de  operações  de  exportações  de  mercadorias  e  de
+serviços  à  comprovação de início de ação judicial  de  cobrança  no
+exterior caso o devedor tenha pendência de pagamento com o exportador
+brasileiro  em montante igual ou superior a US$ 50.000,00  (cinqüenta
+mil  dólares dos Estados Unidos) ou seu equivalente em outras moedas,
+independentemente  do  vencimento  e  do  valor  individual  de  cada
+operação.
+
+          Art.  32-A  A  ordem  de  pagamento  oriunda  do  exterior,
+inclusive  a  relativa ao recebimento antecipado de exportação,  deve
+ser  integralmente negociada em até noventa dias a contar da data  em
+que os recursos se tornaram disponíveis à instituição autorizada para
+o  pagamento ao beneficiário, sendo permitido, dentro desse prazo,  a
+sua  negociação  de forma parcelada, observado que, vencido  referido
+prazo,  o  saldo  da ordem deve ser imediatamente  devolvido  ao  seu
+remetente no exterior.
+
+           Art.  32-B  Os  recebimentos  relativos  à  exportação  de
+mercadorias  com  embarque já efetuado e de  serviços  já  realizados
+podem  ser  negociados  no  País  de  forma  parcelada,  observada  a
+responsabilidade  de  cobertura cambial  nos  prazos  regulamentares,
+vedada a devolução de tais valores ao exterior.
+
+          Art.  35-A  Fica  o  Banco Central do Brasil  autorizado  a
+dispensar,  mediante exame caso a caso, a vinculação de contratos  de
+câmbio  a  registros  de  exportação ou  de  importação  no   Sistema
+Integrado  de  Comércio Exterior (Siscomex), e desses  registros  aos
+contratos  de  câmbio,  nas  situações  em  que  ficar  comprovada  a
+impossibilidade  da efetivação da respectiva vinculação  por  fatores
+alheios à vontade do exportador ou do importador, desde que não  haja
+prejuízo  ao  processo  relativo  à  cobrança,  se  for  o  caso,  de
+eventuais  encargos  financeiros ou de  multas   incidentes  sobre  a
+operação.
+
+          Parágrafo único. O Banco Central do Brasil poderá dispensar
+o exame caso a caso na  vinculação de contratos de câmbio a registros
+de  exportação  ou de importação no Siscomex, e desses registros  aos
+contratos  de  câmbio, para os valores iguais  ou  inferiores  a  US$
+1.000,00  (mil  dólares  dos Estados Unidos) ou  seu  equivalente  em
+outras moedas."
+
+          Art. 3º  Dar nova redação ao art. 9º da Resolução 3.266, de
+4 de março de 2005, que passa a vigorar com a seguinte redação:
+
+          "Art. 9º Os valores decorrentes de recebimentos antecipados
+de exportação para os quais não tenha havido o respectivo embarque da
+mercadoria ou a prestação de serviços podem:
+
+         I  -  mediante  anuência prévia do pagador no exterior,  ser
+convertidos pelo exportador em investimento direto de capital  ou  em
+empréstimo  em moeda e registrados, no Banco Central do  Brasil,  nos
+termos  da Lei 4.131, de 3 de setembro de 1962, modificada  pela  Lei
+4.390, de 29 de agosto de 1964, e regulamentação pertinente; ou
+
+         II  -  ser  objeto  de  retorno  ao  exterior,  observada  a
+regulamentação  tributária  aplicável a  recursos  não  destinados  à
+exportação."
+
+            Art.   4º  Esta  Resolução  entra  em vigor em 19.09.2005
+quando ficam revogados o § 4º do art. 34 da Resolução 3.265, bem como
+a alínea "b", inciso II, do art. 17 da Resolução 3.266, ambas de 4 de
+março de 2005.
+
+                                      Brasília, 31 de agosto de 2005.
+
+                                 Henrique de Campos Meirelles
+                                 Presidente
+```

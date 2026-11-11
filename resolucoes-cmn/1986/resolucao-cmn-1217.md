@@ -1,0 +1,85 @@
+---
+titulo: "Resolução Nº 1.217"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1217"
+data: 1986-11-24
+ementa: "CADERNETA DE POUPANCA - NOVA SISTEMATICA DE REMUNERACAO E O RETORNO DA POSSIBILIDADE DO ACOLHIMENTO DE DEPOSITOS DE PESSOAS JURIDICAS - PRORROGACAO PARA 30/06/87, DO PRAZO PARA OS AGENTES DO SBPE MODIFICAREM O MES BASE PARA CREDITO DOS RENDIMENTOS DAS CONTAS DE POUPANCA, PODENDO EFETUAR UMA UNICA VEZ, EM CADA CONTA ABERTA ANTERIORMENTE A 01/03/86, CREDITO DE RENDIMENTOS EM PERIODO INFERIOR A TRES MESES - REVOGACAO DA RESOLUCAO 1140, DE 26/06/86."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 1235/86 DOU 31/12/1986 PAG 20194 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1140/86", "RESOLUÇÃO 1235/86"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/VI.", "REVOGA RESOLUÇÃO CMN 1140/86."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1217"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.217
+
+```
+                        RESOLUCAO N. 001217
+                        -------------------
+
+         O  BANCO  CENTRAL DO BRASIL, na forma do art. 9. da  Lei  n.
+4.595,  de 31.12.64, torna público que o CONSELHO MONETÁRIO NACIONAL,
+em sessão realizada nesta data, tendo em vista o disposto no art. 4.,
+inciso VI, da referida Lei,
+
+R E S O L V E U:
+
+         I  -  Estabelecer que as instituições autorizadas a  receber
+depósitos de poupança livre somente poderão creditar rendimentos  aos
+depósitos de pessoas físicas e jurídicas a cada 3 (três) meses.
+
+         II  -  Os  depósitos  mencionados  no  item  anterior  serão
+remunerados aplicando-se aos saldos obtidos na forma do item seguinte
+o  rendimento  produzido  pelas Letras  do  Banco  Central  (LBC)  no
+período,  produto  sobre o qual incidirá taxa de juros  de  1,5%  (um
+inteiro e cinco décimos por cento) ao trimestre.
+
+         III  -  A  remuneração  mencionada  no  item  anterior  será
+aplicada:
+
+         a)  sobre  a  média  aritmética simples dos  saldos  mínimos
+apresentados   pela   conta  em  cada  mês   corrido   do   trimestre
+imediatamente  anterior, desde que, durante  os  dois  últimos  meses
+corridos no período, não tenha havido retirada;
+
+         b)  sobre o saldo mínimo apresentado pela conta no trimestre
+corrido  imediatamente anterior, se, durante os  dois  últimos  meses
+corridos do período, tiver havido retirada.
+
+         IV  -  Fica  prorrogado, para 30 de junho de 1987,  o  prazo
+para  os  agentes  do  Sistema Brasileiro de  Poupança  e  Empréstimo
+modificarem  o  mês-base para crédito dos rendimentos das  contas  de
+poupança,  podendo  efetuar  uma única  vez,  em  cada  conta  aberta
+anteriormente  a  1.  de  março de 1986, crédito  de  rendimentos  em
+período inferior a três meses.
+
+         V  - O Banco Central divulgará os índices de remuneração dos
+depósitos de poupança, relativos a cada trimestre móvel.
+
+         VI  -  A modalidade de remuneração dos depósitos de poupança
+prevista  nesta  Resolução  será  imediatamente  aplicada  às  contas
+abertas a partir da data de sua vigência.
+
+         VII  -  Para as contas de poupança abertas antes da vigência
+desta Resolução, o crédito dos rendimentos a efetivar-se nos meses de
+dezembro/86,  janeiro e fevereiro de 1987, relativo  aos  saldos  dos
+depósitos  nos  3  (três) meses anteriores, será feito  com  base  na
+variação  do  Índice de Preço ao Consumidor (IPC) do período  ou  com
+base  na remuneração das Letras do Banco Central (LBC) se esta última
+for maior.
+
+         VIII - O Banco Central fica autorizado a baixar as normas  e
+adotar  as medidas que se fizerem necessárias à execução do  disposto
+nesta Resolução.
+
+         IX  -  Esta  Resolução  entrará em  vigor  na  data  de  sua
+publicação, ficando revogada a Resolução n. 1.140, de 26.06.86.
+
+                             Brasília-DF, 24 de novembro de 1986
+
+                             Fernão Carlos Botelho Bracher
+                             Presidente
+```

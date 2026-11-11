@@ -1,0 +1,231 @@
+---
+titulo: "Resolução Nº 1.352"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1352"
+data: 1987-07-01
+ementa: "CREDITO RURAL - REPACTUACAO DE ENCARGOS FINANCEIROS, PRAZOS DAS DIVIDAS DOS PRODUTORES RURAIS E ISENCAO DE CORRECAO MONETARIA PARA: A) QUALQUER OPERACAO DURANTE O PLANO CRUZADO; B) PARA CREDITOS DE MANUTENCAO FORMALIZADOS APOS 02/12/85 E ATE 28/02/87; C) PARA CREDITOS DE INVESTIMENTO FORMALIZADOS DURANTE O PLANO CRUZADO, QUANDO FOREM OBJETO DE REPACTUACAO DE TAXAS - ATE 31/12/87, NO NORDESTE E NO VALE DO JEQUITINHONHA (MG), EXCETO EMPREENDIMENTOS ENVOLVENDO AS LAVOURAS DE CACAU, CAFE, CANA-DE-ACUCAR E SERINGA, BEM COMO A PECUARIA, QUE RECEBERAO O BENEFICIO SOMENTE ATE 30/06/87; ATE 30/06/87, NAS DEMAIS REGIOES - REVOGACAO DAS RESOLUCOES 1306, DE 10/04/87, 1311 E 1312, DE 24/04/87 E 1318, DE 29/04/87. ."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2535/98 DOU 27/08/1998 PAG 31 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1377/87", "RESOLUÇÃO 1411/87", "RESOLUÇÃO 1318/87", "RESOLUÇÃO 1306/87", "RESOLUÇÃO 1431/87", "RESOLUÇÃO 1311/87", "RESOLUÇÃO 1417/87", "RESOLUÇÃO 1412/87", "RESOLUÇÃO 2535/98", "RESOLUÇÃO 1367/87", "RESOLUÇÃO 1312/87", "RESOLUÇÃO 1462/88", "RESOLUÇÃO 1467/88", "RESOLUÇÃO 1371/87", "CIRCULAR 1205/87", "CARTA CIRCULAR 1766/88", "CARTA CIRCULAR 1713/87"]
+referencias: ["LEI 4595/64 ART/4 ITEM/VI.", "LEI 4595/64 ART/9.", "DEC 94303/87 ART/2.", "LEI 4829/65 ART/4 ART/14.", "CITA RESOLUÇÃO CMN 1131/86 ITEM/I.", "CITA CIRCULAR BCB 973/85 980/85 985/86 986/86.", "CITA CIRCULAR BCB 1141/ITEM/V.", "CITA DL 2336/87.", "CITA DL 2335/87 ART/13 PARAG/2.", "REVOGA RESOLUÇÃO CMN 1306/87 1311/87 1312/87 1318/87."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1352"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.352
+
+```
+                        RESOLUCAO N. 001352
+                        -------------------
+
+         O  BANCO  CENTRAL DO BRASIL, na forma do art. 9. da  Lei  n.
+4.595,  de  31.12.64,  torna público que  o  Presidente  do  CONSELHO
+MONETÁRIO  NACIONAL, por ato de 01.07.87, com  base  no  art.  2.  do
+Decreto  n.  94.303, de 01.05.87, "ad referendum"  daquele  Conselho,
+tendo em vista as disposições do art. 4., inciso VI, da citada Lei, e
+dos arts. 4. e 14 da Lei n. 4.829, de 05.11.65,
+
+R E S O L V E U:
+
+         I  -  Esclarecer que, para os efeitos do item I da Resolução
+n.  1.131, de 15.05.86, a taxa anual de captação do sistema  bancário
+para  180 (cento e oitenta) dias é apurada com base na taxa média  do
+semestre imediatamente anterior.
+
+         II - Em conseqüência, esclarecer também que:
+
+         a)  é  de  225% a.a. (duzentos e vinte e cinco por cento  ao
+ano) a taxa média de captação apurada na forma do item I da Resolução
+n. 1.131, de 15.05.86, com base no período de 01.09.86 a 28.02.87;
+
+         b)  feito  o rebate de 10 (dez) pontos percentuais  previsto
+no  mesmo  dispositivo citado na alínea anterior, resulta como  taxa-
+base para efeitos da Resolução n. 1.131, de 15.05.86, o percentual de
+215%  a.a.  (duzentos  e  quinze por cento ao  ano),  válido  para  o
+primeiro semestre subsequente a 28.02.87;
+
+         c)  mantidas em pontos percentuais as diferenças contidas no
+item II da mesma Resolução, resultam as taxas indicadas no item III a
+seguir,  em  função  das regiões e da classificação  do  produtor  ou
+cooperativa.
+
+         III  -  Estabelecer que, para as operações de crédito  rural
+de  investimento  formalizadas ao amparo da Resolução  n.  1.131,  de
+15.05.86,  vigoram, no período de 01.03.87 a 31.08.87,  as  taxas  de
+juros  a  seguir  indicadas, conforme previsto no  item  V  da  mesma
+Resolução:
+
+         a) exploração de café, cacau, cana-de-açúcar
+e   seringa,  na  região  da  SUDAM/SUDENE,  Vale  do
+Jequitinhonha e Espírito Santo, independentemente  do
+porte do produtor ou cooperativa ....................     213% a.a.
+
+         b) demais explorações,  nas  mesmas  regiões
+indicadas na alínea anterior:
+
+         - miniprodutor,    pequeno     produtor    e
+cooperativa com pelo menos 70% do quadro social ativo
+composto de miniprodutores e pequenos produtores ....     208% a.a.
+
+         - médio produtor ...........................     211% a.a.
+
+         - grande produtor e demais cooperativas ....     213% a.a.
+
+         c) qualquer exploração, nas  demais  regiões
+do  País,  independentemente do porte do produtor  ou
+cooperativa .........................................     215% a.a.
+
+         d) operações do  Programa  de  Irrigação  do
+Nordeste (PROINE) ...................................     212% a.a.
+
+         IV  -  Permitir  aos  produtores e cooperativas  que  tenham
+formalizado  operações de crédito rural de custeio ou comercialização
+no   período  de  01.03.86  a  15.05.86,  com  cláusula  de  correção
+monetária,  ao amparo de recursos obrigatórios ou refinanciadas  pelo
+Banco   Central,  optar  pelos  encargos  financeiros  previstos   na
+Resolução  n.  1.131, de 15.05.86, com efeito retroativo  à  data  de
+formalização de crédito.
+
+         V  -  Facultar  aos  produtores e  cooperativas  que  tenham
+formalizado operações de crédito rural de investimento ao  amparo  da
+Resolução  n.  1.131,  de  15.05.86, ingressar  em  novo  esquema  de
+encargos  financeiros,  com vigência a partir de  01.03.87,  conforme
+definido no item seguinte.
+
+         VI  - Determinar às instituições financeiras integrantes  do
+Sistema  Nacional de Crédito Rural que, havendo interesse do produtor
+ou  cooperativa, independentemente de sua classificação  pelo  porte,
+por instrumento próprio promovam alterações nas condições contratuais
+de  operações de investimento formalizadas ao amparo da Resolução  n.
+1.131,  de  15.05.86,  de  forma que fiquem  sujeitas  aos  seguintes
+encargos financeiros a partir de 01.03.87:
+
+         a)  empreendimentos localizados na área de atuação da SUDENE
+e  no  Vale do Jequitinhonha (MG), com exceção dos voltados  para  as
+culturas  de café, cacau, cana-de-açúcar e seringa e para a pecuária:
+até  31.12.87,  juro à taxa vigente para a operação em 28.02.87,  sem
+incidência de atualização monetária; após 31.12.87, juros de 7%  a.a.
+(sete por cento ao ano) e atualização monetária igual à do valor  das
+obrigações do Tesouro Nacional (OTN), observado o MCR 5-2-12/13  e  o
+item 5 da Circular n. 1.141, de 13.03.87;
+
+         b)  empreendimentos não enquadrados na alínea anterior:  até
+30.06.87,  juros  à  taxa vigente para a operação  em  28.02.87,  sem
+incidência de atualização monetária; após 30.06.87, juros de 7%  a.a.
+(sete por cento ao ano) e atualização monetária calculada na forma da
+alínea anterior.
+
+         VII - Estender o disposto nos itens V e VI aos produtores  e
+cooperativas  que  tenham formalizado operações de crédito  rural  de
+investimento  no  período  de 01.03.86 a 15.05.86,  com  cláusula  de
+correção   monetária,   ao   amparo  de  recursos   obrigatórios   ou
+refinanciadas pelo Banco Central.
+
+         VIII  -  Isentar de correção monetária, nos períodos abaixo,
+as  operações de crédito rural formalizadas com recursos obrigatórios
+ou refinanciadas pelo Banco Central:
+
+         a)  desde  a data da formalização até 28.02.87, no  caso  de
+crédito  de manutenção concedidos ao amparo das Circulares  n.s  973,
+980,   985  e  986,  de  02.12.85,  20.12.85,  08.01.86  e  14.01.86,
+respectivamente;
+
+         b)   de   01.03.86   a   28.02.87,  nos   demais   créditos,
+formalizados em qualquer data.
+
+         IX  - Determinar às instituições financeiras integrantes  do
+Sistema Nacional de Crédito Rural que, havendo interesse do mutuário,
+independentemente de adesão ao disposto nos itens IV a VI e  mediante
+exame  caso  a  caso, por instrumento próprio promovam alteração  nas
+condições  contratuais das operações de crédito rural  de  custeio  e
+investimento  formalizadas  com  recursos  de  qualquer  origem   até
+28.02.86, de forma que fiquem sujeitas aos seguintes prazos:
+
+         a)   operações  formalizadas  com  miniprodutores,  pequenos
+produtores  e cooperativas com pelo menos 70% do quadro social  ativo
+composto  de  miniprodutores  e pequenos produtores: até  4  (quatro)
+anos, sendo até 2 (dois) de carência, a contar de 28.02.87, de acordo
+com a capacidade de pagamento do mutuário;
+
+         b)  operações  formalizadas  com  os  demais  produtores   e
+cooperativas:  até  3 (três) anos, sendo até 1 (um)  de  carência,  a
+contar  de  28.02.87,  de  acordo com a capacidade  de  pagamento  do
+mutuário;
+
+         c)   em  qualquer  hipótese  respeitar-se-á  o  esquema   de
+reembolso já pactuado para a operação, se assim preferir o mutuário.
+
+         X  - Fixar a data de 30.10.87 como prazo para a formalização
+dos ajustes previstos nos itens IV a VII e IX.
+
+         XI  -  Admitir que as operações passíveis de repactuação  de
+encargos  financeiros na forma desta Resolução sejam  liquidadas  até
+30.10.87  mediante aplicação das taxas ora fixadas, independentemente
+de formalização de qualquer ajuste.
+
+         XII  -  Estabelecer  que,  tendo  em  vista  o  disposto  no
+Parágrafo 2. do art. 13 do Decreto-lei n. 2.335, de 12.06.87,  com  a
+redação dada pelo Decreto-lei n. 2.336, de 15.06.87:
+
+         a)  as  operações de crédito rural, amparadas  por  recursos
+obrigatórios ou refinanciadas pelo Banco Central, não estão  sujeitas
+ao   fator  de  deflação  previsto  no  Parágrafo  1.  daquele  mesmo
+dispositivo legal;
+
+         b)  quando contratadas a taxas prefixadas, estão sujeitas ao
+fator deflação as operações formalizadas ao amparo do MCR 37 a partir
+de 01.01.87, entendido que:
+
+         b.1)  o  valor resultante da aplicação do fator de  deflação
+não poderá ser inferior ao do principal acrescido de juros à taxa  de
+12% a.a. (doze por cento ao ano);
+
+         b.2)  em  operações de desconto, considera-se como principal
+o  valor  efetivamente entregue ao favorecido, acrescido de  juros  à
+taxa pactuada, contados até 15.06.87.
+
+         XIII - Permitir que, a critério da instituição financeira:
+
+         a)  a  repactuação  de  taxas prevista  nesta  Resolução  se
+estenda  a  operações realizadas com recursos próprios livres,  desde
+que não configurada qualquer das hipóteses indicadas no item XVI;
+
+         b)  sejam  computadas  para satisfação da  exigibilidade  as
+operações enquadradas na alínea anterior.
+
+         XIV  - Permitir que as instituições financeiras utilizem  as
+perdas  decorrentes  da isenção de correção monetária  ocorridas  nos
+períodos  previstos nesta Resolução para satisfação da  exigibilidade
+do MCR 18 até 31.12.87.
+
+         XV  -  Estabelecer  que  esta Resolução  não  se  aplica  ao
+Programa  de Apoio ao Pequeno Produtor Rural (PAPP), cujas  operações
+serão objeto de regulamentação específica.
+
+         XVI  -  Estabelecer  que não podem ser beneficiados  com  as
+medidas   especiais  ora  determinadas  os  produtores   que   tenham
+praticado:
+
+         a) desvio  de  recursos  para   fins   não  consignados   no
+orçamento;
+
+         b) alienação, abandono ou remoção indébita de garantia;
+
+         c) qualquer outra irregularidade grave.
+
+         XVII  -  Revogar  as Resoluções n. 1.306, de  10.04.87,  n.s
+1.311 e 1.312, de 24.04.87, e n. 1.318, de 29.04.87, resguardados  os
+direitos  emergentes  de ajustes já formalizados  com  base  naqueles
+normativos  e assegurando-se ainda ao mutuário a faculdade  de  optar
+pelas disposições desta Resolução.
+
+         XVIII  - Estabelecer que esta Resolução entrará em vigor  na
+data de sua publicação.
+
+                             Brasília-DF, 1. de julho de 1987
+
+                             Fernando Milliet de Oliveira
+                             Presidente
+```

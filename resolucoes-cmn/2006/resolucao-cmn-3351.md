@@ -1,0 +1,110 @@
+---
+titulo: "Resolução Nº 3.351"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3351"
+data: 2006-02-24
+ementa: "Altera o Regulamento do Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf)."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 2/3/2006, p. 14/15. "
+atualizacoes: ["Resolução CMN nº 4.999/2022 - Revogação total, a partir de 2/5/2022."]
+normas_vinculadas: ["RESOLUÇÃO CMN 4999/2022"]
+referencias: ["Lei nº 4.595/1964, arts. 4º, inciso VI , e 9º.", "Lei nº 4.829/1965, arts. 4º e 14.", "Lei nº 10.186/2001, art. 3º, § 2º.", "Altera MCR 10-1-36, 10-5-4, 10-5-7, 10-6-1-\"c\", 10-11-1-\"c\".", "Cita MCR 6-2-4."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3351"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.351
+
+```
+                        RESOLUCAO N. 003351
+                        -------------------
+                                   Altera  o  Regulamento do Programa
+                                   Nacional   de  Fortalecimento   da
+                                   Agricultura Familiar (Pronaf).
+
+         O  BANCO  CENTRAL  DO BRASIL, na forma do  art.  9º  da  Lei
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  CONSELHO
+MONETÁRIO NACIONAL, em sessão realizada em 23 de fevereiro  de  2006,
+tendo  em  vista as disposições dos arts. 4º, inciso VI, da  referida
+lei,  4º e 14 da Lei 4.829, de 5 de novembro de 1965, e 3º, § 2º,  da
+Lei 10.186, de 12 de fevereiro de 2001,
+
+R E S O L V E U:
+
+          Art. 1º  Promover as seguintes alterações no Regulamento do
+Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf),
+codificado no Manual de Crédito Rural (MCR 10):
+
+          I - no caput do MCR 10-1-36, nos seguintes termos: "36 - Os
+agricultores  beneficiários  do  Grupo  'A',  inclusive  aqueles  que
+formalizaram  financiamento  para estruturação  complementar  de  que
+trata  o  MCR 10-5-7, podem contratar operações ao amparo  do  Pronaf
+Floresta, Semi-Árido ou Jovem, desde que:" (NR);
+
+          II  - no MCR 10-5-4, alínea "a", nos seguintes termos:  "a)
+limite: ressalvado o disposto no item 5, R$16.500,00 (dezesseis mil e
+quinhentos  reais), por beneficiário, em até 2 (duas)  operações,  de
+acordo  com  o  projeto  técnico, observado que  a  segunda  operação
+somente poderá ser formalizada se o projeto apresentar capacidade  de
+pagamento   e  a  primeira  operação  encontrar-se  em  situação   de
+normalidade;" (NR);
+
+          III - no MCR 10-5-7:
+
+          a)   caput,  nos  seguintes  termos:  "Pode  ser  concedido
+financiamento para projetos de estruturação complementar ao amparo da
+linha  de  crédito  de investimento do Grupo 'A',  sob  as  seguintes
+condições:";
+
+          b)  alínea  "a",  inciso II, nos seguintes  termos:  "II  -
+tenham  sido assentados em projetos de reforma agrária até  1/8/2002,
+incluídos  os agricultores egressos do Programa Especial  de  Crédito
+para a Reforma Agrária (Procera);" (NR);
+
+          IV  -  no  MCR  10-6-1-"c", incisos I e II,  nos  seguintes
+termos:
+
+          a)  "I - pessoa física (contrato individual ou grupal):  R$
+18.000,00 (dezoito mil reais), por beneficiário, aplicável a  uma  ou
+mais operações;";
+
+          b)  "II  -  pessoa  física (contrato  coletivo)  ou  pessoa
+jurídica:  de  acordo com o projeto técnico e o estudo de viabilidade
+econômico-financeira do empreendimento, observado o limite individual
+de  R$  18.000,00  (dezoito  mil reais) por sócio/associado/cooperado
+relacionados na Declaração de Aptidão ao Pronaf (DAP) emitida para  a
+agroindústria;" (NR);
+
+          V  -  no  MCR  10-11-1-"c", incisos I e II,  nos  seguintes
+termos:
+
+          a)  "I - pessoa física (contrato individual ou grupal):  R$
+5.000,00 (cinco mil reais), por beneficiário, aplicável a uma ou mais
+operações;";
+
+          b)  "II  -  pessoa  física (contrato  coletivo)  ou  pessoa
+jurídica:  de acordo com o projeto técnico e o estudo de  viabilidade
+econômico-financeira do empreendimento, observado o limite individual
+de   R$5.000,00   (cinco  mil  reais)  por  sócio/associado/cooperado
+relacionados na Declaração de Aptidão ao Pronaf (DAP) emitida para  a
+agroindústria,   não  podendo  ultrapassar  R$150.000,00   (cento   e
+cinqüenta mil reais); (NR)".
+
+          Art. 2º Os recursos da subexigibilidade  de  que  trata  o
+MCR 6-2-4  podem  ser aplicados até 30 de junho de 2006 em operações
+de custeio de lavouras de fumo.
+
+          Parágrafo único. O montante das aplicações de que  trata  o
+caput   fica   limitado  a  25%  (vinte  e  cinco  por   cento)   das
+disponibilidades existentes até 30 de junho de 2006.
+
+         Art.  3º   Esta  resolução entra em vigor  na  data  de  sua
+publicação.
+
+                                   Brasília, 24 de fevereiro de 2006.
+
+                                   Alexandre Antonio Tombini
+                                   Presidente, substituto
+```

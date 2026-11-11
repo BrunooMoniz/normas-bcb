@@ -1,0 +1,171 @@
+---
+titulo: "Resolução Nº 2.897"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "2897"
+data: 2001-10-31
+ementa: "Dispõe sobre consolidação e alongamento de dívidas, ao amparo do Fundo de Defesa da Economia Cafeeira (Funcafé), e sobre prorrogação dos prazos de vencimento dos financiamentos de lavouras de café, amparados em recursos do Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf)."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2906/2001 DOU 23/11/2001 PAG 11 (E) - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2906/2001"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4829/65 ART/4 ART/14.", "LEI 4595/64 ART/4 ITEM/VI.", "LEI 10186/2001 ART/5 ART/6.", "CITA RESOLUÇÃO CMN 2666/99 ART/2.", "CITA RESOLUÇÃO CMN 2759/2000 2849/2001 2238/962471/98 2682/99 2732/2000.", "CITA MCR 2/4/22.", "CITA MP 2196-3/2001 ART/3."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=2897"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 2.897
+
+```
+                        RESOLUCAO N. 002897
+                        -------------------
+
+                                   Dispõe   sobre   consolidação    e
+                                   alongamento de dívidas, ao  amparo
+                                   do  Fundo  de  Defesa da  Economia
+                                   Cafeeira   (Funcafé),   e    sobre
+                                   prorrogação    dos    prazos    de
+                                   vencimento  dos financiamentos  de
+                                   lavouras  de  café,  amparados  em
+                                   recursos  do Programa Nacional  de
+                                   Fortalecimento   da    Agricultura
+                                   Familiar (Pronaf).
+
+         O  BANCO  CENTRAL  DO BRASIL, na forma do  art.  9º  da  Lei
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  CONSELHO
+MONETÁRIO  NACIONAL, em sessão realizada em 31 de  outubro  de  2001,
+tendo  em  vista as disposições dos arts. 4º, inciso VI, da  referida
+lei, 4º e 14 da Lei 4.829, de 5 de novembro de 1965, e 5º e 6º da Lei
+10.186, de 12 de fevereiro de 2001,
+
+R E S O L V E U:
+
+         Art.  1º  Autorizar a consolidação e alongamento das dívidas
+formalizadas até 23 de junho de 2001, ao amparo do Fundo de Defesa da
+Economia Cafeeira (Funcafé), observadas as seguintes condições:
+
+         I - encargos financeiros:
+
+         a)   operações   vinculadas  à  estocagem   de   café   tipo
+exportação, formalizadas ao amparo da Resolução 2.732, de 14 de junho
+de 2000, com as alterações introduzidas pelas Resoluções 2.759, de 13
+de  julho  de 2000, e 2.849, de 29 de junho de 2001: taxa efetiva  de
+juros de 9,5% a.a. (nove inteiros e cinco décimos por cento ao ano);
+
+         b)  demais  operações: taxa efetiva de juros  de  9,5%  a.a.
+(nove  inteiros  e  cinco décimos por cento ao  ano),  com  bônus  de
+adimplência  de  3,75% (três inteiros e setenta  e  cinco  centésimos
+pontos percentuais), observado o disposto no parágrafo 1º;
+
+         II  - prazos de reembolso, considerados a partir da data  da
+renegociação:
+
+         a)   operações   vinculadas  à  estocagem   de   café   tipo
+exportação: em duas parcelas, com pagamento mínimo de 50%  (cinqüenta
+por cento) do saldo devedor atualizado até 31 de dezembro de 2003 e o
+restante até 31 de dezembro de 2004;
+
+         b)  demais  operações:  em  até  doze  anos,  observados  os
+seguintes  percentuais a serem aplicados sobre o saldo  devedor  e  o
+disposto no parágrafo 3º:
+
+         1.  9,5%  (nove  inteiros  e cinco décimos  por  cento),  no
+primeiro, no segundo, no terceiro e no quarto ano;
+         2.  14,5%  (catorze inteiros e cinco décimos por cento),  no
+quinto ano;
+         3.  19,5% (dezenove inteiros e cinco décimos por cento),  no
+sexto ano;
+         4.  24,5%  (vinte  e  quatro inteiros e  cinco  décimos  por
+cento), no sétimo ano;
+         5.  29,5% (vinte e nove inteiros e cinco décimos por cento),
+no oitavo e no nono ano;
+         6.  39,5%  (trinta  e  nove inteiros  e  cinco  décimos  por
+cento), no décimo e no undécimo ano;
+         7. o saldo remanescente, no duodécimo ano;
+
+         III - garantias: as usuais para o crédito rural;
+
+         IV   -  remuneração  do  agente  financeiro:  a  ser  fixada
+oportunamente,  como decorrência do disposto no  art.  3º  da  Medida
+Provisória 2.196-3, de 24 de agosto de 2001;
+
+         V  -  remuneração do Funcafé: os mesmos encargos financeiros
+cobrados dos mutuários;
+
+         VI - risco operacional: do Funcafé.
+
+         Parágrafo  1º  Na ocorrência de inadimplemento em  operações
+amparadas  por  recursos do Funcafé, o mutuário perde  o  direito  ao
+bônus previsto na alínea "b" do inciso I deste artigo, não só para  a
+parcela em atraso como também para as demais parcelas restantes.
+
+         Parágrafo  2º  O  agente financeiro  deve  adotar,  para  as
+operações  renegociadas ao amparo desta resolução e  em  situação  de
+inadimplemento,  os mesmos procedimentos aplicáveis às  operações  de
+crédito  rural  de  sua  própria  carteira,  quando  em  situação  de
+inadimplemento, inclusive quanto ao disposto no MCR 2-4-22.
+
+         Parágrafo  3º  O  cronograma de reembolso  de  que  trata  a
+alínea "b" do inciso II deste artigo foi definido com:
+
+         I  - taxa de juros sem o bônus de adimplência de que trata a
+alínea "b" do inciso I deste artigo;
+
+         II  -  previsão de pagamento apenas dos juros até  o  quarto
+ano;
+
+         III  -  parcelas  fixadas em porcentagem  do  saldo  devedor
+atualizado, a partir do quinto ano;
+
+         IV  - prestações anuais, devendo os vencimentos ocorrerem na
+data de aniversário da operação renegociada.
+
+         Parágrafo 4º Cabe ao agente financeiro cuidar para que  seja
+preservada  a  relação  original  entre  a  dívida  e  as   garantias
+oferecidas, devendo condicionar o alongamento, quando for o  caso,  à
+recomposição das garantias ou amortização proporcional  no  valor  da
+dívida.
+
+         Parágrafo  5º  Fica admitida substituição do  café  dado  em
+garantia  por  café de igual qualidade ou a movimentação  do  produto
+para  outro  armazém  credenciado e aceito  pelo  agente  financeiro,
+previamente à formalização do alongamento da dívida, correndo o  ônus
+integral dessas ações à conta do mutuário.
+
+          Art.  2º O alongamento de dívidas disciplinado pelo  artigo
+anterior não abrange as operações renegociadas ao amparo da Resolução
+2.238, de 31 de janeiro de 1996, ou renegociadas com base no art.  2º
+da  Resolução  2.666,  de 11 de novembro de 1999,  bem  como  aquelas
+renegociadas  ao  amparo da Resolução 2.471, de 26  de  fevereiro  de
+1998.
+
+         Art.   3º   As  alterações  nos  instrumentos  de   crédito,
+relacionadas  com o alongamento de dívidas autorizado  pelo  art.  1º
+desta  resolução,  devem ser formalizadas até 31 de  março  de  2002,
+ficando as instituições financeiras autorizadas a considerar em curso
+normal  as  respectivas operações, até aquela data, sem  prejuízo  da
+observância  do  disposto na Resolução 2.682, de 21  de  dezembro  de
+1999, relativamente à classificação das operações de que se trata.
+
+         Art.  4º  Fica  prorrogado  para  30  de  junho  de  2002  o
+vencimento  das  parcelas  vencidas ou  vincendas  de  financiamentos
+destinados a lavouras de café, formalizados ao amparo de recursos  do
+Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf).
+
+         Art. 5º Fica a Secretaria de Produção e Comercialização,  do
+Ministério  da Agricultura, Pecuária e Abastecimento, em  articulação
+com  a  Secretaria  de  Acompanhamento Econômico,  do  Ministério  da
+Fazenda,  autorizada a adotar as providências complementares  que  se
+fizerem  necessárias  ao  cumprimento do  disposto  nesta  resolução,
+incumbindo-se a primeira, na condição de responsável pela gestão  dos
+recursos  do Funcafé, de formalizar o relacionamento com  os  agentes
+financeiros.
+
+         Art.  6º  Esta  resolução entra em  vigor  na  data  de  sua
+publicação.
+
+                                  Brasília, 31 de outubro de 2001
+
+                                  Arminio Fraga Neto
+                                  Presidente
+```

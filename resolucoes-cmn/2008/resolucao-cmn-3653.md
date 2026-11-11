@@ -1,0 +1,110 @@
+---
+titulo: "Resolução Nº 3.653"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3653"
+data: 2008-12-17
+ementa: "Inclui o art. 9º-M à Resolução nº 2.827, de 30 de março de 2001, estabelecendo linha de financiamento do Banco Nacional de Desenvolvimento Econômico e Social (BNDES) para a modernização da Administração Geral e Patrimonial dos Estados e do Distrito Federal."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Resolução CMN nº 4.589/2017 - Revogação total, a partir de 1º/1/2018."]
+normas_vinculadas: ["CARTA CIRCULAR 3382/2009", "RESOLUÇÃO 4589/2017", "RESOLUÇÃO 3848/2010", "RESOLUÇÃO 2827/2001"]
+referencias: ["Lei nº 4.595/1964, arts. 4º, incisos VI e VIII; e 9º.", "Altera Resolução CMN nº 2.827/2001 - Inclui art. 9º-M."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3653"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.653
+
+```
+                        RESOLUCAO N. 003653
+                        -------------------
+
+                                 Inclui  o  art. 9º-M à Resolução  nº
+                                 2.827,  de  30  de  março  de  2001,
+                                 estabelecendo        linha        de
+                                 financiamento do Banco  Nacional  de
+                                 Desenvolvimento Econômico  e  Social
+                                 (BNDES)   para  a  modernização   da
+                                 Administração  Geral  e  Patrimonial
+                                 dos Estados e do Distrito Federal.
+
+         O  Banco  Central do Brasil, na forma do art. 9º da  Lei  n°
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  Conselho
+Monetário  Nacional, em sessão realizada em 17 de dezembro  de  2008,
+com base no art. 4º, VI e VIII, da mencionada lei,
+
+         R E S O L V E U :
+
+         Art.  1º   Fica incluído, na Resolução nº 2.827,  de  30  de
+março de 2001, o art. 9º-M, com a seguinte redação:
+
+         "Art.  9º-M   Fica  autorizada a  contratação  de  novas
+         operações de crédito, até 30 de abril de 2010, no  valor
+         global  de  até R$300.000.000,00 (trezentos  milhões  de
+         reais),   destinadas  à  modernização  da  Administração
+         Geral  e  Patrimonial dos Estados e do Distrito Federal,
+         visando  a melhoria da qualidade do gasto e do  ambiente
+         de  negócios,  por  meio de linha  de  financiamento  do
+         Banco  Nacional  de Desenvolvimento Econômico  e  Social
+         (BNDES).
+
+         §  1º   As  operações de crédito objeto do financiamento
+         devem ter suas ações para aplicação em:
+
+         I    -   fortalecimento   das   capacidades   gerencial,
+         normativa,   operacional   e  tecnológica   voltadas   à
+         Administração  Geral  e Patrimonial  dos  Estados  e  do
+         Distrito Federal;
+
+         II  -  desenvolvimento e aperfeiçoamento de Sistemas  de
+         Informação,    Serviços   e   Processos   voltados    ao
+         fortalecimento das Administrações Estaduais;
+
+         III    -    informatização,   inclusive   aquisição    e
+         desenvolvimento de software;
+
+         IV   -   capacitação,   treinamento  e   aperfeiçoamento
+         gerencial, técnico e de apoio operacional;
+
+         V  -  consultorias e estudos de natureza organizacional,
+         de  tecnologia  da informação e outros relacionados  aos
+         processos ou atividades de natureza administrativa;
+
+         VI  - interação entre estados e municípios com vistas  a
+         melhor   identificar  oportunidades   de   investimentos
+         produtivos  para  além dos investimentos  originados  no
+         Governo Federal;
+
+         VII  - outras a serem definidas de comum acordo entre  o
+         BNDES  e  o  Ministério  do  Planejamento,  Orçamento  e
+         Gestão.
+
+         §  2º   A  contratação das operações de crédito  de  que
+         trata  o  caput será precedida de aprovação pelo  BNDES,
+         na  qualidade de gestor e provedor da referida linha  de
+         crédito,  obedecidos  os objetivos  estabelecidos  nesta
+         resolução.
+
+         §  3º   As  condições financeiras relativas a  taxas  de
+         juros,  níveis  de participação e prazos  obedecerão  às
+         normas  estabelecidas  nas  Políticas  Operacionais   do
+         Sistema BNDES.
+
+         §  4º   Para  a alocação, entre os Estados e o  Distrito
+         Federal,  do  valor  global  previsto  no  caput   deste
+         artigo,  serão  estabelecidos  limites  e  condições  de
+         aceitação  dos  projetos  oferecidos  pelos  respectivos
+         entes   federados,   segundo  critérios   definidos   em
+         conjunto   pelo   Banco  Nacional   de   Desenvolvimento
+         Econômico   e   Social  (BNDES)  e   o   Ministério   do
+         Planejamento, Orçamento e Gestão."
+
+         Art.  2º   Esta  resolução entra em vigor  na  data  de  sua
+publicação.
+
+                                     Brasília, 17 de dezembro de 2008
+
+                    Henrique de Campos Meirelles
+                             Presidente
+```

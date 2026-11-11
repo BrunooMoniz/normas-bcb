@@ -1,0 +1,83 @@
+---
+titulo: "Resolução Nº 1.669"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1669"
+data: 1989-11-30
+ementa: "LINHA ESPECIAL DE ASSISTENCIA FINANCEIRA DE LIQUIDEZ DESTINADA AS INSTITUICOES FINANCEIRAS COM CARTEIRA IMOBILIARIA - DELEGACAO DE COMPETENCIA AO BANCO CENTRAL PARA PROMOVER AS ALTERACOES QUE JULGAR NECESSARIAS, INCLUSIVE PARA EXTINGUIR ESSE MECANISMO ASSISTENCIAL."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 1980/93 DOU 30/04/1993 PAG 5783 (EDICAO EXTRA) - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1980/93", "CIRCULAR 1567/90", "CIRCULAR 1549/89", "CARTA CIRCULAR 2087/90"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/XVII.", "DL 2290/86 ART/2.", "DL 2322/87.", "DL 2291/86 ART/7."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1669"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.669
+
+```
+                        RESOLUCAO N. 001669
+                        -------------------
+
+         O  BANCO CENTRAL DO BRASIL, na forma do artigo 9. da Lei  n.
+4.595,  de 31.12.64, torna público que o CONSELHO MONETÁRIO NACIONAL,
+em  sessão  realizada em 29.11.89, tendo em vista as  disposições  do
+artigo  4., inciso XVII, da referida Lei, e do artigo 2. do  Decreto-
+lei  n.  2.290,  de  21.11.86, com a redação que lhe  foi  dada  pelo
+Decreto-lei  n. 2.322, de 26.02.87, e do artigo 7. do Decreto-lei  n.
+2.291, de 21.11.86,
+
+R E S O L V E U:
+
+         I  - Instituir no Banco Central do Brasil linha especial  de
+assistência  financeira  de liquidez a instituições  financeiras  com
+carteira imobiliária cujas aplicações em financiamentos habitacionais
+sejam iguais ou superiores a 85% (oitenta e cinco por cento) de  seus
+depósitos  de poupança, no limite de até 80% (oitenta por cento)  dos
+valores  recolhidos no Banco Central a título de encaixe  obrigatório
+sobre depósitos de poupança.
+
+         II  -  Incluem-se como beneficiárias da linha ora instituída
+as  instituições  financeiras  autorizadas  a  receber  depósitos  de
+caderneta  de  poupança rural cujas operações de crédito  rural,  com
+recursos  de  seus  depósitos  de poupança  rural,  sejam  iguais  ou
+superiores a 85% (oitenta e cinco por cento) desses depósitos.
+
+         III - A utilização da assistência financeira de liquidez  de
+que  trata  o  item  anterior dar-se-á mediante a apresentação,  pela
+instituição, de carta-proposta acompanhada de demonstrativo  de  suas
+necessidades de caixa e nota promissória de sua emissão em  favor  do
+Banco Central.
+
+         IV   -   Os  encargos  financeiros  dessas  operações  serão
+correspondentes  à  variação da taxa do  Bônus  do  Tesouro  Nacional
+Fiscal - BTNfiscal, acrescida de 8% a.a. (oito por cento ao ano).
+
+         V  -  Em  garantia  das  responsabilidades  decorrentes  das
+operações  da  assistência financeira de que se  trata,  oferecerá  a
+instituição  recorrente, em caução, os recursos recolhidos  ao  Banco
+Central a título de encaixe obrigatório sobre depósitos de poupança e
+títulos públicos federais, vinculados ao encaixe obrigatório.
+
+         VI  -  Na  hipótese de ocorrer, durante o prazo da operação,
+queda   da   exigibilidade  de  encaixe  obrigatório  da  instituição
+recorrente,  o  excesso  apurado será  utilizado  na  amortização  da
+operação.
+
+         VII  -  O Banco Central poderá adotar as medidas necessárias
+à   execução   desta  Resolução,  ficando  autorizado  a   introduzir
+modificações  sempre  que julgar necessário,  inclusive  extinguir  a
+linha de que se trata.
+
+         VIII - É vedado o acesso à linha especial ora instituída  às
+instituições financeiras que apresentem patrimônio líquido negativo.
+
+         IX  -  Esta  Resolução  entrará em  vigor  na  data  de  sua
+publicação.
+
+                             Brasília-DF, 30 de novembro de 1989
+
+                             Wadico Waldir Bucchi
+                             Presidente
+```

@@ -1,0 +1,89 @@
+---
+titulo: "Resolução Nº 2.470"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "2470"
+data: 1998-02-19
+ementa: "Dispõe sobre concessão de Empréstimo do Governo Federal Sem Opção de Venda (EGF/SOV) relativo a algodão em pluma, ao amparo de Recursos Obrigatórios MCR 6-2)."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2741/2000 DOU 30/06/2000 PAG 10 (E) - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2455/97", "RESOLUÇÃO 2741/2000"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/VI.", "LEI 4829/65 ART/4 ART/14.", "CITA RESOLUÇÃO CMN 2313/96.", "ALTERA RESOLUÇÃO CMN 2455/97 ART/5 PARAGRAFO UNICO.", "ALTERA RESOLUÇÃO CMN 2455/97 ART/8 ITEM/I.", "CITA MCR 6/2."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=2470"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 2.470
+
+```
+                        RESOLUCAO N. 002470
+                        -------------------
+
+                              Dispõe sobre concessão de Empréstimo do
+                              Governo  Federal  Sem  Opção  de  Venda
+                              (EGF/SOV)  relativo a algodão em pluma,
+                              ao  amparo  de  Recursos   Obrigatórios
+                              MCR 6-2).
+
+               O  BANCO CENTRAL DO BRASIL, na forma do art. 9º da Lei
+nº  4.595, de 31.12.64, torna público que o CONSELHO MONETÁRIO NACIO-
+NAL,  em sessão realizada em 19.02.98, tendo em vista as  disposições
+dos  arts. 4º, inciso VI, da citada Lei,  4º e 14 da Lei nº 4.829, de
+05.11.65,
+
+R E S O L V E U:
+
+               Art.  1º  Admitir a concessão de Empréstimo do Governo
+Federal  Sem Opção de Venda (EGF/SOV), ao amparo dos Recursos Obriga-
+tórios  (MCR 6-2), sob as condições gerais aplicáveis às operações da
+espécie, observadas as seguintes condições especiais:
+
+               I  - produto amparado: algodão em pluma fornecido  por
+usinas de beneficiamento e comprovadamente adquirido junto aos produ-
+tores ou suas cooperativas por valor igual ou superior ao preço míni-
+mo (algodão em caroço) vigente à época da aquisição;
+
+              II  - beneficiárias: indústrias  que utilizam o produto
+como matéria-prima;
+
+             III  - limite de crédito: o equivalente a 50% (cinqüenta
+por  cento) da capacidade de industrialização da beneficiária durante
+o período operacional (contratação e vencimento do EGF).
+
+               Parágrafo  único. Fica admitida a transferência de ti-
+tularidade/responsabilidade  em  operações de EGF/SOV de algodão,  de
+produtores  para indústrias beneficiadoras de algodão ou consumidoras
+de  pluma, quando as respectivas partes resolverem negociar o produto
+vinculado.
+
+               Art.  2º  O parágrafo único do art. 5º e o inciso I do
+art.  8º da Resolução nº 2.455, de 18.12.97, passam a vigorar com  as
+seguintes redações:
+
+     "Art. 5º .....................................................
+
+     Parágrafo  único. O prazo indicado neste artigo pode ser prorro-
+     gado por mais 150 (cento e cinqüenta) dias, caso haja substitui-
+     ção do algodão em caroço por algodão em pluma."
+
+     "Art. 8º .....................................................
+
+     I  - algodão em pluma  e  semente  de  algodão - Safra 1996/97 -
+     prazo  de vencimento: 31.01.98, fixado pela Resolução nº  2.313,
+     de 11.09.96, para 31.05.98, em todas as regiões do Brasil;".
+
+               Art.  3º  Ficam as Secretarias de  Acompanhamento Eco-
+nômico, do Ministério da Fazenda, e de Política Agrícola, do Ministé-
+rio  da  Agricultura, autorizadas a definir, em conjunto, as  medidas
+complementares  necessárias à implementação do disposto nesta Resolu-
+ção, as quais serão divulgadas pelo Banco Central do Brasil.
+
+               Art.  4º  Esta Resolução entra em vigor na data de sua
+publicação.
+
+                              Brasília, 19 de fevereiro de 1998
+
+                              Gustavo H. B. Franco
+                              Presidente
+```

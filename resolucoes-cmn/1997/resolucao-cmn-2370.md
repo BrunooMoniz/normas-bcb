@@ -1,0 +1,119 @@
+---
+titulo: "Resolução Nº 2.370"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "2370"
+data: 1997-04-03
+ementa: "Dispõe sobre zoneamento agrícola para a cultura de trigo e redução da alíquota de adicional do PROAGRO."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2495/98 DOU 08/05/1998 PAG 61 - REVOGACAO: ART/1 PARAG/1 ITEM/I.", "RESOLUÇÃO CMN 3224/2004 DOU 03/08/2004 PAG 48 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 3224/2004", "RESOLUÇÃO 2495/98", "CARTA CIRCULAR 2734/97", "CARTA CIRCULAR 2732/97", "CARTA CIRCULAR 2729/97"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/VI.", "LEI 4829/65 ART/4 ART/14.", "DEC 175/91 ART/4.", "CITA MCR 7/3/2/D, 7/3/12, 7/3/13, 7/5/3/D, 7/5/3/H."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=2370"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 2.370
+
+```
+                        RESOLUCAO N. 002370
+                        -------------------
+
+                              Dispõe sobre zoneamento agrícola para a
+                              cultura  de trigo e redução da alíquota
+                              de adicional do PROAGRO.
+
+               O  BANCO CENTRAL DO BRASIL, na forma do art. 9º da Lei
+nº  4.595, de 31.12.64, torna público que o CONSELHO MONETÁRIO NACIO-
+NAL,  em sessão realizada em 25.03.97, tendo em vista as  disposições
+dos  arts. 4º, inciso VI, da citada Lei, 4º e 14 da Lei nº 4.829,  de
+05.11.65, e 4º do Decreto nº 175, de 10.07.91,
+
+R E S O L V E U:
+
+               Art. 1º  Adotar as seguintes condições especiais, para
+efeitos de enquadramento no Programa de Garantia da Atividade Agrope-
+cuária  (PROAGRO) de operações de custeio de trigo, a partir da safra
+de  inverno 1997, conduzidas por produtores que optem por aplicar  as
+recomendações  técnicas referentes ao zoneamento agrícola  implantado
+pelo  Ministério da Agricultura e do Abastecimento, contemplando novo
+cronograma de plantio, combinado com variedades de sementes e grau de
+aptidão dos solos, nos municípios considerados habilitados, nos Esta-
+dos  do Mato Grosso do Sul, Paraná, Rio Grande do Sul e Santa Catari-
+na:
+
+               I  - redução da alíquota de adicional  do PROAGRO (MCR
+7-3-2-"d")  de 11,7% (onze inteiros e sete décimos por cento) para 4%
+(quatro por cento);
+
+              II  - restrição das causas  de  coberturas  do  PROAGRO
+(MCR 7-5-2) aos seguintes eventos adversos:
+
+               a) geada;
+
+               b) granizo;
+
+               c) tromba d'água;
+
+               d) vendaval;
+
+             III  - forma  de cultivo amparado: apenas lavoura de se-
+queiro não consorciada.
+
+               Parágrafo  1º  O adicional  de  4% (quatro por  cento)
+previsto no inciso I fica reduzido para 3% (três por cento), quando o
+beneficiário optar ainda pela utilização da técnica de "plantio dire-
+to".
+
+               Parágrafo  2º  Na impossibilidade da adoção  de  qual-
+quer   uma das recomendações técnicas relativas ao zoneamento agríco-
+la,  por qualquer motivo, o beneficiário do programa sujeita-se auto-
+maticamente às condições gerais do PROAGRO, particularmente no que se
+refere  à incidência da alíquota de adicional de 11,7% (onze inteiros
+e sete décimos por cento), a inadimplemento do adicional, à cobertura
+proporcional  ao valor do adicional cobrado e às causas de  cobertura
+(MCR  7-3-2-"d", 7-3-12, 7-3-13, 7-5-3-"d" e 7-5-3-"h"), ressalvado o
+disposto no parágrafo seguinte.
+
+               Parágrafo  3º   No prazo máximo de 60 (sessenta)  dias
+contados do enquadramento da operação,  admite-se regularizar  o adi-
+cional mediante simples elevação da alíquota de adicional de 3% (três
+por  cento)  ou de 4% (quatro por cento) para o percentual  de  11,7%
+(onze inteiros e sete décimos por cento), em caso de inobservância de
+qualquer  recomendação técnica do  zoneamento  agrícola  no  referido
+período.
+
+               Parágrafo 4º  Os compromissos  de que trata este arti-
+go, "caput" e parágrafos, devem constar de  cláusula contratual espe-
+cífica.
+
+               Art.  2º  O agente  do  PROAGRO  faz jus à remuneração
+correspondente  a  10% (dez por cento) do adicional do Programa,  nas
+operações  com adesão ao zoneamento agrícola, para cobrir gastos ope-
+racionais,  ficando obrigado, além das atribuições previstas no regu-
+lamento, a:
+
+               I  - comprovar  a  emergência  das  plantas nos termos
+previstos  no zoneamento agrícola, por amostragem a ser definida pelo
+Ministério da Agricultura e do Abastecimento;
+
+              II  - fornecer ao  Ministério da Agricultura e do Abas-
+tecimento  as  informações  básicas necessárias ao  monitoramento  do
+PROAGRO, conforme formulário a ser divulgado oportunamente.
+
+               Art.  3º  Fica  o Banco Central do Brasil autorizado a
+baixar  as normas e adotar as medidas julgadas necessárias à execução
+do  disposto nesta Resolução, inclusive divulgar a relação de municí-
+pios  e  o formulário de que tratam o art. 1º, "caput", e o  art.  2º
+deste  normativo, bem como atualizar o Manual do Crédito Rural (MCR),
+promovendo as adequações necessárias.
+
+               Art.  4º  Esta Resolução entra em vigor na data de sua
+publicação.
+
+                              Brasília, 3 de abril de 1997
+
+                              Gustavo Jorge Laboissière Loyola
+                              Presidente
+```

@@ -1,0 +1,115 @@
+---
+titulo: "Resolução Nº 3.309"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3309"
+data: 2005-08-31
+ementa: "Dispõe sobre a certificação de empregados das cooperativas de crédito e sobre a atuação dessas instituições na distribuição de cotas de fundos de investimento."
+revogada: false
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 5/9/2005, p. 57."
+atualizacoes: ["Resolução CMN nº 3.321/2005 - Revogação art. 4º.", "Resolução CMN nº 4.984/2022 - Alteração, a partir de 1º/4/2022 - Revogação: arts. 1º e 2º."]
+normas_vinculadas: ["RESOLUÇÃO CMN 4984/2022", "RESOLUÇÃO 3321/2005", "RESOLUÇÃO 3106/2003"]
+referencias: ["Lei nº 4.595/1964, arts. 4º, inciso VIII, 9º e 55.", "Lei nº 5.764/1971, art. 103.", "Lei nº 4.728/1965.", "Altera Regulamento anexo à Resolução CMN nº 3.106/2003 - Inclui art. 23, inciso VII."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3309"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.309
+
+```
+                        RESOLUCAO N. 003309
+                        -------------------
+
+                                   Dispõe  sobre  a  certificação  de
+                                   empregados  das  cooperativas   de
+                                   crédito  e sobre a atuação  dessas
+                                   instituições  na  distribuição  de
+                                   cotas de fundos de investimento.
+
+         O BANCO CENTRAL DO BRASIL, na forma do art. 9º da Lei 4.595,
+de  31  de  dezembro de 1964, torna público que o CONSELHO  MONETÁRIO
+NACIONAL, em sessão realizada em 31 de agosto de 2005, com  base  nos
+arts.  4º, inciso VIII, e 55 da referida lei, e 103 da Lei 5.764,  de
+16  de dezembro de 1971, e tendo em vista o disposto na Lei 4.728, de
+14 de julho de 1965,
+
+R E S O L V E U:
+
+           Art.  1º   Estabelecer  que  as  cooperativas  de  crédito
+singulares  devem  adotar providências para  que  sejam  considerados
+aptos,  por meio de exame de certificação organizado por entidade  de
+reconhecida   capacidade  técnica,  os  empregados   que   atuam   no
+atendimento  aos  clientes  e usuários da instituição  em  atividades
+relacionadas  com  a  distribuição e mediação de  títulos  e  valores
+mobiliários e derivativos.
+
+          §  1º   O cumprimento da formalidade prevista neste  artigo
+deve  observar  o  cronograma abaixo, a  ser  atendido  com  base  no
+quantitativo dos mencionados empregados, por cooperativa, ao final de
+cada ano:
+
+          I  - 30% (trinta por cento), no mínimo, até 30 de junho  de
+2006;
+
+         II - 60% (sessenta por cento), no mínimo, até 30 de junho de
+2007;
+
+         III - 100% (cem por cento) até 30 de junho de 2008.
+
+          §  2º   A  partir  de 1º de julho de 2008, somente  poderão
+exercer  as atividades mencionadas no caput os empregados que  tenham
+sido considerados aptos conforme as disposições deste artigo.
+
+          Art.  2º  As cooperativas de crédito são responsáveis  pela
+atualização   periódica   dos  conhecimentos   de   seus   empregados
+considerados  aptos para os efeitos desta resolução,  bem  como  pela
+manutenção  da  respectiva documentação à disposição da  fiscalização
+competente.
+
+          Parágrafo  único.   Em se tratando de empregado  que  tenha
+deixado  de  exercer as atividades referidas no art. 1º  por  período
+superior  a  um ano, a manutenção de sua habilitação fica  sujeita  à
+renovação  da  formalidade  prevista  naquele  artigo  em  prazo  não
+superior  a  um  ano,  contado  a  partir  do  retorno  às  referidas
+atividades.
+
+          Art. 3º  As cooperativas centrais de crédito, no desempenho
+das atribuições regulamentares referentes à auditoria de cooperativas
+singulares  filiadas, bem como os auditores externos, em  relação  às
+cooperativas  por  eles auditadas, devem incluir,  no  relatório  que
+trata  da observância da legislação e regulamentação em vigor, tópico
+específico  tratando  do  cumprimento  das  disposições  da  presente
+resolução.
+
+          Art.  4º   Fica alterado o art. 23 do Regulamento  anexo  à
+Resolução 3.106, de 25 de junho de 2003, para inclusão do inciso VII,
+com a seguinte redação:
+
+          "Art. 23.  As cooperativas de crédito podem:
+
+          .......................................................
+
+         VII  -  atuar  na  distribuição de cotas de  fundos  de
+         investimento abertos, observadas as regulamentações  do
+         Banco  Central  do  Brasil e  da  Comissão  de  Valores
+         Mobiliários, nas respectivas áreas de competência.
+
+         .................................................(NR) "
+
+          Art. 5º  A Comissão de Valores Mobiliários pode estabelecer
+restrição   quanto  aos  tipos  de  fundos  cujas  cotas  podem   ser
+distribuídas  por  cooperativas de crédito até a data  estipulada  no
+art.  1º,  §  1º,  inciso  III,  facultando-se  às  cooperativas  que
+atingirem  índice  de 100% (cem por cento) de certificação  antes  da
+referida  data, a submissão àquela Autarquia de pedido de autorização
+para distribuir cotas de outros tipos de fundos.
+
+          Art.  6º   Esta  resolução entra em vigor na  data  de  sua
+publicação.
+
+                                      Brasília, 31 de agosto de 2005.
+
+                                   Henrique de Campos Meirelles
+                                   Presidente
+```

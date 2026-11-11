@@ -1,0 +1,73 @@
+---
+titulo: "Resolução Nº 2.032"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "2032"
+data: 1993-11-25
+ementa: "Divulga os Valores Básicos de Custeio (VBC) para financiamento de lavouras da Região Nordeste e Estados de Roraima e Pará - Safra 1994."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/VI.", "LEI 4829/65 ART/4 ART/14.", "ALTERA MCR 1/2  2/2."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=2032"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 2.032
+
+```
+                        RESOLUCAO N. 002032
+                        -------------------
+
+                              Divulga  os Valores Básicos de  Custeio
+                              (VBC) para financiamento de lavouras da
+                              Região  Nordeste e Estados de Roraima e
+                              Pará - Safra 1994.
+
+               O  BANCO CENTRAL DO BRASIL, na forma do art. 9º da Lei
+nº  4.595, de 31.12.64, torna público que o CONSELHO MONETÁRIO NACIO-
+NAL,  em sessão realizada em 24.11.93, tendo em vista as  disposições
+do art. 4º, inciso VI, da citada Lei nº 4.595, e dos arts. 4º e 14 da
+Lei nº 4.829, de 05.11.65,
+
+R E S O L V E U:
+
+               Art.  1º  Aprovar os Valores Básicos de Custeio (VBC),
+bem  como o calendário de liberações e limites de financiamento, para
+as  lavouras  da Região Nordeste e Estados de Roraima e Pará -  Safra
+1994, conforme folhas anexas, destinadas à atualização dos documentos
+nºs. 1.2 e 2.2 do Manual de Crédito Rural (MCR).
+
+               Art.  2º  Autorizar,  para  efeito  de formalização de
+financiamento, a opção entre o VBC, orçamento próprio ou projeto téc-
+nico,  independentemente do porte do produtor ou da categoria da coo-
+perativa.
+
+               Parágrafo  único. O financiamento fica limitado ao va-
+lor máximo correspondente a 960.883 (novecentas e sessenta mil, oito-
+centas  e  oitenta e três) Unidades de Referência Rural e  Agroindus-
+trial  (UREF) por produto/beneficiário final, quando concedido ao am-
+paro de fontes de recursos sujeitas a encargos financeiros limitados.
+
+               Art.  3º  Estender  aos  custeios de lavouras de algo-
+dão,  arroz,  feijão, mandioca e milho contratadas sob  as  condições
+previstas  nesta Resolução, as normas especiais para concessão de fi-
+nanciamentos rurais com equivalência em produto aplicáveis à safra de
+verão 1993/94, inclusive no que diz respeito a crédito de investimen-
+to.
+
+               Art.  4º  Fica  o Banco Central do Brasil autorizado a
+baixar  as normas e adotar as medidas julgadas necessárias à execução
+do disposto nesta Resolução.
+
+               Art.  5º  Esta Resolução entra em vigor na data de sua
+publicação.
+
+                              Brasília, 25 de novembro de 1993
+
+                              Carlos Eduardo T. de Andrade
+                              Presidente, em exercício
+
+Obs.: As  folhas anexas de que trata esta Resolução serão  publicadas
+      no  Diário Oficial e estarão à disposição dos interessados  nas
+      Delegacias Regionais deste Banco.
+```

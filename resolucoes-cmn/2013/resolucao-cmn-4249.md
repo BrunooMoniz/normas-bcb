@@ -1,0 +1,45 @@
+---
+titulo: "Resolução Nº 4.249"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "4249"
+data: 2013-07-16
+ementa: "Dispõe sobre a documentação exigida para concessão de crédito rural em municípios do bioma Amazônia em substituição ao Certificado de Cadastro de Imóvel Rural (CCIR) e ajustes nas normas gerais do crédito rural."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 17/7/2013, Seção 1, p. 41."
+atualizacoes: ["Resolução CMN nº 4.999/2022 - Revogação total, a partir de 2/5/2022."]
+normas_vinculadas: ["RESOLUÇÃO CMN 4999/2022"]
+referencias: ["Lei nº 4.595/1964, art. 4º, VI; art. 9º.", "Lei nº 4.829/1965, arts. 4º e 14.", "Altera MCR 2-1, itens 18, 21-\"b\" e 24."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4249"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 4.249
+
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão extraordinária realizada em 16 de julho de 2013, tendo em vista as disposições do art. 4º, inciso VI, da Lei nº 4.595, de 1964, e dos arts. 4º e 14 da Lei nº 4.829, de 5 de novembro de 1965,
+
+R E S O L V E U :
+
+Art. 1º  Os itens 18 e 21 da Seção 1 (Disposições Gerais) do Capítulo 2 (Condições Básicas) do Manual de Crédito Rural (MCR) passam a vigorar com a seguinte redação:
+
+“18 - Excepcionalmente, até 30 de junho de 2015, a documentação referida no inciso I da alínea "a" do item 12 pode ser substituída por:
+
+...........................................................” (NR)
+
+“21 - Excepcionalmente, até 30 de junho de 2015, a documentação referida no inciso I da alínea “a” do item 12 poderá ser substituída por:
+
+.................................................................
+
+b) documento emitido por cartório de registro de imóveis que comprove a dominialidade do imóvel rural, no caso de proprietários de imóveis situados nos municípios constantes de lista, divulgada em portaria do Ministério do Meio Ambiente, referente ao controle do desmatamento e à abrangência do território do município no Cadastro Ambiental Rural, conforme parâmetros definidos em portaria desse Ministério, enquanto permanecerem nessa condição;
+
+...........................................................” (NR)
+
+Art. 2º  O item 24 da Seção 1 do Capítulo 2 do MCR passa a vigorar com a seguinte redação:
+
+“24 - Para concessão de financiamento direcionado à atividade pesqueira (pesca e aquicultura), a instituição financeira deve exigir do beneficiário o comprovante de inscrição no Registro Geral da Atividade Pesqueira (RGP), sendo que, quando se tratar de financiamento de embarcações de pesca extrativa, deve ser exigida também a Permissão Prévia de Pesca (PPP), conforme normas específicas do Ministério da Pesca e Aquicultura (MPA).” (NR)
+
+Art. 3º  Esta Resolução entra em vigor na data de sua publicação.
+
+                               Alexandre Antonio Tombini
+                         Presidente do Banco Central do Brasil

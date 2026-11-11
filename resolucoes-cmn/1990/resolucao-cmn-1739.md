@@ -1,0 +1,61 @@
+---
+titulo: "Resolução Nº 1.739"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1739"
+data: 1990-08-21
+ementa: "DIVULGA OS VALORES BÁSICOS DE CUSTEIO (VBC) PARA FINANCIAMENTO DE LAVOURAS DA SAFRA DAS ÁGUAS 1990/91."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2535/98 DOU 27/08/1998 PAG 31 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2535/98"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 8056/90 ART/2 PARAG/2.", "LEI 4595/64 ART/4 ITEM/VI.", "LEI 4829/65 ART/4 ART/14."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1739"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.739
+
+```
+                        RESOLUCAO Nº 001739
+                        -------------------
+
+                              DIVULGA  OS VALORES BÁSICOS DE  CUSTEIO
+                              (VBC) PARA FINANCIAMENTO DE LAVOURAS DA
+                              SAFRA DAS ÁGUAS 1990/91.
+
+                    O BANCO CENTRAL DO BRASIL, NA FORMA DO ART. 9º DA
+LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE A PRESIDENTE DO CONSELHO
+MONETÁRIO  NACIONAL, POR ATO 15.08.90, COM BASE NO § 2º DO ART. 2º DA
+LEI  Nº 8.056, DE 28.06.90, "AD REFERENDUM" DAQUELE CONSELHO, E TENDO
+EM  VISTA  AS DISPOSIÇÕES DO ART. 4º, INCISO VI, DA REFERIDA  LEI  Nº
+4.595 E DOS ARTS. 4º E 14 DA LEI Nº 4.829, DE 05.11.65,
+
+R E S O L V E U:
+
+                    ART.  1º. APROVAR  OS  VALORES  BÁSICOS  DE  CUS-
+TEIO  (VBC)  PARA A SAFRA DE VERÃO 1990/91, CONFORME  FOLHAS  ANEXAS,
+DESTINADAS  À  ATUALIZAÇÃO DOS DOCUMENTOS NºS 1.2 E 2.1 DO MANUAL  DE
+CRÉDITO RURAL - MCR.
+
+                    ART.  2º. ESTABELECER QUE O FINANCIAMENTO DE CUS-
+TEIO  DE CASULO VERDE E DE LAVOURA DE RAMI PASSA A SER FEITO COM BASE
+EM  ORÇAMENTO, OBSERVADOS OS LIMITES INDICADOS NO DOCUMENTO Nº 1.1 DO
+MCR.
+
+                    ART.  3º. DELEGAR COMPETÊNCIA AO BANCO CENTRAL DO
+BRASIL  PARA  EXPEDIR AS NORMAS QUE SE TORNEM NECESSÁRIAS À  EXECUÇÃO
+DESTA RESOLUÇÃO.
+
+                    ART.  4º. DETERMINAR  QUE ESTA RESOLUÇÃO ENTRA EM
+VIGOR NA DATA DE SUA PUBLICAÇÃO.
+
+                                 BRASÍLIA (DF), 21 DE AGOSTO DE 1990
+
+                              IBRAHIM ERIS
+                              PRESIDENTE
+
+OBS.: OS ANEXOS  A QUE  SE  REFERE  ESTA  RESOLUÇÃO  SE ENCONTRAM À
+DISPOSIÇÃO DOS INTERESSADOS NAS UNIDADES CENTRAIS E REGIONAIS DESTE
+BANCO CENTRAL.
+```

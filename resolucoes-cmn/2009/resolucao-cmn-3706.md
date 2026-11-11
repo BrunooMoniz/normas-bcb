@@ -1,0 +1,217 @@
+---
+titulo: "Resolução Nº 3.706"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3706"
+data: 2009-03-27
+ementa: "Dispõe sobre a concessão de financiamentos imobiliários, o direcionamento dos recursos captados em depósitos de poupança pelas entidades integrantes do Sistema Brasileiro de Poupança e Empréstimo (SBPE), a realização de operações de microcrédito destinadas à população de baixa renda e a microempreendedores e altera a Resolução nº 2.828, de 2001, que trata da constituição e do funcionamento de agências de fomento."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Resolução CMN nº 3.757/2009 - Revogação do art. 10.", "Resolução CMN nº 3.932/2010 - Revogação: arts. 3º, 4º, 5º, 6º, 7º e 8º, a partir 1º/3/2011.", "Resolução CMN nº 4.000/2011 - Revogação do art. 9º.", "Resolução CMN nº 4.676/2018 - Revogação total, a partir de 1º/1/2019."]
+normas_vinculadas: ["CARTA CIRCULAR 3560/2012", "CARTA CIRCULAR 3391/2009", "RESOLUÇÃO 4676/2018", "RESOLUÇÃO 4000/2011", "RESOLUÇÃO 3932/2010", "RESOLUÇÃO 3811/2009", "RESOLUÇÃO 3757/2009", "RESOLUÇÃO 3629/2008", "RESOLUÇÃO 3422/2006", "RESOLUÇÃO 3347/2006", "RESOLUÇÃO 2828/2001", "RESOLUÇÃO 2168/1995", "RESOLUÇÃO 1980/1993"]
+referencias: ["Lei nº 4.595/1964, arts. 4º, inciso VI, e 9º.", "Lei nº 9.514/1997, art. 2º.", "Lei nº 10.150/2000, art. 28", "Leis ns. 10.735/2003 e 11.110/2005.", "Decreto-Lei nº 2.291/1986, art. 7º.", "Decreto nº 5.288/2004.", "Cita Lei nº 4.591/1964, arts. 31-A e 31-F.", "Cita Lei nº 8.177/1991, art. 12.", "Cita Lei nº 8.660/1993, art. 7º.", "Cita Lei nº 10.931/2004.", "Cita Resolução CMN nº 3.629/2008.", "Altera Resolução CMN nº 1.980/1993 - Revoga arts. 3º e 17 do Regulamento anexo.", "Altera Resolução CMN nº 2.828/2001 - Inclui art. 4º, parágrafo único.", "Altera Resolução CMN nº 3.347/2006 - Revoga arts. 1º, 2º, 3º, 5º e 6º.", "Altera Regulamento anexo à Resolução CMN nº 3.347/2006 - Dá nova redação a: art. 2º, incisos IX e XXV; art. 3º, inciso VIII; art. 10; art. 16, incisos I e II. Inclui: art. 2º, incisos XXVI e XXVII; art. 3º, inciso XV. Revoga art. 2º, inciso XXIV.", "Altera Resolução CMN nº 3.422/2006 - Dá nova redação a: art. 2º, parágrafo único, inciso III; art. 3º, inciso II.", "Revoga Resolução CMN nº 2.168/1995."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3706"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.706
+
+```
+                        RESOLUCAO N. 003706
+                        -------------------
+
+                                 Dispõe   sobre   a   concessão    de
+                                 financiamentos    imobiliários,    o
+                                 direcionamento     dos      recursos
+                                 captados  em  depósitos de  poupança
+                                 pelas   entidades   integrantes   do
+                                 Sistema  Brasileiro  de  Poupança  e
+                                 Empréstimo  (SBPE), a realização  de
+                                 operações       de      microcrédito
+                                 destinadas  à  população  de   baixa
+                                 renda  e  a  microempreendedores   e
+                                 altera  a  Resolução  nº  2.828,  de
+                                 2001,  que  trata da constituição  e
+                                 do   funcionamento  de  agências  de
+                                 fomento.
+
+          O  Banco Central do Brasil, na forma do art. 9º da  Lei  nº
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  Conselho
+Monetário  Nacional, em sessão realizada em 26 de março de 2009,  com
+base  nos  arts.  4º, inciso VI, da citada lei, 7º do Decreto-lei  nº
+2.291,  de  21  de  novembro de 1986, 2º da Lei nº 9.514,  de  20  de
+novembro de 1997, e 28 da Lei nº 10.150, de 21 de dezembro de 2000, e
+nas  Leis nºs 10.735, de 11 de setembro de 2003, e 11.110, de  25  de
+abril de 2005, e no Decreto nº 5.288, de 29 de novembro de 2004,
+
+         R E S O L V E U :
+
+           Art.   1º    Podem  operar  no  Sistema  de  Financiamento
+Imobiliário (SFI), além das entidades previstas no art. 2º da Lei  nº
+9.514,  de 20 de novembro de 1997, as demais instituições financeiras
+autorizadas a funcionar pelo Banco Central do Brasil.
+
+          Art.  2º   As  instituições financeiras, nas  operações  de
+financiamento para aquisição de imóvel, devem aplicar ao valor a  ser
+transferido  ao  vendedor do imóvel, desde a data  da  assinatura  do
+respectivo  contrato  até a data da efetiva liberação  dos  recursos,
+remuneração  equivalente à dos depósitos de  poupança,  prevista  nos
+arts.  12  da Lei nº 8.177, de 1º de março de 1991, e 7º  da  Lei  nº
+8.660, de 28 de maio de 1993, pro rata temporis.
+
+          Parágrafo  único.  O valor de que trata o  caput  deve  ser
+mantido  em  conta  de controle da própria instituição,  vinculada  à
+operação, em nome do vendedor, desde a data da assinatura do contrato
+de financiamento até a data da efetiva liberação dos recursos.
+
+         Art. 3º  Os incisos IX e XXV do art. 2º do Regulamento anexo
+à  Resolução nº 3.347, de 8 de fevereiro de 2006, com a redação  dada
+pela  Resolução nº 3.629, de 30 de outubro de 2008, passam a  vigorar
+com a seguinte redação:
+
+          "Art. 2º  .............................................
+
+          IX - os direitos creditórios originados de compromissos
+          ou  contratos  definitivos de compra e venda,  junto  a
+          pessoas físicas, de bens imóveis residenciais novos  ou
+          em construção;
+
+          .......................................................
+
+          XXV  -  os financiamentos de capital de giro, com prazo
+          máximo  de  sessenta  meses,  concedidos,  até  31   de
+          dezembro de 2009, a:
+
+         ................................................." (NR)
+
+          Art.  4º   O  art. 2º do Regulamento anexo à  Resolução  nº
+3.347,  de  2006,  fica acrescido dos incisos XXVI  e  XXVII,  com  a
+seguinte redação:
+
+          "Art. 2º  .............................................
+
+          XXVI  -  os financiamentos para obras de infraestrutura
+          em    loteamentos   urbanos   destinados   a    imóveis
+          residenciais concedidos a:
+
+          a)  incorporações imobiliárias submetidas ao regime  do
+          patrimônio de afetação, de que tratam os arts.  31-A  a
+          31-F da Lei nº 4.591, de 16 de dezembro de 1964, com  a
+          redação  dada  pela Lei nº 10.931, de 2  de  agosto  de
+          2004; ou
+
+          b)  sociedades constituídas com o propósito  específico
+          de administrar riscos, benefícios, haveres e obrigações
+          decorrentes  de  atividade exercida com  o  intuito  de
+          promover e realizar a construção, para alienação  total
+          ou  parcial,  de edificações ou conjunto de edificações
+          compostas de unidades autônomas;
+
+          XXVII  -  os empréstimos contratados, nas condições  do
+          SFH,  para  quitação  de financiamentos  habitacionais,
+          desde   que   garantidos  pela  hipoteca  ou  alienação
+          fiduciária  dos imóveis que foram adquiridos  por  meio
+          desses financiamentos." (NR)
+
+          Art.  5º  O inciso VIII do art. 3º do Regulamento  anexo  à
+Resolução nº 3.347, de 2006, passa a vigorar com a seguinte redação:
+
+          "Art. 3º  .............................................
+
+          VIII   -   os   direitos  creditórios   originados   de
+          compromissos ou contratos definitivos de compra e venda
+          de  bens  imóveis, novos ou em construção, pactuados  a
+          taxas de mercado;
+
+          ................................................. "(NR)
+
+          Art.  6º   O  art. 3º do Regulamento anexo à  Resolução  nº
+3.347, de 2006, fica acrescido do inciso XV, com a seguinte redação:
+
+          "Art. 3º  .............................................
+
+          XV - os empréstimos contratados a taxas de mercado para
+          quitação  de  financiamentos  imobiliários,  desde  que
+          garantidos  pela hipoteca ou alienação  fiduciária  dos
+          imóveis   que   foram  adquiridos   por   meio   desses
+          financiamentos.
+
+          ................................................. "(NR)
+
+          Art.  7º   O  art. 10 do Regulamento anexo à  Resolução  nº
+3.347, de 2006, passa a vigorar com a seguinte redação:
+
+          "Art.  10.  O valor total das operações de que trata  o
+          art.  2º,  incisos XX, XXI e XXVI, não pode exceder  5%
+          (cinco por cento) do limite previsto no art. 1º, inciso
+          I, alínea 'a'." (NR)
+
+         Art. 8º  Os incisos I e II do art. 16 do Regulamento anexo à
+Resolução nº 3.347, de 2006, passam a vigorar com a seguinte redação:
+
+          "Art. 16.  ............................................
+
+          I  -  valor  unitário dos financiamentos, compreendendo
+          principal   e  despesas  acessórias,  não  superior   a
+          R$450.000,00 (quatrocentos e cinquenta mil reais);
+
+          II  -  limite  máximo do valor de avaliação  do  imóvel
+          financiado de R$500.000,00 (quinhentos mil reais);
+
+          ................................................." (NR)
+
+           Art.  9º  O inciso III do parágrafo único do art. 2º  e  o
+inciso  II  do  art. 3º da Resolução nº 3.422, de 30 de  novembro  de
+2006, passam a vigorar com a seguinte redação:
+
+          "Art. 2º  .............................................
+
+          Parágrafo único.  .....................................
+
+          III  - no caso de pessoas físicas e jurídicas referidas
+          nos  incisos  II  e  IV, que não se encontra  em  curso
+          nenhuma  outra  operação da espécie,  bem  como  que  o
+          somatório da operação e do saldo de outras operações de
+          crédito, não ultrapassa R$20.000,00 (vinte mil  reais),
+          excetuando-se  desse  limite as  operações  de  crédito
+          habitacional." (NR)
+
+          "Art. 3º  .............................................
+
+          II - o valor do crédito não pode ser superior a:
+
+          a)  R$2.000,00 (dois mil reais), quando se  tratar  das
+          pessoas físicas referidas no art. 2º, incisos I e III;
+
+          b)  R$5.000,00 (cinco mil reais), quando se  tratar  de
+          microempreendedores referidos no art. 2º, inciso II;
+
+          c)  R$15.000,00 (quinze mil reais), quando se tratar de
+          microcrédito    produtivo   orientado   concedido    em
+          conformidade com o art. 4º;
+
+          ................................................." (NR)
+
+           Art.  10.  O art. 4º da Resolução nº 2.828, de 30 de março
+de 2001, fica acrescido do parágrafo único, com a seguinte redação:
+
+          "Art. 4º  .............................................
+
+          Parágrafo único.  A vedação referida no inciso  IV  não
+          se  aplica  às  operações  de depósito  interfinanceiro
+          vinculado a operações de microfinanças (DIM)." (NR)
+
+          Art.  11.   Esta resolução entra em vigor na  data  de  sua
+publicação.
+
+          Art.  12.   Ficam revogados os arts. 3º e 17 do Regulamento
+anexo  à  Resolução nº 1.980, de 30 de abril de 1993, a Resolução  nº
+2.168,  de  30  de junho de 1995, os arts. 1º, 2º, 3º,  5º  e  6º  da
+Resolução  nº  3.347,  de  8 de fevereiro de 2006, e o inciso XXIV do
+art. 2º do Regulamento anexo à Resolução nº 3.347, de 2006.
+
+                                 Belo Horizonte, 27 de março de 2009.
+
+                    Henrique de Campos Meirelles
+                             Presidente
+```

@@ -1,0 +1,80 @@
+---
+titulo: "Resolução Nº 3.232"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3232"
+data: 2004-08-31
+ementa: "Altera o Regulamento anexo à Resolução 3.121, de 2003, que dispõe sobre as diretrizes pertinentes à aplicação dos recursos dos planos de benefícios das entidades fechadas de previdência complementar."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 3305/2005 DOU 02/08/2005 PAG 15 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 3305/2005", "RESOLUÇÃO 3121/2003"]
+referencias: ["LEI 4595/64 ART/9.", "LEI/COMPLEMENTAR 109/2001 ART/9 PARAG/1.", "ALTERA RESOLUÇÃO CMN 3121/2003 ART/10 ITEM/III (REGULAMENTO).", "ALTERA RESOLUÇÃO CMN 3121/2003 ART/11 ITEM/II (REGULAMENTO)."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3232"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.232
+
+```
+                        RESOLUCAO N. 003232
+                        -------------------
+                                   Altera   o  Regulamento  anexo   à
+                                   Resolução  3.121,  de  2003,   que
+                                   dispõe    sobre   as    diretrizes
+                                   pertinentes   à   aplicação    dos
+                                   recursos  dos planos de benefícios
+                                   das    entidades    fechadas    de
+                                   previdência complementar.
+
+         O BANCO CENTRAL DO BRASIL, na forma do art. 9º da Lei 4.595,
+de  31  de  dezembro de 1964, torna público que o CONSELHO  MONETÁRIO
+NACIONAL, em sessão realizada em 26 de agosto de 2004, tendo em vista
+o  disposto no art. 9º, § 1º, da Lei Complementar 109, de 29 de  maio
+de 2001,
+
+R E S O L V E U:
+
+          Art.  1º   Alterar os arts. 10 e 11 do Regulamento anexo  à
+Resolução 3.121, de 25 de setembro de 2003, que passam a vigorar  com
+a seguinte redação:
+
+         "Art. 10. ..............................................
+
+         III   -  os  certificados  e  os  recibos  de  depósito
+         bancário  e os demais títulos e valores mobiliários  de
+         renda  fixa  de  emissão ou coobrigação de  instituição
+         financeira ou outra instituição autorizada a  funcionar
+         pelo   Banco   Central  do  Brasil  considerada,   pela
+         entidade,  com  base  em  classificação  efetuada   por
+         agência  classificadora de risco  em  funcionamento  no
+         País,  como  de  baixo risco de crédito,  bem  como  as
+         cédulas de produto rural com liquidação financeira  que
+         contem  com  aval de instituição financeira considerada
+         como de baixo risco de crédito;
+
+         ................................................." (NR)
+
+         "Art. 11. .............................................
+
+         II   -   os  certificados  e  os  recibos  de  depósito
+         bancário,  as  cédulas de produto rural com  liquidação
+         financeira   que   contem  com  aval   de   instituição
+         financeira  e os demais títulos e  valores  mobiliários
+         de  renda fixa de emissão ou coobrigação de instituição
+         financeira ou outra instituição autorizada a  funcionar
+         pelo  Banco Central do Brasil não considerada  como  de
+         baixo  risco de crédito, nos termos do art. 10,  inciso
+         III,  ou  que  não tenham sido objeto da  classificação
+         mencionada no mesmo dispositivo;
+
+         ................................................." (NR)
+
+          Art.  2º   Esta  resolução entra em vigor na  data  de  sua
+publicação.
+
+                                Rio de Janeiro, 31 de agosto de 2004.
+
+                                   Henrique de Campos Meirelles
+                                   Presidente
+```

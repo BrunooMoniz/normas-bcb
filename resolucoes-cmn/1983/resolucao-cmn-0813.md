@@ -1,0 +1,114 @@
+---
+titulo: "Resolução Nº 813"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "813"
+data: 1983-04-06
+ementa: "EMPRESTIMOS EXTERNOS - MOEDA ESTRANGEIRA. MANUTENCAO EM DEPOSITOS EM CONTAS ABERTAS PELO BANCO CENTRAL DOS RECURSOS DESEMBOLSADOS POR INSTITUICOES FINANCEIRAS E INGRESSADOS NO PAIS SEM A SIMULTANEA VINCULACAO A MUTUARIOS PREVIAMENTE IDENTIFICADOS. VER VOTO CMN 510/82, VOTO BCB 148/83."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2770/2000 DOU 31/08/2000 PAG 13 (E) - REVOGACAO TOTAL."]
+normas_vinculadas: ["CARTA CIRCULAR 2709/96", "CARTA CIRCULAR 1194/85", "CARTA CIRCULAR 1016/84", "CARTA CIRCULAR 883/83", "CARTA CIRCULAR 866/83", "CIRCULAR 1604/90", "CIRCULAR 804/83", "CIRCULAR 770/83", "CIRCULAR 769/83", "RESOLUÇÃO 2770/2000", "RESOLUÇÃO 1554/88", "RESOLUÇÃO 1541/88", "RESOLUÇÃO 890/83", "CARTA CIRCULAR 1036/1984"]
+referencias: ["LEI 4595/64 ART/4 ITEM/V.", "LEI 4595/64 ART/9.", "CITA RESOLUÇÃO CMN 479/78 497/78 595/80."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=813"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 813
+
+```
+                        RESOLUCAO N. 000813
+                        -------------------
+
+         O  BANCO  CENTRAL DO BRASIL, na forma do art. 9. da  Lei  n.
+4.595,  de 31.12.64, torna público que o CONSELHO MONETÁRIO NACIONAL,
+em sessão realizada nesta data, tendo em vista o disposto no art. 4.,
+inciso V, da mencionada Lei e decisão anteriormente adotada,
+
+R E S O L V E U:
+
+         I   -   Os   recursos  relativos  a  empréstimos   externos,
+desembolsados por instituições financeiras e ingressados no País  sem
+a  simultânea vinculação a mutuários previamente identificados, serão
+mantidos  em depósitos em contas abertas pelo Banco Central  em  nome
+dos respectivos credores e nas mesmas moedas ingressadas.
+
+         II  -  As  parcelas de principal das obrigações de  natureza
+financeira  com  vencimentos fixados para o ano de  1983,  devidas  a
+instituições  financeiras do exterior e decorrentes de operações  com
+prazo  de  pagamento  superior  a 360 (trezentos  e  sessenta)  dias,
+registradas  no  Banco  Central - cujos desembolsos  tenham  ocorrido
+anteriormente   a   1..01.83  -  quando  de   seu   pagamento   pelos
+correspondentes devedores no País, serão, também, objeto de depósitos
+no  Banco Central, em contas em moedas estrangeiras abertas  em  nome
+dos   respectivos  credores  externos,  com  exceção  das   seguintes
+obrigações:
+
+         a)  bônus  de  colocação pública ("Publicly Issued  Bonds"),
+certificados  de  depósitos de colocação pública  a  taxas  de  juros
+flutuantes ("Publicly Issued Floating Rate Certificates of  Deposit")
+ou  obrigações  de  colocação pública a  taxas  de  juros  flutuantes
+("Publicly Issued Floating Rate Notes");
+
+         b) títulos de colocação privada;
+
+         c)  obrigações  junto a governos estrangeiros  ou  entidades
+governamentais  estrangeiras  (incluindo  agências   de   crédito   a
+exportação) ou organismos internacionais;
+
+         d)  obrigações  garantidas ou seguradas em  pelo  menos  75%
+(setenta e cinco por cento) de seu valor de principal por governos ou
+agências governamentais estrangeiras (incluindo agências de crédito a
+exportação);
+
+         e)  obrigações decorrentes de financiamentos garantidos  por
+navios, aeronaves ou equipamentos de perfuração;
+
+         f)  as parcelas de principal cujo valor - antecipadamente  à
+data do respectivo vencimento externo - tenha sido objeto de depósito
+com aplicação de recursos ingressados pelo credor externo.
+
+         III - Além das exceções indicadas no item anterior, excluem-
+se  também da exigência de constituição de depósitos no Banco Central
+os pagamentos correspondentes a:
+
+         a)  obrigações  decorrentes  de  contratos  de  arrendamento
+mercantil de navios, aeronaves ou equipamentos de perfuração;
+
+         b)  obrigações decorrentes de contratos de compra e venda de
+moedas estrangeiras no exterior (arbitragem) e de contratos de compra
+e venda de metais preciosos;
+
+         c) juros de equalização decorrentes do programa FINEX;
+
+         d)   operações  lastreadas  em  "banker's  acceptances"   ou
+"commercial paper's".
+
+         IV  - Os valores registrados nas contas de depósitos de  que
+trata  esta  Resolução poderão ser liberados, por conta e  ordem  dos
+respectivos  titulares, para fins de sua aplicação  em  operações  de
+empréstimos a mutuários no País.
+
+         V  - Correrão por conta dos mutuários de tais empréstimos as
+despesas  de  juros  e  demais encargos devidos  aos  correspondentes
+credores  externos. O Banco Central estabelecerá os  procedimentos  a
+serem  adotados pelos mutuários com vistas ao pagamento dos montantes
+de comissões e outros encargos incidentes sobre as operações.
+
+         VI   -   Os  recursos  dos  depósitos  da  espécie,   quando
+levantados  para  aplicação  em operações  de  empréstimos  no  País,
+ficarão  sujeitos  às  normas  que  regem  os  empréstimos  externos,
+inclusive às disposições das Resoluções n.s 479, de 20.06.78, n. 497,
+de 22.11.78, e n. 595, de 16.01.80.
+
+         VII  -  O  Banco  Central poderá adotar as medidas  julgadas
+necessárias à execução desta Resolução.
+
+         VIII  -  Esta  Resolução entrará em vigor  na  data  de  sua
+publicação.
+
+                             Brasília-DF, 6 de abril de 1983
+
+                             Carlos Geraldo Langoni
+                             Presidente
+```

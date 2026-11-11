@@ -1,0 +1,127 @@
+---
+titulo: "Resolução Nº 3.398"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3398"
+data: 2006-08-29
+ementa: "Dispõe sobre procedimentos aplicáveis aos casos de descumprimento de padrões mínimos de capital e de limites operacionais."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 4019/2011 DOU 03/10/2011 PAG 17/19 - REVOGACAO TOTAL (A PARTIR DE 02/11/2011)."]
+normas_vinculadas: ["RESOLUÇÃO 3444/2007", "RESOLUÇÃO 2099/94", "RESOLUÇÃO 2815/2001", "RESOLUÇÃO 4019/2011"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/VIII ITEM/XI ITEM/XIII.", "LEI 4728/65.", "LEI 4864/65 ART/20 PARAG/1.", "DL 759/69 ART/6.", "LEI 6099/74 7132/83 10194/2001 11110/2005.", "DL 2291/86 ART/7.", "CITA RESOLUÇÃO CMN 2099/94 (ANEXO/IV).", "CITA RESOLUÇÃO CMN 2844/2001 2283/96 2669/99.", "CITA CIRCULAR BCB 2572/95.", "REVOGA RESOLUÇÃO CMN 2099/94 ART/2 ART/3 ART/4.", "REVOGA RESOLUÇÃO CMN 2815/2001."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3398"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.398
+
+```
+                        RESOLUCAO N. 003398
+                        -------------------
+
+                                   Dispõe     sobre     procedimentos
+                                   aplicáveis    aos     casos     de
+                                   descumprimento de padrões  mínimos
+                                   de    capital    e   de    limites
+                                   operacionais.
+
+          O  BANCO  CENTRAL DO BRASIL, na forma do  art.  9º  da  Lei
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  CONSELHO
+MONETÁRIO  NACIONAL, em sessão realizada em 29  de  agosto  de  2006,
+tendo  em vista o disposto no art. 4º, incisos VIII e XI, da referida
+lei,  na Lei 4.728, de 14 de julho de 1965, no art. 20, § 1º, da  Lei
+4.864,  de 29 de novembro de 1965, no art. 6º do Decreto-lei 759,  de
+12 de agosto de 1969, na Lei 6.099, de 12 de setembro de 1974, com as
+alterações introduzidas pela Lei 7.132, de 26 de outubro de 1983,  na
+Lei 10.194, de 14 de fevereiro de 2001, com a alteração dada pela Lei
+11.110, de 25 de abril de 2005, e no art. 7º do Decreto-lei 2.291, de
+21 de novembro de 1986,
+
+R E S O L V E U:
+
+          Art. 1º  A observância dos padrões mínimos de capital,  bem
+como   dos  limites  operacionais  abaixo  especificados  é  condição
+indispensável  para  o funcionamento das instituições  financeiras  e
+demais  instituições autorizadas a funcionar pelo  Banco  Central  do
+Brasil:
+
+          I  -  Patrimônio  Líquido Exigido (PLE),  de  que  trata  o
+Regulamento Anexo IV à Resolução 2.099, de 17 de agosto  de  1994,  e
+alterações posteriores;
+
+          II - exposição por cliente, de que trata a Resolução 2.844,
+de 29 de junho de 2001;
+
+          III  -  aplicação de recursos no Ativo Permanente,  de  que
+trata  a  Resolução  2.283,  de 5 de junho  de  1996,  alterada  pela
+Resolução 2.669, de 25 de novembro de 1999.
+
+          Art. 2º  Constatado o descumprimento dos padrões de capital
+ou  dos  limites  referidos no art. 1º, o  Banco  Central  do  Brasil
+convocará  os representantes legais da instituição e, caso  entendido
+necessário,  seus controladores, para informarem acerca  das  medidas
+que serão adotadas com vistas à regularização da situação.
+
+          §  1º   O  comparecimento  dos  representantes  legais   da
+instituição  ou de seus controladores deverá ocorrer no prazo  máximo
+de  cinco  dias  contados  da  data da  convocação,  que  poderá  ser
+formalizado mediante lavratura de termo específico por parte do Banco
+Central do Brasil.
+
+          § 2º  Deverá ser apresentado ao Banco Central do Brasil, em
+prazo  por ele fixado, não superior a sessenta dias, contado da  data
+da  convocação  referida  no  §  1º  ou  da  lavratura  do  termo  de
+comparecimento,  para  aprovação, plano de regularização  referendado
+pela  diretoria  da instituição e pelo conselho de administração,  se
+houver, contendo as medidas previstas para enquadramento e respectivo
+cronograma de execução, o qual não poderá ser superior a seis  meses,
+prorrogáveis,  a  critério  da  referida  autarquia,  por  mais  dois
+períodos  idênticos, devidamente fundamentadas as razões ao final  de
+cada período.
+
+          § 3º  O auditor independente responsável pela auditoria das
+demonstrações  contábeis da instituição deve  elaborar,  mensalmente,
+relatório de acompanhamento da execução do plano de regularização,  o
+qual deve ficar à disposição do Banco Central do Brasil.
+
+          §  4º  Para efeito do enquadramento nos padrões mínimos  de
+capital  e  nos  limites  operacionais de que trata  esta  resolução,
+admite-se  a  manutenção,  pelo prazo  máximo  de  noventa  dias,  de
+depósito  em  conta vinculada em montante suficiente  para  suprir  a
+deficiência verificada, observado que:
+
+          I  -  será  considerado  como parte  integrante  do  PR  da
+instituição;
+
+          II  -  pode ser realizado em espécie ou em títulos públicos
+federais  aceitos  nas operações de redesconto do  Banco  Central  do
+Brasil;
+
+          III  - deve ser mantido em conta específica de custódia  no
+Banco Central do Brasil;
+
+          IV - somente será liberado mediante autorização expressa do
+Banco Central do Brasil.
+
+          Art.   3º    A   instituição  somente   poderá   distribuir
+resultados,  a  qualquer  título, em montante  superior  aos  limites
+mínimos  previstos em lei ou em seu estatuto, nas  situações  em  que
+essa   distribuição  não  venha  a  comprometer  o  cumprimento   das
+exigências de que trata esta resolução.
+
+          Art.  4º   Esta  resolução entra em vigor na  data  de  sua
+publicação.
+
+          Art.  5º  Ficam revogados os arts. 2º, 3º e 4º da Resolução
+2.099, de 17 de agosto de 1994, e a Resolução 2.815, de 24 de janeiro
+de 2001, passando as citações aos artigos ora revogados constantes de
+normas  editadas  pelo  Banco Central do Brasil  e  o  fundamento  de
+validade  da  Circular 2.572, de 18 de maio de 1995, a  referir-se  a
+esta resolução.
+
+                                      Brasília, 29 de agosto de 2006.
+
+                                   Henrique de Campos Meirelles
+                                   Presidente
+```

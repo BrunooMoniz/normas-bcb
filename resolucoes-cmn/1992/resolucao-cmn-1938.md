@@ -1,0 +1,61 @@
+---
+titulo: "Resolução Nº 1.938"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1938"
+data: 1992-06-30
+ementa: "ESTENDE ÀS PARCELAS DE JUROS DO SETOR PÚBLICO VENCÍVEIS NO PERÍODO DE 01.07.92 A 30.09.92 AS DISPOSIÇÕES DO ITEM II DO ART. 1º DA RESOLUÇÃO Nº 1.838, DE 26.06.91."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CARTA CIRCULAR BCB 2709/96 DOU 31/12/1996 PAG 29108 - CITACAO; ALTERACAO: CNC 1/14/V.", "RESOLUÇÃO CMN 2770/2000 DOU 31/08/2000 PAG 13 (E) - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2770/2000", "RESOLUÇÃO 1838/91", "RESOLUÇÃO 2235/96", "CIRCULAR 2261/92", "CARTA CIRCULAR 2709/96"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/V ITEM/XXXI.", "LEI 4595/64 ART/57.", "ALTERA RESOLUÇÃO CMN 1838/91 ART/1 ITEM/II.", "ALTERA RESOLUÇÃO CMN 1838/91 ART/2."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1938"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.938
+
+```
+                        RESOLUCAO N. 001938
+                        -------------------
+
+                              ESTENDE  ÀS PARCELAS DE JUROS DO  SETOR
+                              PÚBLICO   VENCÍVEIS   NO   PERÍODO   DE
+                              01.07.92  A 30.09.92 AS DISPOSIÇÕES  DO
+                              ITEM  II  DO  ART. 1º DA  RESOLUÇÃO  Nº
+                              1.838, DE 26.06.91.
+
+                    O BANCO CENTRAL DO BRASIL, NA FORMA DO ART. 9º DA
+LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE O CONSELHO MONETÁRIO NA-
+CIONAL, EM SESSÃO REALIZADA EM 30.06.92, COM BASE NOS ARTS. 4º, INCI-
+SOS V E XXXI, E 57 DA MENCIONADA LEI,
+
+R E S O L V E U:
+
+                    ART.  1º. INCLUIR  NAS  DISPOSIÇÕES  DO  ART. 1º,
+ITEM  II, DA RESOLUÇÃO Nº 1.838, DE 26.06.91, O VALOR DAS PARCELAS DE
+JUROS ALI DEFINIDOS, VENCÍVEIS NO PERÍODO DE 01.07.92 A 30.09.92.
+
+                    PARÁGRAFO  ÚNICO. O DISPOSTO NESTE ARTIGO APLICA-
+SE,  TAMBÉM, AO VALOR DOS JUROS RELATIVOS AOS RECURSOS DE QUE TRATA O
+ART. 2º DA REFERIDA RESOLUÇÃO Nº 1.838, DE 26.06.91.
+
+                    ART.  2º. ESCLARECER  QUE PERMANECEM  INALTERADAS
+AS DEMAIS DISPOSIÇÕES DA RESOLUÇÃO Nº 1.838, DE 26.06.91.
+
+                    ART.  3º. AUTORIZAR  O BANCO CENTRAL DO BRASIL A,
+NO  CONTEXTO DA APROVAÇÃO PELO SENADO FEDERAL DO ACORDO DE REESTRUTU-
+RAÇÃO DA DÍVIDA EXTERNA DE  MÉDIO E LONGO PRAZOS DO SETOR PÚBLICO PA-
+RA COM CREDORES PRIVADOS INTERNACIONAIS, REVER O PERCENTUAL MENCIONA-
+DO NO ART. 1º, ITEM II, DA RESOLUÇÃO Nº 1.838, DE 26.06.91, OBSERVADO
+O LIMITE MÁXIMO DE 50% (CINQÜENTA POR CENTO).
+
+                    ART. 4º. ESTA RESOLUÇÃO ENTRA EM  VIGOR  NA  DATA
+DE SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 30 DE JUNHO DE 1992
+
+                              FRANCISCO ROBERTO ANDRÉ GROS
+                              PRESIDENTE
+```

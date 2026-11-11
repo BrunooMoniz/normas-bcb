@@ -1,0 +1,61 @@
+---
+titulo: "Resolução Nº 1.239"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1239"
+data: 1986-12-30
+ementa: "IMPOSTO SOBRE OPERACOES DE CREDITO CAMBIO E SEGURO, E SOBRE OPERACOES RELATIVAS A TITULOS E VALORES MOBILIARIOS (IOF) - REDUCAO PARA OS PERCENTUAIS EM VIGOR NA DATA DE 31/12/86, DAS ALIQUOTAS INCIDENTES SOBRE AS OPERACOES DE CAMBIO LIQUIDADAS A PARTIR DE 01/07/87, VINCULADAS A IMPORTACOES DE BENS E SERVICOS, EXCETUADAS AS REFERENTES A IMPORTACAO DE PETROLEO BRUTO E SEUS DERIVADOS, DE QUE TRATA A RESOLUCAO 1238, DE 30/12/86."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 1301/87 DOU 08/04/1987 PAG 5016 - REVOGACAO TOTAL A PARTIR DE 01/05/1987.", "CARTA CIRCULAR BCB 2013/89 DOU 27/10/1989 PAG 19511 - ALTERACAO DO MNI."]
+normas_vinculadas: ["RESOLUÇÃO 1301/87", "CARTA CIRCULAR 2013/89"]
+referencias: ["LEI 4595/64 ART/9.", "DEC 83323/79 ART/1 PARAG/2.", "LEI 5143/66 5172/66.", "DL 1783/80 1844/80 2303/86.", "CITA RESOLUÇÃO CMN 816/83."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1239"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.239
+
+```
+                        RESOLUCAO N. 001239
+                        -------------------
+
+         O  BANCO  CENTRAL DO BRASIL, na forma do art. 9. da  Lei  n.
+4.595,  de  31.12.64,  torna público que  o  Presidente  do  CONSELHO
+MONETÁRIO  NACIONAL,  por  ato de 23.12.86,  com  base  no  art.  1.,
+Parágrafo  2., do Decreto n. 83.323, de 11.04.79, com a  redação  que
+lhe  foi  dada  pelo art. 1. do Decreto n. 85.776, de  26.02.81,  "ad
+referendum"  daquele Conselho, e tendo em vista o disposto  nas  Leis
+n.s 5.143, de 20.10.66, e 5.172, de 25.10.66, e nos Decretos-leis n.s
+1.783, de 18.04.80, 1.844, de 30.12.80, e 2.303, de21.11.86,
+
+R E S O L V E U:
+
+         I  -  Reduzir  para  os  percentuais em  vigor  na  data  de
+31.12.86 as alíquotas do Imposto sobre Operações de Crédito, Câmbio e
+Seguro,  e  sobre Operações relativas a Títulos e Valores Mobiliários
+(IOF) - de que tratam o mencionado Decreto-lei n. 1.783, de 18.04.80,
+e  a Resolução n. 816, de 06.04.83 - incidente sobre as operações  de
+câmbio  liquidadas a partir de 01.01.87, vinculadas a importações  de
+bens  e  serviços,  excetuadas aquelas  referentes  à  importação  de
+petróleo  bruto e seus derivados, de que trata a Resolução n.  1.238,
+de 30.12.86.
+
+         II  -  A  redução  de que trata o item I  será  mantida  nos
+exatos  termos,  limites  e condições e pelos  prazos  previstos  nas
+respectivas  Resoluções, atos legais e regulamentares que  concederam
+tratamento  excepcional,  vigorando,  após  o  término  do  prazo  do
+benefício,  a  alíquota  de 25% (vinte e cinco  por  cento)  para  as
+referidas operações.
+
+         III  -  O  Banco  Central poderá adotar as medidas  julgadas
+necessárias à execução desta Resolução.
+
+         IV  -  Esta  Resolução  entrará em  vigor  na  data  de  sua
+publicação.
+
+                             Brasília-DF, 30 de dezembro de 1986
+
+                             Fernão Carlos Botelho Bracher
+                             Presidente
+```

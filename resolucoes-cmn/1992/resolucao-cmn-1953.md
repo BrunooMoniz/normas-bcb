@@ -1,0 +1,56 @@
+---
+titulo: "Resolução Nº 1.953"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1953"
+data: 1992-08-07
+ementa: "ESTABELECE ENCARGOS FINANCEIROS PARA OPERAÇÕES DE CRÉDITO RURAL FORMALIZADAS COM MINIPRODUTORES AO AMPARO DE RECURSOS DAS OPERAÇÕES OFICIAIS DE CRÉDITO."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2535/98 DOU 27/08/1998 PAG 31 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2535/98"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 8056/90 ART/2 PARAG/2.", "LEI 8392/91.", "LEI 4595/64 ART/4 ITEM/VI.", "LEI 4829/65 ART/4 ART/14.", "CITA RESOLUÇÃO CMN 1937/92."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1953"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.953
+
+```
+                        RESOLUCAO N. 001953
+                        -------------------
+
+                              ESTABELECE  ENCARGOS  FINANCEIROS  PARA
+                              OPERAÇÕES DE CRÉDITO RURAL FORMALIZADAS
+                              COM  MINIPRODUTORES AO AMPARO DE RECUR-
+                              SOS DAS OPERAÇÕES OFICIAIS DE CRÉDITO.
+
+                    O BANCO CENTRAL DO BRASIL, NA FORMA DO ART. 9º DA
+LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE O PRESIDENTE DO CONSELHO
+MONETÁRIO  NACIONAL, POR ATO DE 07.08.92, COM BASE NO PARÁGRAFO 2º DO
+ART. 2º DA LEI Nº 8.056, DE 28.06.90, E NA LEI Nº 8.392, DE 30.12.91,
+"AD  REFERENDUM" DAQUELE CONSELHO, E TENDO EM VISTA AS DISPOSIÇÕES DO
+ART. 4º, INCISO VI, DA CITADA LEI Nº 4.595 E DOS ARTS. 4º E 14 DA LEI
+Nº 4.829, DE 05.11.65,
+
+R E S O L V E U:
+
+                    ART.  1º. OS FINANCIAMENTOS DE CRÉDITO RURAL FOR-
+MALIZADOS  COM  MINIPRODUTORES, AO AMPARO DE RECURSOS  DAS  OPERAÇÕES
+OFICIAIS  DE CRÉDITO, FICAM SUJEITOS, NO SEGUNDO SEMESTRE DE 1992,  À
+TAXA  REFERENCIAL DIÁRIA (TRD) ACRESCIDA DA TAXA EFETIVA DE JUROS  DE
+6%  A.A. (SEIS POR CENTO AO ANO), SEM PREJUÍZO DAS DISPOSIÇÕES DA RE-
+SOLUÇÃO Nº 1.937, DE 30.06.92.
+
+                    ART.  2º. FICA DELEGADA COMPETÊNCIA AO BANCO CEN-
+TRAL  DO BRASIL PARA ADOTAR AS MEDIDAS E BAIXAR AS NORMAS NECESSÁRIAS
+À EXECUÇÃO DESTA RESOLUÇÃO.
+
+                    ART.  3º. ESTA  RESOLUÇÃO  ENTRA EM VIGOR NA DATA
+DE SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 7 DE AGOSTO DE 1992
+
+                              FRANCISCO ROBERTO ANDRÉ GROS
+                              PRESIDENTE
+```

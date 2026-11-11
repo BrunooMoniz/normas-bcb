@@ -1,0 +1,96 @@
+---
+titulo: "Resolução Nº 2.071"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "2071"
+data: 1994-05-06
+ementa: "Dispõe sobre a utilização da URV em depósitos interfinanceiros e faculta o uso de taxas flutuantes em operações contratadas em URV."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2099/94 DOU 18/08/1994 PAG 12481 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2099/94", "RESOLUÇÃO 2066/94", "CARTA CIRCULAR 2465/94"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 8646/93 ART/1 PARAG/2.", "MP 482/94 ART/16.", "CITA RESOLUÇÃO CMN 1647/89 1143/86.", "CITA CIRCULAR BCB 2190/92 2279/93.", "CITA RESOLUÇÃO CMN 2066/94 ART/1.", "ALTERA RESOLUÇÃO CMN 2066/94 ART/4."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=2071"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 2.071
+
+```
+                        RESOLUCAO N. 002071
+                        -------------------
+
+                              Dispõe sobre a utilização da URV em de-
+                              pósitos  interfinanceiros  e faculta  o
+                              uso  de  taxas flutuantes em  operações
+                              contratadas em URV.
+
+               O  BANCO CENTRAL DO BRASIL, na forma do art. 9º da Lei
+nº 4.595, de 31.12.64, torna público que o Presidente do CONSELHO MO-
+NETÁRIO NACIONAL, por ato de 05.05.94, com base no  art. 1º, parágra-
+fo  2º, da Lei nº 8.646, de 07.04.93, "ad referendum" daquele  Conse-
+lho, tendo em vista o disposto no art. 16, parágrafo único, da Medida
+Provisória nº 482, de 28.04.94,
+
+R E S O L V E U:
+
+               Art.  1º  Facultar  a  contratação, em Unidade Real de
+Valor  - URV, de depósitos interfinanceiros de que tratam a Resolução
+nº  1.647,  de  18.10.89, e as Circulares nºs 2.190, de  26.06.92,  e
+2.279, de 16.02.93, observados os seguintes prazos mínimos:
+
+               I  - 1 (um) dia, quando  recebidos por instituição fi-
+nanceira;
+
+              II  - 30 (trinta) dias, quando recebidos por sociedades
+de arrendamento mercantil.
+
+               Art.  2º  As  operações de captação e aplicação de re-
+cursos  relacionadas  no art. 1º da Resolução nº 2.066, de  22.04.94,
+poderão  ser contratadas com remuneração calculada com base em  taxas
+de juros flutuantes nos termos da Resolução nº 1.143, de 26.06.86.
+
+               Parágrafo  1º  O  prazo mínimo  das  operações de  que
+trata  este artigo é de 90 (noventa) dias, admitindo-se que os perío-
+dos  de reajuste da taxa referencial ocorram em intervalos não  infe-
+riores a 30 (trinta) dias.
+
+               Parágrafo 2º  A  taxa referencial a que se refere este
+artigo deverá:
+
+               I  - ser  regularmente calculada e de conhecimento pú-
+blico;
+
+              II - se basear em operações contratadas em URV, a prazo
+não inferior ao período de reajuste estipulado contratualmente.
+
+               Art.  3º  Fica alterado  o  art.  4º  da  Resolução nº
+2.066, de 22.04.94, que passa a vigorar com a seguinte redação:
+
+     "Art.  4º  São  vedadas, no que se refere às operações contrata-
+     das em URV:
+
+     I - remuneração com base na Taxa Referencial (TR);
+
+    II - cláusula   de  reajuste de valores por índice de preços, ex-
+         ceto quando a periodicidade do reajuste for anual;
+
+   III - previsão  contratual de mais de uma base de remuneração, ex-
+         ceto na hipótese de extinção daquela estabelecida;
+
+    IV - colocação,   pela  emissora ou por empresa a ela ligada,  de
+         títulos  com prazo a decorrer inferior ao prazo mínimo esta-
+         belecido no art. 1º desta Resolução."
+
+               Art.  4º  O  Banco  Central do Brasil poderá baixar as
+normas e adotar as medidas julgadas necessárias à execução do dispos-
+to nesta Resolução.
+
+               Art.  5.  Esta Resolução entra em vigor na data de sua
+publicação.
+
+                              Brasília, 06 de maio de 1994
+
+                              Pedro Sampaio Malan
+                              Presidente
+```

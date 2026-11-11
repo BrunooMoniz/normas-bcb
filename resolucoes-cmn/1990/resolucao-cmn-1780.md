@@ -1,0 +1,91 @@
+---
+titulo: "Resolução Nº 1.780"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1780"
+data: 1990-12-21
+ementa: "Cria os Bônus do Banco Central do Brasil (BBC), para fins de execução da política monetária."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Resolução CMN nº 4.962/2021 - Revogação total, a partir de 1º/11/2021."]
+normas_vinculadas: ["RESOLUÇÃO CMN 4962/2021", "CARTA CIRCULAR 2140/1991", "CIRCULAR 2437/1994", "CIRCULAR 1876/1990"]
+referencias: ["Lei nº 4.595/1964, arts. 9º e 11, inciso V.", "Lei nº 8.056/1990, art. 2º, § 2º.", "Cita Lei nº 4.728/1965."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1780"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.780
+
+```
+                        RESOLUCAO N. 001780
+                        -------------------
+
+                                   CRIA  OS BÔNUS DO BANCO CENTRAL DO
+                                   BRASIL  (BBC), PARA FINS DE EXECU-
+                                   ÇÃO DA POLÍTICA MONETÁRIA.
+
+                    O BANCO CENTRAL DO BRASIL, NA FORMA DO ART. 9º DA
+LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE A PRESIDENTE DO CONSELHO
+MONETÁRIO NACIONAL, POR ATO DE  21.12.90, COM BASE NO PARÁGRAFO 2º DO
+ART.  2º DA LEI Nº 8.056, DE 28.06.90, "AD REFERENDUM" DAQUELE  COLE-
+GIADO,  E TENDO EM VISTA O DISPOSTO NO ART. 11, INCISO V, DA REFERIDA
+LEI Nº 4.595,
+
+R E S O L V E U:
+
+                    ART.  1º. AUTORIZAR O BANCO CENTRAL  DO  BRASIL A
+EMITIR TÍTULOS DE SUA RESPONSABILIDADE, PARA FINS DE POLÍTICA MONETÁ-
+RIA, COM AS SEGUINTES CARACTERÍSTICAS:
+
+                    I  - DENOMINAÇÃO:  BÔNUS DO BANCO CENTRAL DO BRA-
+SIL (BBC);
+
+                   II  - VALOR NOMINAL: MÚLTIPLO DE CR$ 1.000,00 (MIL
+CRUZEIROS);
+
+                  III - PRAZO:  MÍNIMO DE 28 (VINTE E OITO) DIAS;
+
+                   IV - MODALIDADE:  NOMINATIVA;
+
+                    V  - FORMA DE COLOCAÇÃO:  OFERTAS PÚBLICAS, CUJAS
+CONDIÇÕES SERÃO DIVULGADAS PELO BANCO CENTRAL DO BRASIL;
+
+                   VI  - DESCONTO: REPRESENTADO  PELA  DIFERENÇA,  EM
+MOEDA CORRENTE, ENTRE O PREÇO DE COLOCAÇÃO PELO BANCO CENTRAL DO BRA-
+SIL E O VALOR NOMINAL DE RESGATE;
+
+                  VII - RESGATE:  PELO VALOR NOMINAL, NO VENCIMENTO.
+
+                    ART.  2º. OS BBC  PREVISTOS  NESTA  RESOLUÇÃO NÃO
+RENDERÃO JUROS E SUA EMISSÃO PROCESSAR-SE-Á EXCLUSIVAMENTE SOB A FOR-
+MA  ESCRITURAL,  MEDIANTE REGISTRO DOS RESPECTIVOS DIREITOS  CREDITÓ-
+RIOS,  BEM  ASSIM DAS CESSÕES DESSES DIREITOS NO SISTEMA ESPECIAL  DE
+LIQUIDAÇÃO  E  CUSTÓDIA (SELIC), ADMINISTRADO PELO BANCO  CENTRAL  DO
+BRASIL.
+
+                    ART.  3º. A NEGOCIAÇÃO  DOS BBC FAR-SE-Á FORA DAS
+BOLSAS DE VALORES, NO MERCADO ABERTO, ATRAVÉS DE INSTITUIÇÕES AUTORI-
+ZADAS  A  OPERAR NOS MERCADOS FINANCEIRO E DE CAPITAIS, NA FORMA  DAS
+LEIS Nº 4.595, DE 31.12.64, E Nº 4.728, DE 14.07.65.
+
+                    ART.  4º. AS TRANSFERÊNCIAS DOS BBC SERÃO PROCES-
+SADAS,  EXCLUSIVAMENTE, ATRAVÉS DO REGISTRO DAS NEGOCIAÇÕES RESPECTI-
+VAS NO SELIC.
+
+                    ART.  5º. O RESGATE DOS BBC SERÁ PROCESSADO AUTO-
+MATICAMENTE  PELO BANCO CENTRAL DO BRASIL, MEDIANTE CRÉDITO DOS VALO-
+RES RESPECTIVOS NAS CONTAS DE SEUS TITULARES MANTIDAS NO SELIC.
+
+                    ART.  6º. O BANCO CENTRAL DO BRASIL PODERÁ BAIXAR
+AS  NORMAS JULGADAS NECESSÁRIAS À EXECUÇÃO DESTA RESOLUÇÃO, BEM  COMO
+ALTERAR  O  VALOR NOMINAL E O PRAZO PREVISTOS NOS ITENS II E  III  DO
+ART. 1º DESTA RESOLUÇÃO.
+
+                    ART.  7º. ESTA RESOLUÇÃO ENTRARÁ EM VIGOR NA DATA
+DE SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 21 DE DEZEMBRO DE 1990.
+
+                              IBRAHIM ERIS
+                              PRESIDENTE
+```

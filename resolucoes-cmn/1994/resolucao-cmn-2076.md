@@ -1,0 +1,76 @@
+---
+titulo: "Resolução Nº 2.076"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "2076"
+data: 1994-06-01
+ementa: "Dispõe sobre expediente especial para atendimento ao público nos dias 01, 02 e 03.07.94."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2551/98 DOU 25/09/1998 PAG 51 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2551/98", "CIRCULAR 2433/94", "CIRCULAR 2471/94", "CIRCULAR 2427/94", "CIRCULAR 2453/94", "CIRCULAR 2429/94"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 8646/93 ART/1 PARAG/2.", "LEI 4595/64 ART/4 ITEM/VIII."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=2076"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 2.076
+
+```
+                        RESOLUCAO N. 002076
+                        -------------------
+
+                              Dispõe  sobre expediente especial  para
+                              atendimento  ao público nos dias 01, 02
+                              e 03.07.94.
+
+               O  BANCO CENTRAL DO BRASIL, na forma do art. 9º da Lei
+nº 4.595, de 31.12.64, torna público que o Presidente do CONSELHO MO-
+NETÁRIO NACIONAL, por ato de 01.06.94, com base no art. 1º, parágrafo
+2º,  da Lei nº 8.646, de 07.04.93, "ad referendum" daquele  Conselho,
+tendo em vista o disposto no art. 4º, inciso VIII, da referida Lei nº
+4.595/64,
+
+R E S O L V E U:
+
+               Art.  1º  Os  bancos  múltiplos  com  carteira  comer-
+cial,  bancos comerciais, caixas econômicas e cooperativas de crédito
+funcionarão  em expediente especial para atendimento ao público,  nos
+dias  01, 02 e 03.07.94, com a finalidade exclusiva de efetuar  troca
+de moedas e cédulas de cruzeiro real pela unidade monetária real, ob-
+servado que clientes e não clientes deverão receber o mesmo tratamen-
+to.
+
+               Parágrafo  1º  No dia  01.07.94,  haverá   acolhimento
+de  saques,  desde que até o limite de R$100,00 (cem reais),  median-
+te  utilização de cartão magnético ou de cheque na agência do emiten-
+te.
+
+               Parágrafo  2º   O  expediente  nos  dias   mencionados
+observará o seguinte:
+
+               I  - no dia  01.07.94, o horário previsto para a praça
+nos dias úteis, acrescido em 01 (uma) hora;
+
+              II  - no dia  02.07.94, o horário previsto para a praça
+nos dias úteis;
+
+             III  - no dia  03.07.94,  horário de  09 às 12h, hora de
+Brasília.
+
+               Parágrafo  3º  Não   haverá  expediente  para  o   pú-
+blico  nas demais instituições  autorizadas  a  funcionar pelo  Banco
+Central do Brasil.
+
+               Art.  2º  O  Banco  Central do  Brasil  poderá  baixar
+as normas e adotar as medidas julgadas necessárias à execução do dis-
+posto nesta Resolução.
+
+               Art.  3º  Esta  Resolução  entra em  vigor  na data de
+sua publicação.
+
+                    Brasília, 01 de junho de 1994
+
+                    Pedro Sampaio Malan
+                    Presidente
+```

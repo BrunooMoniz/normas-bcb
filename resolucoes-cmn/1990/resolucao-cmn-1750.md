@@ -1,0 +1,65 @@
+---
+titulo: "Resolução Nº 1.750"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1750"
+data: 1990-09-20
+ementa: "Altera condições para o registro das letras do Banco Central do Brasil (LBC) em sistemas de custódia centralizada."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Resolução CMN nº 2.675/1999 DOU 23/12/1999, p. (E) - Revogação: Art. 3º.", "Resolução CMN nº 4.367/2014 - Revogação total."]
+normas_vinculadas: ["RESOLUÇÃO 1088/1986", "RESOLUÇÃO 1693/1990", "RESOLUÇÃO 2482/1998", "RESOLUÇÃO 2462/1998", "RESOLUÇÃO 2636/1999", "RESOLUÇÃO 2675/1999", "RESOLUÇÃO 4367/2014", "CIRCULAR 1819/1990", "CIRCULAR 2034/1991"]
+referencias: ["Lei nº 4.595/1964, art. 9º; art. 11, V.", "Lei nº 8.056/1990, art. 2º, § 2º.", "Cita Resolução CMN nº 1.088/1986.", "Cita Resolução CMN nº 1.693/1990."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1750"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.750
+
+```
+                        RESOLUCAO N. 001750
+                        -------------------
+
+                            ALTERA  CONDIÇÕES PARA O REGISTRO DAS LE-
+                            TRAS  DO BANCO CENTRAL DO BRASIL (LBC) EM
+                            SISTEMAS DE CUSTÓDIA CENTRALIZADA.
+
+                    O BANCO CENTRAL DO BRASIL, NA FORMA DO ART. 9º DA
+LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE A PRESIDENTE DO CONSELHO
+MONETÁRIO  NACIONAL, POR ATO DE 20.09.90, COM BASE NO PARÁGRAFO 2º DO
+ART. 2º DA LEI Nº 8.056, DE 28.06.90, "AD REFERENDUM" DAQUELE  CONSE-
+LHO, E TENDO EM VISTA O DISPOSTO NO ART. 11, INCISO V, DA  MENCIONADA
+LEI Nº 4.595,
+
+R E S O L V E U:
+
+                    ART.  1º. DETERMINAR QUE  AS LETRAS DO BANCO CEN-
+TRAL  DO BRASIL (LBC), CUJA EMISSÃO FOI AUTORIZADA PELA RESOLUÇÃO  Nº
+1.693,  DE 26.03.90, E EMITIDAS A PARTIR DE 16.09.90, TENHAM TODOS OS
+SEUS REGISTROS, INCLUSIVE TRANSFERÊNCIAS E CRÉDITOS REFERENTES A REN-
+DIMENTOS E RESGATE DO PRINCIPAL, EFETUADOS NO SISTEMA ESPECIAL DE LI-
+QUIDAÇÃO E DE CUSTÓDIA (SELIC).
+
+                    ART.  2º. DELEGAR COMPETÊNCIA AO BANCO CENTRAL DO
+BRASIL  PARA ESTABELECER CRITÉRIOS PARA EFETIVAÇÃO DE TRANSFERÊNCIAS,
+PARA  AQUELE SISTEMA, DAS LETRAS DO BANCO CENTRAL DO BRASIL (LBC) RE-
+GISTRADAS  NO SISTEMA DE REGISTRO E DE LIQUIDAÇÃO FINANCEIRA DE TÍTU-
+LOS.
+
+                    ART.  3º. ESTABELECER QUE, PARA EFEITO DE CUMPRI-
+MENTO DAS DISPOSIÇÕES CONTIDAS NA RESOLUÇÃO Nº 1.088, DE 30.01.86, AS
+LETRAS DO BANCO CENTRAL DO BRASIL (LBC), COM REGISTRO NO SELIC, EQUI-
+PARAM-SE ÀS LETRAS FINANCEIRAS DO TESOURO NACIONAL (LFT).
+
+                    ART.  4º. AUTORIZAR  O  BANCO CENTRAL DO BRASIL A
+BAIXAR AS NORMAS JULGADAS NECESSÁRIAS À EXECUÇÃO DESTA RESOLUÇÃO.
+
+                    ART.  5º. DETERMINAR  QUE ESTA RESOLUÇÃO ENTRA EM
+VIGOR  NA DATA DE SUA PUBLICAÇÃO, PRODUZINDO EFEITOS DESDE  16.09.90,
+REVOGADAS AS DISPOSIÇÕES EM CONTRÁRIO.
+
+                              BRASÍLIA (DF), 20 DE SETEMBRO DE 1990
+
+                              IBRAHIM ERIS
+                              PRESIDENTE
+```

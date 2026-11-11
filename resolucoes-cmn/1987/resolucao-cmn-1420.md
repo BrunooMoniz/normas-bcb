@@ -1,0 +1,47 @@
+---
+titulo: "Resolução Nº 1.420"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1420"
+data: 1987-11-25
+ementa: "SISTEMA FINANCEIRO DA HABITACAO (SFN) - PRORROGA PARA 30/11/88 O PRAZO PARA CONCESSAO DO ABATIMENTO NO SALDO DEVEDOR DOS MUTUARIOS QUE LIQUIDAREM ANTECIPADAMENTE OS CONTRATOS DE FINANCIAMENTO, PREVISTOS NO DECRETO-LEI 2291, DE 21/11/86 - ESCLARECE QUE REFERIDO INCENTIVO ESTA SENDO OBJETO DE ESTUDO DO GRUPO DE TRABALHO CRIADO PELA PORTARIA 186, DE 06/11/87, DO MINISTRO DE ESTADO DA HABITACAO, URBANISMO E MEIO AMBIENTE - ALTERACAO DA RESOLUCAO 1218, DE 24/11/86. VER VOTO CMN 414/86."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 1448/88 DOU 06/01/1988 PAG 279 - REVOGACAO TOTAL, A PARTIR DE 06/01/1988."]
+normas_vinculadas: ["RESOLUÇÃO 1218/86", "RESOLUÇÃO 1448/88"]
+referencias: ["LEI 4595/64 ART/9.", "DL 2291/86 ART/7 ART/9.", "DEC 94303/87 ART/2.", "ALTERA RESOLUÇÃO CMN 1218/86 ITEM/V."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1420"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.420
+
+```
+                        RESOLUCAO N. 001420
+                        -------------------
+
+         O  BANCO  CENTRAL DO BRASIL, na forma do art. 9. da  Lei  n.
+4.595,  de  31.12.64,  torna público que  o  Presidente  do  CONSELHO
+MONETÁRIO  NACIONAL, por ato de 23.11.87, com  base  no  art.  2.  do
+Decreto  n.  94.303, de 01.05.87, "ad referendum"  daquele  Conselho,
+tendo  em vista o disposto nos arts. 7. e 9. do Decreto-lei n. 2.291,
+de 21.11.86,
+
+R E S O L V E U:
+
+         I  -  Alterar  o item V da Resolução n. 1.218, de  24.11.86,
+que passa a vigorar com a seguinte redação:
+
+         "V  -  Os  mutuários terão prazo até 30 de novembro de  1988
+     para  efetuar liquidações ou transferências de saldos  devedores
+     de  seus  contratos  com direito ao desconto na  forma  prevista
+     nesta Resolução.".
+
+         II  -  Esta  Resolução  entrará em  vigor  na  data  de  sua
+publicação.
+
+                             Brasília-DF, 25 de novembro de 1987
+
+                             Fernando Milliet de Oliveira
+                             Presidente
+```

@@ -1,0 +1,130 @@
+---
+titulo: "Resolução Nº 3.304"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3304"
+data: 2005-07-29
+ementa: "Altera o direcionamento de recursos captados em depósitos de poupança pelas entidades integrantes do Sistema Brasileiro de Poupança e Empréstimo (SBPE)."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 3347/2006 DOU 10/02/2006 PAG 22 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 3005/2002", "RESOLUÇÃO 3347/2006", "CARTA CIRCULAR 3208/2005", "CARTA CIRCULAR 3202/2005"]
+referencias: ["LEI 4595/64 ART/9.", "DL 2291/86 ART/7.", "DL 10150/2000 ART/28.", "CITA RESOLUÇÃO CMN 3005/2002 ART/1 ITEM/I AL/A (REGULAMENTO).", "CITA RESOLUÇÃO CMN 3005/2002 ART/15 (REGULAMENTO).", "CITA RESOLUÇÃO CMN 3005/2002 ART/4 PARAG/1 (REGULAMENTO).", "CITA RESOLUÇÃO CMN 3259/2005 3280/2005.", "ALTERA RESOLUÇÃO CMN 3005/2002 ART/9-A PARAG/5 PARAG/6 PARAG/7(REGULAMENTO)."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3304"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.304
+
+```
+                        RESOLUCAO N. 003304
+                        -------------------
+
+                                   Altera    o   direcionamento    de
+                                   recursos captados em depósitos  de
+                                   poupança      pelas      entidades
+                                   integrantes do Sistema  Brasileiro
+                                   de Poupança e Empréstimo (SBPE).
+
+           O  BANCO  CENTRAL DO BRASIL, na forma do art.  9º  da  Lei
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  CONSELHO
+MONETÁRIO  NACIONAL, em sessão realizada em 28 de julho de 2005,  com
+base no disposto nos arts. 7º do Decreto-lei 2.291, de 21 de novembro
+de 1986, e 28 da Lei 10.150, de 21 de dezembro de 2000,
+
+R E S O L V E U:
+
+         Art.  1º   Estabelecer  que  as  entidades  integrantes   do
+Sistema  Brasileiro de Poupança e Empréstimo (SBPE) que não cumprirem
+a  exigibilidade  estabelecida no art. 1º, inciso I,  do  Regulamento
+anexo à Resolução 3.005, de 30 de julho de 2002, no terceiro e quarto
+trimestres  de 2005, ficam dispensadas do cumprimento do disposto  no
+art.   15   do  mencionado  regulamento,  desde   que  o  valor   dos
+financiamentos  para aquisição e produção de imóveis,  concedidos  em
+cada  um  desses  trimestres,  seja  superior  em,  no  mínimo,   50%
+(cinqüenta  por  cento) aos valores concedidos em  igual  período  de
+2004.
+
+         §  1º   O  cumprimento do percentual estabelecido  no  caput
+deve ser verificado da seguinte forma:
+
+          I - em julho de 2005, devem ser considerados os valores dos
+financiamentos  concedidos no mês de julho de  2005  em  relação  aos
+concedidos no mês de julho de 2004;
+
+          II  -  em agosto de 2005, devem ser considerados os valores
+dos financiamentos concedidos nos meses de julho e agosto de 2005  em
+relação aos concedidos nos meses de julho e agosto 2004;
+
+         III - em setembro de 2005, devem ser considerados os valores
+dos  financiamentos concedidos nos meses de julho, agosto e  setembro
+de  2005  em  relação  aos concedidos nos meses de  julho,  agosto  e
+setembro de 2004;
+
+          IV  - em outubro de 2005, devem ser considerados os valores
+dos  financiamentos concedidos no mês de outubro de 2005  em  relação
+aos concedidos no mês de outubro de 2004;
+
+          V  - em novembro de 2005, devem ser considerados os valores
+dos financiamentos concedidos nos meses de outubro e novembro de 2005
+em relação aos concedidos nos meses de outubro e novembro de 2004; e
+
+          VI - em dezembro de 2005, devem ser considerados os valores
+dos  financiamentos  concedidos nos  meses  de  outubro,  novembro  e
+dezembro  de  2005  em relação aos concedidos nos meses  de  outubro,
+novembro e dezembro de 2004.
+
+          §  2º  O saldo das aplicações em depósitos interfinanceiros
+imobiliários com lastro em financiamentos para aquisição  e  produção
+de  imóveis  poderá  ser adicionado ao valor dos financiamentos  para
+aquisição  e produção de imóveis de que trata o caput para efeito  de
+cumprimento do percentual ali mencionado, observado que o  valor  das
+aplicações que tenham como lastro financiamentos concedidos antes  de
+1º  de  abril de 2005 está limitado a 1% (um por cento) do percentual
+previsto  no  art. 1º, inciso I, alínea "a", do Regulamento  anexo  à
+Resolução 3.005, de 2002, sem prejuízo do disposto no art. 4º, §  1º,
+daquele regulamento, com a redação dada pela Resolução 3.259,  de  28
+de janeiro de 2005.
+
+         Art. 2º  Fixar em 36 meses o prazo mínimo para a vigência da
+redução da taxa de juros de financiamentos habitacionais, nos  termos
+do  art. 9º-A do Regulamento anexo à Resolução 3.005, de 2002, com  a
+redação dada pelas Resoluções 3.259, de 2005, e 3.280, de 29 de abril
+de 2005.
+
+         §  1º   Na hipótese de repactuação ou prorrogação da redução
+de  que trata o caput, a taxa respectiva deve viger por igual período
+mínimo de 36 meses, observado o fator de multiplicação estabelecido à
+época.
+
+         § 2º  As condições de que trata este artigo devem constar do
+instrumento contratual do financiamento habitacional.
+
+         Art.  3º   Em  conseqüência, fica alterado o  art.  9º-A  do
+Regulamento  anexo  à Resolução 3.005, de 2002, com  a  redação  dada
+pelas  Resoluções 3.259 e 3.280, ambas de 2005, que passa  a  vigorar
+com a seguinte redação:
+
+          "Art.9º-A ............................................
+
+          §  5º   O prazo para a vigência da redução da taxa  de
+          juros de financiamentos habitacionais, deve ser de, no
+          mínimo, 36 meses.
+
+          §  6º   Na  hipótese de repactuação ou prorrogação  da
+          redução  de  que trata o § 5º, a taxa respectiva  deve
+          viger  por igual período mínimo de 36 meses, observado
+          o fator de multiplicação estabelecido à época.
+
+          §  7º   As condições de que tratam os §§ 5º e 6º devem
+          constar  do  instrumento contratual  do  financiamento
+          habitacional." (NR)
+
+          Art.  4º   Esta  resolução entra em vigor na  data  de  sua
+publicação.
+
+                                      São Paulo, 29 de julho de 2005.
+
+                                   Henrique de Campos Meirelles
+                                   Presidente
+```

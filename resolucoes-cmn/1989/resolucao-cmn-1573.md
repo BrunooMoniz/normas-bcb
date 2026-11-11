@@ -1,0 +1,60 @@
+---
+titulo: "Resolução Nº 1.573"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1573"
+data: 1989-02-20
+ementa: "PROGRAMA DE ESTABILIZACAO ECONOMICA - MEDIDAS COMPLEMENTARES - ENCARGOS FINANCEIROS DAS OPERACOES DE CREDITO RURAL FORMALIZADAS COM RECURSOS DA EXIGIBILIDADE DE QUE TRATA O ITEM I DA RESOLUCAO 1349, DE 01.07.87, PODERAO SER AJUSTADOS LIVREMENTE ENTRE FINANCIADO E FINANCIADOR, DESDE QUE O RESULTADO FINAL DESSES ENCARGOS NAO ULTRAPASSE O EQUIVALENTE A 12% AA DE JUROS E ATUALIZADAO MONETARIA CALCULADA COM BASE NO INDICE DE PRECOS AO CONSUMIDOR (IPC), NA FORMA PREVISTA NO MANUAL DE CREDITO RURAL (MCR) - PROIBICAO DA ESTIPULACAO DE CLAUSULA DE ATUALIZACAO MONETARIA NOS FINANCIAMENTOS DE QUE SE TRATA, QUANDO FORMALIZADOS COM PRAZO IGUAL OU INFERIOR A 90 DIAS."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 1576/89 DOU 03/02/1989 PAG 1977 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1576/89", "CARTA CIRCULAR 1914/89"]
+referencias: ["LEI 4595/64 ART/9.", "DEC 94303/87 ART/2.", "LEI 4595/64 ART/4 ITEM/VI.", "LEI 4829/65 ART/4 ART/14.", "MP 32/89 ART/15 PARAG/4 PARAG/5.", "CITA RESOLUÇÃO CMN 1349/87 ITEM/I."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1573"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.573
+
+```
+                        RESOLUCAO N. 001573
+                        -------------------
+
+         O  BANCO CENTRAL DO BRASIL, na forma do artigo 9. da Lei  n.
+4.595,  de  31.12.64,  torna público que  o  Presidente  do  CONSELHO
+MONETÁRIO  NACIONAL, por ato de 20.01.89, com base no  artigo  2.  do
+Decreto  n.  94.303, de 01.05.87, "ad referendum"  daquele  Conselho,
+tendo em vista as disposições do artigo 4., inciso VI, da citada Lei,
+dos  artigos  4. e 14 da Lei n. 4.829, de 05.11.65, e do  artigo  15,
+parágrafos 4. e 5., da Medida Provisória n. 032, de 15.01.89,
+
+R E S O L V E U:
+
+         I  -  Estabelecer que os encargos financeiros das  operações
+de  crédito rural formalizadas com recursos da exigibilidade  de  que
+trata  o  item  I  da  Resolução n. 1.349, de 01.07.87,  poderão  ser
+ajustados  livremente  entre financiado e financiador,  desde  que  o
+resultado  final desses encargos não ultrapasse o equivalente  a  12%
+a.a. de juros e atualização monetária calculada com base no Índice de
+Preços  ao  Consumidor (IPC), na forma prevista no Manual de  Crédito
+Rural (MCR).
+
+         II  -  Esclarecer que é vedada a estipulação de cláusula  de
+atualização monetária nos financiamentos de que trata esta Resolução,
+quando formalizados com prazo igual ou inferior a 90 (noventa) dias.
+
+         III  -  Recomendar  ao  Sistema Nacional  de  Crédito  Rural
+prioridade para os créditos de investimentos rurais e para aplicações
+com miniprodutores e pequenos produtores.
+
+         IV  -  Delegar competência ao Banco Central para expedir  as
+normas necessárias à execução desta Resolução.
+
+         V  - Estabelecer que esta Resolução entrará em vigor na data
+de sua publicação, revogando-se as disposições em contrário.
+
+                             Brasília-DF, 20 de janeiro de 1989
+
+                             Elmo de Araujo Camões
+                             Presidente
+```

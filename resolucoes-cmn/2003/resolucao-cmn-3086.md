@@ -1,0 +1,120 @@
+---
+titulo: "Resolução Nº 3.086"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3086"
+data: 2003-06-25
+ementa: "Dispõe sobre o Programa de Modernização da Frota de Tratores Agrícolas e Implementos Associados e Colheitadeiras (Moderfrota)."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 3182/2004 DOU 31/03/2004 PAG 13 - ALTERACAO.", "RESOLUÇÃO CMN 3207/2004 DOU 28/06/2004 PAG 45 - REVOGACAO TOTAL (A PARTIR DE  01/07/2004)."]
+normas_vinculadas: ["RESOLUÇÃO 3068/2003", "RESOLUÇÃO 3182/2004", "RESOLUÇÃO 3207/2004"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/VI.", "LEI 4829/65 ART/4 ART/14.", "LEI 10200/2001 ART/3.", "LEI 10648/2003 ART/1.", "REVOGA RESOLUÇÃO CMN 3068/2003 (A PARTIR DE 01/07/2003)."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3086"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.086
+
+```
+                        RESOLUCAO N. 003086
+                        -------------------
+                                   Dispõe   sobre   o   Programa   de
+                                   Modernização da Frota de  Tratores
+                                   Agrícolas       e      Implementos
+                                   Associados     e    Colheitadeiras
+                                   (Moderfrota).
+
+          O  BANCO  CENTRAL DO BRASIL, na forma do  art.  9º  da  Lei
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  CONSELHO
+MONETÁRIO NACIONAL, em sessão realizada em 24 de junho de 2003, tendo
+em  vista as disposições dos arts. 4º, inciso VI, da referida lei, 4º
+e  14 da Lei 4.829, de 5 de novembro de 1965, 3º da Lei 10.200, de 14
+de fevereiro de 2001, e 1º da Lei 10.648, de 3 de abril de 2003,
+
+R E S O L V E U:
+
+         Art.  1º   Estabelecer  que  as  operações  do  Programa  de
+Modernização da Frota de Tratores Agrícolas e Implementos  Associados
+e Colheitadeiras (Moderfrota), amparadas em recursos equalizados pelo
+Tesouro Nacional junto ao Banco Nacional de Desenvolvimento Econômico
+e  Social  (BNDES)  e à Agência Especial de Financiamento  Industrial
+(Finame),  ficam  sujeitas às normas gerais do  crédito  rural  e  às
+seguintes condições especiais:
+
+         I - beneficiários: produtores rurais e suas cooperativas;
+
+         II  - finalidade: aquisição financiada, isoladamente ou não,
+de  tratores  agrícolas  e implementos associados,  colheitadeiras  e
+equipamentos para preparo, secagem e beneficiamento de café;
+
+         III - limites de crédito:
+
+         a)   beneficiários  com  renda  agropecuária   bruta   anual
+inferior a R$150.000,00 (cento e cinqüenta mil reais): 100% (cem  por
+cento) do valor dos bens objeto de financiamento;
+
+         b)  beneficiários com renda agropecuária bruta  anual  igual
+ou  superior  a  R$150.000,00  (cento e  cinqüenta  mil  reais):  80%
+(oitenta por cento) do valor dos bens objeto de financiamento;
+
+         IV - encargos financeiros:
+
+         a)  para os beneficiários de que trata o inciso III,  alínea
+"a":  taxa efetiva de juros de 9,75% a.a. (nove inteiros e setenta  e
+cinco centésimos por cento ao ano);
+
+         b)  para os beneficiários de que trata o inciso III,  alínea
+"b": taxa efetiva de juros de 12,75% a.a. (doze inteiros e setenta  e
+cinco centésimos por cento ao ano);
+
+         V - prazos de reembolso:
+
+         a)   tratores,  implementos  e  equipamentos  para  preparo,
+secagem e beneficiamento de café: até cinco anos;
+
+         b) colheitadeiras: até seis anos;
+
+         VI  -  recursos:  até R$2.000.000.000,00  (dois  bilhões  de
+reais), a serem aplicados no período de 1º de julho de 2003 a  30  de
+junho de 2004;
+
+         VII - risco operacional: do agente financeiro.
+
+         §  1º   O  financiamento para aquisição de  equipamentos  de
+preparo,  secagem e beneficiamento de café fica sujeito às  seguintes
+condições adicionais:
+
+         I  -  somente  pode  ser concedido a produtores  rurais  com
+renda bruta anual inferior a R$60.000,00 (sessenta mil reais);
+
+         II  -  não  pode exceder o valor de R$20.000,00  (vinte  mil
+reais) por mutuário.
+
+          §  2º   Admite-se a concessão de mais de um crédito para  o
+mesmo tomador até 30 de junho de 2004, quando:
+
+          I  -  a  atividade assistida requerer e ficar comprovada  a
+capacidade de pagamento do beneficiário;
+
+          II   -   no   caso  de  financiamento  para  aquisição   de
+equipamentos para preparo, secagem e beneficiamento de café, o  valor
+do crédito não ultrapasse o limite estabelecido no § 1º, inciso II.
+
+          Art.  2º   Ficam  o Ministério da Agricultura,  Pecuária  e
+Abastecimento, por meio de sua Secretaria de Política Agrícola,  e  o
+Ministério  da Fazenda autorizados a, em decisão conjunta,  remanejar
+recursos   do   Moderfrota  para  outros  programas  de  investimento
+amparados  por  recursos equalizados pelo Tesouro Nacional  junto  ao
+BNDES  ou  a  remanejar recursos desses programas para o  Moderfrota,
+desde que não haja elevação dos custos inicialmente estimados.
+
+          Art.  3º   Esta  resolução entra em vigor na  data  de  sua
+publicação,  produzindo efeitos a partir de  1º  de  julho  de  2003,
+quando ficará revogada a Resolução 3.068, de 27 de fevereiro de 2003.
+
+                                      Brasília, 25  de junho de 2003.
+
+                                   Henrique de Campos Meirelles
+                                   Presidente
+```

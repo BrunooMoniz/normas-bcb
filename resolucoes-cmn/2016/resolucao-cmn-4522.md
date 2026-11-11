@@ -1,0 +1,53 @@
+---
+titulo: "Resolução N° 4.522"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "4522"
+data: 2016-09-29
+ementa: "Autoriza a renegociação de operações de crédito rural de custeio e de investimento destinadas à cultura do café, contratadas por produtores rurais que tiveram prejuízos em decorrência da estiagem e seca em municípios do estado do Espírito Santo."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 3/10/2016, Seção 1, p. 18."
+atualizacoes: ["Resolução CMN nº 4.903/2021 - Revogação total, a partir de 1º/5/2021."]
+normas_vinculadas: ["RESOLUÇÃO CMN 4903/2021"]
+referencias: ["Lei nº 4.595/1964, arts. 4º, inciso VI, e 9º.", "Lei nº 4.829/1965, arts. 4º e 14.", "Lei nº 10.186/2001, art. 5º.", "Cita MCR 2-6-10; 6-1-2; 9-2-4; 10-1-24, e 13-1-4."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4522"
+baixado_em: 2026-11-10
+---
+# Resolução N° 4.522
+
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão realizada em 29 de setembro de 2016, com base no disposto nos arts. 4º, inciso VI, da Lei nº 4.595, de 1964, 4º e 14 da Lei nº 4.829, de 5 de novembro de 1965, e 5º da Lei nº 10.186, de 12 de fevereiro de 2001,
+
+R E S O L V E U :
+
+Art. 1º  Ficam as instituições financeiras autorizadas a renegociar as parcelas e/ou as operações de crédito rural de custeio e de investimento destinadas à cultura de café, em situação de adimplência em 31 de dezembro de 2014, lastreadas com recursos controlados de que trata o Manual de Crédito Rural – MCR 6-1-2, vencidas ou vincendas entre 1º de janeiro de 2015 e 31 de dezembro de 2016, inclusive aquelas prorrogadas por autorização do Conselho Monetário Nacional (CMN), contratadas por produtores rurais de café e por suas cooperativas de produção agropecuária, que tiveram prejuízos em decorrência de seca e estiagem, ocorridas em municípios do estado do Espírito Santo, com decretação de situação de emergência ou estado de calamidade pública, com reconhecimento pelo Ministério da Integração Nacional (MI) a partir de 1º de janeiro de 2014, observadas as seguintes condições:
+
+I - os saldos devedores serão apurados com base nos encargos contratuais de normalidade, excluídos os bônus, rebates e descontos, sem o cômputo de multa, mora ou quaisquer outros encargos por inadimplemento ou honorários advocatícios;
+
+II - prazos:
+
+a) custeio: reembolso em até 5 (cinco) anos, de acordo com o período de obtenção de renda;
+
+b) operações de custeio prorrogadas e de investimento: para até 1 (um) ano, após o vencimento final do contrato, para cada parcela prorrogada;
+
+III - formalização: até 31 de dezembro de 2016.
+
+Parágrafo único.  A formalização da renegociação prevista neste artigo deve ser realizada mediante apresentação pelo mutuário de laudo técnico de comprovação das perdas, admitido laudo coletivo.
+
+Art. 2º  Para efeito das renegociações previstas neste artigo:
+
+I - as instituições financeiras ficam dispensadas do cumprimento das exigências previstas no MCR 2-6-10, MCR 9-2-4, MCR 10-1-24 e MCR 13-1-4;
+
+II - admite-se, a critério da instituição financeira, a substituição de aditivo contratual por “carimbo texto” para formalização da renegociação.
+
+§ 1º  As operações de custeio rural referidas no inciso II, alínea “a”, do art. 1º, que tenham sido objeto de cobertura parcial das perdas pelo Programa de Garantia da Atividade Agropecuária (Proagro) ou por modalidade de seguro rural, somente podem ser renegociadas mediante a exclusão do valor referente à indenização recebida pelo beneficiário, considerada a receita obtida.
+
+§ 2º  Não podem ser objeto da renegociação referida neste artigo as operações de crédito rural contratadas no âmbito do Programa de Sustentação de Investimento (PSI).
+
+Art. 3º  O mutuário que renegociar suas dívidas nos termos desta Resolução fica impedido de contratar novo financiamento de investimento com recursos do crédito rural, em todo o Sistema Nacional de Crédito Rural (SNCR), até que amortize integralmente, no mínimo, as parcelas previstas para o ano subsequente ao da formalização da renegociação, exceto quando o crédito se destinar a projeto de investimento para irrigação.
+
+Art. 4º  Esta Resolução entra em vigor na data de sua publicação.
+
+                    Ilan Goldfajn
+                      Presidente do Banco Central do Brasil

@@ -1,0 +1,99 @@
+---
+titulo: "Resolução Nº 2.793"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "2793"
+data: 2000-11-30
+ementa: "Dispõe sobre aumento dos recursos do Programa de Modernização da Frota de Tratores Agrícolas e Implementos Associados e Colheitadeiras, instituído pela Resolução nº 2.699, de 2000."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2812/2000 DOU 29/12/2000 PAG 40 (E) - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2699/2000", "RESOLUÇÃO 2812/2000"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 4595/64 ART/4 ITEM/VI.", "LEI 4829/65 ART/4 ART/14.", "LEI 8427/92 ART/1.", "LEI 9848/99.", "MP 2042-11/2000 ART/2.", "ALTERA RESOLUÇÃO CMN 2699/2000 ART/1 ITEM/VII."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=2793"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 2.793
+
+```
+                        RESOLUCAO N. 002793
+                        -------------------
+
+                                   Dispõe sobre  aumento dos recursos
+                                   do  Programa  de  Modernização  da
+                                   Frota  de  Tratores   Agrícolas  e
+                                   Implementos Associados e Colheita-
+                                   deiras, instituído  pela Resolução
+                                   nº 2.699, de 2000.
+
+         O  BANCO CENTRAL DO  BRASIL, na forma  do art. 9º  da Lei nº
+4.595, de 31 de dezembro de 1964,  torna público que o CONSELHO MONE-
+TÁRIO NACIONAL, em sessão realizada em  30 de novembro de 2000, tendo
+em vista as disposições dos arts. 4º,  inciso VI, da referida Lei, 4º
+e 14 da Lei nº 4.829,  de 5 de novembro de 1965,  1º da Lei nº 8.427,
+de 27 de maio de 1992, com a redação dada pela Lei nº 9.848, de 26 de
+outubro de 1999, e 2º da Medida Provisória  nº  2.042-11,  de  23  de
+novembro de 2000,
+
+R E S O L V E U:
+
+         Art. 1º  Alterar  o  art. 1º,  inciso VII,  da  Resolução nº
+2.699, de 24 de fevereiro de 2000, passando o referido artigo a vigo-
+rar com a seguinte redação:
+
+         "Art.  1º Instituir o  Programa de Modernização  da Frota de
+    Tratores  Agrícolas e Implementos Associados e Colheitadeiras, ao
+    amparo  dos recursos do Banco Nacional de Desenvolvimento  Econô-
+    mico  e Social (BNDES)  e da  Agência  Especial  de  Financiamen-
+    to   Industrial (FINAME), destinado ao financiamento dos itens de
+    investimento  de que se trata, sob as seguintes  condições  espe-
+    ciais:
+
+         I - beneficiários: produtores rurais e suas cooperativas;
+
+        II - finalidade: aquisição  de tratores agrícolas e implemen-
+    tos associados e colheitadeiras, financiada isoladamente ou não;
+
+       III - limite de financiamento:
+
+         a) beneficiários com renda agropecuária bruta anual inferior
+    a  R$250.000,00 (duzentos e cinqüenta mil  reais): 100%  (cem por
+    cento);
+
+         b) beneficiários com renda agropecuária bruta anual igual ou
+    superior  a R$250.000,00  (duzentos e cinqüenta  mil reais):  90%
+    (noventa por cento);
+
+        IV - encargos financeiros:
+
+         a)  para os beneficiários de que trata  o inciso III, alínea
+    "a":  taxa   efetiva  de juros de 8,75% a.a. (oito inteiros e se-
+    tenta e cinco centésimos por cento ao ano);
+
+         b)  para os beneficiários de que trata  o inciso III, alínea
+    "b":  taxa efetiva de juros de 10,75% a.a. (dez inteiros e seten-
+    ta e cinco centésimos por cento ao ano);
+
+         V - prazo de financiamento:
+
+         a) tratores e implementos: seis anos;
+
+         b) colheitadeiras: oito anos;
+
+        VI - garantias: as usuais para o crédito rural;
+
+       VII - volume  e  aplicação  dos  recursos:  R$1.860.000.000,00
+    (um  bilhão e oitocentos e sessenta milhões de reais) oriundos do
+    BNDES  e da  FINAME, com  o  seguinte  cronograma  de  aplicação:
+    R$1.060.000.000,00 (um bilhão e sessenta  milhões  de  reais)  no
+    corrente ano e o restante no ano 2001." (NR)
+
+         Art. 2º  Esta Resolução entra em vigor na data de sua publi-
+cação.
+
+                        Brasília, 30 de novembro de 2000
+
+                        Arminio Fraga Neto
+                        Presidente
+```

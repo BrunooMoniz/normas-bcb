@@ -1,0 +1,78 @@
+---
+titulo: "Resolução Nº 3.810"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "3810"
+data: 2009-10-28
+ementa: "Altera o art. 4º da Resolução n° 3.568, de 29 de maio de 2008, que dispõe sobre o mercado de câmbio."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Resolução CMN nº 5.003/2022 - Revogação total, a partir de 2/5/2022."]
+normas_vinculadas: ["RESOLUÇÃO CMN 5003/2022", "RESOLUÇÃO 3661/2008", "RESOLUÇÃO 3568/2008", "CIRCULAR 3179/2003"]
+referencias: ["Lei nº 4.595/1964, arts. 4º, incisos V, VIII e XXXI; e 9º.", "Lei nº 4.728/1965, art. 9º.", "Cita Circular BCB nº 3.179/2003, Anexo VII.", "Cita Resolução CMN nº 3.661/2008.", "Altera Resolução CMN nº 3.568/2008 - Dá nova redação ao art. 4º, § 5º."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3810"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 3.810
+
+```
+                        RESOLUCAO N. 003810
+                        -------------------
+                                 Altera  o  art. 4º da  Resolução  n°
+                                 3.568,  de  29 de maio de 2008,  que
+                                 dispõe sobre o mercado de câmbio.
+
+         O  Banco  Central do Brasil, na forma do art. 9º da  Lei  n°
+4.595,  de  31  de  dezembro de 1964, torna público  que  o  Conselho
+Monetário Nacional, em sessão realizada em 28 de outubro de 2009, com
+base nos arts. 4º, incisos V, VIII e XXXI, da citada lei, e 9º da Lei
+nº 4.728, de 14 de julho de 1965,
+
+         R E S O L V E U :
+
+         Art.  1º  O § 5º do art. 4º da Resolução nº 3.568, de 29  de
+maio de 2008, alterado pela Resolução nº 3.661, de 17 de dezembro  de
+2008, passa a vigorar com a seguinte redação:
+
+         "Art. 4º  .............................................
+
+         .......................................................
+
+         §  5º   No  caso  de  agência  de  turismo  ou  meio  de
+         hospedagem de turismo autorizado a operar no mercado  de
+         câmbio, cujos controladores finais apresentem pedido  de
+         autorização  ao  Banco  Central  do  Brasil  até  30  de
+         novembro   de   2009,  devidamente  instruído   com   os
+         documentos  de números 1 a 7 e 10 a 18 do  Anexo  VII  à
+         Circular  nº 3.179, de 26 de fevereiro de 2003,  visando
+         à  constituição  e  ao funcionamento de  instituição  do
+         Sistema  Financeiro  Nacional  passível  de  operar   no
+         mercado  de  câmbio, o prazo de validade da  autorização
+         atualmente  detida  para operar  no  mercado  de  câmbio
+         observará  as  disposições a  seguir,  sem  prejuízo  do
+         posterior  atendimento de outras exigências de instrução
+         de  processos,  efetuadas com base na regulamentação  em
+         vigor:
+
+         I   -   caso  o  pedido  seja  deferido,  a  autorização
+         concedida  à agência de turismo ou ao meio de hospedagem
+         de  turismo perderá a validade concomitantemente  com  a
+         data  de  início  das  atividades  da  nova  instituição
+         autorizada,  respeitado o prazo  previsto  no  plano  de
+         negócios; e
+
+         II  -  na  hipótese de arquivamento ou indeferimento  do
+         pedido, a autorização concedida à agência de turismo  ou
+         ao  meio  de  hospedagem de turismo perderá validade  30
+         (trinta)  dias  após  a  decisão  do  Banco  Central  do
+         Brasil." (NR)
+
+         Art.  2º   Esta  resolução entra em vigor  na  data  de  sua
+publicação.
+
+                                     Brasília, 28 de outubro de 2009.
+
+                    Henrique de Campos Meirelles
+                             Presidente
+```

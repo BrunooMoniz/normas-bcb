@@ -1,0 +1,88 @@
+---
+titulo: "Resolução Nº 1.349"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1349"
+data: 1987-07-01
+ementa: "Fixa percentuais, para efeito da exigibilidade de aplicação obrigatória de recursos no crédito rural, calculados sobre os depósitos à vista de instituições financeiras."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 2/7/1987, p. 10.317, retificada no DOU de 6/7/1987, p. 10.488."
+atualizacoes: ["Resolução CMN nº 1.635/1989 - Revogação total."]
+normas_vinculadas: ["CIRCULAR 1030/1986", "RESOLUÇÃO 1635/1989", "RESOLUÇÃO 1576/1989", "RESOLUÇÃO 1573/1989", "RESOLUÇÃO 1505/1988", "RESOLUÇÃO 1498/1988", "RESOLUÇÃO 1130/1986"]
+referencias: ["Lei nº 4.595/1964, art. 4º, VI; art. 9º.", "Lei nº 4.829/1965, arts. 4º e 14.", "Cita Resolução CMN nº 1.130/1986, item V.", "Altera,  a partir de 1º/7/87, Circular BCB nº 1.030/1986 - Revoga item 1, II."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1349"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.349
+
+```
+                        RESOLUCAO N. 001349
+                        -------------------
+
+         O  BANCO  CENTRAL DO BRASIL, na forma do art. 9. da  Lei  n.
+4.595,  de  31.12.64,  torna público que  o  Presidente  do  CONSELHO
+MONETÁRIO  NACIONAL, por ato de 01.07.87, com  base  no  art.  2.  do
+Decreto  n.  94.303, de 01.05.87, "ad referendum"  daquele  Conselho,
+tendo em vista as disposições do art. 4., inciso VI, da citada Lei, e
+dos arts. 4. e 14 da Lei n. 4.829, de 05.11.65,
+
+R E S O L V E U:
+
+         I  -  Fixar,  para  efeito  da  exigibilidade  de  aplicação
+obrigatória  de recursos no crédito rural, os seguintes  percentuais,
+calculados  sobre  os  depósitos líquidos à  vista  das  instituições
+financeiras:
+
+         - Grupo 1 (bancos pequenos) .......................... 20%
+
+         - Grupo 2 (bancos médios) ............................ 40%
+
+         - Grupo 3 (bancos grandes) ........................... 60%
+
+         II  - Estabelecer a seguinte escala de aumento gradativo dos
+percentuais  em  vigor  até  o  alcance  dos  estabelecidos  no  item
+anterior:
+
+GRUPOS DE                     1. REGIÃO                  A PARTIR DE
+ BANCOS          ATÉ NOV/87    EM DEZ/87     EM JAN/88      FEV/88
+    1               10%           13%           16%           20%
+    2               20%           26%           33%           40%
+    3               30%           40%           50%           60%
+
+                              2. REGIÃO                  A PARTIR DE
+                 ATÉ JUL/87    EM AGO/87    EM SET/87    OUT A DEZ/87
+    1               10%           13%           16%           20%
+    2               20%           26%           33%           40%
+    3               30%           40%           50%           60%
+
+         III  -  Elevar  para 50% (cinqüenta por cento) o  percentual
+constante  do item V da Resolução n. 1.130, de 15.05.86,  passando  a
+conceituar-se  como  aplicação prioritária  os  créditos  de  custeio
+agrícola,  custeio de animais de pequeno e médio porte e  Empréstimos
+do Governo Federal (EGF).
+
+         IV  -  Permitir  que os saldos devedores  das  operações  de
+investimento formalizadas com base no item V da Resolução  n.  1.130,
+de   15.05.86,   continuem  sendo  computados  para   satisfação   da
+exigibilidade prioritária, até sua liquidação final.
+
+         V  - Revogar, a partir de 01.07.87, o disposto no inciso  II
+do item 1 da Circular n. 1.030, de 16.05.86.
+
+         VI  -  Fixar  em 180 (cento e oitenta) dias o  prazo  mínimo
+para  duração de convênio para repasse interbancário, a que  alude  o
+MCR 18-2-16.
+
+         VII  -  Delegar ao Banco Central competência para adotar  as
+medidas que se fizerem necessárias à execução desta Resolução.
+
+         VIII  -  Esta  Resolução entrará em vigor  na  data  de  sua
+publicação.
+
+                             Brasília-DF, 01 de julho de 1987
+
+                             Fernando Milliet de Oliveira
+                             Presidente
+```

@@ -1,0 +1,85 @@
+---
+titulo: "Resolução Nº 1.960"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1960"
+data: 1992-08-13
+ementa: "ESTABELECE NORMAS ESPECIAIS DE CUSTEIO PARA A CULTURA DE ALGODÃO, COM VISTAS AO COMBATE À PRAGA \"BICUDO DO ALGODOEIRO\"."
+revogada: true
+responsavel: "SECRE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2523/94 DOU 21/12/1994 PAG 20063 - CITACAO: ART/2 ITEM/I; ALTERACAO: ART/1 (PRORROGACAO DE PRAZO).", "RESOLUÇÃO CMN 3208/2004 DOU 28/06/2004 PAG 48 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 3208/2004", "CIRCULAR 2523/94"]
+referencias: ["LEI 4595/64 ART/9.", "LEI 8056/90 ART/2 PARAG/2.", "LEI 8392/92.", "LEI 4595/64 ART/4 ITEM/VI.", "LEI 4829/65 ART/4 ART/14."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1960"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.960
+
+```
+                        RESOLUCAO N. 001960
+                        -------------------
+
+                              ESTABELECE  NORMAS ESPECIAIS DE CUSTEIO
+                              PARA  A CULTURA DE ALGODÃO, COM  VISTAS
+                              AO COMBATE À PRAGA "BICUDO DO ALGODOEI-
+                              RO".
+
+                    O BANCO CENTRAL DO BRASIL, NA FORMA DO ART. 9º DA
+LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE O PRESIDENTE DO CONSELHO
+MONETÁRIO  NACIONAL, POR ATO DE 07.08.92, COM BASE NO PARÁGRAFO 2º DO
+ART. 2º DA LEI Nº 8.056, DE 28.06.90, E NA LEI Nº 8.392, DE 30.12.91,
+"AD  REFERENDUM" DAQUELE CONSELHO E TENDO EM VISTA AS DISPOSIÇÕES  DO
+ART.  4º, INCISO VI, DA REFERIDA LEI Nº 4.595 E DOS ARTS. 4º E 14  DA
+LEI Nº 4.829, DE 05.11.65,
+
+R E S O L V E U:
+
+                    ART.  1º. O CRÉDITO RURAL DE  CUSTEIO DESTINADO A
+LAVOURAS  DE ALGODÃO, NOS ESTADOS ABAIXO INDICADOS, SOMENTE PODE  SER
+CONCEDIDO A AGRICULTORES QUE TENHAM ELIMINADO TOTALMENTE OS RESTOS DA
+CULTURA DA SAFRA ANTERIOR, PELOS MÉTODOS DE ARRANQUIO COMPLETO, QUEI-
+MA OU DESTRUIÇÃO E INCORPORAÇÃO, DENTRO DOS SEGUINTES PRAZOS:
+
+              ESTADO                              PRAZO
+
+- ALAGOAS, CEARÁ, MARANHÃO,  PARAÍBA,
+  PERNAMBUCO, PIAUÍ,  RIO  GRANDE DO
+  NORTE E SERGIPE                           30 DIAS APÓS A COLHEITA
+
+- GOIÁS                                     30 DE JUNHO
+
+- MATO GROSSO E BAHIA                       31 DE JULHO
+
+- MATO GROSSO DO SUL
+  - MICROREGIÃO HOMOGÊNEA DO ALTO
+    TAQUARI                                 30 DE JUNHO
+  - DEMAIS REGIÕES                          30 DE MAIO
+
+- MINAS GERAIS
+  - REGIÃO DO TRIÂNGULO MINEIRO             30 DE JUNHO
+  - REGIÃO NORTE                            31 DE JULHO
+
+- PARANÁ                                    30 DE MAIO
+
+- SÃO PAULO                                 15 DE JUNHO.
+
+                    ART.  2º. FICA DELEGADA COMPETÊNCIA AO BANCO CEN-
+TRAL DO BRASIL PARA:
+
+                    I  - EM ARTICULAÇÃO COM O MINISTÉRIO DA  AGRICUL-
+TURA E REFORMA AGRÁRIA, FIXAR CALENDÁRIO OU RESTRIÇÕES PARA A LIBERA-
+ÇÃO  DE  RECURSOS DE  FINANCIAMENTOS RURAIS, QUANDO NO  INTERESSE  DO
+CONTROLE DE PRAGAS OU OUTRAS ADVERSIDADES;
+
+                   II  - BAIXAR  NORMAS  COMPLEMENTARES NECESSÁRIAS À
+EXECUÇÃO DO DISPOSTO NESTA RESOLUÇÃO.
+
+                    ART.  3º. ESTA RESOLUÇÃO ENTRA EM VIGOR  NA  DATA
+DE SUA PUBLICAÇÃO.
+
+                              BRASÍLIA (DF), 13 DE AGOSTO DE 1992
+
+                              FRANCISCO ROBERTO ANDRÉ GROS
+                              PRESIDENTE
+```

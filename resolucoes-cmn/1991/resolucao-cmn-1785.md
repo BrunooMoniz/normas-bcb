@@ -1,0 +1,48 @@
+---
+titulo: "Resolução Nº 1.785"
+orgao: "Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "1785"
+data: 1991-01-30
+ementa: "REMESSAS DESTINADAS À REALIZAÇÃO DE INVESTIMENTOS BRASILEIROS NO EXTERIOR POR ENTIDADES CONTROLADAS PELO PODER PÚBLICO FEDERAL-ISENÇÃO DE COMPENSAÇÃO CAMBIAL."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 1925/92 DOU 07/05/1992 PAG 5699 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1925/92"]
+referencias: ["LEI 4595/64 ART/9.", "DEC 55762/65 ART/61.", "CITA CIRCULAR BCB 1280/88."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1785"
+baixado_em: 2026-11-10
+---
+# Resolução Nº 1.785
+
+```
+                        RESOLUCAO N. 001785
+                        -------------------
+
+                             REMESSAS  DESTINADAS À REALIZAÇÃO DE IN-
+                             VESTIMENTOS  BRASILEIROS NO EXTERIOR POR
+                             ENTIDADES CONTROLADAS PELO PODER PÚBLICO
+                             FEDERAL-ISENÇÃO DE COMPENSAÇÃO CAMBIAL.
+
+                    O BANCO CENTRAL DO BRASIL, NA FORMA DO ART. 9º DA
+LEI Nº 4.595, DE 31.12.64, TORNA PÚBLICO QUE O CONSELHO MONETÁRIO NA-
+CIONAL, EM SESSÃO REALIZADA EM 30.01.91, TENDO EM VISTA O DISPOSTO NO
+ART. 61 DO DECRETO Nº 55.762, DE 16.02.65,
+R E S O L V E U:
+                    ART.  1º. ESTÃO ISENTAS DO ESQUEMA DE COMPENSAÇÃO
+CAMBIAL  COM VENDA DE OURO AO BANCO CENTRAL DO BRASIL, DE QUE TRATA A
+CIRCULAR Nº 1.280, DE 18.01.88, AS REMESSAS DE INTERESSE DE ENTIDADES
+CONTROLADAS  PELO PODER PÚBLICO FEDERAL QUE ESTEJAM, POR LEI, AUTORI-
+ZADAS A EXERCER ATIVIDADES ECONÔMICAS NO EXTERIOR.
+                    ART.  2º. O BANCO CENTRAL DO BRASIL PODERÁ ADOTAR
+AS MEDIDAS JULGADAS NECESSÁRIAS À EXECUÇÃO DESTA RESOLUÇÃO.
+
+                    ART.  3º. ESTA RESOLUÇÃO ENTRARÁ EM VIGOR NA DATA
+DE SUA PUBLICAÇÃO.
+
+                      BRASÍLIA (DF), 30 DE JANEIRO DE 1991
+
+                      IBRAHIM ERIS
+                      PRESIDENTE
+```
