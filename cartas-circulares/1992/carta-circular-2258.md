@@ -1,0 +1,68 @@
+---
+titulo: "Carta Circular Nº 2.258"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "2258"
+data: 1992-02-19
+ementa: "DIVULGA A TAXA REFERENCIAL MAXIMA PARA EFEITO DE EQUALIZACAO DE TAXAS DE JUROS NOS FINANCIAMENTOS A EXPORTACAO, OBJETO DA RESOLUCAO N. 1.845, DE 31.07.91, MODIFICADA PELA RESOLUCAO N. 1.905, DE 18.02.92."
+revogada: true
+responsavel: "DECAM"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2258"
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 2.258
+
+```
+                      CARTA-CIRCULAR N. 002258
+                      ------------------------
+
+                              DIVULGA  A TAXA REFERENCIAL MAXIMA PARA
+                              EFEITO DE EQUALIZACAO DE TAXAS DE JUROS
+                              NOS FINANCIAMENTOS A EXPORTACAO, OBJETO
+                              DA RESOLUCAO N. 1.845, DE 31.07.91, MO-
+                              DIFICADA  PELA  RESOLUCAO N. 1.905,  DE
+                              18.02.92.
+
+                    LEVAMOS AO CONHECIMENTO DOS INTERESSADOS QUE:
+
+                    I  -  PARA FINS DE EQUALIZACAO DE TAXAS DE  JUROS
+NOS  FINANCIAMENTOS  A EXPORTACAO, OBJETO DA RESOLUCAO N.  1.845,  DE
+31.07.91,  MODIFICADA PELA RESOLUCAO N. 1.905, DE 18.02.92, UTILIZAR-
+SE-A,  COMO REFERENCIA, A TAXA "LIBOR" PARA 3 (TRES) OU 6 (SEIS)  ME-
+SES,  CONFORME O REGIME DE AMORTIZACAO DO  FINANCIAMENTO,  DISPONIVEL
+NO  SISTEMA  DE  INFORMACOES  BANCO  CENTRAL  -  SISBACEN,  TRANSACAO
+PTAX800, OPCAO 9;
+
+                   II - A TAXA "LIBOR" DEFINIDA NO ITEM ANTERIOR SERA
+ACRESCIDA MARGEM ADICIONAL ("SPREAD") CONFORME INDICADO A SEGUIR, TO-
+TALIZANDO A TAXA MAXIMA ADMITIDA PARA FINS DE EQUALIZACAO:
+
+     A - 1  1/4  % (UM E UM QUARTO POR CENTO) NOS FINANCIAMENTOS  COM
+         PRAZO DE ATE 2 (DOIS) ANOS;
+
+     B - 1 3/4 % (UM E TRES QUARTOS POR CENTO) NOS FINANCIAMENTOS COM
+         PRAZO ACIMA DE 2 (DOIS) ANOS E ATE 3 (TRES) ANOS;
+
+     C - 2  1/4 % (DOIS E UM QUARTO POR CENTO) NOS FINANCIAMENTOS COM
+         PRAZO ACIMA DE 3 (TRES) ANOS E ATE 4 (QUATRO) ANOS;
+
+     D - 2  3/4 % (DOIS E TRES QUARTOS POR CENTO) NOS  FINANCIAMENTOS
+         COM PRAZO ACIMA DE 4 (QUATRO) ANOS E ATE 5 (CINCO) ANOS;
+
+     E - 3  1/4 % (TRES E UM QUARTO POR CENTO) NOS FINANCIAMENTOS COM
+         PRAZO ACIMA DE 5 (CINCO) ANOS.
+
+                  III - ESTA CARTA-CIRCULAR ENTRA EM VIGOR NA DATA DE
+SUA PUBLICACAO.
+
+                   IV  - FICA REVOGADA A CARTA-CIRCULAR N. 2.218,  DE
+11.09.91.
+
+                              BRASILIA (DF), 19 DE FEVEREIRO DE 1992
+
+                              DEPARTAMENTO DE CAMBIO
+
+                              GILBERTO DE ALMEIDA NOBRE
+                              CHEFE
+```

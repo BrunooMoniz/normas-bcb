@@ -1,0 +1,61 @@
+---
+titulo: "Carta Circular Nº 2.583"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "2583"
+data: 1995-09-21
+ementa: "Estabelece procedimentos para a remessa de informacoes cadastrais pelas institucoes administradoras de Fundos de Investimento Financeiro e de Fundos de Aplicacao em Quotas de Fundos de Investimento."
+revogada: true
+responsavel: "DECAD"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CARTA CIRCULAR BCB 3221/2006 - REVOGACAO TOTAL."]
+normas_vinculadas: ["CIRCULAR 2616/1995", "CARTA CIRCULAR 3221/2006"]
+referencias: ["CIRCULAR BCB 2616/95 ART/2 ART/29 (REGULAMENTO).", "CITA CADOC CAPITULO/71."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2583"
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 2.583
+
+```
+                      CARTA-CIRCULAR N. 002583
+                      ------------------------
+
+                                      Estabelece procedimentos para a
+                                      remessa  de informacoes  cadas-
+                                      trais  pelas  institucoes admi-
+                                      nistradoras de Fundos de Inves-
+                                      timento Financeiro e de Fundos
+                                      de Aplicacao em Quotas de  Fun-
+                                      dos de Investimento.
+
+               Comunicamos  a disponibilizacao da transacao PCIF910 -
+CADASTRAMENTO DE FIF/FAQFI,do Sistema de Informacoes do Banco Central
+-  SISBACEN,  para fins de captacao das informacoes cadastrais de que
+tratam  os  artigos 2. e 29, do Regulamento anexo a Circular n. 2616,
+de 18.09.95.
+
+2.             Informamos  ainda que devera  ser indicado, atraves da
+referida transacao, o CGC da instituicao detentora da conta "Reservas
+Bancarias", propria do administrador do Fundo ou por convenio, desti-
+nada aos debitos de que trata o Regulamento anexo a citada Circular.
+
+3.             A  alteracao  de dados cadastrais e a transformacao de
+Fundo  preexistente  em  Fundo de Investimento Financeiro ou Fundo de
+Aplicacao  em  Quotas de Fundo de Investimento devem ser informadas a
+Delegacia Regional do Banco Central do Brasil, a cuja jurisdicao per-
+tence  a  instituicao  administradora,  por  intermedio  da transacao
+PMSG750 - TRANSMISSAO DE MENSAGENS E COMUNICACOES, do SISBACEN.
+
+4.             As  demais informacoes de que trata o referido regula-
+mento  devem ser prestadas ao Banco Central segundo procedimentos que
+lhe  sao  proprios,conforme descrito no Catalogo de Documentos CADOC,
+Capitulo 71.
+
+                              Brasilia (DF), 21 de setembro de 1995.
+
+DEPARTAMENTO DE INFORMATICA             DEPARTAMENTO DE CADASTRO E
+                                        INFORMACOES
+
+LUIZ CARLOS CARNEIRO BARBOSA            JOSE JOVINIANO MELO
+Chefe                                   Chefe
+```

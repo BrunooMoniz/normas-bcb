@@ -1,0 +1,75 @@
+---
+titulo: "Carta Circular Nº 2.810"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "2810"
+data: 1998-08-24
+ementa: "Estabelece procedimentos a serem observados com relação aos recursos ingressados no País a título de Adiantamento para Futuro Aumento de Capital na forma permitida pela Circular nº 2.832, de 24.08.98."
+revogada: true
+responsavel: "FIRCE"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Circular BCB nº 3.491/2010 DOU 26/3/2010, Seção 1, p. 39-44 - Revogação total."]
+normas_vinculadas: ["CIRCULAR 2832/98", "CIRCULAR 3491/2010"]
+referencias: ["ESCLARECE CIRCULAR BCB 2832/98 ART/1 ART/4.", "CITA COMUNICADO BCB 6272/98."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2810"
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 2.810
+
+```
+                      CARTA-CIRCULAR N. 002810
+                      ------------------------
+
+                                    Estabelece  procedimentos a serem
+                                    observados  com   relacao aos re-
+                                    cursos    ingressados  no  Pais a
+                                    titulo     de  Adiantamento  para
+                                    Futuro    Aumento  de  Capital na
+                                    forma  permitida pela Circular n.
+                                    2.832,   de 24.08.98.
+
+                       Levamos  ao  conhecimento  dos interessados os
+procedimentos  a  serem observados nos casos de ingressos de recursos
+no  Pais a titulo de Adiantamento para Futuro Aumento de Capital per-
+mitido pela Circular n. 2.832, de 24.08.98.
+
+2.                     Os  ingressos de recursos para os fins previs-
+tos  no artigo 1. da Circular n. 2.832, de 24.08.98, devem ser infor-
+mados,  no  prazo maximo de 5(cinco) dias uteis, contados da liquida-
+cao  do cambio,  aos componentes regionais com atribuicoes na area do
+Departamento de Capitais Estrangeiros - FIRCE, observado  o zoneamen-
+to geografico de que trata o Comunicado FIRCE n. 6.272, de 15.07.98.
+
+3.                     Enquanto  nao  efetivada  a  integralizacao, o
+contravalor em moeda nacional devera permanecer contabilizado em con-
+ta passiva da receptora do investimento, a credito do investidor  es-
+trangeiro, titulada como ~Adiantamento para Futuro Aumento de   Capi-
+tal~.
+
+4.                     Tambem  devem ser informados,  aos respectivos
+componentes regionais do Departamento de Capitais Estrangeiros-FIRCE,
+o   valor dos recursos  efetivamente destinados aos objetivos    pre-
+vistos  no artigo 1. da mencionada Circular,  a empresa receptora dos
+investimentos,   data  de sua capitalizacao, bem como apresentados os
+comprovantes dos rendimentos auferidos na forma prevista no artigo 3.
+do referido normativo.
+
+5.                     Observado  o  contido no artigo 4. da Circular
+n.  2.832, de 24.08.98, o retorno do saldo dos valores ingressados no
+Pais  e nao direcionados para os fins previstos no artigo 1. da refe-
+rida  Circular  sera efetuado ao amparo de Certificado de Autorizacao
+para  Remessa - CAR, mediante solicitacao especifica, observado o zo-
+neamento geografico referido no  item 2 desta Carta-Circular.
+
+6.                     Para fins do retorno de que trata o item ante-
+rior,  devera ser  utilizada  a taxa de cambio valida para o dia util
+imediatamente anterior a data de retorno do capital.
+
+7.                     Esta  Carta-Circular entra em vigor na data de
+sua publicacao.
+
+                                     Brasilia, 24 de agosto de 1998
+
+                                     Fernando Antonio Gomes
+                                     Chefe
+```

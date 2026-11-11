@@ -1,0 +1,60 @@
+---
+titulo: "Carta Circular Nº 2.390"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "2390"
+data: 1993-07-30
+ementa: "DISPOE SOBRE A DEVOLUCAO POR INSUFICIENCIA DE FUNDOS, DOS CHEQUES ACOLHIDOS EM 30/07/93."
+revogada: true
+responsavel: "DEBAN"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CARTA CIRCULAR BCB 2392/93 DOU 03/08/1993 PAG 11076 - REVOGACAO TOTAL."]
+normas_vinculadas: ["CARTA CIRCULAR 2392/93"]
+referencias: ["CITA MNI 6/2/4/25."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2390"
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 2.390
+
+```
+                      CARTA-CIRCULAR N. 002390
+                      ------------------------
+
+AS
+INSTITUICOES FINANCEIRAS PARTICIPANTES  DO  SERVICO DE COMPENSACAO DE
+CHEQUES E OUTROS PAPEIS.
+
+                              DISPOE  SOBRE A DEVOLUCAO, POR  INSUFI-
+                              CIENCIA  DE FUNDOS, DOS CHEQUES ACOLHI-
+                              DOS EM 30.07.93.
+
+                    ART. 1.. A PRIMEIRA  DEVOLUCAO  DOS  CHEQUES CUJA
+DATA  INDICADA COMO A DE EMISSAO SEJA POSTERIOR A 31.07.93,  GRAFADOS
+EM "CRUZEIROS", ACOLHIDOS PELAS INSTITUICOES FINANCEIRAS EM 30.07.93,
+SE MOTIVADA POR INSUFICIENCIA DE FUNDOS:
+
+                    I - NAO ESTA  SUJEITA  AO  PAGAMENTO  DA  TAXA DE
+SERVICO PREVISTA NO MNI 6-2-4-25;
+
+                   II - NAO SERA  COMPUTADA PARA OS  EFEITOS  DE INS-
+CRICAO NO CADASTRO DE EMITENTES DE CHEQUES SEM FUNDOS (CCF);  E
+
+                  III - SERA  CLASSIFICADA   "MOTIVO 10 - CHEQUE  SEM
+FUNDOS - EM CRUZEIRO - APRESENTADO EM 30.07.93".
+
+                    PARAGRAFO UNICO - E VEDADO  AS  INSTITUICOES  FI-
+NANCEIRAS APLICAR AOS EMITENTES DOS CHEQUES REFERIDOS NO "CAPUT" DES-
+TE  ARTIGO QUAISQUER SANCOES PECUNIARIAS OU CADASTRAIS, BEM COMO  CO-
+BRAR TAXAS OU TARIFAS.
+
+                    ART. 2.. ESTA CARTA-CIRCULAR  ENTRA  EM  VIGOR NA
+DATA DE SUA PUBLICACAO.
+
+                              BRASILIA(DF), 30 DE JULHO DE 1993.
+
+DEPARTAMENTO DE OPERACOES BANCARIAS     DEPARTAMENTO DE CADASTRO E
+                                        INFORMACOES
+
+LUIS GUSTAVO DA MATTA MACHADO           WILSON CARVALHO MOREIRA
+CHEFE                                   CHEFE
+```

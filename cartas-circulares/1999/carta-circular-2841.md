@@ -1,0 +1,57 @@
+---
+titulo: "Carta Circular Nº 2.841"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "2841"
+data: 1999-03-09
+ementa: "Elimina subtítulo contábil do COSIF e estabelece procedimentos contábeis relativos as operações de compra ou recompra de títulos de emissão ou aceite próprio."
+revogada: true
+responsavel: "DENOR"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CARTA CIRCULAR BCB 2867/99 DOU 19/08/1999 PAG 8 (E) - REVOGACAO TOTAL."]
+normas_vinculadas: ["CARTA CIRCULAR 2867/1999", "CARTA CIRCULAR 2835/1999", "CIRCULAR 1540/1989"]
+referencias: ["CITA CARTA CIRCULAR BCB 2835/99.", "CITA CIRCULAR BCB 1540/89 ITEM/IV."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2841"
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 2.841
+
+```
+                      CARTA-CIRCULAR N. 002841
+                      ------------------------
+
+              Elimina subtitulo contabil do COSIF e estabelece proce-
+              dimentos contabeis  relativos as operacoes de compra ou
+              recompra de titulos de emissao ou aceite proprio.
+
+             Tendo em vista o disposto na Carta-Circular n. 2.835, de
+5 de fevereiro  de 1999, e  com fundamento no  item 4  da Circular n.
+1.540, de 6 de outubro de 1989, fica eliminado, no Plano Contabil das
+Instituicoes do  Sistema  Financeiro Nacional  -  COSIF,  o subtitulo
+Titulos de Emissao Propria, do titulo RECOMPRAS A LIQUIDAR - CARTEIRA
+PROPRIA, codigo 4.2.1.10.80-0.
+
+2.            Nas  operacoes  de  compra ou  recompra  de  titulos de
+emissao ou aceite proprio, deve ser observado o seguinte procedimento
+contabil:
+
+              I -  a compra ou recompra deve  ser registrada a debito
+do titulo  contabil que  identifica  a obrigacao,  com  a consequente
+eliminacao dessa; e
+
+              II - o efeito em conta de resultado deve ser registrado
+no ato,  mediante reconhecimento  ou estorno  de despesa,  conforme o
+valor da  operacao  de  compra  ou  recompra  seja,  respectivamente,
+superior ou inferior ao saldo atualizado do passivo correspondente.
+
+3.            Esta  Carta-Circular  entra  em vigor  na  data  de sua
+publicacao.
+
+                   Brasilia, 9 de marco de 1999.
+
+                   DEPARTAMENTO DE NORMAS DO SISTEMA
+                   FINANCEIRO
+
+                   Clarence Joseph Hillerman Jr.
+                   Chefe
+```

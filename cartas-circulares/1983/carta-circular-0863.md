@@ -1,0 +1,487 @@
+---
+titulo: "Carta Circular Nº 863"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "863"
+data: 1983-03-25
+ementa: "ALTERA NORMAS SOBRE O ENCAMINHAMENTO, PELOS BANCOS DE INVESTIMENTO, AO BCB, DE MAPA CONTENDO A PROGRAMACAO DO CRESCIMENTO DE SUAS OPERACOES."
+revogada: true
+versao_texto: "PDF do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 835/83 DOU 10/06/1983 PAG 10002 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 835/1983", "CARTA CIRCULAR 845/1983", "CIRCULAR 768/1983"]
+referencias: ["CITA CIRCULAR BCB 768/83 ITEM/II", "REVOGA CARTA/CIRCULAR BCB 845/83"]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=863"
+arquivo: "https://www.bcb.gov.br/pre/normativos/c_circ/1983/pdf/c_circ_0863_v2_l.pdf"
+sha256_arquivo: 612defa218e3a710b684332bbd4221f3cbedae0ae9ad2beddd188ad942c744ab
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 863
+
+CARTA-CIRCULAR Nº 863
+Documento normativo revogado pela Resolução 835, de 09/06/1983.
+Aos Bancos de Investimento
+Comunicamos que, de acordo com o disposto no item 2 da Circular nº 768, de
+24.03.83, deverá ser encaminhado ao Banco Central/Departamento de Fiscalização do Mercado
+de Capitais, até o dia 30.03.83, o anexo mapa, contendo a programação do crescimento das
+operações para o segundo trimestre de 1983.
+2. Aludido documento poderá ser entregue diretamente aos Departamentos
+Regionais onde se situar a sede da instituição informante.
+3. O acompanhamento das operações de que se trata será efetuado,
+concomitantemente, pelo saldo apurado nos balancetes mensais e em cada sexta-feira, mediante
+informação prestada, até a terça-feira seguinte, em documento subscrito pelo diretor responsável,
+observada a forma de calculo prevista no mapa apenso.
+4. Fica revogada a Carta-Circular nº 845, de 27.01.83.
+Brasília (DF), 25 de março de 1983.
+DEPARTAMENTO DE FISCALIZAÇÃO DO MERCADO DE CAPITAIS
+Deli Borges
+CHEFE
+Este texto não substitui o publicado no DOU e no Sisbacen.
+
+Carta-Circular nº 863 de 25 de março de 1983
+
+TÍTULO: DISPOSIÇÕES TRANSITÓRIAS – 29
+CAPÍTULO: Cartas-Circulares Não Codificadas – 3
+SEÇÃO:
+ANEXO I
+BANCOS DE INVESTIMENTO – APLICAÇÕES
+RES. 805/CIRC.
+CADOC 1570
+INSTITUIÇÃO
+
+DATA
+Cr$ Milhões
+
+RUBRICAS
+
+Nº
+
+PROGRAMAÇÃO
+DEZ/82
+
+1.1.10.03.00-6
+
+FINANCIAMENTOS
+FIXO
+
+PARA
+
+CAPITAL
+
+01
+
+1.1.10.06.00-3
+
+FINANCIAMENTOS PARA CAPITAL DE
+MOVIMENTO
+
+02
+
+1.1.10.18.00-8
+
+FINANCIAMENTOS RURAIS
+
+03
+
+1.1.10.21.00-2
+
+FINANCIAMENTOS
+DE
+EMPREENDIMENTOS IMOBILIÁRIOS
+
+04
+
+1.1.10.24.00-9
+
+FINANCIAMENTOS HIPOTECÁRIOS
+
+05
+
+1.1.10.27.00-6
+
+FINANCIAMENTOS A PROFISSIONAIS
+AUTÔNOMOS
+
+06
+
+1.1.10.30.00-7
+
+FINANCIAMENTOS
+ANTECIPAÇÃO
+DE
+ORÇAMENTÁRIAS
+
+08
+
+1.1.10.98.00-4
+
+OUTROS FINANCIAMENTOS
+
+1.1.20.15.00-0
+
+REPASSES
+DE
+RECURSOS
+OPERAÇÕES DETERMINADAS
+
+1.1.25.03.00-0
+
+ARRENDAMENTOS A
+RECURSOS INTERNOS
+
+POR
+RECEITAS
+
+ABR/83
+
+MAIO/83
+
+JUN/83
+
+09
+DE
+
+10
+
+–
+
+11
+
+1.1.40.03.06-5
+
+BANCO
+CENTRAL-CONTA
+DE
+DEPÓSITOS DE RECOLHIMENTOS AO
+FUNAGRI
+
+12
+
+1.1.50.21.00-8
+
+DIREITOS POR CESSÃO DE CRÉDITOS
+
+13
+
+TÍTULOS E VALORES MOBILIÁRIOS
+(ITEM 3 DA CIRCULAR)
+
+14
+
+IOF DE 1983 (SALDO DA CONTA
+ACUMULADO, MÊS A MÊS)
+
+15
+
+(
+
+)
+
+(
+
+)
+
+(
+
+)
+
+(
+
+)
+
+SALDO
+
+16
+
+(
+
+)
+
+(
+
+)
+
+(
+
+)
+
+(
+
+)
+
+DAS
+
+Carta-Circular nº 863, de 25.03.83
+
+RECEBER
+
+OPERAÇÕES
+
+–
+
+TÍTULO: DISPOSIÇÕES TRANSITÓRIAS – 29
+CAPÍTULO: Cartas-Circulares Não Codificadas – 3
+SEÇÃO:
+AUTORIZADAS EXTRALIMITE (VALOR
+BRUTO)
+SALDO DAS OPERAÇÕES C/PEQUENAS
+E MÉDIAS EMPRESAS (RESOLUÇÃO
+803)
+
+17
+
+TOTAL DAS APLICAÇÕES EM CRUZEIROS (*)
+
+18
+
+CRESCIMENTO PERCENTUAL DO TOTAL DO MÊS
+SOBRE O TOTAL DE DEZ/82
+
+19
+
+(
+)
+
+(
+)
+
+(
+)
+
+(
+
+)
+
+(*) Os valores de Dez/82 deverão ser a soma do limite teórico com o IOF
+acumulado de 1981/82
+ASSINATURA
+
+TELEFONE
+
+NOME
+
+CARGO
+ANEXO II
+BANCOS DE INVESTIMENTO — APLICAÇÕES
+RES. 805 /CIRC.
+Informação Semanal
+CADOC 1570
+
+INSTITUIÇÃO
+
+DATA-BASE
+
+RUBRICAS
+
+Nº
+
+1.1.10.03.00-6
+
+FINANCIAMENTOS PARA CAPITAL FIXO
+
+01
+
+1.1.10.06.00-3
+
+FINANCIAMENTOS PARA CAPITAL DE
+MOVIMENTO
+
+02
+
+1.1.10.18.00-8
+
+FINANCIAMENTOS RURAIS
+
+03
+
+1.1.10.21.00-2
+
+FINANCIAMENTOS
+EMPREENDIMENTOS IMOBILIÁRIOS
+
+1.1.10.24.00-9
+
+FINANCIAMENTOS HIPOTECÁRIOS
+
+05
+
+1.1.10.27.00-6
+
+FINANCIAMENTOS
+AUTÔNOMOS
+
+06
+
+Carta-Circular nº 863, de 25.03.83
+
+A
+
+DE
+
+PROFISSIONAIS
+
+04
+
+Cr$ Milhões
+
+TÍTULO: DISPOSIÇÕES TRANSITÓRIAS – 29
+CAPÍTULO: Cartas-Circulares Não Codificadas – 3
+SEÇÃO:
+1.1.10.30.00-0
+
+FINANCIAMENTOS AO SETOR PÚBLICO
+
+07
+
+1.1.10.33.00-7
+
+FINANCIAMENTOS POR ANTECIPAÇÃO
+DE RECEITAS ORÇAMENTÁRIAS
+
+08
+
+1.1.10.98.00-4
+
+OUTROS FINANCIAMENTOS
+
+09
+
+1.1.20.15.00-0
+
+REPASSES DE RECURSOS DE OPERAÇÕES
+DETERMINADAS
+
+10
+
+1.1.25.03.00-0
+
+ARRENDAMENTOS
+A
+RECURSOS INTERNOS
+
+–
+
+11
+
+1.1.40.03.06-5
+
+BANCO
+CENTRAL
+–
+CONTA
+DE
+DEPÓSITOS – DE RECOLHIMENTOS AO
+FUNAGRI
+
+12
+
+1.1.50.21.00-8
+
+DIREITOS POR CESSÃO DE CRÉDITOS
+
+13
+
+TÍTULOS E VALORES MOBILIÁRIOS (ITEM
+3 DA CIRCULAR)
+
+14
+
+IOF DE 1983 (SALDO DA CONTA
+ACUMULADO, MÊS A MÊS, ATÉ A DATABASE)
+
+15 (
+
+)
+
+SALDO DAS OPERAÇÕES AUTORIZADAS
+EXTRALIMITE
+(VALOR
+BRUTO
+–
+DISCRIMINAÇÃO NO VERSO)
+
+16 (
+
+)
+
+SALDO DAS OPERAÇÕES C/ PEQUENAS E
+MÉDIAS EMPRESAS (RESOLUÇÃO 803)
+
+17 (
+
+)
+
+RECEBER
+
+TOTAL SOB LIMITE (01 + ... + 14) – (15 + 16 + 17)
+
+18
+
+VALOR-BASE (DEZEMBRO/82)
+
+19
+
+CRESCIMENTO PERCENTUAL {(18/19) - 1} x 100
+
+20
+
+APLICAÇÕES EM DEBÊNTURES (RESOLUÇÃO 756)
+
+21
+
+DEBÊNTURES CONVERSÍVEIS ADQUIRIDAS NA FORMA
+DO § 1º DO ART. 57 DA LEI 6.404/76
+
+22
+
+TOTAL SOB LIMITE (21-22)
+
+23
+
+LIMITE PARA APLICAÇÕES EM DEBÊNTURES (15%
+SOBRE ITEM 18)
+
+24
+
+MARGEM (EXCESSO) (24-23)
+
+25
+
+Carta-Circular nº 863, de 25.03.83
+
+TÍTULO: DISPOSIÇÕES TRANSITÓRIAS – 29
+CAPÍTULO: Cartas-Circulares Não Codificadas – 3
+SEÇÃO:
+ASSINATURA
+
+TELEFONE
+
+NOME
+
+CARGO
+
+OPERAÇÕES EXTRALIMITE
+
+(VALORES EM Cr$ MILHÕES)
+
+AUTORIZAÇÕES
+
+OPERAÇÕES CONTRATADAS
+VALOR PRINCIPAL
+(A)
+
+EXPEDIENTE BC
+MUTUÁRIO
+NÚMERO
+
+DATA
+
+Carta-Circular nº 863, de 25.03.83
+
+ENCARGOS
+(B)
+
+VALOR
+BRUTO
+(A + B)
+
+VENCIMENTO

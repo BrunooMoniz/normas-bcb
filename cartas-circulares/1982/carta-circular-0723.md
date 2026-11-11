@@ -1,0 +1,935 @@
+---
+titulo: "Carta Circular Nº 723"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "723"
+data: 1982-03-02
+ementa: "Altera o MCR."
+revogada: true
+versao_texto: "PDF do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2535/1998 DOU 27/8/1998 PAG 31 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2535/1998", "CARTA CIRCULAR 570/1981", "CARTA CIRCULAR 592/1981"]
+referencias: ["ESCLARECE CARTA CIRCULAR BCB 570/1981 ITEM/II AL/A", "CITA CARTA CIRCULAR BCB 592/1981"]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=723"
+arquivo: "https://www.bcb.gov.br/pre/normativos/c_circ/1982/pdf/c_circ_0723_v2_l.pdf"
+sha256_arquivo: 0fcd62404e002d2726fd72d6a4a2d46aefb07bb5375960519b3c774fe2519237
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 723
+
+CARTA-CIRCULAR Nº 723
+Documento normativo revogado pela Resolução 2.535, de 26/08/1998.
+Às Instituições Financeiras do Sistema Nacional de Crédito Rural
+MCR 9-2 - CRÉDITOS DE CUSTEIO — Custeio Agrícola - Valores Básicos de
+Custeio — Comunicamos que foram fixados valores básicos de custeio para o trigo de sequeiro,
+trigo irrigado, aveia, centeio e cevada.
+2. Os créditos de custeio de trigo de sequeiro devem ser concedidos sob as
+condições da alínea ―a‖ do item 2 da Carta-Circular nº 570, de 12.03.81, com as modificações
+introduzidas pela Carta-Circular nº 592, de 15.04.81.
+3. Em conseqüência, anexamos as folhas necessárias á atualização do Manual do
+Crédito Rural (MCR).
+Brasília (DF), 02 de março de 1982.
+DEPARTAMENTO DO CREDITO RURAL
+Geraldo Martins Teixeira
+CHEFE
+Este texto não substitui o publicado no DOU e no Sisbacen
+
+Carta-Circular nº.723, de 02 de março de 1982.
+
+VALOR BÁSICO DE CUSTEIO — VBC
+FAIXAS DE PRODUTIVIDADE — Kg/ha
+REGIÕES NORTE, CENTRO-OESTE,SUL e SUDESTE
+e aos ESTADOS DO MARANHÃO, PIAUÍ E BAHIA — SAFRA 1981/82
+PRODUTOS
+ALGODÃO HERBÁCEO
+ALHO NOBRE (1)
+ALHO PRECOCE (1)
+AMENDOIM
+ARROZ IRRIGADO
+ARROZ SEQUEIRO
+AVEIA
+BATATA SEMENTE (1)
+CASTANHA DO BRASIL
+CASTANHA DE CAJU
+CASULO VERDE
+CENTEIO
+CEVADA
+CERA DE CARNAÚBA
+FEIJÃO DA SECA
+
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+
+2
+1.001
+1.200
+3.501
+4.500
+2.501
+3.500
+1.401
+2.300
+2.801
+3.400
+1.001
+1.300
+1.001
+1.400
+12.001
+15.000
+
+FAIXAS DE PRODUTIVIDADE
+3
+4
+5
+
+1
+—
+1.000
+—
+3.500
+—
+2.500
+—
+1.400
+—
+2.800
+—
+1.000
+—
+1.000
+—
+12.000
+—
+ÚNICA
+—
+800
+
+Acima de
+800
+
+ÚNICA
+—
+1.200
+—
+1.200
+
+1.201
+1.600
+1.201
+1.600
+
+Acima de
+2.000
+1.601
+2.000
+
+Acima de
+2.000
+
+401
+600
+
+601
+800
+
+801
+1.000
+
+ÚNICA
+—
+400
+
+FEIJÃO IRRIGADO
+
+DE
+ATÉ
+
+GIRASSOL
+
+DE
+ATÉ
+
+GUARANÁ
+
+DE
+ATÉ
+
+JUTA/MALVA
+
+DE
+ATÉ
+
+MAMONA (1º ano)
+
+DE
+ATÉ
+
+MAMONA (2º ano)
+
+DE
+ATÉ
+
+MANDIOCA
+
+DE
+ATÉ
+
+—
+
+1.801
+2.200
+
+1.800
+—
+
+Acima de
+1.800
+
+1800
+—
+
+Acima de
+200
+
+200
+—
+
+1.001
+1.300
+
+Acima de
+1.300
+
+901
+1.400
+
+1.401
+1.900
+
+901
+1.400
+
+Acima de
+1.400
+
+1.000
+—
+900
+—
+900
+—
+10.000
+MENTA
+
+DE
+ATÉ
+
+—
+80
+
+Carta-Circular nº.723, de 02.03.1982.
+
+Acima de
+1.900
+
+Acima de
+1.000
+
+6
+
+7
+
+8
+
+VALOR BÁSICO DE CUSTEIO – VBC
+FAIXAS DE PRODUTIVIDADE – Kg/ha
+REGIÕES NORTE, CENTRO-OESTE, SUL E SUDESTE
+E OS ESTADOS DO MARANHÃO, PIAUÍ E BAHIA – SAFRA 1981/82
+PRODUTOS
+
+FAIXAS DE PRODUTIVIDADE
+4
+5
+
+2
+901
+1.300
+2.001
+3.000
+Acima de
+2.000
+Acima de
+660
+1.251
+1.750
+Acima de
+3.000
+
+3
+
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+
+1
+—
+900
+—
+2.000
+—
+2.000
+—
+660
+—
+1.250
+—
+2.000
+
+TRIGO SEQUEIRO
+
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+
+—
+ÚNICA
+—
+1.200
+—
+600
+
+1.201
+1.500
+601
+800
+
+1.501
+1.800
+801
+1.000
+
+TRIGO IRRIGADO
+
+DE
+ATÉ
+
+—
+2.200
+
+—
+2.200
+
+Acima de
+2.200
+
+MILHO
+RAMI
+SEMENTE HÍBRIDA
+DE SORGO
+SISAL (1)
+SOJA
+SORGO
+TRIGO MOURISCO
+OU SARRACENO
+TRIGO SEQUEIRO (2)
+
+Acima de
+1.800
+1.001
+1.200
+
+1.201
+1.400
+
+6
+
+7
+
+1.401
+1.600
+
+Acima
+de
+1.600
+
+8
+
+(1) VÁLIDO PARA TODO O TERRITÓRIO NACIONAL
+(2) VÁLIDO PARA OS ESTADOS DE MG,GO,DF,MT e BA
+(3) VÁLIDO PARA TODO O TERRITÓRIO NACIONAL, EXCETO OS ESTADOS DE
+MG,GO,MT,BA e DF
+
+Carta-Circular nº.723, de 02.03.1982.
+
+9
+
+VALOR BÁSICO DE CUSTEIO – VBC
+PROJEÇÃO DE DESEMBOLSO – Cr$/ha
+REGIÕES NORTE, CENTRO-OESTE, SUL E SUDESTE
+E os ESTADOS DO MARANHÃO, PIAUÍ E BAHIA – SAFRA 1981/82
+PRODUTOS
+ALGODÃO HERBÁCEO
+ALHO NOBRE (1)
+ALHO
+PRECOCE (1)
+AMENDOIM (6)
+ARROZ IRRIGADO
+— irrigação mecânica
+— irrigação natural
+ARROZ SEQUEIRO
+— ―em toco‖
+— Região SUDAM
+— DEMAIS REGIÕES
+AVEIA (10)
+BATATA
+SEMENTE (1) (6)
+CASTANHA DO
+BRASIL (2)
+CASTANHA DE CAJU
+(1)
+CASULO VERDE
+CENTEIO (10)
+CERA DE CARNAÚBA
+(1) (3)
+CEVADA (10)
+FEIJÃO (6)
+FEIJÃO IRRIGADO (6)
+GIRASSOL (6)
+GUARANÁ
+JUTA/MALVA
+MAMONA (1ºano)
+MAMONA
+(2º ano)
+MANDIOCA
+MENTA
+MILHO
+RAMI
+SEMENTE HÍBRIDA DE
+SORGO
+(8)
+SISAL (1)
+SOJA
+SORGO (6)
+TRIGO MOURISCO OU
+SARRACENO
+TRIGO SEQUEIRO
+(5)(7)
+TRIGO SEQUEIRO
+(70(9)
+TRIGO IRRIGADO (7)
+UVA COMUM
+UVAS VINÍFERAS
+
+FAIXAS DE PRODUTIVIDADE
+4
+5
+6
+60.900,00
+69.300,00
+76.200,00
+449.900,00
+474.700,00
+257.400,00
+305.300,00
+
+1
+38.100,00
+268.900,00
+145.800,00
+
+2
+43.800,00
+327.200,00
+189.400,00
+
+3
+54.300,00
+381.700,00
+230.800,00
+
+24.600,00
+
+47.900,00
+
+51.600,00
+
+40.100,00
+
+47.300,00
+
+56.400,00
+
+64.100,00
+
+33.400,00
+
+38.200,00
+
+45.200,00
+
+50.100,00
+
+9.500,00
+12.800,00
+12.700,00
+16.000,00
+483.800,00
+
+12.600,00
+17.600,00
+16.000,00
+21.700,00
+567.800,00
+
+14.200,00
+22.700,00
+20.600,00
+28.800,00
+641.900,00
+
+15.100,00
+28.700,00
+26.100,00
+33.500,00
+653.000,00
+
+7
+
+8
+
+9
+
+21.800,00
+
+24.700,00
+
+28.400,00
+
+32.800,00
+
+46.800,00
+
+54.200,00
+
+900,00
+14.100,00
+
+16.200,00
+
+77.600,00
+19.600,00
+1.900,00
+
+24.700,00
+
+28.600,00
+
+22.400,00
+10.400,00
+48.600,00
+25.200,00
+22.000,00
+49.400,00
+15.900,00
+12.900,00
+
+28.500,00
+22.700,00
+58.600,00
+31.600,00
+46.400,00
+54.400,00
+20.000,00
+15.500,00
+
+38.700,00
+25.800,00
+65.200,00
+
+56.100,00
+24.400,00
+16.600,00
+
+33.700,00
+
+17.800,00
+21.800,00
+7.700,00
+55.700,00
+
+20.500,00
+44.300,00
+11.700,00
+64.500,00
+
+27.900,00
+
+30.800,00
+
+33.800,00
+
+13.400,00
+71.800,00
+
+16.200,00
+
+18.900,00
+
+27.800,00
+13.400,00
+17.000,00
+14.300,00
+15.200,00
+
+32.800,00
+16.300,00
+20.200,00
+26.600,00
+
+22.000,00
+29.700,00
+
+25.200,00
+
+27.000,00
+
+27.400,00
+
+33.500,00
+
+38.000,00
+
+43.500,00
+
+19.000,00
+
+25.200,00
+
+29,800,00
+
+34.200,00
+
+55.000,00
+132.200,00
+154.700,00
+
+58.200,00
+
+42.500,00
+34.100,00
+
+40.300,00
+
+41.200,00
+
+(1 ) — Válido para todo o território nacional
+( 2) — Valor por hectolitro
+( 3) — Valor por 15 kg
+( 4) — Os créditos só podem ser concedidos aos beneficiários que mantiverem o produto
+plantado no ano anterior.
+( 5) — Válido somente para os Estados de MG,GO,DF,MT,e BA
+( 6) — 2ª safra (sacas) — 1981/1982
+( 7) — Safra 1982
+(8 ) — Válido para as regiões Centro-Oeste, Sul e Sudeste.
+( 9) — Válido para o território nacional, exceto os Estados de MG,GO,MT,BA e DF
+(10) — Safra 1982/1983
+NOTA — Os valores constantes deste quadro não incluem as despesas de transporte externo,
+secagem, classificação e beneficiamento do produto, para as quais as normas admitem a
+concessão de oportuno crédito de pré-comercialização.
+Carta-Circular nº.723, de 02.03.1982.
+
+VALOR BÁSICO DE CUSTEIO — VBC
+FAIXAS DE PRODUTIVIDADE — Kg/ha
+REGIÃO NORDESTE E TERRITÓRIO FEDERAL DE RORAIMA — SAFRA 1982
+FAIXAS DE PRODUTIVIDADE
+PRODUTOS
+1
+2
+3
+4
+5
+6
+7
+8
+DE
+—
+151
+201
+251
+301
+ALGODÃO ATÉ
+150
+200
+250
+300
+400
+DE
+—
+901
+1.401 Acima
+ATÉ
+900
+1.400
+2.300
+de
+AMENDOIM
+2.300
+DE
+ATÉ
+
+—
+2.000
+
+2.001
+3.000
+
+3.001
+4.000
+
+DE
+ATÉ
+
+—
+600
+
+601
+1.000
+
+1.001
+1.300
+
+DE
+ATÉ
+DE
+ATÉ
+
+—
+200
+—
+1.200
+
+201
+300
+1.201
+1.500
+
+DE
+ATÉ
+DE
+ATÉ
+
+—
+900
+—
+900
+
+901
+1.400
+901
+1.400
+
+DE
+MANDIOCA ATÉ
+DE
+MILHO
+ATÉ
+
+—
+2.500
+—
+300
+
+2.501
+5.000
+301
+500
+
+DE
+ATÉ
+
+—
+2.500
+
+2.501
+
+DE
+ATÉ
+
+—
+1.500
+
+3.000
+
+301
+401
+400
+500
+Acima
+de
+1.500
+Acima
+de1.400
+Acima
+de
+1.400
+5.001
+7.501 10.001 12.501 15.001 20.001
+7.500 10.000 12.500 15.000 20.000 25.000
+501
+701
+901
+1.201 1.501 Acima
+700
+900
+1.200 1.500 1.900
+de
+1.900
+3.001 Acima
+3.500
+de
+3.500
+2.001 Acima
+2.500
+de
+2.500
+
+ARROZ
+IRRIGADO
+ARROZ
+SEQUEIRO
+FEIJÃO
+FEIJÃO
+IRRIGADO
+MAMONA
+(1º ano)
+MAMONA
+(2º ano)
+
+MILHO
+IRRIGADO
+SORGO
+
+Carta-Circular nº.723, de 02.03.1982.
+
+Acima
+de
+4.000
+1.301
+1.600
+
+Acima
+de
+1.600
+501
+700
+
+PRODUTOS
+
+ALGODÃO
+
+AMENDOIM
+ARROZ
+IRRIGADO
+FEIJÃO
+FEIJÃO
+IRRIGADO
+MAMONA
+(1º ano)
+MAMONA
+(2º ano)
+MANDIOCA
+
+MILHO
+MILHO
+IRRIGADO
+SORGO
+
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+
+9
+1.101
+1.400
+
+FAIXAS DE PRODUTIVIDADE
+10
+11
+12
+13
+14
+1.401 Acima
+1.800
+de
+1.800
+
+Acima
+de
+25.000
+
+DE
+ATÉ
+DE
+ATÉ
+DE
+ATÉ
+
+Carta-Circular nº.723, de 02.03.1982.
+
+15
+
+16

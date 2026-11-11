@@ -1,0 +1,64 @@
+---
+titulo: "Carta Circular Nº 2.115"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "2115"
+data: 1990-10-05
+ementa: "Altera constituição do Grupo Consultivo para Assuntos de Compensação."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Carta Circular BCB nº 2.174/1991 DOU 12/6/1991 p. 11241 - Revogação total."]
+normas_vinculadas: ["CARTA CIRCULAR 1226/1985", "CARTA CIRCULAR 2174/1991"]
+referencias: ["Revoga Carta Circular BCB nº 1.226/1985."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2115"
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 2.115
+
+```
+                      CARTA-CIRCULAR N. 002115
+                      ------------------------
+
+AS
+INSTITUICOES FINANCEIRAS PARTICIPANTES DO
+SERVICO DE COMPENSACAO DE CHEQUES E OUTROS PAPEIS.
+
+                              ALTERA CONSTITUICAO DO GRUPO CONSULTIVO
+                              PARA ASSUNTOS DE COMPENSACAO
+
+                    COMUNICAMOS  QUE O GRUPO CONSULTIVO PARA ASSUNTOS
+DE  COMPENSACAO, COORDENADO PELO EXECUTANTE DO SERVICO DE COMPENSACAO
+DE  CHEQUES E OUTROS PAPEIS, PASSA A SER CONSTITUIDO DA SEGUINTE FOR-
+MA:
+
+A) REPRESENTANTES INDICADOS PELA FEDERACAO NACIONAL DE BANCOS E FEDE-
+   RACAO BRASILEIRA DAS ASSOCIACOES DE BANCOS - FENABAN/FEBRABAN:
+
+     I - UM REPRESENTANTE DA FENABAN/FEBRABAN;
+
+    II - DOIS REPRESENTANTES DE BANCOS DE GRANDE PORTE;
+
+   III - TRES REPRESENTANTES DE BANCOS DE MEDIO PORTE;
+
+    IV - UM REPRESENTANTE DE BANCOS DE PEQUENO PORTE;
+
+B) UM REPRESENTANTE DA ASSOCIACAO BRASILEIRA DE BANCOS COMERCIAIS ES-
+   TADUAIS - ASBACE;
+
+C) UM  REPRESENTANTE  DA ASSOCIACAO BRASILEIRA DE BANCOS COMERCIAIS E
+   MULTIPLOS - ABBC; E
+
+D) UM REPRESENTANTE DA ASSOCIACAO BRASILEIRA DE BANCOS INTERNACIONAIS
+   - ABBI.
+
+2.                  FICA  REVOGADA  A  CARTA-CIRCULAR  N.  1.226,  DE
+12.06.85.
+
+                    BRASILIA (DF), 05 DE OUTUBRO DE 1990.
+
+                    DEPARTAMENTO DE OPERACOES BANCARIAS
+
+                    NILTON JUNQUEIRA
+                    CHEFE
+```

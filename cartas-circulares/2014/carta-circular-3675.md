@@ -1,0 +1,110 @@
+---
+titulo: "Carta Circular Nº 3.675"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "3675"
+data: 2014-11-06
+ementa: "Altera a Carta Circular nº 3.562, de 7 de agosto de 2012, que divulga procedimentos a respeito da prestação de informações de que trata a Circular nº 3.569, de 22 de dezembro de 2011."
+revogada: true
+responsavel: "DEBAN"
+versao_texto: "texto do portal do BCB"
+publicacao: "Publicada no DOU de 7/11/2014 , Seção 1, p. 18."
+atualizacoes: ["Carta Circular BCB nº 3.919/2018 - Revogação total."]
+normas_vinculadas: ["CARTA CIRCULAR 3919/2018", "CARTA CIRCULAR 3674/2014", "CARTA CIRCULAR 3562/2012", "CIRCULAR 3723/2014", "CIRCULAR 3569/2011"]
+referencias: ["Portaria BCB nº 29.971/2005, Anexo, art. 22, I, \"a\"; art. 71, II e III; art. 96, II, \"b\" (Regimento Interno do BCB).", "Circular BCB nº 3.569/2011, art. 11-A.", "Circular BCB nº 3.723/2014.", "Altera Carta Circular BCB nº 3.562/2012 - Dá nova redação: art. 2º, I, \"b\", itens 9 e 10; art. 9º, caput; art. 9º, §§ 7º a 11. Revoga: art. 9º, § 9º, VIII.", "Revoga Carta Circular BCB nº 3.674/2014."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=3675"
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 3.675
+
+O Chefe substituto do Departamento de Operações Bancárias e de Sistema de Pagamentos (Deban) e o Chefe do Departamento de Monitoramento do Sistema Financeiro (Desig), no uso das atribuições que lhes conferem o art. 22, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 29.971, de 4 de março de 2005, e respectivamente, os arts. 96, inciso II, alínea “b” e 71, incisos II e III, do referido Regimento, e tendo em vista o disposto no art. 11-A da Circular nº 3.569, de 22 de dezembro de 2011, com a redação dada pela Circular nº 3.723, de 15 de outubro de 2014,
+
+R E S O L V E M:
+
+Art. 1º  A Carta Circular nº 3.562, de 7 de agosto de 2012, passa a vigorar com as seguintes alterações:
+
+“Art.2º ...............................................................
+
+........................................................................
+
+I-......................................................................
+
+........................................................................
+
+b) ......................................................................
+
+.........................................................................
+
+9. CodItem 9022 – saldo devedor atualizado das concessões de
+              operações de crédito para capital de giro contratadas a partir de 27
+              de outubro de 2014;
+
+10. CodItem 9023 – base estática correspondente ao valor nominal da
+              média diária de concessões de operações de crédito para capital de
+              giro, apurada no período de 1º de janeiro a 30 de junho de 2014 e
+              informadas no Sistema de Informações de Créditos – SCR, excluídos
+              os refinanciamentos.
+
+II-......................................................................
+
+....................................................................”(NR)
+              “Art. 9º  Somente os valores informados por meio dos CodItens 9006,
+               9016, 9017, 9018, 9020, 9021, 9022 e 9023, referentes ao último dia do
+               período de cálculo, serão considerados no cálculo da dedução no período
+               de movimentação correspondente.
+
+§1º .....................................................................
+
+.........................................................................
+
+§ 7º Os valores correspondentes aos CodItens 9021 e 9023, no caso de
+             instituições que optem por utilizar o saldo originado conforme alíneas b e
+             c, inciso I, art. 11-A, da Circular n° 3.569, de 2011, deverão
+             considerar as operações da instituição integrante do conglomerado ou da
+             controlada.
+
+§ 8º Para efeito de cálculos dos valores a serem informados nos CodItens
+             9022 e 9023, definem-se:
+
+I - “concessão”: operação contratada por cliente com efetivo desembolso
+              líquido pela instituição financeira concedente, exceto o previsto no §2º
+              do art. 11-A da Circular nº 3.569, de 2011.
+
+II – “refinanciamento”: valor de operação de crédito correspondente ao
+              saldo devedor de operação concedida anteriormente, de mesma modalidade,
+              ainda que realizado novo contrato ou renegociadas as condições de
+              contrato existente.
+
+§ 9º No cálculo dos valores a serem informados no CodItem 9022 e no
+              CodItem 9023 são elegíveis as operações de crédito com recursos livres,
+              classificadas no documento 3040 do SCR nas seguintes modalidades:
+
+I - códigos 0207 e 0404: vendor;
+
+II - códigos 0208 e 0405: compror;
+
+III - código 0215: capital de giro com prazo de vencimento até 365 dias;
+
+IV – código 0216: capital de giro com prazo vencimento superior 365 dias;
+
+V - código 0301: desconto de duplicatas;
+
+VI - código 0302: desconto de cheques; e
+
+VII – código 0303: antecipação de fatura de cartão de crédito.
+
+§ 10 No cálculo do valor do CodItem 9022 são considerados os saldos
+              devedores atualizados informados no documento 3040 do SCR, com o campo de
+              informações adicionais para aplicação regulatória preenchido com o número
+              1406 (Redução de recolhimento compulsório sobre recursos a prazo).
+
+§ 11 Para efeito do cômputo dos valores informados no Coditem 9022,
+              excluem-se os refinanciamentos de operações concedidas anteriormente a 27
+              de outubro de 2014.” (NR)
+
+Art. 2º  Esta Carta Circular entra em vigor na data de sua publicação.
+
+Art. 3º  Fica revogada a Carta Circular 3.674, de 31 de outubro de 2014.
+
+Flávio Túlio Vilela            Gilneu Francisco Astolfi Vivan
+              Chefe do Deban, substituto     Chefe do Desig

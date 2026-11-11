@@ -1,0 +1,52 @@
+---
+titulo: "Carta Circular Nº 2.199"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "2199"
+data: 1991-08-16
+ementa: "SERVICO DE COMPENSACAO DE CHEQUES E OUTROS PAPEIS - DISPOE SOBRE A UTILIZACAO DE BLOQUETOS DE COBRANCA PADRONIZADOS PELA CIRCULAR 1994, DE 25/07/91."
+revogada: true
+responsavel: "DEBAN"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2029/91 DOU 05/09/1991 PAG 18641 - REVOGACAO TOTAL."]
+normas_vinculadas: ["CIRCULAR 2029/91", "CIRCULAR 1994/1991"]
+referencias: ["CITA CIRCULAR BCB 1994/91 ART/2."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2199"
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 2.199
+
+```
+                      CARTA-CIRCULAR N. 002199
+                      ------------------------
+
+AS
+INSTITUICOES FINANCEIRAS PARTICIPANTES  DO  SERVICO DE COMPENSACAO DE
+CHEQUES E OUTROS PAPEIS.
+
+                              SERVICO DE COMPENSACAO DE CHEQUES E OU-
+                              TROS PAPEIS - DISPOE SOBRE A UTILIZACAO
+                              DE  BLOQUETOS DE COBRANCA  PADRONIZADOS
+                              PELA CIRCULAR N. 1.994, DE 25.07.91.
+
+                    ART.  1..  TENDO EM CONTA O CONTIDO NO  PARAGRAFO
+UNICO  DO  ARTIGO 2. DA CIRCULAR N. 1.994, DE 25.07.91,  ESCLARECEMOS
+QUE  A UTILIZACAO DOS NOVOS MODELOS DE BLOQUETOS DE COBRANCA,  INSTI-
+TUIDOS  PELO  MENCIONADO  NORMATIVO,  SERA OBRIGATORIA  A  PARTIR  DE
+25.09.91.
+
+                    PARAGRAFO  UNICO. OS BLOQUETOS DE COBRANCA  AINDA
+NAO  ENQUADRADOS NOS PADROES DIVULGADOS PELA REFERIDA CIRCULAR E EFE-
+TIVAMENTE  EMITIDOS ATE 24.09.91 PODERAO TRANSITAR, APOS AQUELA DATA,
+PELO SERVICO DE COMPENSACAO DE CHEQUES E OUTROS PAPEIS.
+
+                    ART.  2.. ESTA CARTA-CIRCULAR ENTRA EM  VIGOR  NA
+DATA DE SUA PUBLICACAO.
+
+                              BRASILIA (DF), 16 DE AGOSTO DE 1.991
+
+                              DEPARTAMENTO DE OPERACOES BANCARIAS
+
+                              MARCELO MARTINS CURVELO
+                              CHEFE
+```

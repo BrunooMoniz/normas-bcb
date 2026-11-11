@@ -1,0 +1,193 @@
+---
+titulo: "Carta Circular Nº 231"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "231"
+data: 1977-06-03
+ementa: "INFORMA QUE O SISTEMA INTEGRADO OU INTERLIGADO PELO SERVICO DE COMPENSACAO DE CHEQUES E OUTROS PAPEIS NOS MUNICIPIOS QUE INDICA, ABRANGE AS PRACAS CONSTANTES DA RELACAO QUE APRESENTA EM ANEXO."
+revogada: true
+versao_texto: "PDF do portal do BCB"
+atualizacoes: ["Circular BCB nº 2.847/1998 DOU 6/11/1998 p. 25 - Revogação total."]
+normas_vinculadas: ["CIRCULAR 2847/1998", "RESOLUÇÃO 469/1978", "RESOLUÇÃO 428/1977"]
+referencias: ["Cita Resolução CMN nº 428/1977, item II."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=231"
+arquivo: "https://www.bcb.gov.br/pre/normativos/c_circ/1977/pdf/c_circ_0231_v2_l.pdf"
+sha256_arquivo: f35d80f1ad7e2fa3ae3f51fad3c59a1c2534b7323f39913aad5adedd46e2bff9
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 231
+
+CARTA-CIRCULAR Nº 231
+Documento normativo revogado pela Circular nº 2.847, de 5/11/1998.
+Para os efeitos do previsto no item II da Resolução nº 428, de 26.05.77,
+informamos que o sistema integrado ou interligado pelo Serviço de Compensação de Cheques e
+Outros Papéis nos municípios do Rio de Janeiro (RJ), São Paulo (SP), Porto Alegre (RS),
+Curitiba (PR), Belo Horizonte (MG), Salvador (BA) e do Recife (PE), abrange as praças
+Constantes da relação anexa.
+Brasília (DF), 03 de junho de 1977
+DEPARTAMENTO DE FISCALIZAÇÃO
+BANCÁRIA
+Francisco de Assis Figueiredo ―Chefe
+Este texto não substitui o publicado no DOU e no Sisbacen.
+
+Carta-Circular nº. 231 de 03 de junho de 1977.
+
+Anexo à Carta-Circular nº. 231, de 03.06.77
+SERVIÇO DE COMPENSAÇÃO DE CHEQUES E OUTROS PAPÉIS
+Sistema Integrado Regional
+Praças participantes do Sistema centralizado em :
+Número-código da Câmara de Compensação:
+
+BELO HORIZONTE (MG)
+033
+
+Antônio Dias (MG); Baldim (MG); Barão de Cocais (MG) Barbacena (MG); BELO
+HORIZONTE (MG); Betim (MG);Bom Despacho (MG) Bufem (MG) Brumadinho (MG) Caeté
+(MG); Carandaí (MG) Carmo da Mata (MG); Carmópolis de Minas (MG); Cidade Industrial
+(MG); Congonhas (MG) Conselheiro Lafaiete (MG); Contagem (MG); Cordisburgo (MG);
+Corinto (MG); Cristiano Otoni (MG); Crucilândia (MG); Curvelo (MG); Divinópolis (MG);
+Entre Rios de Minas (MG); Formiga (MG); Ibirité (MG); Igarapé (MG); Itabira (MG); Itabirito
+(MG); Itaguara (MG); Itaúna (MG); João Montevade (MG); José Brandão (MG); Lagoa Dourada
+(MG); Lagoa Santa (MG); Mariana (MG); Mateus Leme (MG); ,Matozinhos (MG) Nova Lima
+(MG); Nova Serrana (MG) Oliveira (MG); Ouro Preto (MG); Pará de Minas (MG); Paraopeba
+(MG); Pedro Leopoldo (MG); Pitangui (MG) Ponte Nova (MG); Rio Acima (MG); Sabará
+(MG); Santa Bárbara (MG); Santa Luzia (MG); Santa Maria de Itabira (MG); São João Del Rei
+(MG); Sete Lagoas (MG); Vespasiano (MG).
+Praças participantes do Sistema centralizado em:
+
+CURITIBA (PR)
+
+Número-código da Câmara de Compensação:
+
+009
+
+Antonina (PA); Araucária (PR); Campo Largo (PR); Castro (PR); Colombo (PR);Contenda (PR);
+CURITIBA (PR); Irati (PR); ltaiópolis (SC); Joinvile (SC); Lapa (PR); Mafra (SC); Morretes
+(PR); Palmeira (PR); Papanduva (SC); Paranaguá (PR); Piraquara (PR); Ponta Grossa (PR); Rio
+Branco do Sul (SC); Rio Negrinho (SC); Rio Negro (PR);São Bento do Sul (SC); São José dos
+pinhais (PR); São Mateus do Sul (PR).
+Praças participantes do Sistema centralizado em:
+
+LONDRINA (PR)
+
+Número-código da Câmara de Compensação:
+
+108
+
+Andirá (PR); Apuracana (PR); Arapongas (PR); Assaí (PR) Assis (SP); Astorga (PR);
+Bandeirantes (PR); Bela Vista do Paraíso (PR); Cambará (PR); Cambé (PR);Congonhinhas (PR);
+Cornélio Procópio (PR); Faxinal (PR); Florestópolis (PR); Ibiporã (PR); Ivaiporã (PR);
+Jacarezinho (PR); Jaguepitã (PR); Jardim Alegre (PR); Jataizinho (PR); Leópolis (PR);
+LONDRINA (PR); Nova Fátima (PR) ; Ourinhos (SP);Porecatu (PR); Primeiro de Maio (PR);
+Rolâmdia (PR); Sabáudia (PR) ; Santa Mariana (PR) Santo Antônio da Platina (PR); São
+Martinho (PR); Sertaneja (PR); Sertanópolis (PR); Tamarena (PR); Telêmaco Borba (PR) Uraí
+(PR).
+
+Carta-Circular nº. 231 de 03 de junho de 1977.
+
+Praças participantes do Sistema centralizado em:
+
+MARINGÁ (PR)
+
+Número-código da Câmara de Compensação:
+
+352
+
+Alto Paraná (PR); Cambira (PR); Campo Mourão (PR); Cianorte (PR); Cruzeiro do Oeste (PR);
+Cruzeiro do Sul (PR); Doutor Camargo (PR); Engenheiro Beltrão (PR); Floraí (PR) Floresta
+(PR); Iporã (PR); Itambé (PR); Ivatuva (PR); Jandaia do Sul (PR); Japurá (PR); Jussara (PR);
+Mandaguaçu (PR); Mandaguari (PR); Marialva (PR); MARINGÁ (PR); Nova Esperança (PR);
+Ourizona (PR); Paiçandu (PR); Paranacity (PR); Paranavaí (PR); Peabiru (PR); São Jorge do Ivaí
+(PR); São Tomé (PR); Tapejara (PR); Terra Boa (PR); Ubiratã (PR); Umuarama (PR).
+Praças participantes do Sistema centralizado em:
+
+PORTO ALEGRE(PR)
+
+Número-código da Câmara de Compensação:
+
+010
+
+Alvorada (RS); Arroio do Meio (RS); Arroio dos Ratos (RS); Barra do Ribeiro (RS); Bento
+Gonçalves (RS); Bom Retiro do Sul (RS); Butiá (RS); Cachoeira do Sul (RS); Cachoerinha (RS);
+Camaquã (RS); Campo Bom (RS); Canela (RS); Canoas (RS); Capão da Canoa (RS); Carlos
+Barbosa (RS); Caxias do Sul (RS); Charqueadas (RS);Cruzeiro do Sul (RS); Dois Irmãos (RS);
+Encantado (RS);Estância Velha (RS); Esteio (RS); Estrela (RS); Farroupilha (RS); Feliz (RS);
+Flores da Cunha (RS); Garibaldi (RS); Gramado (RS); Gravataí (RS); Guaíba (RS); Igrejinha
+(RS); Ivoti (RS); Laleado (RS); Montenegro (RS); Muçum (RS); Nova Petrópolis (RS); Novo
+Hamburgo (RS); Osório (RS); Pântano Grande (RS); Portão (RS); PORTO ALEGRE (RS); Rio
+Pardo (AS); Salvador do Sul (RS); Santa Cruz do Sul (RS); Santo Antônio da Patrulha (RS); São
+Francisco de Paulo (RS); São Jerônimo (RS); São Leopoldo (RS); São Sebastião do Caí (RS);
+Sapiranga (RS); Sapucaia do Sul (RS); Tapes (RS); Taquara (RS);Taquari (RS); Torres (RS);
+Tramandaí (RS); Três Coroas (RS); Triunfo (RS); Venâncio Aires (RS); Vera Cruz (RS);
+Veranópolis (RS); Viamão (RS).
+Praças participantes do Sistema centralizado em:
+
+RECIFE (PE)
+
+Número-código da Câmara de Compensação:
+
+007
+
+Barreiros (PE); Belo Jardim (PE); Bezerros (PE) ; Cabo (PE); Carpina (PE); Caruaru (PE);
+Catende (PE); Escada (PE); Goiana (PE); Gravatá (PE); Igarassu (PE); Jaboatão (PE); Limoeiro
+(PE); Moreno (PE); Nazaré da Mata (PE) ;Palmares (PE); Paudalho (PE); Paulista (PE); RECIFE
+(PE); Ribeirão (PE); Rio Formoso (PE); São Lourenço da Mata (PE); Surubim (PE); Timbaúba
+(PE); Vitória de Santo Antão (PE).
+
+Carta-Circular nº. 231 de 03 de junho de 1977.
+
+Praças participantes do Sistema centralizado em:
+Número-código da Câmara de Compensação:
+
+RIO DE JANEIRO (RJ)
+001
+
+Angra dos Reis (RJ); Araruama (RJ); Areal (RJ) Arraial do Cabo (RJ); Austin (RJ); Bacaxá (RJ);
+Barra Mansa (RJ); Barra do Piraí (RJ); Belford Roxo (RJ); Cabo Frio (RJ); Cachoeiro de Macacu
+(RJ); Campos Elíseos (RJ); Casimiro de Abreu (RJ); Coelho da Rocha (RJ); Duque de Caxias
+(RJ); Engenheiro Paulo de Frontin (RJ); Itaboraí(RJ); Itaguaí (RJ); Magé (RJ); Mangaratiba
+(RJ); Maricá (RJ); Mendes (RJ); Mesquita (RJ); Miguel Couto (RJ); Miguel Pereira
+(RJ);Nilópolis (RJ); Niterói (RJ); Nova Friburgo (RJ); Nova Iguaçu (RJ); Olinda (RJ);
+Paracambi (RJ); Parada Angélica (RJ); Paraíba do Sul (RJ); Pati do Alferes (RJ); Pedro do Rio
+(RJ); Petrópolis (RJ); Piabetá (RJ); Piraí (RJ); Queimados (RJ); Resende (RJ); Rio Bonito (RJ);
+Rio Claro (RJ); RIO DE JANEIRO (RJ); São Gonçalo (RJ); São João do Meriti (RJ); São José
+do Rio Preto (RJ) ; São Gonçalo (RJ); São João do Meriti (RJ); São José do Rio de Preto (RJ);
+São Pedro da Aldeia (RJ); Saquarema (RJ); Saracuruna (RJ); Silva Jardim (RJ); Tanguá (RJ);
+Teresópolis (RJ); Três Rios (RJ); Valença (RJ); Vassouras (RJ); Venda das Pedras (RJ); Vilar
+dos Teles (RJ); Volta Redonda (RJ).
+Praças participantes do Sistema centralizado em:
+
+SALVADOR (BA)
+
+Número-código da Câmara de Compensação:
+
+006
+
+Alagoinhas (BA); Cachoeira (BA); Camaçari (BA); Candeias (BA); Castro Alves (BA); Catu
+(BA); Conceição do Almeida (BA); Conceição do Jacuípe (BA); Coração de Maria (BA) Cruz
+das Almas (BA); Feira de Santana (BA); Irará (BA); Madre de Deus (BA); Maragogipe (BA);
+Mata de São João (BA); Muritiba (BA); Nazaré (BA); Pojuca (BA);SALVADOR (BA); Santo
+Amaro (BA); São Felix (BA); São Francisco do Conde (BA); São Gonçalo dos Campos (BA);
+São Sebastião do Passé (BA); Serrinha (BA); Simões Filho (BA).
+Praças participantes do Sistema centralizado em:
+Número-código da Câmara de Compensação:
+
+SÃO PAULO (SP)
+018
+
+Arujá (SP); Atibaia (SP); Barueri (SP); Biritiba-Mirim (SP); Bom Jesus dos Pedrões (SP);
+Bragança Paulista (SP); Brás Cubas (SP); Cabreuva (SP); Caieiras (SP); Cajamar (SP);
+Campinas (SP); Campo Limpo Paulista (SP); Carapicuiba (SP); Cotia (SP); Diadema (SP);
+Embu (SP); Embu Guaçu (SP); Ferraz de Vasconcelos (SP);Francisco Morato (SP); Franco da
+Rocha (SP); Guararema (SP); Guarulhos (SP); lbiúna (SP); Igaratá (SP); Itapecerica da Serra
+(SP); Itapevi (SP); Itaquaquecetuba (SP); Itaquera (SP); Itu (SP); Jacareí (SP); Jandira (SP);
+Jundiaí (SP); Louceira (SP); Mairinque (SP); Mairiporã (SP); Mauá (SP); Mogi das Cruzes (SP);
+Nazaré Paulista (SP); Osasco (SP); Perus (SP); Piedade (SP); Piracaia (SP); Pirapora do Bom
+Jesus (SP); Poá (SP); Porto Feliz (SP); Ribeirão Pires (SP); Rio Grande da Serra (SP);
+Salesópolis (SP); Salto (SP); Santa Isabel (SP); Santana da Parnaíba (SP); Santo André (SP);
+Santos (SP); São Bernardo do Campo (SP); São Caetano do Sul (SP); São José dos Campos
+(SP); São Miguel Paulista (SP); SÃO PAULO (SP); São Roque (SP); São Vicente (SP);
+Sorocaba (SP); Suzano (SP); Taboão da Serra (SP); Tietê (SP); Valinhos (SP); Várzea Paulista
+(SP); Vinhedo (SP); Votorantim (SP)
+
+Carta-Circular nº. 231 de 03 de junho de 1977.

@@ -1,0 +1,202 @@
+---
+titulo: "Carta Circular Nº 1.242"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "1242"
+data: 1985-07-09
+ementa: "RELACIONA PESSOAS FISICAS E JURIDICAS IMPEDIDAS DE PARTICIPAR DE OPERACOES DE CREDITO DE QUALQUER MODALIDADE, COMO TOMADORAS OU INTERVENIENTES, NA FORMA DO MCR."
+revogada: true
+versao_texto: "PDF do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2535/98 DOU 27/08/1998 PAG 31 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2535/1998"]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=1242"
+arquivo: "https://www.bcb.gov.br/pre/normativos/c_circ/1985/pdf/c_circ_1242_v2_l.pdf"
+sha256_arquivo: fbb1df7292eab3784504304b80c3de49c57dee96603ff267e3f647a760fdf46f
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 1.242
+
+CARTA-CIRCULAR Nº 1.242
+Documento normativo revogado pela Resolução 2.535, de 26/08/1998.
+Às Instituições Financeiras do Sistema Nacional de Crédito Rural
+Comunicamos que fica suspenso o impedimento das pessoas físicas e jurídicas
+indicadas na relação anexa, na forma do MCR 2-2-18.
+Brasília (DF), 09 de julho de 1985.
+DEPARTAMENTO DO CRÉDITO RURAL
+Geraldo Martins Teixeira
+CHEFE
+Este texto não substitui o publicado no DOU e no Sisbacen.
+
+Carta-Circular nº 1.242, de 09 de julho de 1985
+
+TÍTULO: CRÉDITO RURAL
+CAPÍTULO: Documentos Não Codificados – 39
+SEÇÃO: Cartas-Circulares – 3
+NOME
+
+CGC/CPF/DT NAS.
+
+MUNICÍPIO (UF)
+
+AFONSO AIRES DA SILVA
+
+015.338.191-49
+
+GOIANIA (GO)
+
+AIRES E RODRIGUES LTDA
+
+01.304.021/0002-44
+
+GOIANIA (GO)
+
+ANA LUCIA DA CRUZ BORGES
+
+049.067.802-53
+
+RIO BRANCO (AC)
+
+ANDRE FABRICIO DE OLIVEIRA
+
+068.569.504-20
+
+CAICARA (PB)
+
+ANTONIO LUIZ DE PAULA MUSSI
+
+026.308.258-09
+
+ITUVERAVA (SP)
+
+ANTONIO NUNES PAES DE MELLO
+
+108.140.008-00
+
+ARACATUBA (SP)
+
+APARECIDO CARLOS GAVA
+
+371.385.298-72
+
+ARAGUAIANA (GO)
+
+CAIO LUCIO FONTOURA
+
+036.308.976-49
+
+UBERABA (MG)
+
+CODISAL-COMERCIAL DISTRIBUIDORA DE ADUBOS LTDA
+
+14.378.517/0001-23
+
+VITORIA DA CONQUISTA (BA)
+
+DIRCEU ALVES DA SILVA
+
+012.361.808-87
+
+CATALÃO (GO)
+
+EDUARDO MARTINS LENZ
+
+265.445.630-72
+
+SÃO BORJA (RS)
+
+FRANCISCO ROMUALDO DE SOUSA
+
+031.740.693-00
+
+CANINDE (CE)
+
+HELIO SILVA SALGUEIRO
+
+033.174.476-72
+
+RESPLENDOR (MG)
+
+JESUINO MOREIRA DOS SANTOS
+
+039.055.431-68
+
+MONTES CLAROS DE GOIAS (GO)
+
+JOÃO DAS DORES ARANHA
+
+133.974.001-04
+
+PILAR DE GOIAS (GO)
+
+JORGE ANIBAL RODRIGUES
+
+100.226.519-34
+
+IPIRANGA (PR)
+
+JOSÉ ANTENOR FONTES XAVIER
+
+073.937.178-91
+
+CONCEIÇÃO DAS ALAGOAS (MG)
+
+Carta-Circular nº 1.242, de 09 de julho de 1985
+
+TÍTULO: CRÉDITO RURAL
+CAPÍTULO: Documentos Não Codificados – 39
+SEÇÃO: Cartas-Circulares – 3
+LOTHAR NEUHAUS
+
+003.895.440-00
+
+PASSO FUNDO (RS)
+
+MANOEL PEDRO DE SA
+
+036.708.484-87
+
+FLORESTA (PE)
+
+MOISES ELIAS CADDAH
+
+001.494.033-72
+
+TERESINA (PI)
+
+REYNALDO LINS PIMENTA
+
+038.174.316-00
+
+SANTO ANTONIO DO ITAMBE (MG)
+
+ROBERTO LUZ DE CARVALHO
+
+083.364-744-04
+
+VITORIA DA CONQUISTA (BA)
+
+ROMULO LUZ DE CARVALHO
+
+104.504.244-72
+
+VITORIA DA CONQUISTA (BA)
+
+RULLY ARNO MINGHELLI
+
+031.438.050-72
+
+PASSO FUNDO (RS)
+
+SORAIA DE PAULA MUSSI VIDAL
+
+019.801.538-09
+
+ITUVERAVA (SP)
+
+VALDECY LOPES DOS SANTOS
+
+019.617.804-53
+
+FLORESTA (PE)
+
+Carta-Circular nº 1.242, de 09 de julho de 1985

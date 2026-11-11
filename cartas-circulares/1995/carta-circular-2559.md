@@ -1,0 +1,64 @@
+---
+titulo: "Carta Circular Nº 2.559"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "2559"
+data: 1995-07-05
+ementa: "Esclarece a respeito de operacoes ativas e passivas no mercado financeiro com remuneracao baseada na Taxa Basica Financeira - TBF."
+revogada: true
+responsavel: "DENOR"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2276/96 DOU 02/05/1996 PAG 7485 - REVOGACAO: ITEM/I.", "CIRCULAR BCB 2936/99 DOU 15/10/1999 PAG 4 (E) - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2276/96", "RESOLUÇÃO 2118/94", "CIRCULAR 2588/95", "CIRCULAR 2936/99"]
+referencias: ["ESCLARECE CIRCULAR BCB 2588/95.", "ESCLARECE RESOLUÇÃO CMN 2118/94."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2559"
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 2.559
+
+```
+                      CARTA-CIRCULAR N. 002559
+                      ------------------------
+                              Esclarece  a respeito de operacoes ati-
+                              vas  e  passivas no mercado  financeiro
+                              com  remuneracao baseada na Taxa Basica
+                              Financeira - TBF.
+
+               Tendo  em  vista duvidas suscitadas pelo mercado,  com
+respeito  a contratacao de operacoes ativas e passivas no mercado fi-
+nanceiro  com remuneracao baseada na Taxa Basica Financeira - TBF  de
+que trata a Circular n. 2.588, desta data:
+
+               I  - esclarecemos que as operacoes ativas  sujeitas ao
+prazo maximo estipulado pela Resolucao n. 2.118, de 19.10.94, nao po-
+dem ser contratadas com remuneracao baseada na TBF;
+
+              II  - apresentamos exemplos praticos prevendo remunera-
+cao em niveis superiores ou inferiores a TBF:
+
+Exemplo 1:
+Remuneracao prevista no contrato        TBF + 0,125 %
+TBF vigente no periodo de calculo       2,6 %
+Valor do principal                      R! 125.000,00
+
+Calculo:
+Remuneracao  =  2,6 % + 0,125 % = 2,725 %
+Montante     = R! 125.000,00 x (1 + 0,02725) = R! 128.406,25
+
+Exemplo 2:
+Remuneracao prevista no contrato        TBF - 0,05 %
+TBF vigente no periodo de calculo       3 %
+Valor do principal                      R! 100.000,00
+
+Calculo:
+Remuneracao  =  3 % - 0,05 % = 2,95 %
+Montante     = R! 100.000,00 x (1 + 0,0295) = R! 102.950,00.
+
+                              Brasilia, 05 de julho de 1995.
+
+                              DEPARTAMENTO DE NORMAS DO SISTEMA
+                              FINANCEIRO
+
+                              Sergio Darcy da Silva Alves
+                              Chefe
+```

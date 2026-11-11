@@ -1,0 +1,69 @@
+---
+titulo: "Carta Circular Nº 612"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "612"
+data: 1981-06-23
+ementa: "Altera o MCR."
+revogada: true
+versao_texto: "PDF do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2535/1998 DOU 27/8/1998 PAG 31 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2535/1998"]
+referencias: ["CITA DEC 86018/1981"]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=612"
+arquivo: "https://www.bcb.gov.br/pre/normativos/c_circ/1981/pdf/c_circ_0612_v2_l.pdf"
+sha256_arquivo: faef88740dec31e2d91e8ddb8c70e50b3a6e58909f8bc09ba90add0ea7eeb41d
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 612
+
+CARTA-CIRCULAR N° 612
+Documento normativo revogado pela Resolução 2.535, de 26/08/1998.
+Às Instituições Financeiras do Sistema Nacional de Crédito Rural
+MCR 11 — CRÉDITOS DE COMERCIALIZAÇÃO — Comunicamos que o
+Decreto n° 86.018, de 21.05.81, publicado no Diário Oficial da União de 22.05.81, fixou os
+preços mínimos básicos para financiamento e/ou aquisição de sisal, da safra 1981/82.
+2. Em conseqüência, anexamos a folha necessária à atualização do MCR.
+D.O.U. 23.06.81
+Brasília (DF), 23 de junho de 1981
+DEPARTAMENTO DO CRÉDITO RURAL
+Geraldo Martins Teixeira – Chefe
+Este texto não substitui o publicado no DOU e no Sisbacen.
+ATUALIZAÇÃO MNI N° 060
+CRÉDITO RURAL
+Créditos de Comercialização – 11
+Documento alterado
+Documento n° 1 – Fl. 4
+
+Carta-Circular n° 612 de 23 de junho de 1981
+
+4
+OBSERVAÇÕES:
+(1) COMPREENDE SOMENTE OS SEGUINTES MUNICÍPIOS: ABARÉ, ACAJUTIBA,
+ÁGUA FRIA, ALAGOINHAS, AMARGOSA, AMÉLIA RODRIGUES, ANGUERA, ANTAS,
+ANTONIO CARDOSO, ANTÔNIO GONÇALVES, APORÁ, ARACI, ARAMARI,
+ARATUIPE, BIRITINGA, BOA V. DO TUPIM, BREJÕES, CACHOEIRA, CAMAÇARI,
+CAMPO A DE LOURDES, CANDEAL, CANDEIAS, CANSANÇÃO, CARDEAL DA SILVA,
+CASA NOVA, CASTRO ALVES, CATU, CORROCHÓ, CÍCERO DANTAS, CIPÓ,
+CONCEIÇÃO DA FEIRA, CONCEIÇÃO DO ALMEIDA, CONCEIÇÃO DO COITÉ,
+CONCEIÇÃO DO JACUÍPE, CONDE, CORAÇÃO DE MARIA, CORONEL JOÃO SÁ,
+CRAVOLÂNDIA, CRISÓPOLIS, CRUZ DAS ALMAS, CURAÇÁ, DOM MACEDO COSTA,
+ELÍSIO MEDRADO, ENTRE RIOS, ESPLANADA, EUCLIDES DA CUNHA, FEIRA DE
+SANTANA, GLÓRIA, GOVERNADOR MANGABEIRA, IAÇU, IBIQUERA, ICHU,
+INHAMBUPE, IPECAETÁ, IPIRÁ, IRAJUBA, IRARÁ, ITABERABA, ITANAGRA,
+ITAPARICA, ITAPICURU, ITIUBA, JAGUARARI, JAGUARIBE, JANDAIBA,
+JEREMOABO, JIQUIRIÇÁ, JUAZEIRO, LAJE, LAMARAO, LAURO DE FREITAS,
+MACURURÉ, MARAGOGIPE, MATA DE SÃO JOÃO, MILAGRES, MONTE SANTO,
+MUNIZ FERREIRA, MURITIBA, MUTUIPE, NAZARÉ, NOVA ITARANA, NOVA SOURE,
+OLINDINA, OURIÇANGAS, PARIPIRANGA, PAULO AFONSO, PEDRÃO, PEDRO
+ALEXANDRE, PILÃO ARCADO, PINDOBAÇU, POJUCA, QUEIMADAS, QUIJINGUE,
+REMANSO, RETIROLÂNDIA, RIACHÃO DO JACUÍPE, RIBEIRA DO AMPARO,
+RIBEIRA DO POMBAL, RIO REAL, RODELAS, SALINAS DA MARGARIDA,
+SALVADOR, SANTA BÁRBARA, SANTA BRIGIDA, SANTA INÊS, SANTALUZ,
+SERTANÓPOLIS, SANTA TERESINHA, SANTO AMARO, SANTO A DE JESUS, SANTO
+ESTEVÃO, SÃO FÉLIX, SÃO FELIPE, SÃO F. DO CONDE, SÃO G DOS CAMPOS, SÃO
+M. DAS MATAS, SÃO S. DO PASSÉ, SAPEAÇU, SÁTIRO DIAS, SENHOR DO BONFIM,
+SERRA PRETA, SERRINHA, SIMÕES FILHO, TANQUINHO, TEODORO SAMPAIO,
+TEOFILÂNDIA, TERRA NOVA, TUCANO, UAUÁ, UBAÍRA, VALENTE E VERA CRUZ.
+
+Carta-Circular n° 612 de 23 de junho de 1981

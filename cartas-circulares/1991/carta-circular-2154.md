@@ -1,0 +1,57 @@
+---
+titulo: "Carta Circular Nº 2.154"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "2154"
+data: 1991-03-05
+ementa: "SOLICITA INFORMACOES SOBRE OS FUNDOS DE APLICACAO FINANCEIRA."
+revogada: true
+responsavel: "DEASF"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2209/92 DOU 07/08/1992 PAG 10775 - REVOGACAO TOTAL.", "CARTA CIRCULAR BCB 2303/92 DOU 19/08/1992 PAG 11270 - REVOGACAO: ART/1."]
+normas_vinculadas: ["CARTA CIRCULAR 2303/92", "CIRCULAR 2209/92", "CIRCULAR 1903/91"]
+referencias: ["CIRCULAR BCB 1903/91 ART/41 (REGULAMENTO)."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2154"
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 2.154
+
+```
+                      CARTA-CIRCULAR N. 002154
+                      ------------------------
+AS
+INSTITUICOES ADMINISTRADORAS DOS FUNDOS DE APLICACAO FINANCEIRA
+
+                              SOLICITA INFORMACOES SOBRE OS FUNDOS
+                             DE APLICACAO FINANCEIRA.
+
+                              TENDO  EM VISTA O DISPOSTO NO ARTIGO 41
+DO REGULAMENTO ANEXO A CIRCULAR 1.903, DE 26.02.91, COMUNICAMOS QUE:
+
+                    ART. 1.. AS INSTITUICOES ADMINISTRADORAS DE FUNDO
+DE  APLICACAO FINANCEIRA DEVEM ENCAMINHAR AO DEPARTAMENTO DE  ESTUDOS
+ESPECIAIS  E ACOMPANHAMENTO DO SISTEMA FINANCEIRO - DEASF, ATE O  DIA
+15 DE MARCO DO CORRENTE ANO, AS SEGUINTES INFORMACOES:
+
+                    I - TAXA DE ADMINISTRACAO COBRADA PELO FUNDO;
+
+                   II  - VALOR MINIMO E MAXIMO (SE HOUVER) PARA APLI-
+CACAO INICIAL NO FUNDO;
+
+                  III  - VALOR MINIMO E MAXIMO (SE HOUVER) PARA APLI-
+CACAO E RESGATE DE RECURSOS NO FUNDO.
+
+                    ART. 2.. AS INFORMACOES SOLICITADAS DEVEM SER EN-
+CAMINHADAS ATRAVES DO FAX (061) 214-1240 OU DO TELEX 61-1828.
+
+                    ART.  3..  ESTA CARTA-CIRCULAR ENTRA EM VIGOR  NA
+DATA DE SUA PUBLICACAO.
+
+                              BRASILIA (DF), 05 DE MARCO DE 1991
+
+                              DEPARTAMENTO DE ESTUDOS  ESPECIAIS   E
+                             ACOMPANHAMENTO DO SISTEMA FINANCEIRO
+
+                              RONALDO FONSECA DE PAIVA
+                              CHEFE
+```

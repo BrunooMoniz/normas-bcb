@@ -1,0 +1,58 @@
+---
+titulo: "Carta Circular Nº 2.362"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "2362"
+data: 1993-04-29
+ementa: "DISPOE SOBRE A DIVULGACAO DAS TAXAS OFERECIDAS PELAS INSTITUICOES \"DEALERS\" NOS LEILOES ELETRONICOS DE MOEDAS ESTRANGEIRAS REALIZADOS NOS MERCADOS DE CAMBIO DE TAXAS LIVRES E DE TAXAS FLUTUANTES."
+revogada: true
+responsavel: "DEPIN"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2480/94 DOU 13/09/1994 PAG 13734 - REVOGACAO TOTAL."]
+normas_vinculadas: ["CIRCULAR 2480/94", "CIRCULAR 2221/92"]
+referencias: ["CIRCULAR BCB 2221/92."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2362"
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 2.362
+
+```
+                      CARTA-CIRCULAR N. 002362
+                      ------------------------
+
+                              DISPOE  SOBRE  A  DIVULGACAO DAS  TAXAS
+                              OFERECIDAS PELAS INSTITUICOES "DEALERS"
+                              NOS  LEILOES ELETRONICOS DE MOEDAS  ES-
+                              TRANGEIRAS  REALIZADOS NOS MERCADOS  DE
+                              CAMBIO  DE TAXAS LIVRES E DE TAXAS FLU-
+                              TUANTES.
+                              ---------------------------------------
+                              -
+
+               LEVAMOS  AO CONHECIMENTO DOS INTERESSADOS QUE, EM CON-
+SONANCIA  COM  O DISPOSTO NA CIRCULAR N. 2.221, DE 02 DE SETEMBRO  DE
+1992,  SERA ADOTADO, PELO DEPARTAMENTO DE OPERACOES DAS RESERVAS  IN-
+TERNACIONAIS - DEPIN, O PROCEDIMENTO A SEGUIR INDICADO.
+
+          ART. 1. - O DEPARTAMENTO DE OPERACOES DAS RESERVAS INTERNA-
+CIONAIS,  A SEU CRITERIO, PODERA DIVULGAR AS TAXAS DE CAMBIO OFERECI-
+DAS  PELAS INSTITUICOES "DEALERS" NOS LEILOES DE MOEDAS  ESTRANGEIRAS
+POR  ELE  CONDUZIDOS NOS MERCADOS CAMBIO DE TAXAS LIVRES E  DE  TAXAS
+FLUTUANTES.
+
+          ART. 2. - A ACEITACAO DE  TAL PROCEDIMENTO CONSTITUI REQUI-
+SITO  PARA A PERMANENCIA NA CONDICAO DE "DEALER" PELO PERIODO PARA  O
+QUAL A INSTITUICAO FOI CREDENCIADA, E PARA NOVOS CREDENCIAMENTOS COMO
+TAL.
+
+          ART.3.  - ESTA CARTA-CIRCULAR ENTRA EM VIGOR NA DATA DE SUA
+PUBLICACAO.
+
+                    BRASILIA (DF), 29 DE ABRIL DE 1993
+
+                    DEPARTAMENTO  DE OPERACOES DAS RESERVAS  INTERNA-
+                    CIONAIS - DEPIN
+
+                    ANTONIO CARLOS MONTEIRO
+                    CHEFE
+```

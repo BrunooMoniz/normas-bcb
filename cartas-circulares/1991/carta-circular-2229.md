@@ -1,0 +1,96 @@
+---
+titulo: "Carta Circular Nº 2.229"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "2229"
+data: 1991-11-05
+ementa: "ESCLARECE E DIVULGA INSTRUCOES ADICIONAIS PARA O PREENCHIMENTO DO MAPA ANEXO A CIRCULAR 2071, DE 31/10/91."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CIRCULAR BCB 2889/99 DOU 21/05/1999 PAG 5 (E) - REVOGACAO TOTAL."]
+normas_vinculadas: ["CARTA CIRCULAR 2837/99", "CIRCULAR 2889/99", "CIRCULAR 2071/91"]
+referencias: ["CIRCULAR BCB 2071/91."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2229"
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 2.229
+
+```
+                      CARTA-CIRCULAR N. 002229
+                      ------------------------
+AS ADMINISTRADORAS DE CONSORCIO DE BENS MOVEIS
+
+                              ESCLARECE  E DIVULGA INSTRUCOES ADICIO-
+                              NAIS PARA O PREENCHIMENTO DO MAPA ANEXO
+                              A CIRCULAR N. 2.071, DE 31.10.91.
+
+                    ART.  1.. TENDO  EM VISTA AS DISPOSICOES CONTIDAS
+NA  CIRCULAR N. 2.071, DE 31.10.91, COMUNICAMOS QUE NO  PREENCHIMENTO
+DA  COLUNA  "TAXA DE ADMINISTRACAO COBRADA", DO SEU MAPA ANEXO,  DEVE
+SER ADOTADA A SISTEMATICA A SEGUIR DESCRITA, EM RAZAO DA POSSIBILIDA-
+DE DA EXISTENCIA DE TAXAS DE ADMINISTRACAO DIFERENCIADAS DENTRO DE UM
+MESMO GRUPO.
+
+                    ART.  2.. CALCULA-SE, INICIALMENTE, A TAXA DE AD-
+MINISTRACAO  MEDIA  PONDERADA DO GRUPO, COM BASE NAS  DIVERSAS  TAXAS
+PORVENTURA PRATICADAS NESTE GRUPO, A SABER:
+
+                         N
+                         E(SOMATORIO) QI.XI
+                        J=1
+                  MPJ = ---------
+                           N
+                           E(SOMATORIO) QI
+                          J=1
+
+ONDE:
+
+MPJ = TAXA  MEDIA PONDERADA DE ADMINISTRACAO DO GRUPO "J", COBRADA NA
+      FORMA NOMINAL (EM PERCENTUAL);
+
+N   = QUANTIDADE  DE TAXAS DE ADMINISTRACAO DIFERENTES NO MESMO GRUPO
+      (N. DE SUBGRUPOS);
+
+QI  = QUANTIDADE DE COTAS DO IESIMO SUBGRUPO DE UM DETERMINADO BEM; E
+
+XI  = TAXA DE ADMINISTRACAO, NA FORMA NOMINAL (EM PERCENTUAL), DO IE-
+      SIMO SUBGRUPO.
+
+                    ART.  3.. APOS  O  CALCULO  REFERIDO NO ART. 2. E
+EXISTINDO  MAIS DE UM GRUPO RELATIVO AO MESMO BEM, DEVE SER CALCULADA
+A TAXA MEDIA PONDERADA DE TODOS OS GRUPOS, NA FORMA ABAIXO:
+
+                         M
+                         E(SOMATORIO) SJ.MPJ
+                        J=1
+                  MEK = ----------
+                           M
+                           E(SOMATORIO) SJ
+                          J=1
+
+ONDE:
+
+MEK = TAXA  MEDIA PONDERADA A SER CALCULADA, NO CASO DA EXISTENCIA DE
+      MAIS DE UM GRUPO DE UM DETERMINADO BEM;
+
+M   = N. DE GRUPOS DE UMA DETERMINADA ESPECIE DE BEM;
+
+SJ  = SALDO  DEVEDOR DE CADA GRUPO, NO CASO DA EXISTENCIA DE MAIS  DE
+      UM GRUPO DE UM DETERMINADO BEM;
+
+MPJ = VALOR OBTIDO NA FORMULA DESCRITA NO ART. 2..
+
+                  ART. 4..  ESTA CARTA-CIRCULAR ENTRA EM VIGOR NA DA-
+TA DE SUA PUBLICACAO.
+
+(*)                        BRASILIA (DF), 5 DE NOVEMBRO DE 1991
+
+                           DEPARTAMENTO  DE ESTUDOS ESPECIAIS E ACOM-
+                           PANHAMENTO DO SISTEMA FINANCEIRO
+
+                           RONALDO FONSECA DE PAIVA
+                           CHEFE
+
+(*) RETRANSMITIDA POR TER SIDO OMITIDA A DATA.
+```

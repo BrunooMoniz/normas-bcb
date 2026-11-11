@@ -1,0 +1,67 @@
+---
+titulo: "Carta Circular Nº 2.078"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "2078"
+data: 1990-04-30
+ementa: "Divulgação de transação via SISBACEN - Circulares nºs 1.663, 1.687 e 1.702."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Circular BCB nº 2.847/1998 DOU 6/11/1998 p. 25 - Revogação total."]
+normas_vinculadas: ["CIRCULAR 1663/1990", "CIRCULAR 1687/1990", "CIRCULAR 1702/1990", "CIRCULAR 1724/1990", "CIRCULAR 1759/1990", "CIRCULAR 1765/1990", "CIRCULAR 1783/1990", "CIRCULAR 1792/1990", "CIRCULAR 2847/1998"]
+referencias: ["Circular BCB nº 1.663/1990, 1.687/1990, 1.702/1990."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2078"
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 2.078
+
+```
+                      CARTA-CIRCULAR N. 002078
+                      ------------------------
+
+AS
+INSTITUICOES DO SISTEMA FINANCEIRO NACIONAL
+
+                              DIVULGACAO  DE TRANSACAO VIA SISBACEN -
+                              CIRCULARES    N.S   1.663,   1.687    E
+                              1.702.
+
+                    TENDO  EM CONTA O DISPOSTO NO ARTIGO 11 DA CIRCU-
+LAR  N. 1.663, O ARTIGO 6. DA CIRCULAR N. 1.687 E ARTIGO 2. DA CIRCU-
+LAR  N. 1.702, DE 11.04.90, 26.04.90 E 30.04.90, RESPECTIVAMENTE, ES-
+CLARECEMOS:
+
+                    ART.  1..  A PARTIR DE 02.05.90, AS  INSTITUICOES
+DETENTORAS DA CONTA 6.110.01.10-6 - DEP. M. P. 168/90 - RESERVAS BAN-
+CARIAS EM ESPECIE DEVERAO UTILIZAR A TRANSACAO PREN 500 DO SISTEMA DE
+INFORMACOES BANCO CENTRAL - SISBACEN, PARA INFORMAREM O SOMATORIO:
+
+        A) DO  SALDO DIARIO DAS CONTAS 4.9.7.99.00-4 E 4.9.7.97.00-6;
+           E
+
+        B) DO VALOR DO CUSTO DIARIO DA DEFICIENCIA APURADA, PROPRIA E
+           DE SEUS CONVENIADOS, CALCULADO DE ACORDO COM O PREVISTO NO
+           PARAGRAFO UNICO DO ARTIGO 1.  DA CITADA CIRCULAR N. 1.702,
+           DE 30.04.90.
+
+                    ART.  2.. PARA O CONTROLE OPERACIONAL DA  POSICAO
+DA  INSTITUICAO JUNTO AO BANCO CENTRAL SERA COLOCADA DISPONIVEL, AIN-
+DA, A TRANSACAO PREN 600.
+
+                    ART.  3.. AS INFORMACOES RELATIVAS AO PERIODO  DE
+19.03  ATE 30.04.90 PODERAO SER PRESTADAS ATE 11.05.90. AS  RELATIVAS
+AO PERIODO POSTERIOR AO DIA 30.04.90 DEVERAO OBSERVAR RIGOROSAMENTE O
+ PRAZO   ESTABELECIDO   NO PARAGRAFO 1. DO ARTIGO 2. DA  CIRCULAR  N.
+1.702, DE 30.04.90.
+
+                    ART.  4.. ESTA CARTA-CIRCULAR ENTRARA EM VIGOR NA
+DATA DE SUA PUBLICACAO.
+
+                              BRASILIA (DF), 30 DE ABRIL DE 1990.
+
+DEPARTAMENTO DE OPERACOES BANCARIAS     DEPARTAMENTO DE INFORMATICA
+
+NILTON JUNQUEIRA                        HUGO DANTAS PEREIRA
+CHEFE                                   CHEFE
+```

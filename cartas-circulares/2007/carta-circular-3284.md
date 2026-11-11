@@ -1,0 +1,57 @@
+---
+titulo: "Carta Circular Nº 3.284"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "3284"
+data: 2007-09-18
+ementa: "Sistema de Registro de Operações de Crédito com o Setor Público - Cadip. Divulga instruções para o registro de contratações de operações de crédito vinculadas ao Programa de Geração e Transmissão de Energia Elétrica."
+revogada: true
+responsavel: "DESIG"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Carta Circular BCB nº 3.293/2008 - Revogação total."]
+normas_vinculadas: ["CARTA CIRCULAR 3293/2008", "RESOLUÇÃO 3487/2007", "RESOLUÇÃO 2827/2001"]
+referencias: ["Resolução CMN nº 2.827/2001, art. 9º, § 1º, inciso X.", "Resolução CMN nº 3.487/2007."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=3284"
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 3.284
+
+```
+                      CARTA-CIRCULAR N. 003284
+                      ------------------------
+                                Sistema  de Registro de Operações  de
+                                Crédito com o Setor Público -  Cadip.
+                                Divulga  instruções para  o  registro
+                                de   contratações  de  operações   de
+                                crédito  vinculadas  ao  Programa  de
+                                Geração   e  Transmissão  de  Energia
+                                Elétrica.
+
+       As   contratações  de  operações  de  crédito  vinculadas   ao
+Programa de Geração e Transmissão de Energia Elétrica, de que trata o
+inciso X, §1º do art. 9º, da Resolução 2.827, de 30 de março de 2001,
+incluído  pela  Resolução 3.487, de 3 de agosto de  2007,  devem  ser
+registradas  no  Sistema de Registro de Operações de  Crédito  com  o
+Setor  Público - Cadip,  por meio da transação PDIP500, do  Sisbacen,
+opção  1,  ação 1, na Modalidade 18 "Resolução 3.487/07  Contratações
+Programa Geração de Energia".
+
+2.      A  consulta  aos  valores contratados na Modalidade  18  está
+disponível   na   transação  PDIP550,  opção  14,   Relatórios/Outras
+Consultas,  mediante  a utilização do relatório  "Resolução  3.487/07
+Contratações Programa Geração de Energia".
+
+3.      Eventuais  dúvidas podem ser dirimidas pelo  Departamento  de
+Monitoramento  do  Sistema  Financeiro  e  de  Gestão  da  Informação
+(Desig),  por  intermédio da Divisão de Informações sobre  Crédito  e
+Aplicações  Financeiras - Desig/Difin, nos telefones (61)  3414-2830,
+3414-2831 e 3414-2812.
+
+                  Brasília, 18 de setembro de 2007
+
+ Departamento de Monitoramento do Sistema Financeiro e de Gestão da
+                             Informação
+
+                      Cornélio Farias Pimentel
+                                Chefe
+```

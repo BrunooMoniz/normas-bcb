@@ -1,0 +1,62 @@
+---
+titulo: "Carta Circular Nº 2.097"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "2097"
+data: 1990-06-27
+ementa: "Plano de Estabilização Econômica – Esclare-cimentos sobre transferência de titularidade."
+revogada: true
+responsavel: "PRESI"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["Circular BCB nº 1.812/90 DOU 12/9/1990 p. 17286 - Revogação total."]
+normas_vinculadas: ["CIRCULAR 1615/1990", "CIRCULAR 1812/1990"]
+referencias: ["Lei nº 8.024/1990, art. 12.", "Cita Circular BCB nº 1.615/1990, art. 6º."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2097"
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 2.097
+
+```
+                      CARTA-CIRCULAR N. 002097
+                      ------------------------
+
+AS
+INSTITUICOES DO SISTEMA FINANCEIRO NACIONAL
+
+                              PLANO  DE  ESTABILIZACAO  ECONOMICA   -
+                              ESCLARECIMENTOS SOBRE  TRANSFERENCIA DE
+                              TITULARIDADE.
+
+                    ART. 1..  AOS CASOS ABAIXO ESPECIFICADOS, POR NAO
+SE  CARACTERIZAREM  COMO  PAGAMENTO DE DIVIDAS DE TERCEIROS,  NAO  SE
+APLICA  O  DISPOSTO NO ARTIGO 6. DA CIRCULAR N. 1.615,  DE  22.03.90,
+QUANTO  A  TRANSFERENCIA DE TITULARIDADE DE QUE TRATA O ARTIGO 12  DA
+LEI N. 8.024, DE 12.04.90:
+
+                    I  -  LIQUIDACAO DE DIVIDA DE CONJUGE CUJO  CASA-
+MENTO ESTAVA, EM 15.03.90, REGIDO PELO REGIME DE COMUNHAO OU DE COMU-
+NHAO PARCIAL DE BENS, NA FORMA DO DISPOSTO NO CODIGO CIVIL; E
+
+                    II -  LIQUIDACAO DE  DIVIDA  DO "DE CUJUS", PELOS
+SUCESSORES, ATE A DATA DA PARTILHA  OU  ADJUDICACAO, LIMITADA AO MON-
+TANTE DO QUINHAO, DO LEGADO OU DA MEACAO, DESDE QUE  DEVIDAMENTE COM-
+PROVADA  ATRAVES  DE  CERTIDAO DOS AUTOS DO INVENTARIO A QUE SE REFE-
+RE OU POR QUALQUER  OUTRO MEIO DE PROVA ADMITIDA EM DIREITO, EXCETO A
+TESTEMUNHAL.
+
+                    PARAGRAFO  UNICO - EM QUALQUER DAS HIPOTESES PRE-
+VISTAS  NESTE ARTIGO, FICA A CARGO DA INSTITUICAO FINANCEIRA QUE ACO-
+LHER O DOCUMENTO DE TRANSFERENCIA A RESPONSABILIDADE PELA COMPROVACAO
+E REGULARIDADE DA OPERACAO.
+
+                    ART.  2..  ESTA CARTA-CIRCULAR  ENTRA EM VIGOR NA
+DATA DE SUA PUBLICACAO.
+
+                                  BRASILIA (DF), 27 DE JUNHO DE 1990.
+
+DEPARTAMENTO DE ORGANIZACAO E          DEPARTAMENTO DE NORMAS DO
+AUTORIZACOES BANCARIAS                 MERCADO DE CAPITAIS
+
+CARLOS CORREA ASSI                     ANTONIO CAETANO FILHO
+CHEFE                                  CHEFE
+```

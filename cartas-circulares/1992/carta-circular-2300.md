@@ -1,0 +1,73 @@
+---
+titulo: "Carta Circular Nº 2.300"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "2300"
+data: 1992-07-23
+ementa: "DIVULGA OS VALORES BASICOS DE CUSTEIO (VBC) PARA A LAVOURA DE CACAU, SAFRA 92 (2. SEMESTRE)."
+revogada: true
+responsavel: "DENOR"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 2535/98 DOU 27/08/1998 PAG 31 - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 2535/98"]
+referencias: ["ATUALIZA MCR 3."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2300"
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 2.300
+
+```
+                      CARTA-CIRCULAR N. 002300
+                      ------------------------
+                              DIVULGA  OS VALORES BASICOS DE  CUSTEIO
+                              (VBC) PARA A LAVOURA DE CACAU, SAFRA 92
+                              (2. SEMESTRE).
+
+                    ART.  1.. COMUNICAMOS  QUE FORAM FIXADOS OS VALO-
+RES  BASICOS  DE CUSTEIO (VBC) PARA A LAVOURA DE CACAU, SAFRA 92  (2.
+SEMESTRE),  PARA OS ESTADOS DO ACRE, AMAZONAS, MARANHAO, MATO GROSSO,
+PARA E RONDONIA.
+
+                    ART.  2.. EM  CONSEQUENCIA,  ENCONTRA-SE  ANEXA A
+FOLHA NECESSARIA A ATUALIZACAO DO DOCUMENTO N. 3 DO MANUAL DE CREDITO
+RURAL (MCR).
+
+                    ART.  3.. ESTA  CARTA-CIRCULAR  ENTRA EM VIGOR NA
+DATA DE SUA PUBLICACAO.
+
+                              BRASILIA (DF), 23 DE JULHO DE 1992
+
+                              DEPARTAMENTO DE NORMAS DO SISTEMA
+                              FINANCEIRO
+
+                              SERGIO DARCY DA SILVA ALVES
+                              CHEFE
+
+                                ANEXO
+
+                    (SOMENTE O PRODUTO ALTERADO)
+
+                  M C R  -  D O C U M E N T O  N. 3
+
+                    VALOR BASICO DE CUSTEIO (VBC)
+
+                        CULTURAS PERMANENTES
+====================================================================
+                                              LIBERACOES  (CR!)
+               FAIXAS DE    VALOR BASICO --------------------------
+PRODUTOS E   PRODUTIVIDADE  DE   CUSTEIO     1.           2.
+REGIOES/        KG/HA          (VBC)     --------------------------
+ESTADOS                                   A PARTIR     A PARTIR
+                DE   ATE      CR!/HA         DE           DE
+====================================================================
+CACAU -
+SAFRA 1992
+(2. SEMESTRE)    -    600    809.051,00  404.526,00(1) 404.525,00(2)
+AMAZONAS, ACRE  600   900  1.174.860,00  587.430,00    587.430,00
+E RONDONIA     ACIMA  900  1.506.250,00  753.125,00    753.125,00
+
+MARANHAO, MATO   -    600    768.773,00  384.387,00(1) 384.386,00(2)
+GROSSO E PARA   600   900  1.074.646,00  537.323,00    537.323,00
+               ACIMA  900  1.287.212,00  643.606,00    643.606,00
+====================================================================
+```

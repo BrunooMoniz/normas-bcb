@@ -1,0 +1,58 @@
+---
+titulo: "Carta Circular Nº 2.253"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "2253"
+data: 1992-01-29
+ementa: "ESCLARECE SOBRE A ATUALIZACAO DAS PRESTACOES DOS FINANCIAMENTOS HABITACIONAIS PARA FINS DE QUITACAO ANTECIPADA NA FORMA DA LEI 8004, DE 14/03/90."
+revogada: true
+responsavel: "DENOR"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["RESOLUÇÃO CMN 1980/93 DOU 30/04/1993 PAG 5783 - (EDICAO EXTRA) - REVOGACAO TOTAL."]
+normas_vinculadas: ["RESOLUÇÃO 1980/93", "RESOLUÇÃO 1884/91"]
+referencias: ["RESOLUÇÃO CMN 1884/91 ART/3.", "CITA LEI 8004/90.", "CITA CIRCULAR BCB 1939/91 ART/2."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2253"
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 2.253
+
+```
+                      CARTA-CIRCULAR N. 002253
+                      ------------------------
+AOS
+AGENTES DO SISTEMA FINANCEIRO DA HABITACAO
+
+                             ESCLARECE  SOBRE A ATUALIZACAO DAS PRES-
+                             TACOES  DOS FINANCIAMENTOS HABITACIONAIS
+                             PARA FINS DE QUITACAO ANTECIPADA NA FOR-
+                             MA DA LEI N. 8.004, DE 14.03.90.
+
+                    COM  BASE NO DISPOSTO NO ART. 3. DA RESOLUCAO  N.
+1.884, DE 14.11.91, INFORMAMOS QUE:
+
+                    ART.  1.. PARA FINS DE ATUALIZACAO DAS MENSALIDA-
+DES  NOS  CASOS DE QUITACAO ANTECIPADA NA FORMA DA LEI N.  8.004,  DE
+14.03.90,  EM  RAZAO  DO QUE DISPOE A CITADA RESOLUCAO N.  1.884,  OS
+AGENTES FINANCEIROS DEVEM:
+
+                    I  - PROCEDER  A VERIFICACAO DOS REAJUSTES PERCE-
+BIDOS  PELO MUTUARIO A CONTAR DA ULTIMA DATA-BASE, AINDA NAO REPASSA-
+DOS AS PRESTACOES RESPECTIVAS;
+
+                   II  - COM  BASE NOS REAJUSTES VERIFICADOS NOS TER-
+MOS  DO  ITEM ANTERIOR, PROCEDER A ATUALIZACAO DA MENSALIDADE,  SOBRE
+CUJO VALOR APLICAR-SE-A A CORRECAO "PRO-RATA DIE" DE QUE TRATA O ART.
+2.  DA CIRCULAR N. 1.939, DE 17.04.91, OBSERVADAS AS DEMAIS CONDICOES
+PREVISTAS NO CITADO NORMATIVO.
+
+                    ART.  2..  ESTA CARTA-CIRCULAR ENTRA EM VIGOR  NA
+DATA DE SUA PUBLICACAO.
+
+                              BRASILIA (DF), 29 DE JANEIRO DE 1992
+
+                              DEPARTAMENTO DE NORMAS DO SISTEMA
+                              FINANCEIRO
+
+                              CLARENCE JOSEPH HILLERMAN JR.
+                              CHEFE, EM EXERCICIO
+```

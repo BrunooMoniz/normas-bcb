@@ -1,0 +1,56 @@
+---
+titulo: "Carta Circular Nº 2.871"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+numero: "2871"
+data: 1999-09-02
+ementa: "ESCLARECE SOBRE A REMESSA DAS INFORMACOES RELATIVAS A CIRCULAR N. 2.912, DE 21 DE JULHO DE 1.999 _ CREDITOS GARANTIDOS PELO FUNDO GARANTIDOR DE CREDITO - FGC."
+revogada: true
+responsavel: "DECAD"
+versao_texto: "texto do portal do BCB"
+atualizacoes: ["CARTA CIRCULAR BCB 3181/2005 DOU 19/04/2005 PAG 22 - REVOGACAO TOTAL."]
+normas_vinculadas: ["CARTA CIRCULAR 3181/2005"]
+referencias: ["CITA CIRCULAR BCB 2912/99.", "CITA CARTA CIRCULAR BCB 2847/99."]
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2871"
+baixado_em: 2026-11-10
+---
+# Carta Circular Nº 2.871
+
+```
+                      CARTA-CIRCULAR N. 002871
+                      ------------------------
+                                   ESCLARECE SOBRE A  REMESSA DAS IN-
+                                   FORMACOES RELATIVAS  A CIRCULAR N.
+                                   2.912, DE  21 DE JULHO  DE 1.999 _
+                                   CREDITOS GARANTIDOS PELO FUNDO GA-
+                                   RANTIDOR DE CREDITO - FGC.
+
+                        TENDO EM VISTA A EDICAO DA CIRCULAR N. 2.912,
+DE 21.07.99, ESCLARECEMOS QUE AS  INFORMACOES PREVISTAS NAQUELA NORMA
+DEVEM SER  PRESTADAS PELAS  INSTITUICOES VIA  INTERNET, NA  FORMA DAS
+INSTRUCOES EM ANEXO,  MEDIANTE UTILIZACAO DO  APLICATIVO PSTAW10 (IN-
+TERCAMBIO DE INFORMACOES), DE QUE TRATA A CARTA-CIRCULAR N. 2.847, DE
+13 DE ABRIL DE 1.999, DISPONIVEIS PARA DOWNLOAD NA  HOME PAGE DO BAN-
+CO CENTRAL DO BRASIL (HTTP://WWW.BCB.GOV.BR).
+
+2.                      PARA ACESSO AO APLICATIVO PSTAW10, E  INDIS-
+PENSAVEL O CADASTRAMENTO PREVIO DA INSTITUICAO NO SISTEMA DE INFORMA-
+COES BANCO  CENTRAL (SISBACEN) E O CREDENCIAMENTO DESSA NA  TRANSACAO
+PSTA300, CUJO PEDIDO DEVE SER DIRIGIDO, CONFORME A RESPECTIVA AREA DE
+JURISDICAO, A CENTRAL DE ATENDIMENTO AO PUBLICO LOCALIZADA NA SEDE OU
+EM GERENCIA REGIONAL DO BANCO CENTRAL DO BRASIL.
+
+                        BRASILIA, 02 DE SETEMBRO DE 1999.
+
+DEPARTAMENTO DE INFORMATICA    DEPARTAMENTO DE CADASTRO E INFORMACOES
+
+ROBERTO OZU                    SERGIO ALMEIDA DE SOUZA LIMA
+CHEFE                          CHEFE
+
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+O ANEXO A QUE SE REFERE ESTA CARTA-CIRCULAR ESTARA A  DISPOSICAO  DOS
+INTERESSADOS NAS GERENCIAS REGIONAIS DO BANCO CENTRAL  DO  BRASIL,  A
+PARTIR DE 06.09.99.
+```
