@@ -1,0 +1,73 @@
+---
+titulo: "COMUNICADO N. 007459"
+orgao: "Banco Central do Brasil"
+tipo: "Comunicado"
+numero: "7459"
+data: 2000-04-19
+ementa: "DIVULGA ALTERACAO NA RELACAO DE AGENCIAS DE TURISMO E MEIOS DE HOSPEDAGEM DE TURISMO CREDENCIADOS A OPERAR NO MERCADO DE CAMBIO DE TAXAS FLUTUANTES."
+revogada: false
+responsavel: "DECAM"
+versao_texto: "texto do portal do BCB"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibeoutrasnormas?tipo=Comunicado&numero=7459"
+baixado_em: 2026-11-11
+---
+# COMUNICADO N. 007459
+
+```
+                        COMUNICADO N. 007459
+                        --------------------
+                               DIVULGA   ALTERACAO   NA   RELACAO  DE
+                               AGENCIAS   DE  TURISMO   E   MEIOS  DE
+                               HOSPEDAGEM  DE TURISMO  CREDENCIADOS A
+                               OPERAR NO  MERCADO DE  CAMBIO DE TAXAS
+                               FLUTUANTES.
+
+         COMUNICAMOS AOS  INTERESSADOS AS ALTERACOES OCORRIDAS NO MES
+DE MARCO  DE  2000  NA RELACAO  DE  AGENCIAS  DE  TURISMO E  MEIOS DE
+HOSPEDAGEM DE TURISMO CREDENCIADOS  A OPERAR NO MERCADO  DE CAMBIO DE
+TAXAS FLUTUANTES,  INSTITUIDO  PELA  RESOLUCAO  N.  1.552,  DE  22 DE
+DEZEMBRO DE 1988:
+
+         I - CREDENCIAMENTO DE AGENCIA DE TURISMO:
+
+PRACA/EMPRESA                         CNPJ            DATA
+
+GOIANIA (GO)
+
+CREDIROMA CAMBIO E TURISMO LTDA  03.307.649/0001-48   10.03.2000
+
+         II - RECREDENCIAMENTO DE AGENCIA DE TURISMO:
+
+PRACA/EMPRESA                         CNPJ            DATA
+
+RIO DE JANEIRO (RJ)
+
+K. MARQUES CAMBIO E TURISMO
+LTDA.                            01.183.808/0001-14   13.03.2000
+
+        III - DESCREDENCIAMENTO DE MEIOS DE HOSPEDAGEM DE TURISMO
+
+PRACA/EMPRESA                         CNPJ            DATA
+
+JABOATAO (SP)
+
+CIA. PALMARES HOTEIS E TURISMO
+LTDA.                            33.791.591./0003-83  27.03.2000
+
+SAO PAULO (SP)
+
+CIA. PALMARES HOTEIS E TURISMO
+LTDA.                            33.791.591/0004-64   27.03.2000
+
+2.       ENCONTRA-SE  DISPONIVEL  NO SISBACEN,  TRANSACAO  PCAM830, A
+RELACAO DAS  AGENCIAS DE  TURISMO E  MEIOS  DE HOSPEDAGEM  DE TURISMO
+CREDENCIADOS A  OPERAR  NO  MERCADO DE  CAMBIO  DE  TAXAS FLUTUANTES,
+INCLUINDO OS EVENTOS INDICADOS NO PARAGRAFO ANTERIOR.
+
+                           BRASILIA, 19 DE ABRIL DE 2000
+
+                           DEPARTAMENTO DE CAMBIO
+
+                           JOSE MARIA FERREIRA DE CARVALHO
+                           CHEFE
+```
