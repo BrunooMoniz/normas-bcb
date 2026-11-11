@@ -15,6 +15,12 @@ FIX = Path(__file__).parent / "fixtures"
 
 
 class Basicos(unittest.TestCase):
+    def test_fatias_cobrem_tudo_uma_vez(self):
+        linhas = [{"tipo": t, "numero": str(n)} for t in ("Comunicado", "Circular", "Resolução") for n in range(1, 400)]
+        for n in (1, 2, 12):
+            vistas = [l for k in range(n) for l in linhas if bcb.fatia_de(l, n) == k]
+            self.assertEqual(sorted(map(str, vistas)), sorted(map(str, linhas)))
+
     def test_tipo_do_titulo(self):
         self.assertEqual(bcb.tipo_do_titulo("Resolução CMN N° 4.966"), "Resolução CMN")
         self.assertEqual(bcb.tipo_do_titulo("Circular Nº 1"), "Circular")

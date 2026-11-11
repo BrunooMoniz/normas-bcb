@@ -270,6 +270,15 @@ def orgao_de(tipo):
     return "Banco Central do Brasil"
 
 
+def fatia_de(linha, n):
+    """Fatia estável por chave (o índice muda de ordem quando entram normas novas)."""
+    return int(hashlib.sha1(f"{linha['tipo']}:{linha['numero']}".encode()).hexdigest(), 16) % n
+
+
+def tem_md(linha):
+    return any((RAIZ / pasta_do_tipo(linha["tipo"])).glob(f"*/{nome_arquivo(linha['tipo'], linha['numero'])}"))
+
+
 def montar(linha, d, hoje):
     c = d["conteudo"][0]
     tipo = c.get("Tipo") or linha["tipo"]
@@ -438,6 +447,8 @@ def main():
     ap.add_argument("--limite", type=int, help="só as N primeiras de cada tipo")
     ap.add_argument("--forcar", action="store_true", help="baixa de novo o que está em cache")
     ap.add_argument("--relatorio", action="store_true", help="só regrava COBERTURA.md")
+    ap.add_argument("--fatia", metavar="K/N", help="só a fatia K de N (coleta em paralelo, uma por máquina)")
+    ap.add_argument("--pular-existentes", action="store_true", help="pula normas que já têm .md no repositório")
     ap.add_argument("--novos", type=int, metavar="DIAS",
                     help="modo leve: só normas dos últimos DIAS sem .md, mais as vinculadas a elas (job agendado)")
     a = ap.parse_args()
@@ -454,6 +465,12 @@ def main():
     idx = sorted(ler_indice(), key=ordem)
     if a.tipos:
         idx = [l for l in idx if l["tipo"] in a.tipos]
+    if a.fatia:
+        k, n = map(int, a.fatia.split("/"))
+        idx = [l for l in idx if fatia_de(l, n) == k]
+    if a.pular_existentes:
+        idx = [l for l in idx if not tem_md(l)]
+        print(f"pendentes: {len(idx)}", flush=True)
     if a.limite:
         cont, sel = {}, []
         for l in idx:

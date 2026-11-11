@@ -1,0 +1,104 @@
+name: coleta-paralela
+
+# Carga inicial em paralelo: cada fatia roda numa máquina do GitHub (IP próprio), com a mesma pausa
+# entre requisições do coletor. Dispara com push num branch coleta/*; "coleta/teste" faz só um ensaio
+# curto (2 fatias, 30 normas por tipo). O job "juntar" publica tudo num commit por pasta na main.
+on:
+  push:
+    branches: ["coleta/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  plano:
+    runs-on: ubuntu-latest
+    outputs:
+      fatias: ${{ steps.p.outputs.fatias }}
+      n: ${{ steps.p.outputs.n }}
+      extra: ${{ steps.p.outputs.extra }}
+    steps:
+      - id: p
+        run: |
+          if [ "${GITHUB_REF_NAME}" = "coleta/teste" ]; then n=2; extra="--limite 30"; else n=12; extra=""; fi
+          echo "n=$n" >> "$GITHUB_OUTPUT"
+          echo "extra=$extra" >> "$GITHUB_OUTPUT"
+          echo "fatias=$(python3 -c "import json;print(json.dumps(list(range($n))))")" >> "$GITHUB_OUTPUT"
+
+  fatia:
+    needs: plano
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    strategy:
+      fail-fast: false
+      matrix:
+        k: ${{ fromJSON(needs.plano.outputs.fatias) }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@v10.3.2
+      - name: Dependências de PDF e OCR
+        run: sudo apt-get install -y -qq --no-install-recommends poppler-utils tesseract-ocr tesseract-ocr-por > /dev/null
+      - name: Coletar a fatia
+        run: uv run -q scripts/bcb.py --fatia ${{ matrix.k }}/${{ needs.plano.outputs.n }} --pular-existentes ${{ needs.plano.outputs.extra }}
+      - name: Separar o que é novo
+        if: always()
+        run: |
+          mkdir -p ../saida
+          git ls-files --others --exclude-standard -z -- '*.md' | xargs -0 -r cp --parents -t ../saida
+          cp _falhas.jsonl ../saida/ 2>/dev/null || true
+          echo "novas: $(find ../saida -name '*.md' | wc -l)"
+      - uses: actions/upload-artifact@v7
+        if: always()
+        with:
+          name: fatia-${{ matrix.k }}
+          path: ../saida
+          if-no-files-found: ignore
+          retention-days: 7
+
+  juntar:
+    needs: fatia
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    concurrency:
+      group: atualizar
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - uses: astral-sh/setup-uv@v10.3.2
+      - uses: actions/download-artifact@v8
+        with:
+          pattern: fatia-*
+          path: ../fatias
+      - name: Juntar e publicar
+        run: |
+          shopt -s nullglob
+          for d in ../fatias/*/; do
+            (cd "$d" && find . -name '*.md' -print0 | xargs -0 -r cp --parents -t "$GITHUB_WORKSPACE")
+          done
+          # falhas: união das fatias, sem as normas que alguma fatia conseguiu converter
+          cat ../fatias/*/_falhas.jsonl 2>/dev/null | uv run -q --with beautifulsoup4 --with markdownify python -c "
+          import json, sys; sys.path.insert(0, 'scripts'); import bcb
+          vistas = {}
+          for l in sys.stdin:
+              if l.strip():
+                  f = json.loads(l); vistas[(f['tipo'], f['numero'])] = f
+          resto = [f for f in vistas.values() if not bcb.tem_md(f)]
+          bcb.FALHAS.write_text(''.join(json.dumps(f, ensure_ascii=False) + '\n' for f in sorted(resto, key=lambda f: (f['tipo'], f['numero']))), encoding='utf-8')
+          print('falhas restantes:', len(resto))
+          "
+          uv run -q scripts/bcb.py --relatorio
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          for p in $(git ls-files --others --exclude-standard -- '*.md' | cut -d/ -f1 | sort -u); do
+            git add "$p"
+            git commit -q -m "dados: $p (+$(git diff --cached --name-only HEAD | wc -l) normas, coleta paralela)"
+          done
+          git add -A
+          git diff --cached --quiet || git commit -q -m "dados: números após a coleta paralela"
+          git pull -q --rebase origin main
+          git push -q origin main
+          git ls-remote origin main
