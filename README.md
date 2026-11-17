@@ -31,7 +31,7 @@ e as demais) estão lá, em `federal/`; aqui ficam só os atos do BCB e do CMN.
 
 | Série | No índice oficial | Publicadas | Vigentes | Revogadas | Período |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| [Comunicados](comunicados/) | 43.956 | 43.956 | 43.853 | 103 | 1990 a 2026 |
+| [Comunicados](comunicados/) | 43.962 | 43.962 | 43.859 | 103 | 1990 a 2026 |
 | [Resoluções do CMN](resolucoes-cmn/) | 5.344 | 5.344 | 810 | 4.534 | 1965 a 2026 |
 | [Cartas Circulares](cartas-circulares/) | 4.076 | 4.076 | 106 | 3.970 | 1968 a 2020 |
 | [Circulares](circulares/) | 4.038 | 4.038 | 155 | 3.883 | 1965 a 2020 |
@@ -41,13 +41,13 @@ e as demais) estão lá, em `federal/`; aqui ficam só os atos do BCB e do CMN.
 | [Resoluções BCB](resolucoes-bcb/) | 605 | 605 | 527 | 78 | 2020 a 2026 |
 | [Atos Normativos Conjuntos](atos-normativos-conjuntos/) | 31 | 31 | 30 | 1 | 2003 a 2026 |
 | [Resoluções Conjuntas](resolucoes-conjuntas/) | 21 | 21 | 20 | 1 | 2020 a 2026 |
-| [Decisões Conjuntas](decisoes-conjuntas/) | 20 | 20 | 19 | 1 | 1994 a 2015 |
 | [Comunicados Conjuntos](comunicados-conjuntos/) | 20 | 20 | 20 | 0 | 1990 a 1993 |
+| [Decisões Conjuntas](decisoes-conjuntas/) | 20 | 20 | 19 | 1 | 1994 a 2015 |
 | [Portarias Conjuntas](portarias-conjuntas/) | 8 | 8 | 8 | 0 | 2020 a 2026 |
-| [Instruções Normativas Conjuntas](instrucoes-normativas-conjuntas/) | 4 | 4 | 0 | 4 | 2021 a 2026 |
 | [Resoluções Coseg](resolucoes-coseg/) | 4 | 4 | 4 | 0 | 2026 a 2026 |
+| [Instruções Normativas Conjuntas](instrucoes-normativas-conjuntas/) | 4 | 4 | 0 | 4 | 2021 a 2026 |
 | [Resoluções Coremec](resolucoes-coremec/) | 1 | 1 | 1 | 0 | 2020 a 2020 |
-| **Total** | **61.012** | **61.012** | **48.160** | **12.852** |  |
+| **Total** | **61.018** | **61.018** | **48.166** | **12.852** |  |
 
 Vigentes são as que o portal não marca como revogadas nem canceladas.
 
@@ -59,11 +59,11 @@ Vigentes são as que o portal não marca como revogadas nem canceladas.
 
 | Áreas | Normas |
 | --- | ---: |
-| DEORF | 18.566 |
+| DEORF | 18.568 |
 | SECRE | 11.729 |
-| DEMAB | 10.858 |
+| DEMAB | 10.859 |
 | DEPEC | 5.053 |
-| DEPIN | 3.128 |
+| DEPIN | 3.131 |
 | DENOR | 1.610 |
 | DEASF | 1.230 |
 | PRESI | 922 |
