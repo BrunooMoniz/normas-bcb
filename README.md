@@ -31,7 +31,7 @@ e as demais) estão lá, em `federal/`; aqui ficam só os atos do BCB e do CMN.
 
 | Série | No índice oficial | Publicadas | Vigentes | Revogadas | Período |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| [Comunicados](comunicados/) | 43.975 | 43.975 | 43.872 | 103 | 1990 a 2026 |
+| [Comunicados](comunicados/) | 43.981 | 43.981 | 43.878 | 103 | 1990 a 2026 |
 | [Resoluções do CMN](resolucoes-cmn/) | 5.344 | 5.344 | 810 | 4.534 | 1965 a 2026 |
 | [Cartas Circulares](cartas-circulares/) | 4.076 | 4.076 | 106 | 3.970 | 1968 a 2020 |
 | [Circulares](circulares/) | 4.038 | 4.038 | 155 | 3.883 | 1965 a 2020 |
@@ -47,7 +47,7 @@ e as demais) estão lá, em `federal/`; aqui ficam só os atos do BCB e do CMN.
 | [Instruções Normativas Conjuntas](instrucoes-normativas-conjuntas/) | 4 | 4 | 0 | 4 | 2021 a 2026 |
 | [Resoluções Coseg](resolucoes-coseg/) | 4 | 4 | 4 | 0 | 2026 a 2026 |
 | [Resoluções Coremec](resolucoes-coremec/) | 1 | 1 | 1 | 0 | 2020 a 2020 |
-| **Total** | **61.031** | **61.031** | **48.179** | **12.852** |  |
+| **Total** | **61.037** | **61.037** | **48.185** | **12.852** |  |
 
 Vigentes são as que o portal não marca como revogadas nem canceladas.
 
@@ -59,18 +59,18 @@ Vigentes são as que o portal não marca como revogadas nem canceladas.
 
 | Áreas | Normas |
 | --- | ---: |
-| DEORF | 18.572 |
+| DEORF | 18.574 |
 | SECRE | 11.729 |
-| DEMAB | 10.862 |
+| DEMAB | 10.863 |
 | DEPEC | 5.053 |
-| DEPIN | 3.136 |
+| DEPIN | 3.138 |
 | DENOR | 1.610 |
 | DEASF | 1.230 |
 | PRESI | 922 |
 | DEBAN | 803 |
 | DEPAD | 681 |
 | DESIG | 673 |
-| DEINF | 466 |
+| DEINF | 467 |
 | DECAM | 372 |
 | DELIQ | 340 |
 | DECAD | 237 |
