@@ -48947,6 +48947,8 @@
 {"id":"bcb:comunicado:46328","caminho":"comunicados/2026/comunicado-46328.md","estado":"vigente","por":[]}
 {"id":"bcb:comunicado:46329","caminho":"comunicados/2026/comunicado-46329.md","estado":"vigente","por":[]}
 {"id":"bcb:comunicado:4633","caminho":"comunicados/1995/comunicado-4633.md","estado":"vigente","por":[]}
+{"id":"bcb:comunicado:46330","caminho":"comunicados/2026/comunicado-46330.md","estado":"vigente","por":[]}
+{"id":"bcb:comunicado:46331","caminho":"comunicados/2026/comunicado-46331.md","estado":"vigente","por":[]}
 {"id":"bcb:comunicado:4634","caminho":"comunicados/1995/comunicado-4634.md","estado":"vigente","por":[]}
 {"id":"bcb:comunicado:4635","caminho":"comunicados/1995/comunicado-4635.md","estado":"vigente","por":[]}
 {"id":"bcb:comunicado:4636","caminho":"comunicados/1995/comunicado-4636.md","estado":"vigente","por":[]}
@@ -55025,6 +55027,7 @@
 {"id":"bcb:instrucao-normativa-bcb:786","caminho":"instrucoes-normativas-bcb/2026/instrucao-normativa-bcb-0786.md","estado":"vigente","por":[]}
 {"id":"bcb:instrucao-normativa-bcb:787","caminho":"instrucoes-normativas-bcb/2026/instrucao-normativa-bcb-0787.md","estado":"vigente","por":[]}
 {"id":"bcb:instrucao-normativa-bcb:788","caminho":"instrucoes-normativas-bcb/2026/instrucao-normativa-bcb-0788.md","estado":"vigente","por":[]}
+{"id":"bcb:instrucao-normativa-bcb:789","caminho":"instrucoes-normativas-bcb/2026/instrucao-normativa-bcb-0789.md","estado":"vigente","por":[]}
 {"id":"bcb:instrucao-normativa-bcb:79","caminho":"instrucoes-normativas-bcb/2021/instrucao-normativa-bcb-0079.md","estado":"revogada","por":["bcb:instrucao-normativa-bcb:118"]}
 {"id":"bcb:instrucao-normativa-bcb:8","caminho":"instrucoes-normativas-bcb/2020/instrucao-normativa-bcb-0008.md","estado":"revogada","por":["bcb:instrucao-normativa-bcb:49"]}
 {"id":"bcb:instrucao-normativa-bcb:80","caminho":"instrucoes-normativas-bcb/2021/instrucao-normativa-bcb-0080.md","estado":"vigente","por":[]}
@@ -55623,6 +55626,8 @@
 {"id":"bcb:resolucao-bcb:603","caminho":"resolucoes-bcb/2026/resolucao-bcb-0603.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-bcb:604","caminho":"resolucoes-bcb/2026/resolucao-bcb-0604.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-bcb:605","caminho":"resolucoes-bcb/2026/resolucao-bcb-0605.md","estado":"vigente","por":[]}
+{"id":"bcb:resolucao-bcb:606","caminho":"resolucoes-bcb/2026/resolucao-bcb-0606.md","estado":"vigente","por":[]}
+{"id":"bcb:resolucao-bcb:607","caminho":"resolucoes-bcb/2026/resolucao-bcb-0607.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-bcb:61","caminho":"resolucoes-bcb/2021/resolucao-bcb-0061.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-bcb:62","caminho":"resolucoes-bcb/2021/resolucao-bcb-0062.md","estado":"revogada","por":["bcb:resolucao-bcb:464"]}
 {"id":"bcb:resolucao-bcb:63","caminho":"resolucoes-bcb/2021/resolucao-bcb-0063.md","estado":"revogada","por":["bcb:resolucao-bcb:242"]}
@@ -60494,6 +60499,10 @@
 {"id":"bcb:resolucao-cmn:5342","caminho":"resolucoes-cmn/2026/resolucao-cmn-5342.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-cmn:5343","caminho":"resolucoes-cmn/2026/resolucao-cmn-5343.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-cmn:5344","caminho":"resolucoes-cmn/2026/resolucao-cmn-5344.md","estado":"vigente","por":[]}
+{"id":"bcb:resolucao-cmn:5345","caminho":"resolucoes-cmn/2026/resolucao-cmn-5345.md","estado":"vigente","por":[]}
+{"id":"bcb:resolucao-cmn:5346","caminho":"resolucoes-cmn/2026/resolucao-cmn-5346.md","estado":"vigente","por":[]}
+{"id":"bcb:resolucao-cmn:5347","caminho":"resolucoes-cmn/2026/resolucao-cmn-5347.md","estado":"vigente","por":[]}
+{"id":"bcb:resolucao-cmn:5348","caminho":"resolucoes-cmn/2026/resolucao-cmn-5348.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-cmn:535","caminho":"resolucoes-cmn/1979/resolucao-cmn-0535.md","estado":"revogada","por":["bcb:resolucao-cmn:1044"]}
 {"id":"bcb:resolucao-cmn:536","caminho":"resolucoes-cmn/1979/resolucao-cmn-0536.md","estado":"revogada","por":["bcb:resolucao-cmn:922"]}
 {"id":"bcb:resolucao-cmn:537","caminho":"resolucoes-cmn/1979/resolucao-cmn-0537.md","estado":"revogada","por":["bcb:resolucao-cmn:849"]}
