@@ -75,7 +75,7 @@ Vigentes são as que o portal não marca como revogadas nem canceladas.
 | DELIQ | 340 |
 | DECAD | 237 |
 
-_Números de 20/11/2026, gerados por `scripts/readme.py`._
+_Números de 21/11/2026, gerados por `scripts/readme.py`._
 <!-- acervo:fim -->
 
 A coleta completa leva cerca de um dia e segue esta ordem: resoluções, circulares, instruções normativas,
