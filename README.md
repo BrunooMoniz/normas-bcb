@@ -31,7 +31,7 @@ e as demais) estão lá, em `federal/`; aqui ficam só os atos do BCB e do CMN.
 
 | Série | No índice oficial | Publicadas | Vigentes | Revogadas | Período |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| [Comunicados](comunicados/) | 43.992 | 43.992 | 43.889 | 103 | 1990 a 2026 |
+| [Comunicados](comunicados/) | 43.993 | 43.993 | 43.890 | 103 | 1990 a 2026 |
 | [Resoluções do CMN](resolucoes-cmn/) | 5.348 | 5.348 | 814 | 4.534 | 1965 a 2026 |
 | [Cartas Circulares](cartas-circulares/) | 4.076 | 4.076 | 106 | 3.970 | 1968 a 2020 |
 | [Circulares](circulares/) | 4.038 | 4.038 | 155 | 3.883 | 1965 a 2020 |
@@ -44,10 +44,10 @@ e as demais) estão lá, em `federal/`; aqui ficam só os atos do BCB e do CMN.
 | [Decisões Conjuntas](decisoes-conjuntas/) | 20 | 20 | 19 | 1 | 1994 a 2015 |
 | [Comunicados Conjuntos](comunicados-conjuntos/) | 20 | 20 | 20 | 0 | 1990 a 1993 |
 | [Portarias Conjuntas](portarias-conjuntas/) | 8 | 8 | 8 | 0 | 2020 a 2026 |
-| [Resoluções Coseg](resolucoes-coseg/) | 4 | 4 | 4 | 0 | 2026 a 2026 |
 | [Instruções Normativas Conjuntas](instrucoes-normativas-conjuntas/) | 4 | 4 | 0 | 4 | 2021 a 2026 |
+| [Resoluções Coseg](resolucoes-coseg/) | 4 | 4 | 4 | 0 | 2026 a 2026 |
 | [Resoluções Coremec](resolucoes-coremec/) | 1 | 1 | 1 | 0 | 2020 a 2020 |
-| **Total** | **61.055** | **61.055** | **48.203** | **12.852** |  |
+| **Total** | **61.056** | **61.056** | **48.204** | **12.852** |  |
 
 Vigentes são as que o portal não marca como revogadas nem canceladas.
 
@@ -61,7 +61,7 @@ Vigentes são as que o portal não marca como revogadas nem canceladas.
 | --- | ---: |
 | DEORF | 18.577 |
 | SECRE | 11.735 |
-| DEMAB | 10.867 |
+| DEMAB | 10.868 |
 | DEPEC | 5.053 |
 | DEPIN | 3.143 |
 | DENOR | 1.610 |
