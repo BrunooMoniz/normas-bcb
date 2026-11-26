@@ -31,12 +31,12 @@ e as demais) estão lá, em `federal/`; aqui ficam só os atos do BCB e do CMN.
 
 | Série | No índice oficial | Publicadas | Vigentes | Revogadas | Período |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| [Comunicados](comunicados/) | 44.016 | 44.016 | 43.913 | 103 | 1990 a 2026 |
+| [Comunicados](comunicados/) | 44.021 | 44.021 | 43.918 | 103 | 1990 a 2026 |
 | [Resoluções do CMN](resolucoes-cmn/) | 5.350 | 5.350 | 816 | 4.534 | 1965 a 2026 |
 | [Cartas Circulares](cartas-circulares/) | 4.076 | 4.076 | 106 | 3.970 | 1968 a 2020 |
 | [Circulares](circulares/) | 4.038 | 4.038 | 155 | 3.883 | 1965 a 2020 |
 | [Atos do Presidente](atos-do-presidente/) | 1.391 | 1.391 | 1.390 | 1 | 1994 a 2026 |
-| [Instruções Normativas BCB](instrucoes-normativas-bcb/) | 788 | 788 | 514 | 274 | 2020 a 2026 |
+| [Instruções Normativas BCB](instrucoes-normativas-bcb/) | 789 | 789 | 515 | 274 | 2020 a 2026 |
 | [Atos de Diretor](atos-de-diretor/) | 706 | 706 | 704 | 2 | 1996 a 2026 |
 | [Resoluções BCB](resolucoes-bcb/) | 610 | 610 | 532 | 78 | 2020 a 2026 |
 | [Atos Normativos Conjuntos](atos-normativos-conjuntos/) | 31 | 31 | 30 | 1 | 2003 a 2026 |
@@ -44,10 +44,10 @@ e as demais) estão lá, em `federal/`; aqui ficam só os atos do BCB e do CMN.
 | [Decisões Conjuntas](decisoes-conjuntas/) | 20 | 20 | 19 | 1 | 1994 a 2015 |
 | [Comunicados Conjuntos](comunicados-conjuntos/) | 20 | 20 | 20 | 0 | 1990 a 1993 |
 | [Portarias Conjuntas](portarias-conjuntas/) | 8 | 8 | 8 | 0 | 2020 a 2026 |
-| [Instruções Normativas Conjuntas](instrucoes-normativas-conjuntas/) | 4 | 4 | 0 | 4 | 2021 a 2026 |
 | [Resoluções Coseg](resolucoes-coseg/) | 4 | 4 | 4 | 0 | 2026 a 2026 |
+| [Instruções Normativas Conjuntas](instrucoes-normativas-conjuntas/) | 4 | 4 | 0 | 4 | 2021 a 2026 |
 | [Resoluções Coremec](resolucoes-coremec/) | 1 | 1 | 1 | 0 | 2020 a 2020 |
-| **Total** | **61.085** | **61.085** | **48.233** | **12.852** |  |
+| **Total** | **61.091** | **61.091** | **48.239** | **12.852** |  |
 
 Vigentes são as que o portal não marca como revogadas nem canceladas.
 
@@ -59,12 +59,12 @@ Vigentes são as que o portal não marca como revogadas nem canceladas.
 
 | Áreas | Normas |
 | --- | ---: |
-| DEORF | 18.583 |
+| DEORF | 18.584 |
 | SECRE | 11.742 |
-| DEMAB | 10.871 |
+| DEMAB | 10.872 |
 | DEPEC | 5.053 |
-| DEPIN | 3.156 |
-| DENOR | 1.610 |
+| DEPIN | 3.159 |
+| DENOR | 1.611 |
 | DEASF | 1.230 |
 | PRESI | 922 |
 | DEBAN | 803 |
