@@ -48981,6 +48981,10 @@
 {"id":"bcb:comunicado:46359","caminho":"comunicados/2026/comunicado-46359.md","estado":"vigente","por":[]}
 {"id":"bcb:comunicado:4636","caminho":"comunicados/1995/comunicado-4636.md","estado":"vigente","por":[]}
 {"id":"bcb:comunicado:46360","caminho":"comunicados/2026/comunicado-46360.md","estado":"vigente","por":[]}
+{"id":"bcb:comunicado:46361","caminho":"comunicados/2026/comunicado-46361.md","estado":"vigente","por":[]}
+{"id":"bcb:comunicado:46362","caminho":"comunicados/2026/comunicado-46362.md","estado":"vigente","por":[]}
+{"id":"bcb:comunicado:46363","caminho":"comunicados/2026/comunicado-46363.md","estado":"vigente","por":[]}
+{"id":"bcb:comunicado:46364","caminho":"comunicados/2026/comunicado-46364.md","estado":"vigente","por":[]}
 {"id":"bcb:comunicado:4637","caminho":"comunicados/1995/comunicado-4637.md","estado":"vigente","por":[]}
 {"id":"bcb:comunicado:4638","caminho":"comunicados/1995/comunicado-4638.md","estado":"vigente","por":[]}
 {"id":"bcb:comunicado:4639","caminho":"comunicados/1995/comunicado-4639.md","estado":"vigente","por":[]}
@@ -55657,7 +55661,10 @@
 {"id":"bcb:resolucao-bcb:605","caminho":"resolucoes-bcb/2026/resolucao-bcb-0605.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-bcb:606","caminho":"resolucoes-bcb/2026/resolucao-bcb-0606.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-bcb:607","caminho":"resolucoes-bcb/2026/resolucao-bcb-0607.md","estado":"vigente","por":[]}
+{"id":"bcb:resolucao-bcb:608","caminho":"resolucoes-bcb/2026/resolucao-bcb-0608.md","estado":"vigente","por":[]}
+{"id":"bcb:resolucao-bcb:609","caminho":"resolucoes-bcb/2026/resolucao-bcb-0609.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-bcb:61","caminho":"resolucoes-bcb/2021/resolucao-bcb-0061.md","estado":"vigente","por":[]}
+{"id":"bcb:resolucao-bcb:610","caminho":"resolucoes-bcb/2026/resolucao-bcb-0610.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-bcb:62","caminho":"resolucoes-bcb/2021/resolucao-bcb-0062.md","estado":"revogada","por":["bcb:resolucao-bcb:464"]}
 {"id":"bcb:resolucao-bcb:63","caminho":"resolucoes-bcb/2021/resolucao-bcb-0063.md","estado":"revogada","por":["bcb:resolucao-bcb:242"]}
 {"id":"bcb:resolucao-bcb:64","caminho":"resolucoes-bcb/2021/resolucao-bcb-0064.md","estado":"vigente","por":[]}
@@ -60532,7 +60539,9 @@
 {"id":"bcb:resolucao-cmn:5346","caminho":"resolucoes-cmn/2026/resolucao-cmn-5346.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-cmn:5347","caminho":"resolucoes-cmn/2026/resolucao-cmn-5347.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-cmn:5348","caminho":"resolucoes-cmn/2026/resolucao-cmn-5348.md","estado":"vigente","por":[]}
+{"id":"bcb:resolucao-cmn:5349","caminho":"resolucoes-cmn/2026/resolucao-cmn-5349.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-cmn:535","caminho":"resolucoes-cmn/1979/resolucao-cmn-0535.md","estado":"revogada","por":["bcb:resolucao-cmn:1044"]}
+{"id":"bcb:resolucao-cmn:5350","caminho":"resolucoes-cmn/2026/resolucao-cmn-5350.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-cmn:536","caminho":"resolucoes-cmn/1979/resolucao-cmn-0536.md","estado":"revogada","por":["bcb:resolucao-cmn:922"]}
 {"id":"bcb:resolucao-cmn:537","caminho":"resolucoes-cmn/1979/resolucao-cmn-0537.md","estado":"revogada","por":["bcb:resolucao-cmn:849"]}
 {"id":"bcb:resolucao-cmn:538","caminho":"resolucoes-cmn/1979/resolucao-cmn-0538.md","estado":"revogada","por":["bcb:resolucao-cmn:567"]}
@@ -61061,6 +61070,7 @@
 {"id":"bcb:resolucao-conjunta:2","caminho":"resolucoes-conjuntas/2020/resolucao-conjunta-0002.md","estado":"revogada","por":["bcb:resolucao-conjunta:3"]}
 {"id":"bcb:resolucao-conjunta:20","caminho":"resolucoes-conjuntas/2026/resolucao-conjunta-0020.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-conjunta:21","caminho":"resolucoes-conjuntas/2026/resolucao-conjunta-0021.md","estado":"vigente","por":[]}
+{"id":"bcb:resolucao-conjunta:22","caminho":"resolucoes-conjuntas/2026/resolucao-conjunta-0022.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-conjunta:3","caminho":"resolucoes-conjuntas/2021/resolucao-conjunta-0003.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-conjunta:4","caminho":"resolucoes-conjuntas/2022/resolucao-conjunta-0004.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-conjunta:5","caminho":"resolucoes-conjuntas/2022/resolucao-conjunta-0005.md","estado":"vigente","por":[]}
