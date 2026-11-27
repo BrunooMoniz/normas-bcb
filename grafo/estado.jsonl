@@ -48991,6 +48991,10 @@
 {"id":"bcb:comunicado:46368","caminho":"comunicados/2026/comunicado-46368.md","estado":"vigente","por":[]}
 {"id":"bcb:comunicado:46369","caminho":"comunicados/2026/comunicado-46369.md","estado":"vigente","por":[]}
 {"id":"bcb:comunicado:4637","caminho":"comunicados/1995/comunicado-4637.md","estado":"vigente","por":[]}
+{"id":"bcb:comunicado:46370","caminho":"comunicados/2026/comunicado-46370.md","estado":"vigente","por":[]}
+{"id":"bcb:comunicado:46371","caminho":"comunicados/2026/comunicado-46371.md","estado":"vigente","por":[]}
+{"id":"bcb:comunicado:46372","caminho":"comunicados/2026/comunicado-46372.md","estado":"vigente","por":[]}
+{"id":"bcb:comunicado:46373","caminho":"comunicados/2026/comunicado-46373.md","estado":"vigente","por":[]}
 {"id":"bcb:comunicado:4638","caminho":"comunicados/1995/comunicado-4638.md","estado":"vigente","por":[]}
 {"id":"bcb:comunicado:4639","caminho":"comunicados/1995/comunicado-4639.md","estado":"vigente","por":[]}
 {"id":"bcb:comunicado:4640","caminho":"comunicados/1995/comunicado-4640.md","estado":"vigente","por":[]}
@@ -55671,6 +55675,7 @@
 {"id":"bcb:resolucao-bcb:609","caminho":"resolucoes-bcb/2026/resolucao-bcb-0609.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-bcb:61","caminho":"resolucoes-bcb/2021/resolucao-bcb-0061.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-bcb:610","caminho":"resolucoes-bcb/2026/resolucao-bcb-0610.md","estado":"vigente","por":[]}
+{"id":"bcb:resolucao-bcb:611","caminho":"resolucoes-bcb/2026/resolucao-bcb-0611.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-bcb:62","caminho":"resolucoes-bcb/2021/resolucao-bcb-0062.md","estado":"revogada","por":["bcb:resolucao-bcb:464"]}
 {"id":"bcb:resolucao-bcb:63","caminho":"resolucoes-bcb/2021/resolucao-bcb-0063.md","estado":"revogada","por":["bcb:resolucao-bcb:242"]}
 {"id":"bcb:resolucao-bcb:64","caminho":"resolucoes-bcb/2021/resolucao-bcb-0064.md","estado":"vigente","por":[]}
@@ -60548,6 +60553,9 @@
 {"id":"bcb:resolucao-cmn:5349","caminho":"resolucoes-cmn/2026/resolucao-cmn-5349.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-cmn:535","caminho":"resolucoes-cmn/1979/resolucao-cmn-0535.md","estado":"revogada","por":["bcb:resolucao-cmn:1044"]}
 {"id":"bcb:resolucao-cmn:5350","caminho":"resolucoes-cmn/2026/resolucao-cmn-5350.md","estado":"vigente","por":[]}
+{"id":"bcb:resolucao-cmn:5351","caminho":"resolucoes-cmn/2026/resolucao-cmn-5351.md","estado":"vigente","por":[]}
+{"id":"bcb:resolucao-cmn:5352","caminho":"resolucoes-cmn/2026/resolucao-cmn-5352.md","estado":"vigente","por":[]}
+{"id":"bcb:resolucao-cmn:5353","caminho":"resolucoes-cmn/2026/resolucao-cmn-5353.md","estado":"vigente","por":[]}
 {"id":"bcb:resolucao-cmn:536","caminho":"resolucoes-cmn/1979/resolucao-cmn-0536.md","estado":"revogada","por":["bcb:resolucao-cmn:922"]}
 {"id":"bcb:resolucao-cmn:537","caminho":"resolucoes-cmn/1979/resolucao-cmn-0537.md","estado":"revogada","por":["bcb:resolucao-cmn:849"]}
 {"id":"bcb:resolucao-cmn:538","caminho":"resolucoes-cmn/1979/resolucao-cmn-0538.md","estado":"revogada","por":["bcb:resolucao-cmn:567"]}
