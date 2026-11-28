@@ -31,7 +31,7 @@ e as demais) estão lá, em `federal/`; aqui ficam só os atos do BCB e do CMN.
 
 | Série | No índice oficial | Publicadas | Vigentes | Revogadas | Período |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| [Comunicados](comunicados/) | 44.031 | 44.031 | 43.928 | 103 | 1990 a 2026 |
+| [Comunicados](comunicados/) | 44.035 | 44.035 | 43.932 | 103 | 1990 a 2026 |
 | [Resoluções do CMN](resolucoes-cmn/) | 5.353 | 5.353 | 819 | 4.534 | 1965 a 2026 |
 | [Cartas Circulares](cartas-circulares/) | 4.076 | 4.076 | 106 | 3.970 | 1968 a 2020 |
 | [Circulares](circulares/) | 4.038 | 4.038 | 155 | 3.883 | 1965 a 2020 |
@@ -41,13 +41,13 @@ e as demais) estão lá, em `federal/`; aqui ficam só os atos do BCB e do CMN.
 | [Resoluções BCB](resolucoes-bcb/) | 611 | 611 | 533 | 78 | 2020 a 2026 |
 | [Atos Normativos Conjuntos](atos-normativos-conjuntos/) | 31 | 31 | 30 | 1 | 2003 a 2026 |
 | [Resoluções Conjuntas](resolucoes-conjuntas/) | 22 | 22 | 21 | 1 | 2020 a 2026 |
-| [Decisões Conjuntas](decisoes-conjuntas/) | 20 | 20 | 19 | 1 | 1994 a 2015 |
 | [Comunicados Conjuntos](comunicados-conjuntos/) | 20 | 20 | 20 | 0 | 1990 a 1993 |
+| [Decisões Conjuntas](decisoes-conjuntas/) | 20 | 20 | 19 | 1 | 1994 a 2015 |
 | [Portarias Conjuntas](portarias-conjuntas/) | 8 | 8 | 8 | 0 | 2020 a 2026 |
 | [Instruções Normativas Conjuntas](instrucoes-normativas-conjuntas/) | 4 | 4 | 0 | 4 | 2021 a 2026 |
 | [Resoluções Coseg](resolucoes-coseg/) | 4 | 4 | 4 | 0 | 2026 a 2026 |
 | [Resoluções Coremec](resolucoes-coremec/) | 1 | 1 | 1 | 0 | 2020 a 2020 |
-| **Total** | **61.105** | **61.105** | **48.253** | **12.852** |  |
+| **Total** | **61.109** | **61.109** | **48.257** | **12.852** |  |
 
 Vigentes são as que o portal não marca como revogadas nem canceladas.
 
@@ -61,9 +61,9 @@ Vigentes são as que o portal não marca como revogadas nem canceladas.
 | --- | ---: |
 | DEORF | 18.588 |
 | SECRE | 11.746 |
-| DEMAB | 10.874 |
+| DEMAB | 10.876 |
 | DEPEC | 5.053 |
-| DEPIN | 3.163 |
+| DEPIN | 3.165 |
 | DENOR | 1.611 |
 | DEASF | 1.230 |
 | PRESI | 922 |
@@ -75,7 +75,7 @@ Vigentes são as que o portal não marca como revogadas nem canceladas.
 | DELIQ | 340 |
 | DECAD | 237 |
 
-_Números de 27/11/2026, gerados por `scripts/readme.py`._
+_Números de 28/11/2026, gerados por `scripts/readme.py`._
 <!-- acervo:fim -->
 
 A coleta completa leva cerca de um dia e segue esta ordem: resoluções, circulares, instruções normativas,
